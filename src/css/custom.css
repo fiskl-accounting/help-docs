@@ -1,0 +1,62 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #003ba4;
+  --ifm-color-primary-dark: #003594;
+  --ifm-color-primary-darker: #00328b;
+  --ifm-color-primary-darkest: #002973;
+  --ifm-color-primary-light: #0041b4;
+  --ifm-color-primary-lighter: #0044bd;
+  --ifm-color-primary-lightest: #004dd5;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #00d89e;
+  --ifm-color-primary-dark: #00c28e;
+  --ifm-color-primary-darker: #00b886;
+  --ifm-color-primary-darkest: #00976f;
+  --ifm-color-primary-light: #00eeae;
+  --ifm-color-primary-lighter: #00f8b6;
+  --ifm-color-primary-lightest: #1affc1;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --admonitions-tip-bg: #00976f;
+  --admonitions-tip-border-color: #0d4939;
+  --admonitions-tip-hightlight-color: #0d4939;
+}
+
+
+.alert--success {
+  --ifm-alert-background-color: var(--admonitions-tip-bg);
+  --ifm-alert-border-color:  var(--admonitions-tip-border-color);
+  --ifm-alert-background-color-highlight: var(--admonitions-tip-hightlight-color);
+}
+
+
+.red-text {
+  color: red;
+}
+
+
+.footer--dark {
+  background-color: #0078ff;
+}
+
+.home-ul {
+  list-style-type: square;
+  list-style-position: outside;
+  list-style-image: none;
+}
+
+.cardContainer {
+  display: flex;
+  gap: 16px;
+}
+
