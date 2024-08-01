@@ -8,20 +8,19 @@ slug: /getting-started/company
 tags:
   - Getting Started
   - Company
+  - Company settings
 ---
 
 import Tag from '@site/src/components/Tag';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-
-
-
 # Set up your company
 
-Your company settings are available via gear icon on the top of the left menu. 
+There are two distinct settings menues. The first relates to the account and the company and the second is for all user related settings. 
 
-User settings are accessable from the top right menu.
+Your company account settings are available via gear icon on the top of the left menu and all your user related settings are accessable from the top right menu. 
+
 
 ## Company settings vs profile settings
 

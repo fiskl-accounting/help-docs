@@ -39,10 +39,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/fiskl-accounting/help-docs',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -54,8 +52,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/fiskl-official-logo.png',
     navbar: {
-      style: 'dark',
-      title: 'Fiskl help',
+      style: 'primary',
       logo: {
         alt: 'Fiskl',
         src: 'img/fiskl-main-logo.webp',
@@ -65,14 +62,14 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Introduction',
+          label: 'Docs',
           to: '/docs/introduction'
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
 
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/fiskl-accounting/help-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -112,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/fiskl-accounting/help-docs',
             },
           ],
         },
