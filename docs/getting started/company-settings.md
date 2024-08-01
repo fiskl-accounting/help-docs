@@ -15,7 +15,7 @@ import Tag from '@site/src/components/Tag';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Set up your company
+# Set up your company in fiskl
 
 There are two distinct settings menues. The first relates to the account and the company and the second is for all user related settings. 
 
