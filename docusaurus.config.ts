@@ -49,6 +49,15 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      ({
+        hashed: true,
+      }),
+    ],
+  ],
+
   themeConfig: {
     image: 'img/fiskl-official-logo.png',
     navbar: {
@@ -121,7 +130,6 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-    // themes: ['docusaurus-theme-search-typesense'],
 };
 
 

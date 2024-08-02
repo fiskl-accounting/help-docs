@@ -26,11 +26,6 @@ body {
   --ifm-color-primary-lightest: #004dd5;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-
-  .navbar--dark {
-    --ifm-navbar-link-hover-color: #00d89e;
-    --ifm-navbar-background-color: rgb(10, 25, 68);
-  }
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -46,11 +41,16 @@ body {
   --admonitions-tip-bg: #00976f;
   --admonitions-tip-border-color: #0d4939;
   --admonitions-tip-hightlight-color: #0d4939;
+}
 
-  .navbar--dark {
-    --ifm-navbar-link-hover-color: #00d89e;
-    --ifm-navbar-background-color: #080420;
-  }
+.navbar--dark {
+  --ifm-navbar-link-hover-color: #00d89e;
+  --ifm-navbar-background-color: rgb(10, 25, 68);
+}
+
+[data-theme='dark'] .navbar--dark {
+  --ifm-navbar-link-hover-color: #00d89e;
+  --ifm-navbar-background-color: #080420;
 }
 
 /* Adjust the font size of sidebar links */
