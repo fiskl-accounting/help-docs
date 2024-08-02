@@ -55,10 +55,10 @@
 }
 
 .listContainer {
-  border: 2px solid #f0eef4; /* Add a border around the list */
+  border: 2px solid rgb(0, 59, 164, 0.5);; /* Add a border around the list */
   border-radius: 8px; /* Optional: add rounded corners */
   padding: 1rem; /* Add padding inside the border */
-  background: rgba(243, 243, 246, 0.7); /* Add a semi-transparent background */
+  background: rgba(243, 243, 246, 0.01); /* Add a semi-transparent background */
 }
 
 
