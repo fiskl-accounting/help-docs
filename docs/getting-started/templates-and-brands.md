@@ -31,7 +31,7 @@ A `template` is a representation of the style and content of your invoice, quote
 You can have multiple templates to suit different needs.
 
 :::info[Note]
-The email logo is only available on the default emails. If you override the emails they will be plain without the logo
+The email logo is only available on the default emails. If you choose custom emails they will be plain text without any HTML formatting. 
 :::
 
 ## What is a Brand?
