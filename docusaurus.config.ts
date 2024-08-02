@@ -39,9 +39,9 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl:
-            'https://github.com/fiskl-accounting/help-docs/tree/master',
+          editUrl: 'https://github.com/fiskl-accounting/help-docs/tree/master',
         },
+        
         theme: {
           customCss: 'src/css/custom.css',
         },
@@ -59,6 +59,10 @@ const config: Config = {
   ],
 
   themeConfig: {
+    tableOfContents: {
+      minHeadingLevel: 4,
+      maxHeadingLevel: 5,
+    },
     image: 'img/fiskl-official-logo.png',
     navbar: {
       style: 'dark',
