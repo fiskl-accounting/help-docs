@@ -97,7 +97,13 @@ Follow along with our interactive demo on importing bank transactions from a CSV
   ></iframe>
 </div>
 
+---
+
 ### Importing QIF
+
+TODO
+
+---
 
 
 ## Create Bank & Credit Card Ledger Account
@@ -148,6 +154,16 @@ It's the job of Fiskl to calculate the accounting reports following the accounti
 - Save. 
 
 You now have your Ledger Account that you can import your manual credit card transactions into. 
+
+
+## Troubleshooting
+
+Although we try our best there are times when we fail to import. These are the common reasons and solutions. 
+
+1. **Can not parse the amount column**: Sometimes amounts are in formats its just not possible for us to parse. They can have symbols and formats that our libraries can't parse. In this case it's recommended to open your CSV file in Excel and change the format of the amount column. The easiest format to parse is two decimals. For example `$1,000.00` would be easier to parse as `1000.00`
+2. **Can not parse the date column**: Sometimes localized dates are difficult for us to parse. For example a date of `31/01/2024` is easy but `31st JAN '24` is challenging. Try selecting different formats but if all fails then it's recommended to open your CSV file in Excel and change the format of the date column and export and try again.
+3. **Not all transactions were imported**: First try changing the date period to `All` to check they are not being filtered out. If you added a unique column to the `Advanced` options then rows with the same id will not be imported. 
+4. **I get an error**: In this case contact support to investigate. 
 
 
 

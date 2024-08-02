@@ -6,8 +6,10 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 ---
 
+:::info
 Connecting your bank or regurally importing your bank transactions is an important step in doing your accounting in Fiskl. 
 Up to date bank transactions allow you to accuratly reconcile all your invoice and expence payments, correctly categorize all your purchases and sales and correctly manage the internal transfers between your accounts. 
+:::
 
 Fiskl has partnered with two of the biggest banking data providers `Yodlee` and `SaltEdge` which give you access to over twenty thousand banks and financial instituations world wide. 
 
