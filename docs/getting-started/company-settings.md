@@ -26,13 +26,14 @@ Your company account settings are available via gear icon on the top of the left
 <Tabs>
   <TabItem value="company" label="Company settings" default>
 
-    Company settings relate to the company and affect everyone. These include 
+    Company settings change the way the account works and affect everyone. These settings include.
 
     - Company settings
     - Accounting settings
     - Manage taxes 
     - Templates & Brands
     - Invoice & Quotes
+    
   </TabItem>
   <TabItem value="profile" label="Profile settings">
     
