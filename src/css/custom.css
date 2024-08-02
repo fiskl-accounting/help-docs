@@ -13,9 +13,6 @@ body {
   font-size: var(--ifm-font-size-base);
 }
 
-.navbar--dark {
-  --ifm-navbar-background-color: red;
-}
 
 /* You can override the default Infima variables here. */
 :root {
