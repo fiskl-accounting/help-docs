@@ -43,7 +43,7 @@ const config: Config = {
             'https://github.com/fiskl-accounting/help-docs/tree/master',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: 'src/css/custom.css',
         },
       } satisfies Preset.Options,
     ],
