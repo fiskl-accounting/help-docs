@@ -52,7 +52,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/fiskl-official-logo.png',
     navbar: {
-      style: 'primary',
+      style: 'dark',
       logo: {
         alt: 'Fiskl',
         src: 'img/fiskl-main-logo.webp',

@@ -1,5 +1,5 @@
 ---
-title: Intriduction
+title: Introduction
 sidebar_position: 1
 description: Welcome to Fiskl
 image: ../static/img/docusaurus-social-card.jpg
