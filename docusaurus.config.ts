@@ -40,7 +40,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/fiskl-accounting/help-docs',
+            'https://github.com/fiskl-accounting/help-docs/tree/master',
         },
         theme: {
           customCss: './src/css/custom.css',
