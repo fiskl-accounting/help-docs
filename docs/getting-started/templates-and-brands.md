@@ -7,7 +7,6 @@ tags:
   - Templates & Brands
   - Invoice
   - Company settings
-
 ---
 
 import Tabs from '@theme/Tabs';
