@@ -47,29 +47,75 @@ Let't look at each part of the invoice in detail.
 
 ---
 
-<!-- <InlineTOC /> -->
+#### Company [[dashboard]](https://my.fiskl.com/company-settings)
 
-#### Company
 
-The invoice uses the following information from [Company Settings](getting-started/company-settings).
+The invoice uses the following information from [Company Settings](../../getting-started/company-settings). 
 
 1. Company name
 2. Company address
 3. Company ID or Registration number
 
 :::note
-All of the above can be overridden when a [Brand Template](getting-started/templates-and-brands).
+All of the above can be overridden when using a [Brand Template](../../getting-started/templates-and-brands).
+
+Your Company ID is not shown by default. You can change this in [Additional display options](../../getting-started/templates-and-brands#additional-display-options) on your `template`
 :::
 
 :::tip
 In both [Company Settings](getting-started/company-settings) and [Brand Template](getting-started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
 :::
 
-#### Client
+#### Client [[dashboard]](https://my.fiskl.com/partners/clients)
 
+
+
+A [Client](../clients/client-create) is required to create an invoice. You can create your client in advance or while creating the invoice.
+
+The invoice uses the following information from [Client](../clients/client-create). 
+
+1.  Client name
+1.  Client address
+1.  Client email including `Cc` and `Bcc`
+1.  Tax/Vat Registration Number
+1.  Defaults
+    1.  Currency
+    1.  Time rate
+              
+:::note
+The format of the address can be changed in [Client](../clients/client-create#address)
+
+Client `Tax/VAT Registration Number` is shown by default if set on the client [Client](../clients/client-create#general)
+:::
 
 #### Invoice number
+
+The default of the invoice number is `INV-0001` and increments each time a new invoice is created. 
+You can alter the invoice number to any format you like but there are some limitations. 
+1. Fiskl can only incrementn the invoce number if it ends with a didget 
+2. If your invoice follows a date pattern like `2024-01-0001` you will need to manually change the invoice number at each date period.
+
+**How to change the invoice number?**
+You change the format of the invocie number when creating a new invoice. Change the invoice number to the new format and all following emails will follow this pattern. 
+
+:::note
+When a new invoice is created Fiskl looks for the latest invoice and increments that invoice number. If you plan to change the invoice and have future invoices us this format it needs to be on the most recent invoice.
+:::
+
+
 #### Invoice dates
+
+There are three dates on the invoice 
+
+1. Invoice Date: The date the invoice was created
+2. Due Date: The date the invoice is due
+3. Sale Date: (Optional)
+
+:::note
+By default the `Due Date` is 7 days after the `Invoice Date`. This default setting can be changed in 
+:::
+
+
 #### Styling
 #### Line itmes
 #### Discounts

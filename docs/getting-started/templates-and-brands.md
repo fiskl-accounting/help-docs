@@ -2,12 +2,17 @@
 title: Templates & Brands
 sidebar_position: 4
 description: Learn about using templates and brands
+toc_min_heading_level: 2
+toc_max_heading_level: 6
 tags:
   - Getting Started
   - Templates & Brands
   - Invoice
   - Company settings
 ---
+
+
+import TOCInline from '@theme/TOCInline';
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -96,4 +101,49 @@ For example you can override the following values:
     allowtransparency="true"
   ></iframe>
 </div>
+
+---
+
+### Parts of the template 
+
+<TOCInline toc={toc} />
+
+---
+
+#### Name & header
+
+TODO
+
+#### Brands
+
+TODO
+
+#### Themes
+
+TODO
+
+#### Colours
+
+TODO
+
+#### Fonts
+
+TODO
+
+#### Additional display options
+
+TODO
+
+#### Attachments
+
+TODO
+
+#### Emails
+
+TODO
+
+
+
+
+
 
