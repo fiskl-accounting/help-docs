@@ -16,7 +16,7 @@ import TOCInline from '@theme/TOCInline';
 Invoicing in Fiskl ranges from basic to sophiscated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
 You do not need to pre-create any items as you can create everything as you create your first invoice but it can be useful to have the following set up in advance.
 
-1. Complete your [Company Settings](getting-started/company-settings). Ensure your address is correct.
+1. Complete your [Company Settings](../../getting-started/company-settings). Ensure your address is correct.
 2. Create a `Client` 
 3. Create a `Payment Method`. This can be using an integrated payment gateway like `Stripe` or adding a `Manual Payment` method.
 
@@ -63,7 +63,7 @@ Your Company ID is not shown by default. You can change this in [Additional disp
 :::
 
 :::tip
-In both [Company Settings](getting-started/company-settings) and [Brand Template](getting-started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
+In both [Company Settings](../../getting-started/company-settings) and [Brand Template](../../getting-started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
 :::
 
 #### Client [[dashboard]](https://my.fiskl.com/partners/clients)
