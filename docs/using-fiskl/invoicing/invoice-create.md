@@ -118,9 +118,9 @@ By default the `Due Date` is 7 days after the `Invoice Date`. This default setti
 
 The [Invoice Overdue Status](#invoice-status) is based on the `Due Date` and the Invoice Payments. If the invoice is not fully paid on the Due Date then the invoice will become `Overdue`. If there are any `Overdue Reminders` they will be sent based on the `Due Date` and the overdue reminder chosen. 
 
-#### Invoice Status
+#### Invoice Status 
 
-Invoices have the following statuses:
+Invoices have the following statuses the flows:
     
 ```mermaid
 graph LR
