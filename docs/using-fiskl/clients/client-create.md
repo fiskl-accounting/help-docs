@@ -1,5 +1,5 @@
 ---
-title: Creating an client
+title: Creating a client
 sidebar_position: 2
 description: Creating and editing clients
 toc_min_heading_level: 2

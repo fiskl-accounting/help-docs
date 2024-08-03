@@ -12,6 +12,7 @@ tags:
 ---
 
 import TOCInline from '@theme/TOCInline';
+import Mermaid from '@theme/Mermaid';
 
 Invoicing in Fiskl ranges from basic to sophiscated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
 You do not need to pre-create any items as you can create everything as you create your first invoice but it can be useful to have the following set up in advance.
@@ -56,7 +57,7 @@ The invoice uses the following information from [Company Settings](../../getting
 2. Company address
 3. Company ID or Registration number
 
-:::note
+:::info
 All of the above can be overridden when using a [Brand Template](../../getting-started/templates-and-brands).
 
 Your Company ID is not shown by default. You can change this in [Additional display options](../../getting-started/templates-and-brands#additional-display-options) on your `template`
@@ -82,7 +83,7 @@ The invoice uses the following information from [Client](../clients/client-creat
     1.  Currency
     1.  Time rate
               
-:::note
+:::info
 The format of the address can be changed in [Client](../clients/client-create#address)
 
 Client `Tax/VAT Registration Number` is shown by default if set on the client [Client](../clients/client-create#general)
@@ -98,7 +99,7 @@ You can alter the invoice number to any format you like but there are some limit
 **How to change the invoice number?**
 You change the format of the invocie number when creating a new invoice. Change the invoice number to the new format and all following emails will follow this pattern. 
 
-:::note
+:::info
 When a new invoice is created Fiskl looks for the latest invoice and increments that invoice number. If you plan to change the invoice and have future invoices us this format it needs to be on the most recent invoice.
 :::
 
@@ -111,13 +112,54 @@ There are three dates on the invoice
 2. Due Date: The date the invoice is due
 3. Sale Date: (Optional)
 
-:::note
-By default the `Due Date` is 7 days after the `Invoice Date`. This default setting can be changed in 
+:::info
+By default the `Due Date` is 7 days after the `Invoice Date`. This default setting can be changed in [Invoice & Quote settings](../settings/invoice-quote-settings)
 :::
 
+The [Invoice Overdue Status](#invoice-status) is based on the `Due Date` and the Invoice Payments. If the invoice is not fully paid on the Due Date then the invoice will become `Overdue`. If there are any `Overdue Reminders` they will be sent based on the `Due Date` and the overdue reminder chosen. 
+
+#### Invoice Status
+
+Invoices have the following statuses:
+    
+```mermaid
+graph LR
+    Sent -->| to | Open
+    Sent -->| to | Overdue
+    Sent -->| to | Paid
+    Sent -->| to | Partial
+    Sent -->| to | Rejected
+    Overdue -->| to | Paid
+    Rejected -->| to | Open
+    Partial -->| to | Paid
+    Partial -->| to | Overdue
+```
+
+:::info
+The invoice statues work using the Due Date and the paymetns. E.g if an invoice of $100 has a payment of $100 then the status will be `Paid`. If you change the payment to $80 the status will be `Partial`.
+
+If you need to edit an invoice with payments you can change the status to `Open` to make it editable. However as soon as you change it it will revert to `Paid'.
+What happens is that we disable the payments on the invoice allowing you to change the status to `Open` so that you can edit the invoice. When you save it if there are any payments we will restore these. 
+:::
 
 #### Styling
+You can style the invoice using themes, colors and fonts. These are all done in the [Template](../../getting-started/templates-and-brands) under `Themes`, `Colours` and `Fonts`.
+
+:::info[warning]
+Any changes to the templates will affect all templates sent using the same template
+:::
+
 #### Line itmes
+
+Line items can be created inline when creating the invoice or in advance in their dedicated screens. 
+
+- Products*
+- Services*
+- Expenses
+- Mileage
+- Time
+
+#### Taxes
 #### Discounts
 #### Deposits
 #### Currency

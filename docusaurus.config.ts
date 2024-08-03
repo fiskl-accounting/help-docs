@@ -7,6 +7,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'How can we',
   tagline: 'help you',
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
  
 
   favicon: 'img/favicon/favicon-32x32.png',
