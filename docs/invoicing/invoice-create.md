@@ -178,37 +178,68 @@ Line items can be created `inline` when creating the invoice or in advance in th
 
 #### Taxes
 
-Taxes
+Line items can have single, multiple or comounded taxes. 
+
+Taxes are calculted at line item level and displayed on the invoice. 
 
 ---
 
 #### Discounts
-Discounts
+
+You can add an invoice level discount either as an amount or percentage by clicking on the discount link in the invoice.
+
+Examples: 
+>$100 discount = `100`
+
+>15% discount = `15%`
 
 ---
 
 #### Deposits
-Deposits
+
+You can request a deposit either as an amount or percentage by clicking on the deposit link in the invoice. 
+
+Examples: 
+>$100 discount = `100`
+
+>15% discount = `15%`
 
 ---
 
 #### Currency
-Currency
 
+You can change the currency of an invoice by slecting the currency name next to the `Total`. 
+
+By default the invocie currency is the same as your `Company` currency unless you select a `Client` that has a default `Currency` that is different. 
+
+Changing the invoice currency will not change the currency of the line items already added but new in-line line items added will default to invoice currency. 
+
+:::info
+You can adjust the exchange rate for line items that are not in the same currency as the invocie.
+:::
 ---
 
 #### Language
-Language
+
+You can choose over 60 languages for invoices & quotes. Changing the language of an invoice not only changes the invoice but also the default emails and the invoice and payment screens your customer sees.   
+
+The default language of the invoice is set in [Invoice & quote settings](../settings/invoice-quote-settings) but you can change it per invoice by language abbreviation below the client selector. 
+
+![invoice](../../static/img/invoice/invoice-language.png)
 
 ---
 
 #### Additional values
-Additional values 
+
+You can some additional information to the invoice like a `PO Number`. 
+
+![invoice](../../static/img/invoice/invoice-additional-info.png)
 
 ---
 
 #### Notes
-Notes
+
+You can add notes directly to the invocie or you can default what notes are added to every invoice in [Invoice & quote settings](../settings/invoice-quote-settings)
 
 ---
 
@@ -218,11 +249,37 @@ Payment options
 ---
 
 #### Payment terms
-Payment terms
+
+By default the payment terms are 7 days after the invoice is created. When the invoice is created it's assigned an `Invoice Date` and the `Due Date` is calaculated by adding 7 days. 
+
+You can alter the default in [Invoice & quote settings](../settings/invoice-quote-settings)
 
 ---
 
 #### Payment schedules 
-Payment schedules
+
+A payment schedule is a payment plan for a single invoice. 
+
+You can create a schedule of 2 to 12 payments. The schedule can in flat amounts or percentages of the invoice.
+
+For example you can create a payment schedule that is:
+
+> Payment 1: 50%
+
+> Payment 2: 25%
+
+> Payment 1: 25%
+
+OR
+Invoice of 500
+> Payment 1: 300%
+
+> Payment 2: 150%
+
+> Payment 1: 50%
+
+:::note[tip]
+Payment scheduleds are a good way of allowing your customers to pay in installments and are useful for just a few payments. Consider using recurring invoices for more long term recurring payments. 
+:::
 
 ---
