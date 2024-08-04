@@ -147,7 +147,7 @@ What happens is that we disable the payments on the invoice allowing you to chan
 You can style the invoice using themes, colors and fonts. These are all done in the [Template](../../getting-started/templates-and-brands) under `Themes`, `Colours` and `Fonts`.
 
 :::info[warning]
-Any changes to the templates will affect all templates sent using the same template
+Any changes to the templates will affect all invoices using that template.
 :::
 
 #### Line itmes
