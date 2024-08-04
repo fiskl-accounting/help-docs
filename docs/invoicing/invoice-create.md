@@ -3,7 +3,7 @@ title: Creating an invoice
 sidebar_position: 2
 description: Creating and editing invoices
 toc_min_heading_level: 2
-toc_max_heading_level: 6
+toc_max_heading_level: 4
 tags:
   - Invoice
   - Client
@@ -264,22 +264,24 @@ You can create a schedule of 2 to 12 payments. The schedule can in flat amounts 
 
 For example you can create a payment schedule that is:
 
+```
 > Payment 1: 50%
-
 > Payment 2: 25%
-
 > Payment 1: 25%
-
+```
 OR
+
 Invoice of 500
+```
 > Payment 1: 300%
-
 > Payment 2: 150%
-
 > Payment 1: 50%
+```
 
-:::note[tip]
+:::info[tip]
 Payment scheduleds are a good way of allowing your customers to pay in installments and are useful for just a few payments. Consider using recurring invoices for more long term recurring payments. 
 :::
+
+![invoice](../../static/img/invoice/invoice-payment-schedule.png)
 
 ---
