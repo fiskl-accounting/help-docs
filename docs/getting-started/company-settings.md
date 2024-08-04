@@ -83,7 +83,7 @@ Company settings is where you set:
 It's useful ensuring that your `Region`, `Language` & `Time Zone` in your user settings are set correctly as this influences the way Fiskl appears to you. If youre dates or numbers are appearing wrong in the web dashboard or on Android or iOS then this is the setting that is affecting it. 
 :::
 
-<CardContainer>
+<!-- <CardContainer>
 <Card shadow='tl' style={{ height: '100%' }}>
   <CardHeader >
     <h3>Lorem Ipsum</h3>
@@ -138,7 +138,7 @@ suspendisse ultrices gravida.
 
 </Card>
 
-</CardContainer>
+</CardContainer> -->
 <!--  with _Markdown_ `syntax`. Check [this `api`](#). -->
 
 Company settings includes your company name and address. 
