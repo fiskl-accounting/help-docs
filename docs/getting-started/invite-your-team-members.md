@@ -1,6 +1,6 @@
 ---
 title: Invate team members
-sidebar_position: 5
+sidebar_position: 8
 description: Invite your team members and accountant
 tags:
   - Getting Started

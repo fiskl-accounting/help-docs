@@ -163,9 +163,9 @@ Any changes to the templates will affect all invoices using that template.
 
 ---
 
-#### Line itmes
+#### Line items
 
-Line items can be created inline when creating the invoice or in advance in their dedicated screens. 
+Line items can be created `inline` when creating the invoice or in advance in their dedicated screens. 
 
 - [Products*](../products-services/product)
 - [Services*](../products-services/service)
@@ -173,7 +173,11 @@ Line items can be created inline when creating the invoice or in advance in thei
 - [Mileage](../mileage/mileage)
 - [Time](../time/time)
 
+`Products` and `Services` are templates. When you create or add a product to an invoice line item version of the `Product` or `Service` is created. 
+`Expenses`, `Time` & `Mileage` are top level line items and when added to an invoice they become `Billable`, i.e they are assigned a client. 
+
 #### Taxes
+
 Taxes
 
 ---

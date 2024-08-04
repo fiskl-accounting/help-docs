@@ -1,6 +1,6 @@
 ---
 title: Import bank data
-sidebar_position: 3
+sidebar_position: 10
 description: Learn about importing your bank data
 tags:
   - Getting Started

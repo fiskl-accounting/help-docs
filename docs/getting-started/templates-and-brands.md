@@ -1,6 +1,6 @@
 ---
 title: Templates & Brands
-sidebar_position: 4
+sidebar_position: 6
 description: Learn about using templates and brands
 toc_min_heading_level: 2
 toc_max_heading_level: 6
