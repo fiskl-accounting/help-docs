@@ -17,7 +17,7 @@ import Mermaid from '@theme/Mermaid';
 Invoicing in Fiskl ranges from basic to sophiscated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
 You do not need to pre-create any items as you can create everything as you create your first invoice but it can be useful to have the following set up in advance.
 
-1. Complete your [Company Settings](../../getting-started/company-settings). Ensure your address is correct.
+1. Complete your [Company Settings](../getting-started/company-settings). Ensure your address is correct.
 2. Create a `Client` 
 3. Create a `Payment Method`. This can be using an integrated payment gateway like `Stripe` or adding a `Manual Payment` method.
 
@@ -48,26 +48,30 @@ Let't look at each part of the invoice in detail.
 
 ---
 
-#### Company [[dashboard]](https://my.fiskl.com/company-settings)
+#### Company 
+[[dashboard]](https://my.fiskl.com/company-settings)
 
 
-The invoice uses the following information from [Company Settings](../../getting-started/company-settings). 
+The invoice uses the following information from [Company Settings](../getting-started/company-settings). 
 
 1. Company name
 2. Company address
 3. Company ID or Registration number
 
 :::info
-All of the above can be overridden when using a [Brand Template](../../getting-started/templates-and-brands).
+All of the above can be overridden when using a [Brand Template](../getting-started/templates-and-brands).
 
-Your Company ID is not shown by default. You can change this in [Additional display options](../../getting-started/templates-and-brands#additional-display-options) on your `template`
+Your Company ID is not shown by default. You can change this in [Additional display options](../getting-started/templates-and-brands#additional-display-options) on your `template`
 :::
 
-:::tip
-In both [Company Settings](../../getting-started/company-settings) and [Brand Template](../../getting-started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
+:::info[tip]
+In both [Company Settings](../getting-started/company-settings) and [Brand Template](../getting-started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
 :::
 
-#### Client [[dashboard]](https://my.fiskl.com/partners/clients)
+---
+
+#### Client 
+[[dashboard]](https://my.fiskl.com/partners/clients)
 
 
 
@@ -89,6 +93,8 @@ The format of the address can be changed in [Client](../clients/client-create#ad
 Client `Tax/VAT Registration Number` is shown by default if set on the client [Client](../clients/client-create#general)
 :::
 
+---
+
 #### Invoice number
 
 The default of the invoice number is `INV-0001` and increments each time a new invoice is created. 
@@ -103,6 +109,7 @@ You change the format of the invocie number when creating a new invoice. Change 
 When a new invoice is created Fiskl looks for the latest invoice and increments that invoice number. If you plan to change the invoice and have future invoices us this format it needs to be on the most recent invoice.
 :::
 
+---
 
 #### Invoice dates
 
@@ -117,6 +124,8 @@ By default the `Due Date` is 7 days after the `Invoice Date`. This default setti
 :::
 
 The [Invoice Overdue Status](#invoice-status) is based on the `Due Date` and the Invoice Payments. If the invoice is not fully paid on the Due Date then the invoice will become `Overdue`. If there are any `Overdue Reminders` they will be sent based on the `Due Date` and the overdue reminder chosen. 
+
+---
 
 #### Invoice Status 
 
@@ -143,12 +152,16 @@ If you need to edit an invoice with payments you can change the status to `Open`
 What happens is that we disable the payments on the invoice allowing you to change the status to `Open` so that you can edit the invoice. When you save it if there are any payments we will restore these. 
 :::
 
+---
+
 #### Styling
-You can style the invoice using themes, colors and fonts. These are all done in the [Template](../../getting-started/templates-and-brands) under `Themes`, `Colours` and `Fonts`.
+You can style the invoice using themes, colors and fonts. These are all done in the [Template](../getting-started/templates-and-brands) under `Themes`, `Colours` and `Fonts`.
 
 :::info[warning]
 Any changes to the templates will affect all invoices using that template.
 :::
+
+---
 
 #### Line itmes
 
@@ -156,17 +169,56 @@ Line items can be created inline when creating the invoice or in advance in thei
 
 - [Products*](../products-services/product)
 - [Services*](../products-services/service)
-- [Expences](../products-services/service)
-- [Mileage](../products-services/service)
-- [Time](../products-services/service)
+- [Expences](../expenses/expenses)
+- [Mileage](../mileage/mileage)
+- [Time](../time/time)
 
 #### Taxes
+Taxes
+
+---
+
 #### Discounts
+Discounts
+
+---
+
 #### Deposits
+Deposits
+
+---
+
 #### Currency
+Currency
+
+---
+
 #### Language
+Language
+
+---
+
 #### Additional values
+Additional values 
+
+---
+
 #### Notes
+Notes
+
+---
+
 #### Payment options
+Payment options 
+
+---
+
 #### Payment terms
+Payment terms
+
+---
+
 #### Payment schedules 
+Payment schedules
+
+---

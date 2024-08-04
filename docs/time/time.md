@@ -1,12 +1,13 @@
 ---
-title: Expenses
+title: Time
 sidebar_position: 1
-description: Expenses
+description: Time
 toc_min_heading_level: 2
 toc_max_heading_level: 6
 tags:
   - Invoice
-  - Products
+  - Time
+  - Line items
 ---
 
 TODO
