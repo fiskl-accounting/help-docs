@@ -124,13 +124,14 @@ Invoices have the following statuses the flows:
     
 ```mermaid
 graph LR
-    Sent -->| to | Open
+    Draft -->| to | Sent
+    Sent -->| to | Draft
     Sent -->| to | Overdue
     Sent -->| to | Paid
     Sent -->| to | Partial
     Sent -->| to | Rejected
     Overdue -->| to | Paid
-    Rejected -->| to | Open
+    Rejected -->| to | Draft
     Partial -->| to | Paid
     Partial -->| to | Overdue
 ```
@@ -153,11 +154,11 @@ Any changes to the templates will affect all templates sent using the same templ
 
 Line items can be created inline when creating the invoice or in advance in their dedicated screens. 
 
-- Products*
-- Services*
-- Expenses
-- Mileage
-- Time
+- [Products*](../products-services/product)
+- [Services*](../products-services/service)
+- [Expences](../products-services/service)
+- [Mileage](../products-services/service)
+- [Time](../products-services/service)
 
 #### Taxes
 #### Discounts
