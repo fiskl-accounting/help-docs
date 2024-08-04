@@ -14,18 +14,16 @@ tags:
 import TOCInline from '@theme/TOCInline';
 import Mermaid from '@theme/Mermaid';
 
-Invoicing in Fiskl ranges from basic to sophiscated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
-You do not need to pre-create any items as you can create everything as you create your first invoice but it can be useful to have the following set up in advance.
+Invoicing in Fiskl ranges from basic to sophisticated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
+You can create everything as you create your first invoice, but it can be useful to have the following set up in advance:
 
-1. Complete your [Company Settings](../getting-started/company-settings). Ensure your address is correct.
-2. Create a `Client` 
-3. Create a `Payment Method`. This can be using an integrated payment gateway like `Stripe` or adding a `Manual Payment` method.
-
+1. Complete your [Company Settings](../getting-started/company-settings). Ensure your address is correct
+2. Create a Client 
+3. Create a Payment Method. This can be using an integrated payment gateway like Stripe or adding a Manual Payment method
 
 ## Basic invoice 
 
 Try the interactive demo to create a basic invoice.
-
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -42,7 +40,7 @@ Try the interactive demo to create a basic invoice.
 
 ### Parts of an invoice 
 
-Let't look at each part of the invoice in detail. 
+Let's look at each part of the invoice in detail. 
 
 <TOCInline toc={toc} />
 
@@ -51,8 +49,7 @@ Let't look at each part of the invoice in detail.
 #### Company 
 [[dashboard]](https://my.fiskl.com/company-settings)
 
-
-The invoice uses the following information from [Company Settings](../getting-started/company-settings). 
+The invoice uses the following information from [Company Settings](../getting-started/company-settings):
 
 1. Company name
 2. Company address
@@ -61,7 +58,7 @@ The invoice uses the following information from [Company Settings](../getting-st
 :::info
 All of the above can be overridden when using a [Brand Template](../getting-started/templates-and-brands).
 
-Your Company ID is not shown by default. You can change this in [Additional display options](../getting-started/templates-and-brands#additional-display-options) on your `template`
+Your Company ID is not shown by default. You can change this in [Additional display options](../getting-started/templates-and-brands#additional-display-options) on your template.
 :::
 
 :::info[tip]
@@ -73,64 +70,62 @@ In both [Company Settings](../getting-started/company-settings) and [Brand Templ
 #### Client 
 [[dashboard]](https://my.fiskl.com/partners/clients)
 
-
-
 A [Client](../clients/client-create) is required to create an invoice. You can create your client in advance or while creating the invoice.
 
-The invoice uses the following information from [Client](../clients/client-create). 
+The invoice uses the following information from [Client](../clients/client-create):
 
-1.  Client name
-1.  Client address
-1.  Client email including `Cc` and `Bcc`
-1.  Tax/Vat Registration Number
-1.  Defaults
-    1.  Currency
-    1.  Time rate
+1. Client name
+2. Client address
+3. Client email including Cc and Bcc
+4. Tax/Vat Registration Number
+5. Defaults
+   1. Currency
+   2. Time rate
               
 :::info
-The format of the address can be changed in [Client](../clients/client-create#address)
+The format of the address can be changed in [Client](../clients/client-create#address).
 
-Client `Tax/VAT Registration Number` is shown by default if set on the client [Client](../clients/client-create#general)
+Client Tax/VAT Registration Number is shown by default if set on the client [Client](../clients/client-create#general).
 :::
 
 ---
 
 #### Invoice number
 
-The default of the invoice number is `INV-0001` and increments each time a new invoice is created. 
-You can alter the invoice number to any format you like but there are some limitations. 
-1. Fiskl can only incrementn the invoce number if it ends with a didget 
-2. If your invoice follows a date pattern like `2024-01-0001` you will need to manually change the invoice number at each date period.
+The default invoice number is INV-0001 and increments each time a new invoice is created. 
+You can alter the invoice number to any format you like, but there are some limitations:
+1. Fiskl can only increment the invoice number if it ends with a digit 
+2. If your invoice follows a date pattern like 2024-01-0001, you will need to manually change the invoice number at each date period
 
 **How to change the invoice number?**
-You change the format of the invocie number when creating a new invoice. Change the invoice number to the new format and all following emails will follow this pattern. 
+You change the format of the invoice number when creating a new invoice. Change the invoice number to the new format, and all following invoices will follow this pattern. 
 
 :::info
-When a new invoice is created Fiskl looks for the latest invoice and increments that invoice number. If you plan to change the invoice and have future invoices us this format it needs to be on the most recent invoice.
+When a new invoice is created, Fiskl looks for the latest invoice and increments that invoice number. If you plan to change the invoice and have future invoices use this format, it needs to be on the most recent invoice.
 :::
 
 ---
 
 #### Invoice dates
 
-There are three dates on the invoice 
+There are three dates on the invoice:
 
 1. Invoice Date: The date the invoice was created
 2. Due Date: The date the invoice is due
 3. Sale Date: (Optional)
 
 :::info
-By default the `Due Date` is 7 days after the `Invoice Date`. This default setting can be changed in [Invoice & Quote settings](../settings/invoice-quote-settings)
+By default, the Due Date is 7 days after the Invoice Date. This default setting can be changed in [Invoice & Quote settings](../settings/invoice-quote-settings).
 :::
 
-The [Invoice Overdue Status](#invoice-status) is based on the `Due Date` and the Invoice Payments. If the invoice is not fully paid on the Due Date then the invoice will become `Overdue`. If there are any `Overdue Reminders` they will be sent based on the `Due Date` and the overdue reminder chosen. 
+The [Invoice Overdue Status](#invoice-status) is based on the Due Date and the Invoice Payments. If the invoice is not fully paid on the Due Date, then the invoice will become Overdue. If there are any Overdue Reminders, they will be sent based on the Due Date and the overdue reminder chosen. 
 
 ---
 
 #### Invoice Status 
 
-Invoices have the following statuses the flows:
-    
+Invoices have the following statuses and flows:
+
 ```mermaid
 graph LR
     Draft -->| to | Sent
@@ -146,16 +141,16 @@ graph LR
 ```
 
 :::info
-The invoice statues work using the Due Date and the paymetns. E.g if an invoice of $100 has a payment of $100 then the status will be `Paid`. If you change the payment to $80 the status will be `Partial`.
+The invoice statuses work using the Due Date and the payments. E.g., if an invoice of $100 has a payment of $100, then the status will be Paid. If you change the payment to $80, the status will be Partial.
 
-If you need to edit an invoice with payments you can change the status to `Open` to make it editable. However as soon as you change it it will revert to `Paid'.
-What happens is that we disable the payments on the invoice allowing you to change the status to `Open` so that you can edit the invoice. When you save it if there are any payments we will restore these. 
+If you need to edit an invoice with payments, you can change the status to Open to make it editable. However, as soon as you change it, it will revert to Paid.
+What happens is that we disable the payments on the invoice, allowing you to change the status to Open so that you can edit the invoice. When you save it, if there are any payments, we will restore these. 
 :::
 
 ---
 
 #### Styling
-You can style the invoice using themes, colors and fonts. These are all done in the [Template](../getting-started/templates-and-brands) under `Themes`, `Colours` and `Fonts`.
+You can style the invoice using themes, colors, and fonts. These are all done in the [Template](../getting-started/templates-and-brands) under Themes, Colours, and Fonts.
 
 :::info[warning]
 Any changes to the templates will affect all invoices using that template.
@@ -165,33 +160,33 @@ Any changes to the templates will affect all invoices using that template.
 
 #### Line items
 
-Line items can be created `inline` when creating the invoice or in advance in their dedicated screens. 
+Line items can be created inline when creating the invoice or in advance in their dedicated screens. 
 
 - [Products*](../products-services/product)
 - [Services*](../products-services/service)
-- [Expences](../expenses/expenses)
-- [Mileage](../mileage/mileage)
-- [Time](../time/time)
+- [expenses](../expenses)
+- [Mileage](../mileage)
+- [Time](../time)
 
-`Products` and `Services` are templates. When you create or add a product to an invoice line item version of the `Product` or `Service` is created. 
-`Expenses`, `Time` & `Mileage` are top level line items and when added to an invoice they become `Billable`, i.e they are assigned a client. 
+Products and Services are templates. When you create or add a product to an invoice, a line item version of the Product or Service is created. 
+Expenses, Time & Mileage are top-level line items, and when added to an invoice, they become Billable, i.e., they are assigned a client. 
 
 #### Taxes
 
-Line items can have single, multiple or comounded taxes. 
+Line items can have single, multiple, or compound taxes. 
 
-Taxes are calculted at line item level and displayed on the invoice. 
+Taxes are calculated at the line item level and displayed on the invoice. 
 
 ---
 
 #### Discounts
 
-You can add an invoice level discount either as an amount or percentage by clicking on the discount link in the invoice.
+You can add an invoice-level discount either as an amount or percentage by clicking on the discount link in the invoice.
 
 Examples: 
->$100 discount = `100`
+>$100 discount = 100
 
->15% discount = `15%`
+>15% discount = 15%
 
 ---
 
@@ -200,30 +195,31 @@ Examples:
 You can request a deposit either as an amount or percentage by clicking on the deposit link in the invoice. 
 
 Examples: 
->$100 discount = `100`
+>$100 deposit = 100
 
->15% discount = `15%`
+>15% deposit = 15%
 
 ---
 
 #### Currency
 
-You can change the currency of an invoice by slecting the currency name next to the `Total`. 
+You can change the currency of an invoice by selecting the currency name next to the Total. 
 
-By default the invocie currency is the same as your `Company` currency unless you select a `Client` that has a default `Currency` that is different. 
+By default, the invoice currency is the same as your Company currency unless you select a Client that has a default Currency that is different. 
 
-Changing the invoice currency will not change the currency of the line items already added but new in-line line items added will default to invoice currency. 
+Changing the invoice currency will not change the currency of the line items already added, but new in-line line items added will default to the invoice currency. 
 
 :::info
-You can adjust the exchange rate for line items that are not in the same currency as the invocie.
+You can adjust the exchange rate for line items that are not in the same currency as the invoice.
 :::
+
 ---
 
 #### Language
 
-You can choose over 60 languages for invoices & quotes. Changing the language of an invoice not only changes the invoice but also the default emails and the invoice and payment screens your customer sees.   
+You can choose from over 60 languages for invoices & quotes. Changing the language of an invoice not only changes the invoice but also the default emails and the invoice and payment screens your customer sees.   
 
-The default language of the invoice is set in [Invoice & quote settings](../settings/invoice-quote-settings) but you can change it per invoice by language abbreviation below the client selector. 
+The default language of the invoice is set in [Invoice & quote settings](../settings/invoice-quote-settings), but you can change it per invoice by language abbreviation below the client selector. 
 
 ![invoice](../../static/img/invoice/invoice-language.png)
 
@@ -231,7 +227,7 @@ The default language of the invoice is set in [Invoice & quote settings](../sett
 
 #### Additional values
 
-You can some additional information to the invoice like a `PO Number`. 
+You can add some additional information to the invoice, like a PO Number. 
 
 ![invoice](../../static/img/invoice/invoice-additional-info.png)
 
@@ -239,20 +235,20 @@ You can some additional information to the invoice like a `PO Number`.
 
 #### Notes
 
-You can add notes directly to the invocie or you can default what notes are added to every invoice in [Invoice & quote settings](../settings/invoice-quote-settings)
+You can add notes directly to the invoice, or you can default what notes are added to every invoice in [Invoice & quote settings](../settings/invoice-quote-settings).
 
 ---
 
 #### Payment options
-Payment options 
+[Content for Payment options to be added]
 
 ---
 
 #### Payment terms
 
-By default the payment terms are 7 days after the invoice is created. When the invoice is created it's assigned an `Invoice Date` and the `Due Date` is calaculated by adding 7 days. 
+By default, the payment terms are 7 days after the invoice is created. When the invoice is created, it's assigned an Invoice Date, and the Due Date is calculated by adding 7 days. 
 
-You can alter the default in [Invoice & quote settings](../settings/invoice-quote-settings)
+You can alter the default in [Invoice & quote settings](../settings/invoice-quote-settings).
 
 ---
 
@@ -260,26 +256,24 @@ You can alter the default in [Invoice & quote settings](../settings/invoice-quot
 
 A payment schedule is a payment plan for a single invoice. 
 
-You can create a schedule of 2 to 12 payments. The schedule can in flat amounts or percentages of the invoice.
+You can create a schedule of 2 to 12 payments. The schedule can be in flat amounts or percentages of the invoice.
 
-For example you can create a payment schedule that is:
+For example, you can create a payment schedule that is:
 
-```
 > Payment 1: 50%
 > Payment 2: 25%
-> Payment 1: 25%
-```
+> Payment 3: 25%
+
 OR
 
 Invoice of 500
-```
-> Payment 1: 300%
-> Payment 2: 150%
-> Payment 1: 50%
-```
+
+> Payment 1: 300
+> Payment 2: 150
+> Payment 3: 50
 
 :::info[tip]
-Payment scheduleds are a good way of allowing your customers to pay in installments and are useful for just a few payments. Consider using recurring invoices for more long term recurring payments. 
+Payment schedules are a good way of allowing your customers to pay in installments and are useful for just a few payments. Consider using recurring invoices for more long-term recurring payments. 
 :::
 
 ![invoice](../../static/img/invoice/invoice-payment-schedule.png)
