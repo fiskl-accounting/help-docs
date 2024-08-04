@@ -164,7 +164,7 @@ Line items can be created inline when creating the invoice or in advance in thei
 
 - [Products*](../products-services/product)
 - [Services*](../products-services/service)
-- [expenses](../expenses)
+- [Expenses](../expenses)
 - [Mileage](../mileage)
 - [Time](../time)
 
