@@ -63,6 +63,65 @@ tags:
    - Include screenshots or diagrams where helpful
    - Ensure all images have descriptive alt text
 
+
+## Handling Complex Explanations
+
+When dealing with complex topics or features, follow these guidelines:
+
+1. Progressive disclosure:
+   - Start with a simple, high-level explanation
+   - Gradually introduce more complex details
+   - Use clear signposting to guide users through different levels of complexity
+
+2. Layered approach:
+   - Layer 1: Brief overview (1-2 sentences)
+   - Layer 2: Basic explanation (1-2 paragraphs)
+   - Layer 3: Detailed explanation
+   - Layer 4: Advanced concepts or edge cases
+
+3. Use analogies and examples:
+   - Relate complex concepts to familiar ideas
+   - Provide real-world examples to illustrate points
+
+4. Break down complex processes:
+   - Use numbered steps for sequential processes
+   - Use flowcharts or diagrams for non-linear processes
+
+5. Provide context:
+   - Explain why a feature or concept is important
+   - Describe when and how users might encounter it
+
+6. Use expandable sections:
+   - Hide detailed explanations behind expandable UI elements
+   - Allow users to choose their level of engagement with complex topics
+
+7. Link to related concepts:
+   - Connect complex topics to related, simpler concepts
+   - Provide links to prerequisite knowledge
+
+8. Include a summary:
+   - Recap key points at the end of complex explanations
+   - Highlight the most important takeaways
+
+Example structure for a complex topic:
+
+## Advanced Concepts
+<details>
+  <summary>Click to expand</summary>
+  [Explanation of advanced usage, edge cases, etc.]
+</details>
+
+## Summary
+[Recap of key points]
+
+## Related Topics
+- [Link to Chart of Accounts]
+- [Link to Financial Statements]
+
+Remember: The goal is to make complex information accessible to users at different levels of expertise. Always consider your audience and provide clear paths for both basic understanding and deep dives into complex topics.
+
+[Remainder of the style guide stays the same]
+
 ## Numbers and Measurements
 
 - Spell out numbers zero through nine, use numerals for 10 and above
