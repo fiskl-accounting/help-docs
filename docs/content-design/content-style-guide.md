@@ -134,6 +134,40 @@ Remember: The goal is to make complex information accessible to users at differe
 - Use descriptive link text (avoid "click here")
 - Ensure all links are functional and relevant
 
+Use descriptive and meaningful text for hyperlinks. This practice improves accessibility, usability, and search engine optimization. The link text should clearly indicate the destination or purpose of the link without relying on surrounding context.
+
+<details>
+    <summary>Examples of good and bad links</summary>
+
+        Use descriptive and meaningful text for hyperlinks. This practice improves accessibility, usability, and search engine optimization. The link text should clearly indicate the destination or purpose of the link without relying on surrounding context.
+
+        #### Examples of Good Link Text:
+
+        1. Learn more about Fiskl's invoicing features
+        2. Download our expense tracking guide (PDF)
+        3. View our pricing plans
+        4. Contact Fiskl support
+        5. Read our latest blog post on tax tips for small businesses
+
+        #### Examples to Avoid:
+
+        1. Click here to learn about invoicing
+        2. Download our guide here
+        3. To see our pricing, click this link
+        4. For support, click here
+        5. Read more
+
+        #### Why This Matters:
+
+        1. Accessibility: Screen readers can navigate from link to link, and descriptive text helps users understand the purpose of each link.
+        2. Usability: Users often scan pages for links, and descriptive text makes it easier to find relevant information.
+        3. Context: Descriptive links provide context even when read out of context.
+        4. SEO: Search engines use link text to understand the content of the linked page.
+
+        Remember, the goal is to make your content as clear and navigable as possible for all users, regardless of how they're accessing your site.
+
+</details>
+
 ## Technical Terms
 
 - Define acronyms and technical terms on first use
