@@ -12,14 +12,22 @@ tags:
 # Welcome to Fiskl
 
 ## Introduction to Fiskl
+Fiskl is a unique accounting platform designed for both business owners and accountants. With a multi-currency system at its core.
+Fiskl is accessible via a web dashboard and fully-featured Android and iOS apps.
 
-Fiskl is a unique accounting platform designed for both business owners and accountants. With a multi-currency system at its core, Fiskl is accessible via a web dashboard and fully-featured Android and iOS apps.
+**To get started with Fiskl:**
 
-To get started with Fiskl, sign up for a new account and watch our [Getting Started](#getting-started) video.
+1. Sign up for a new account [here](https://my.fiskl.com/registration)
+1. Watch our Getting Started video
+1. Read the [Getting Started](category/getting-started) guide
 
-Fiskl requires minimal information to begin. After verifying your account, you can connect your bank accounts and add Stripe as a bank. Fiskl will then handle your accounting seamlessly in the background. It's really that simple.
+:::info[tip]
+Fiskl requires minimal information to begin.
 
-Our documentation is organized to guide you through every aspect of Fiskl.
+If you are using Fiskl for accounting, then connecting your bank or setting up your bank import is essential
+If you intend to use Stripe in Fiskl or are already using Stripe, then connecting Stripe as a bank feed as well as a payment gateway will really automate your finances
+For invoicing, setting up your templates and connecting Stripe or another payment gateway like GoCardless is helpful
+:::
 
 ## Getting started
 

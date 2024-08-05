@@ -14,7 +14,7 @@ tags:
 
     If you have a team or an accountant then it’s easy to share the workload, if you have owner or admin rights you can invite, activate, edit users and assign each one with a role containing relevant permissions.
 
-    :::note
+    :::info
     Your sensitive financial information, such as accounting details and key business metrics on the Fiskl dashboard are only accessible to the business owner and those assigned with admin rights. Other users cannot view this confidential data.
     :::
 
