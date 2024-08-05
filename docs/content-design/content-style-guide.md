@@ -95,6 +95,13 @@ When dealing with complex topics or features, follow these guidelines:
    - Hide detailed explanations behind expandable UI elements
    - Allow users to choose their level of engagement with complex topics
 
+   Example:
+
+    <details>
+        <summary>Click to expand</summary>
+        [Explanation of advanced usage, edge cases, etc.]
+    </details>
+
 7. Link to related concepts:
    - Connect complex topics to related, simpler concepts
    - Provide links to prerequisite knowledge
@@ -104,12 +111,6 @@ When dealing with complex topics or features, follow these guidelines:
    - Highlight the most important takeaways
 
 Example structure for a complex topic:
-
-## Advanced Concepts
-<details>
-  <summary>Click to expand</summary>
-  [Explanation of advanced usage, edge cases, etc.]
-</details>
 
 ## Summary
 [Recap of key points]
