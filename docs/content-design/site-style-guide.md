@@ -1,15 +1,13 @@
 ---
 title: Site style guide
 sidebar_position: 2
-description: Guide for structuring help documentation in Fiskl
+description: Fiskl Documentation Structure Guide
+
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Style guide
 ---
-
-
-# Fiskl Documentation Structure Guide
 
 ## Core Principles
 
@@ -43,6 +41,7 @@ tags:
 - Link to more detailed explanations in relevant sections
 
 Example structure:
+
 ```
 1. Getting Started
    1.1 Creating Your Fiskl Account
@@ -59,6 +58,7 @@ Example structure:
 - Include both conceptual and task-based topics for each feature
 
 Example structure:
+
 ```
 2. Core Features
    2.1 Accounting
@@ -94,6 +94,7 @@ Example structure:
 - Include setup instructions and use cases
 
 Example structure:
+
 ```
 4. Integrations
    4.1 Bank Connections
@@ -130,7 +131,7 @@ Example structure:
    - Write topics that can stand alone
    - Use cross-linking to connect related information
 
-3. Include a "What's Next" section at the end of each topic to guide users
+3. Include a "What's Next" section at the end of each topic to guide users. This can be partily achieved but structuring the documentation so that the next / previous fulfill this purpose automatically
 
 4. Use task-based titles for how-to content (e.g., "How to Connect Your Bank Account")
 
