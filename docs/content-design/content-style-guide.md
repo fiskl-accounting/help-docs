@@ -1,6 +1,6 @@
 ---
 title: Content style guide
-sidebar_position: 2
+sidebar_position: 6
 description: Style guide for writing help documentation in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
