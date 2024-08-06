@@ -58,7 +58,7 @@ Lowercase. Use lowercase unless referring to a specific product or branded featu
 ### click
 Use "select" instead—not everyone uses a mouse. Provide clear context for where a CTA will take the customer.
 
-Example: "Select Vendors and then Bill"
+Example: "Select Clients and then Invoice"
 
 ### cloud
 Use sparingly. Focus on actions or be specific about data location. Try phrases like "online," "on the web," or "anywhere/anytime access."
@@ -172,7 +172,7 @@ Use right menu when referring to the user menu in Fiskl
 ### select
 Use for clickable or tappable items.
 
-Example: "Select Vendors and then Bill"
+Example: "Select Client and then Invoice"
 
 ### setup (n., adj.), set up (v.)
 One word as a noun or adjective, two words as a verb.
