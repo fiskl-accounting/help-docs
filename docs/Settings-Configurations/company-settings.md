@@ -24,7 +24,7 @@ Most values in Company Settings can be overridden by a Brand in [Templates and B
 - **Time Zone**: Ensures all Fiskl timestamps, notifications, and recurring invoices align with your local time.
 - **Logo**: Used on your invoices, quotes, and reports.
 
-:::info
+:::info[tip]
 You can add a different logo or change its size and layout for invoices and quotes in `Templates and Brands`.
 :::
 
@@ -32,7 +32,7 @@ You can add a different logo or change its size and layout for invoices and quot
 
 Enter your company's official address for use on invoices and financial reports.
 
-:::info
+:::info[tip]
 Type your company name or street to find your address and its preferred layout for your region. 
 
 You can edit the formatted part of the address to ensure it appears exactly as you want in your invoices, quotes, and reports.
