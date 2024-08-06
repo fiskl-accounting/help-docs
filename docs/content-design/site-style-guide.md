@@ -48,6 +48,7 @@ tags:
    1.4 Creating Your First Invoice
    1.5 Exploring the Dashboard
 ```
+
 </details>
 
 ### 2. Core Features
@@ -82,6 +83,7 @@ tags:
        2.4.3 Time Tracking
        2.4.4 Mileage
 ```
+
 </details>
 
 ### 3. Settings and Configuration
@@ -106,6 +108,7 @@ tags:
        4.2.1 Stripe Integration
        4.2.2 GoCardless Integration
 ```
+
 </details>
 
 ### 5. Troubleshooting
@@ -195,6 +198,94 @@ Fiskl-Documentation/
     ├── tax-filing-deadlines.md
     └── tax-form-1099.md
 ```
+
+</details>
+
+
+## Temporary: Full Directory Structure with Display Names
+
+<details>
+
+<summary>Click to view full directory structure with display names (temporary)</summary>
+
+```
+Fiskl Documentation/
+├── Getting Started/
+│   ├── 01-create-account.md                 (Create Account)
+│   ├── 02-set-up-company-profile.md         (Set Up Company Profile)
+│   ├── 03-connect-bank-account.md           (Connect Bank Account)
+│   ├── 04-set-up-payments.md                (Set Up Payments)
+│   ├── 05-create-first-invoice.md           (Create First Invoice)
+│   ├── 06-record-expense.md                 (Record Expense)
+│   ├── 07-categorize-transactions.md        (Categorize Transactions)
+│   └── 08-explore-dashboard.md              (Explore Dashboard)
+│
+├── Core Features/
+│   ├── Accounting/
+│   │   ├── journal-entries.md               (Journal Entries)
+│   │   ├── chart-of-accounts.md             (Chart of Accounts)
+│   │   └── Reports/
+│   │       ├── balance-sheet.md             (Balance Sheet)
+│   │       ├── profit-and-loss.md           (Profit & Loss)
+│   │       ├── cash-flow-statement.md       (Cash Flow Statement)
+│   │       ├── trial-balance.md             (Trial Balance)
+│   │       ├── transactions-by-account.md   (Transactions by Account)
+│   │       └── general-ledger.md            (General Ledger)
+│   │
+│   ├── Invoicing/
+│   │   ├── create-invoice.md                (Create Invoice)
+│   │   ├── invoice-templates-and-brands.md  (Invoice Templates and Brands)
+│   │   ├── recurring-invoices.md            (Recurring Invoices)
+│   │   └── invoice-emails.md                (Invoice Emails)
+│   │
+│   ├── Quotes/
+│   │   ├── create-quote.md                  (Create Quote)
+│   │   └── convert-quote-to-invoice.md      (Convert Quote to Invoice)
+│   │
+│   └── Line Items/
+│       ├── products.md                      (Products)
+│       ├── services.md                      (Services)
+│       ├── time-tracking.md                 (Time Tracking)
+│       └── mileage.md                       (Mileage)
+│
+├── Settings and Configuration/
+│   ├── company-settings.md                  (Company Settings)
+│   ├── invoice-and-quote-settings.md        (Invoice and Quote Settings)
+│   ├── accounting-settings.md               (Accounting Settings)
+│   └── tax-settings.md                      (Tax Settings)
+│
+├── Integrations/
+│   ├── Bank Connections/
+│   │   ├── connect-yodlee.md                (Connect with Yodlee)
+│   │   ├── connect-saltedge.md              (Connect with SaltEdge)
+│   │   └── stripe-data-feed.md              (Stripe Data Feed)
+│   │
+│   └── Payment Gateways/
+│       └── stripe-integration.md            (Stripe Integration)
+│
+├── Troubleshooting/
+│   ├── account-issues.md                    (Account Issues)
+│   ├── invoicing-problems.md                (Invoicing Problems)
+│   ├── bank-connection-errors.md            (Bank Connection Errors)
+│   └── reporting-discrepancies.md           (Reporting Discrepancies)
+│
+├── FAQs/
+│   ├── general-faqs.md                      (General FAQs)
+│   ├── accounting-faqs.md                   (Accounting FAQs)
+│   ├── invoicing-faqs.md                    (Invoicing FAQs)
+│   └── integration-faqs.md                  (Integration FAQs)
+│
+├── Glossary/
+│   └── accounting-terms.md                  (Accounting Terms)
+│
+└── Plans and Billing/
+    ├── select-fiskl-plan.md                 (Select Fiskl Plan)
+    ├── apply-offer-or-partner-code.md       (Apply Offer or Partner Code)
+    ├── upgrade-fiskl-account.md             (Upgrade Fiskl Account)
+    ├── update-credit-card-and-address.md    (Update Credit Card and Address)
+    └── payment-history.md                   (Payment History)
+```
+
 </details>
 
 Remember: The goal is to create an intuitive, maintainable, and flexible documentation structure that accommodates Fiskl's current features and future growth.
