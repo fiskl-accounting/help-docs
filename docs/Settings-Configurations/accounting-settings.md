@@ -1,6 +1,6 @@
 ---
 title: Accounting Settings 
-sidebar_position: 6
+sidebar_position: 4
 description: Accounting Settings
 tags:
   - Settings
