@@ -1,5 +1,5 @@
 ---
-title: Creating an invoice
+title: Create Invoice
 sidebar_position: 2
 description: Creating and editing invoices
 toc_min_heading_level: 2
@@ -221,7 +221,7 @@ You can choose from over 60 languages for invoices & quotes. Changing the langua
 
 The default language of the invoice is set in [Invoice & quote settings](../settings/invoice-quote-settings), but you can change it per invoice by language abbreviation below the client selector. 
 
-![invoice](../../static/img/invoice/invoice-language.png)
+![invoice](../../../static/img/invoice/invoice-language.png)
 
 ---
 
@@ -229,7 +229,7 @@ The default language of the invoice is set in [Invoice & quote settings](../sett
 
 You can add some additional information to the invoice, like a PO Number. 
 
-![invoice](../../static/img/invoice/invoice-additional-info.png)
+![invoice](../../../static/img/invoice/invoice-additional-info.png)
 
 ---
 
@@ -276,6 +276,6 @@ Invoice of 500
 Payment schedules are a good way of allowing your customers to pay in installments and are useful for just a few payments. Consider using recurring invoices for more long-term recurring payments. 
 :::
 
-![invoice](../../static/img/invoice/invoice-payment-schedule.png)
+![invoice](../../../static/img/invoice/invoice-payment-schedule.png)
 
 ---
