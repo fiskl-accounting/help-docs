@@ -17,6 +17,9 @@ tags:
 ### account
 Lowercase unless referring to a specific product (e.g., Fiskl Account).
 
+### accountant
+Lowercase unless referring to a specific product (e.g., Fiskl Accountant Portal).
+
 ### accounting terms
 When introducing an accounting term, define it first, then provide the technical term.
 
@@ -38,6 +41,9 @@ Example: "The Fiskl mobile app helps you manage your business finances on the go
 ### bank transfer
 Use "bank transfer" when referring to moving funds between bank accounts. Be specific about any fees associated with different payment types.
 
+### base currency
+Use "base currency" when referring to the currency set on the Fiskl account company currency.
+
 ### business name
 Use "business name" when referring to the customer's business or legal business name. Use "company name" for what the customer named their business inside Fiskl.
 
@@ -47,8 +53,8 @@ Use "business name" when referring to the customer's business or legal business 
 Use "can" instead of "allowed to" or "enabled." Use "can't" instead of "cannot" or "can not."
 
 ### chart of accounts
-Lowercase. Example: "We call this your chart of accounts."
-
+Lowercase. Use lowercase unless referring to a specific product or branded feature (e.g., "Fiskl Chart of Accounts") or ("You can customize your chart of accounts to better match your business needs.") or ("To access the Fiskl Chart of Accounts, navigate to the accounting section.")
+ 
 ### click
 Use "select" instead—not everyone uses a mouse. Provide clear context for where a CTA will take the customer.
 
@@ -69,12 +75,15 @@ People who use Fiskl are our customers. You can also use "customer" when talking
 Use "data" or "information" when discussing privacy or sensitive topics. "Info" is okay in less formal contexts.
 
 ### default
-Avoid using "default" in customer-facing copy due to negative associations.
+Avoid using "default" in customer-facing copy due to negative associations. Use alternatives like "Initial", "Chosen", "Standard" and "Recommended" 
 
 ## E
 
 ### e-commerce
 Lowercase unless it starts a sentence. Hyphenate.
+
+### e.g.
+Use "e.g." for shorter, parenthetical examples, always followed by a comma. ("You can add multiple payment methods (e.g., credit cards, bank transfers) to your account."). Use "for example" in sentences. ("There are several features available, for example, the invoice generator and expense tracker.")
 
 ### email
 One word, lowercase. Don't hyphenate.
@@ -84,10 +93,16 @@ One word, lowercase. Don't hyphenate.
 ### Fiskl
 Always capitalize "Fiskl" when referring to the product.
 
+### For example
+Use "for example" in sentences. ("There are several features available, for example, the invoice generator and expense tracker.") se "e.g." for shorter, parenthetical examples, always followed by a comma. ("You can add multiple payment methods (e.g., credit cards, bank transfers) to your account.")
+
 ### free
 Use caution with this word. Set accurate customer expectations. Don't capitalize or write in all caps. Use "included" instead of "free" when possible.
 
 ## G
+
+### gear icon
+Use gear icon to refer to settings access point using the icon. 
 
 ### guarantee
 Only use if approved by your legal partner. It implies a promise and may have legal implications.
@@ -109,6 +124,9 @@ Example: "Create an invoice for your customer."
 
 ## L
 
+### left menu
+Use left menu when referring to the main menu in Fiskl
+
 ### line item
 Two words, not capitalized unless at the start of a sentence.
 
@@ -129,6 +147,9 @@ Use "OK," not "okay" or "o.k."
 
 ## P
 
+### Payment Gateway
+Use "Payment Gateway" when referring to payment integrations in Fiskl.  "Payment Gateway" is more specific and technically accurate when referring to services like Stripe that process payments. "Payment Integration" is broader and encompasses all types of payment-related integrations.
+
 ### PDF
 Capitalize. Add lowercase "s" for plural (PDFs).
 
@@ -138,6 +159,9 @@ Capitalize. Add lowercase "s" for plural (PDFs).
 Use "refresh" instead of device-specific terms.
 
 Example: "Refresh to see new transactions."
+
+### right menu
+Use right menu when referring to the user menu in Fiskl
 
 ## S
 
