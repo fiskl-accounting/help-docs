@@ -17,11 +17,11 @@ import Mermaid from '@theme/Mermaid';
 Invoicing in Fiskl ranges from basic to sophisticated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
 You can create everything as you create your first invoice, but it can be useful to have the following set up in advance:
 
-1. Complete your [Company Settings](../Getting-Started/company-settings). Ensure your address is correct
-2. Create a Client 
+<!-- 1. Complete your [Company Settings](../Getting-Started/company-settings). Ensure your address is correct -->
+2. Create a Client
 3. Create a Payment Method. This can be using an integrated payment gateway like Stripe or adding a Manual Payment method
 
-## Basic invoice 
+## Basic invoice
 
 Try the interactive demo to create a basic invoice.
 
@@ -49,20 +49,20 @@ Let's look at each part of the invoice in detail.
 #### Company 
 [[dashboard]](https://my.fiskl.com/company-settings)
 
-The invoice uses the following information from [Company Settings](../Getting-Started/company-settings):
+<!-- The invoice uses the following information from [Company Settings](../Getting-Started/company-settings): -->
 
 1. Company name
 2. Company address
 3. Company ID or Registration number
 
 :::info
-All of the above can be overridden when using a [Brand Template](../Getting-Started/templates-and-brands).
+<!-- All of the above can be overridden when using a [Brand Template](../Getting-Started/templates-and-brands). -->
 
-Your Company ID is not shown by default. You can change this in [Additional display options](../Getting-Started/templates-and-brands#additional-display-options) on your template.
+<!-- Your Company ID is not shown by default. You can change this in [Additional display options](../Getting-Started/templates-and-brands#additional-display-options) on your template. -->
 :::
 
 :::info[tip]
-In both [Company Settings](../Getting-Started/company-settings) and [Brand Template](../Getting-Started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
+<!-- In both [Company Settings](../Getting-Started/company-settings) and [Brand Template](../Getting-Started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes. -->
 :::
 
 ---
@@ -98,7 +98,7 @@ You can alter the invoice number to any format you like, but there are some limi
 2. If your invoice follows a date pattern like 2024-01-0001, you will need to manually change the invoice number at each date period
 
 **How to change the invoice number?**
-You change the format of the invoice number when creating a new invoice. Change the invoice number to the new format, and all following invoices will follow this pattern. 
+You change the format of the invoice number when creating a new invoice. Change the invoice number to the new format, and all following invoices will follow this pattern.
 
 :::info
 When a new invoice is created, Fiskl looks for the latest invoice and increments that invoice number. If you plan to change the invoice and have future invoices use this format, it needs to be on the most recent invoice.
