@@ -70,9 +70,9 @@ Let's look at each part of the invoice in detail.
 #### Client 
 [[dashboard]](https://my.fiskl.com/partners/clients)
 
-A [Client](../clients/client-create) is required to create an invoice. You can create your client in advance or while creating the invoice.
+A [Client](../Clients-Vendors/clients) is required to create an invoice. You can create your client in advance or while creating the invoice.
 
-The invoice uses the following information from [Client](../clients/client-create):
+The invoice uses the following information from [Client](../Clients-Vendors/clients):
 
 1. Client name
 2. Client address
@@ -83,9 +83,9 @@ The invoice uses the following information from [Client](../clients/client-creat
    2. Time rate
               
 :::info
-The format of the address can be changed in [Client](../clients/client-create#address).
+The format of the address can be changed in [Client](../Clients-Vendors/clients#address).
 
-Client Tax/VAT Registration Number is shown by default if set on the client [Client](../clients/client-create#general).
+Client Tax/VAT Registration Number is shown by default if set on the client [Client](../Clients-Vendors/clients#general).
 :::
 
 ---
@@ -115,14 +115,14 @@ There are three dates on the invoice:
 3. Sale Date: (Optional)
 
 :::info
-By default, the Due Date is 7 days after the Invoice Date. This default setting can be changed in [Invoice & Quote settings](../settings/invoice-quote-settings).
+By default, the Due Date is 7 days after the Invoice Date. This default setting can be changed in [Invoice & Quote settings](../../Settings-Configurations/invoice-and-quote-settings).
 :::
 
 The [Invoice Overdue Status](#invoice-status) is based on the Due Date and the Invoice Payments. If the invoice is not fully paid on the Due Date, then the invoice will become Overdue. If there are any Overdue Reminders, they will be sent based on the Due Date and the overdue reminder chosen. 
 
 ---
 
-#### Invoice Status 
+#### Invoice Status
 
 Invoices have the following statuses and flows:
 
@@ -162,11 +162,11 @@ Any changes to the templates will affect all invoices using that template.
 
 Line items can be created inline when creating the invoice or in advance in their dedicated screens. 
 
-- [Products*](../products-services/product)
-- [Services*](../products-services/service)
-- [Expenses](../expenses)
-- [Mileage](../mileage)
-- [Time](../time)
+- [Products*](../Line-Items/products)
+- [Services*](../Line-Items/services)
+- [Expenses](../Line-Items/expenses)
+- [Mileage](../Line-Items/mileage)
+- [Time](../Line-Items/time)
 
 Products and Services are templates. When you create or add a product to an invoice, a line item version of the Product or Service is created. 
 Expenses, Time & Mileage are top-level line items, and when added to an invoice, they become Billable, i.e., they are assigned a client. 
@@ -219,7 +219,7 @@ You can adjust the exchange rate for line items that are not in the same currenc
 
 You can choose from over 60 languages for invoices & quotes. Changing the language of an invoice not only changes the invoice but also the default emails and the invoice and payment screens your customer sees.   
 
-The default language of the invoice is set in [Invoice & quote settings](../settings/invoice-quote-settings), but you can change it per invoice by language abbreviation below the client selector. 
+The default language of the invoice is set in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings), but you can change it per invoice by language abbreviation below the client selector. 
 
 ![invoice](../../../static/img/invoice/invoice-language.png)
 
@@ -235,7 +235,7 @@ You can add some additional information to the invoice, like a PO Number.
 
 #### Notes
 
-You can add notes directly to the invoice, or you can default what notes are added to every invoice in [Invoice & quote settings](../settings/invoice-quote-settings).
+You can add notes directly to the invoice, or you can default what notes are added to every invoice in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
 
 ---
 
@@ -248,7 +248,7 @@ You can add notes directly to the invoice, or you can default what notes are add
 
 By default, the payment terms are 7 days after the invoice is created. When the invoice is created, it's assigned an Invoice Date, and the Due Date is calculated by adding 7 days. 
 
-You can alter the default in [Invoice & quote settings](../settings/invoice-quote-settings).
+You can alter the default in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
 
 ---
 
