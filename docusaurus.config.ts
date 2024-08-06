@@ -82,8 +82,13 @@ const config: Config = {
           label: 'Docs',
           to: '/docs/introduction'
         },
+   
         // {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
+        {
+          type: 'search',
+          position: 'left',
+        },
 
         {
           href: 'https://github.com/fiskl-accounting/help-docs',
