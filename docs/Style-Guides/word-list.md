@@ -90,6 +90,10 @@ One word, lowercase. Don't hyphenate.
 
 ## F
 
+### Fi
+Refer to the AI assistant in Fiskl as "Fi"  
+
+
 ### Fiskl
 Always capitalize "Fiskl" when referring to the product.
 
