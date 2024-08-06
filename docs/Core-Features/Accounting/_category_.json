@@ -1,8 +1,7 @@
 {
-    "label": "Acounting",
-    "position": 3,
+    "label": "Accounting",
+    "position": 1,
     "link": {
         "type": "generated-index"
     }
-    
 }

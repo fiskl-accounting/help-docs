@@ -17,7 +17,7 @@ import Mermaid from '@theme/Mermaid';
 Invoicing in Fiskl ranges from basic to sophisticated. We will run through creating a basic invoice and then address each part of the invoice individually to explore the more advanced features. 
 You can create everything as you create your first invoice, but it can be useful to have the following set up in advance:
 
-1. Complete your [Company Settings](../getting-started/company-settings). Ensure your address is correct
+1. Complete your [Company Settings](../Getting-Started/company-settings). Ensure your address is correct
 2. Create a Client 
 3. Create a Payment Method. This can be using an integrated payment gateway like Stripe or adding a Manual Payment method
 
@@ -49,20 +49,20 @@ Let's look at each part of the invoice in detail.
 #### Company 
 [[dashboard]](https://my.fiskl.com/company-settings)
 
-The invoice uses the following information from [Company Settings](../getting-started/company-settings):
+The invoice uses the following information from [Company Settings](../Getting-Started/company-settings):
 
 1. Company name
 2. Company address
 3. Company ID or Registration number
 
 :::info
-All of the above can be overridden when using a [Brand Template](../getting-started/templates-and-brands).
+All of the above can be overridden when using a [Brand Template](../Getting-Started/templates-and-brands).
 
-Your Company ID is not shown by default. You can change this in [Additional display options](../getting-started/templates-and-brands#additional-display-options) on your template.
+Your Company ID is not shown by default. You can change this in [Additional display options](../Getting-Started/templates-and-brands#additional-display-options) on your template.
 :::
 
 :::info[tip]
-In both [Company Settings](../getting-started/company-settings) and [Brand Template](../getting-started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
+In both [Company Settings](../Getting-Started/company-settings) and [Brand Template](../Getting-Started/templates-and-brands) you can customize your address layout to change how it appears on the invoice and quotes.
 :::
 
 ---
@@ -150,7 +150,7 @@ What happens is that we disable the payments on the invoice, allowing you to cha
 ---
 
 #### Styling
-You can style the invoice using themes, colors, and fonts. These are all done in the [Template](../getting-started/templates-and-brands) under Themes, Colours, and Fonts.
+You can style the invoice using themes, colors, and fonts. These are all done in the [Template](../Getting-Started/templates-and-brands) under Themes, Colours, and Fonts.
 
 :::info[warning]
 Any changes to the templates will affect all invoices using that template.

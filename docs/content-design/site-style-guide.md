@@ -1,46 +1,44 @@
 ---
-title: Site layout guide
+title: Site style guide
 sidebar_position: 6
-description: Fiskl Documentation Structure Guide
-
+description: Style guide structuring help documentation in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Style guide
 ---
 
+# Fiskl Documentation Structure Guide
+
 ## Core Principles
 
-1. Progressive disclosure: Start with basic information and progressively reveal more complex details
-2. Clear navigation: Use a logical hierarchy that's easy to navigate
-3. Consistency: Maintain a consistent structure across all sections
-4. Modularity: Create self-contained topics that can be easily updated and reused
-5. User-centric organization: Arrange content based on user tasks and goals
+1. Progressive disclosure
+2. Clear navigation
+3. Consistency
+4. Modularity
+5. User-centric organization
 
 ## High-Level Structure
 
 1. Getting Started
 2. Core Features
-   - Accounting
-   - Invoicing
-   - Quotes
-   - Line Items
 3. Settings and Configuration
 4. Integrations
 5. Troubleshooting
 6. FAQs
 7. Glossary
 
-## Detailed Structure and Guidelines
+## Detailed Structure Guidelines
 
 ### 1. Getting Started
 
-- Keep this section concise and focused on essential tasks
-- Use interactive demos and videos where possible
-- Limit to 5-7 key steps for initial setup
-- Link to more detailed explanations in relevant sections
+- Concise, focused on essential tasks
+- Use interactive demos and videos
+- 5-7 key steps for initial setup
+- Link to detailed explanations
 
-Example structure:
+<details>
+<summary>Example structure</summary>
 
 ```
 1. Getting Started
@@ -50,14 +48,16 @@ Example structure:
    1.4 Creating Your First Invoice
    1.5 Exploring the Dashboard
 ```
+</details>
 
 ### 2. Core Features
 
-- Organize subfeatures under main feature categories
-- Use consistent depth across feature documentation (aim for 3-4 levels max)
-- Include both conceptual and task-based topics for each feature
+- Organize subfeatures under main categories
+- Consistent depth (3-4 levels max)
+- Include conceptual and task-based topics
 
-Example structure:
+<details>
+<summary>Example structure</summary>
 
 ```
 2. Core Features
@@ -82,18 +82,20 @@ Example structure:
        2.4.3 Time Tracking
        2.4.4 Mileage
 ```
+</details>
 
 ### 3. Settings and Configuration
 
-- Group related settings together
-- Provide clear explanations of each setting's impact
+- Group related settings
+- Clear explanations of each setting's impact
 
 ### 4. Integrations
 
-- Dedicate a section to each major integration
+- Section for each major integration
 - Include setup instructions and use cases
 
-Example structure:
+<details>
+<summary>Example structure</summary>
 
 ```
 4. Integrations
@@ -104,145 +106,95 @@ Example structure:
        4.2.1 Stripe Integration
        4.2.2 GoCardless Integration
 ```
+</details>
 
 ### 5. Troubleshooting
 
 - Organize by feature or common issue types
-- Use a problem-solution format
+- Use problem-solution format
 
 ### 6. FAQs
 
-- Group FAQs by topic
-- Keep answers concise, linking to detailed explanations where necessary
+- Group by topic
+- Concise answers, link to detailed explanations
 
 ### 7. Glossary
 
-- Include all industry-specific and Fiskl-specific terms
-- Arrange alphabetically
+- Include industry-specific and Fiskl-specific terms
+- Alphabetical arrangement
 
-## Guidelines for Content Creation
+## Content Creation Guidelines
 
-1. Use consistent headings:
-   - H1 for main sections
-   - H2 for subsections
-   - H3 and H4 for further divisions
+1. Consistent headings:
+   - H1: main sections
+   - H2: subsections
+   - H3 and H4: further divisions
 
-2. Create modular, reusable content:
-   - Write topics that can stand alone
-   - Use cross-linking to connect related information
+2. Modular, reusable content:
+   - Standalone topics
+   - Cross-linking for related information
 
-3. Include a "What's Next" section at the end of each topic to guide users. This can be partily achieved but structuring the documentation so that the next / previous fulfill this purpose automatically
+3. "What's Next" section at the end of each topic
 
-4. Use task-based titles for how-to content (e.g., "How to Connect Your Bank Account")
+4. Task-based titles for how-to content
 
-5. Implement a clear naming convention for files and folders
+5. Clear naming convention for files and folders
 
-6. Use metadata and tags to improve searchability
+6. Metadata and tags for improved searchability
 
-7. Regularly review and update content, especially after feature updates
+7. Regular content review and updates
 
-8. Incorporate user feedback to continuously improve documentation
-
-Remember, the goal is to create a documentation structure that is intuitive for users, easy to maintain for your team, and flexible enough to accommodate future growth and changes in Fiskl's features.
+8. Incorporate user feedback
 
 ## File and Folder Naming Conventions
 
-    Implementing a clear and consistent naming convention for files and folders is crucial for maintaining an organized and easily navigable documentation structure. Follow these guidelines for naming your files and folders in the Fiskl documentation:
+### Folder Naming Rules
 
-    ### Folder Naming Rules
+1. Title case for main feature/section folders
+2. Hyphens for multi-word folder names
+3. Concise but descriptive
+4. No special characters or spaces
+5. Plural forms for multiple document folders
 
-    1. Use title case for main feature or section folders
-    - Example: `Invoicing`, `Getting Started`, `Expense Tracking`
+### File Naming Rules
 
-    2. Use hyphens to separate words in folder names with multiple words
-    - Example: `Bank-Connections`, `Tax-Management`
+1. Lowercase for all file names
+2. Hyphens to separate words
+3. Start with main action/topic
+4. Verbs for action-oriented documents, nouns for concepts
+5. Include file extension (.md)
+6. Avoid dates unless necessary (YYYY-MM-DD format if needed)
+7. Concise but descriptive (2-5 words)
+8. Two-digit numbers with leading zero for sequences
 
-    3. Keep folder names concise but descriptive
-
-    4. Avoid using special characters or spaces in folder names
-
-    5. Use plural forms for folders that will contain multiple related documents
-    - Example: `Reports`, `Settings`
-
-    ### File Naming Rules
-
-
-    1. Use lowercase for all file names
-
-    2. Use hyphens to separate words in file names
-    - Example: `invoice-create.md`, `setting-up-your-taxes.md`
-
-    3. Start the file name with the main action or topic, followed by more specific details
-    - Example: `invoice-customize.md`, `report-profit-and-loss.md`
-
-    4. Use verbs for action-oriented documents and nouns for conceptual documents
-    - Action: `connect-bank-account.md`, `create-invoice.md`
-    - Concept: `chart-of-accounts-explained.md`, `tax-deductions-overview.md`
-
-    5. Include the file extension (`.md` for Markdown files)
-
-    6. Avoid using dates in file names unless absolutely necessary. If needed, use the format YYYY-MM-DD
-    - Example: `2023-04-15-tax-updates.md`
-
-    7. Keep file names concise but descriptive, aiming for 2-5 words
-
-    8. For numbered sequences, use two-digit numbers with a leading zero
-    - Example: `01-create-account.md`, `02-set-up-business.md`, `03-connect-bank.md`
-
-    
-
-    ### Example Structure
 <details>
-        <summary>File naming directory example</summary>
+<summary>Example directory structure</summary>
 
- ```
-    Fiskl-Documentation/
-    │
-    ├── Getting-Started/
-    │   ├── 01-create-account.md
-    │   ├── 02-set-up-business.md
-    │   ├── 03-connect-bank.md
-    │   └── setting-up-your-taxes.md
-    │
-    ├── Invoicing/
-    │   ├── invoice-create.md
-    │   ├── invoice-customize.md
-    │   ├── invoice-send.md
-    │   └── invoice-recurring-setup.md
-    │
-    ├── Expense-Tracking/
-    │   ├── expense-add-manual.md
-    │   ├── expense-import-bank.md
-    │   └── receipt-scanning.md
-    │
-    ├── Reports/
-    │   ├── report-profit-and-loss.md
-    │   ├── report-balance-sheet.md
-    │   └── report-cash-flow.md
-    │
-    └── Tax-Management/
-        ├── tax-deductions-overview.md
-        ├── tax-filing-deadlines.md
-        └── tax-form-1099.md
-    ```
-    </details>
+```
+Fiskl-Documentation/
+├── Getting-Started/
+│   ├── 01-create-account.md
+│   ├── 02-set-up-business.md
+│   ├── 03-connect-bank.md
+│   └── setting-up-your-taxes.md
+├── Invoicing/
+│   ├── invoice-create.md
+│   ├── invoice-customize.md
+│   ├── invoice-send.md
+│   └── invoice-recurring-setup.md
+├── Expense-Tracking/
+│   ├── expense-add-manual.md
+│   ├── expense-import-bank.md
+│   └── receipt-scanning.md
+├── Reports/
+│   ├── report-profit-and-loss.md
+│   ├── report-balance-sheet.md
+│   └── report-cash-flow.md
+└── Tax-Management/
+    ├── tax-deductions-overview.md
+    ├── tax-filing-deadlines.md
+    └── tax-form-1099.md
+```
+</details>
 
-
-
-    <details>
-    <summary>File naming best practices</summary>
-
-        1. Be consistent: Once you establish a naming convention, stick to it across all documentation.
-
-        2. Use descriptive names: Anyone should be able to guess the content of a file or folder from its name.
-
-        3. Consider scalability: Choose a naming system that will accommodate future growth and additional topics.
-
-        4. Avoid redundancy: Don't repeat the folder name in every file within that folder.
-
-        5. Update regularly: Review and update file and folder names as features and products evolve.
-
-        By following these conventions, you'll create a documentation structure that is easy to navigate, maintain, and scale as Fiskl grows and evolves.
-
-        ## Document Formatting
-    </details>
+Remember: The goal is to create an intuitive, maintainable, and flexible documentation structure that accommodates Fiskl's current features and future growth.
