@@ -18,6 +18,7 @@ The Manage Taxes screen consists of three main sections:
 ### 1. Single Taxes
 
 In this section, you can:
+
 - View a list of all your taxes and their assigned tax numbers
 - Add new taxes and assign them to a Tax ID
 - Designate taxes as either Sales or Non-Sales taxes
@@ -30,20 +31,66 @@ For example when creating French VAT tax, you would apply for a French VAT numbe
 ### 2. Tax Groups
 
 Tax groups allow you to:
+
 - Create collections of two or more taxes
 - Set up compound (stacked) taxes
 
-Example of a tax group:
-> In British Columbia, the sales tax group includes both the Goods and Services Tax (GST) and the Provincial Sales Tax (PST). These are applied together on sales transactions, with each tax having its own rate and rules but grouped for calculation and reporting purposes.
+<details>
+  <summary>Example of a tax group</summary>
 
-Example of a compound tax:
-> In British Columbia, Canada:
-> 1. Provincial Sales Tax (PST) is applied to the base price of an item.
-> 2. Goods and Services Tax (GST) is then calculated on the total of the base price plus the PST.
+    In British Columbia, the sales tax group includes both the Goods and Services Tax (GST) and the Provincial Sales Tax (PST). These are applied together on sales transactions, with each tax having its own rate and rules but grouped for calculation and reporting purposes.
+     
+     An example of a tax group with three taxes:
+    ```
+    Tax Code A: 5% sales tax
+    Tax Code B: 6% regional tax
+    Tax Code C: 4% municipal tax
+    ```
+Let's say you purchase an item for $100. Here's how the non-compound tax group would be calculated:
+
+  ```
+    Tax Code A (5% sales tax):
+    $100 × 0.05 = $5.00
+    Tax Code B (6% regional tax):
+    $100 × 0.06 = $6.00
+    Tax Code C (4% municipal tax):
+    $100 × 0.04 = $4.00
+  ```
+
+Total taxes: $5.00 + $6.00 + $4.00 = $15.00
+
+</details>
+
+<details>
+  <summary>Example of a compound tax group</summary>
+
+    In Quebec, Canada, the tax structure includes both the federal Goods and Services Tax (GST) and the provincial Quebec Sales Tax (QST).
+```
+    GST (Goods and Services Tax):
+        This is a federal tax applied across Canada.
+        The GST rate is 5%.
+    QST (Quebec Sales Tax):
+        This is a provincial tax specific to Quebec.
+        The QST rate is 9.975%.
+```
+
+QST is calculated on the selling price plus GST. 
+
+```
+    Base Price of an Item: $100
+    GST Calculation: $100 × 0.05 = $5.00
+    QST Calculation: ($100 + $5) × 0.09975 = $10.47
+```
+
+Total Taxes: $5.00 (GST) + $10.47 (QST) = $15.47 
+
+Final Price of the Item: $100 + $15.47 = $115.47
+</details>
 
 ### 3. Tax ID/VAT Numbers
 
 In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each Tax ID is associated with:
+
 1. Country
 2. Currency
 3. Specific taxes
