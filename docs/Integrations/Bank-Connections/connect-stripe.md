@@ -1,74 +1,75 @@
 ---
-title: Connect with Stripe
+title: Connect Stripe to Fiskl Banking
 sidebar_position: 1
-description: Learn how to connect your Stripe account to Fiskl for seamless financial management
+description: Streamline your financial management by connecting your Stripe account to Fiskl
 tags:
  - Integrations
  - Banking
  - Stripe
 ---
 
-Connecting your Stripe account to Fiskl Banking revolutionizes your financial management, especially for multi-currency transactions.
+Connecting your Stripe account to Fiskl Banking transforms your financial management, especially for multi-currency transactions. This integration simplifies the traditionally complex process of reconciling Stripe payouts, saving you time and reducing errors.
 
-Traditionally, reconciling Stripe payouts was a complex, error-prone process. You'd receive a weekly payout containing multiple transactions, often in different currencies. Matching these transactions in your accounting platform was time-consuming and prone to errors due to currency conversions, fees and not knowing which transactions were included in the payout.
+## How It Works
 
-Fiskl's partnership with Stripe eliminates this hassle. When you connect one or more Stripe accounts to Fiskl Banking, we import every single transaction, creating 100% accurate ledger entries for each one. We handle all the details from creating the ledger accounts to tracking amount, fees, and conversion rates - automatically.
+When you connect Stripe to Fiskl Banking:
 
-The result? Instead of reconciling hundreds of individual transactions, you only need to match the single Stripe payout to your bank account as an internal transfer. It's that simple.
+1. Fiskl imports all transactions from your Stripe account(s)
+2. We create accurate ledger entries for each transaction, including:
+   - Transaction amounts
+   - Fees
+   - Currency conversion rates
+3. Ledger accounts are automatically created and updated
+4. You only need to match the single Stripe payout to your bank account as an internal transfer
 
-At Fiskl, we've experienced first-hand how much time this integration saves. We're excited for you to enjoy the same benefits.
+This process eliminates the need to reconcile hundreds of individual transactions, greatly simplifying your accounting workflow.
 
-Access Banking in the left menu or visit the [Banking page](https://my.fiskl.com/banking) on the web dashboard.
+## Benefits
 
-## Key Features
+- **Accurate Multi-Currency Support**: Handles transactions and conversions across different currencies
+- **Comprehensive Transaction Handling**: Manages all Stripe transactions, including:
+  - Fiskl invoices paid via Stripe
+  - Transactions initiated outside Fiskl
+  - Issuing card transactions
+  - Fees, refunds, charges, and chargebacks
+- **Automatic Account Creation**: Creates new balance accounts in Fiskl when new payout accounts are added in Stripe
+- **Multiple Account Support**: Connect and manage multiple Stripe accounts
+- **Cross-Platform Functionality**: Works seamlessly across iOS, Android, and Web
+- **Permission-Based Access**: Control who can view and manage Stripe transactions
 
-- Zero-touch reconciliation for Fiskl invoices paid via Stripe, regardless of currency
-- Multi-currency support with accurate matching
-- Precise categorization of transaction fees, including non-payout currencies
-- Processing of all Stripe transactions, including issuing card transactions those initiated outside Fiskl
-- Automated handling of fees, refunds, charges, and chargebacks with correct currency conversions
-- Support for multiple Stripe accounts
-- Automatic creation of new balance accounts in Fiskl when a new payout account is added in Stripe
-- Cross-platform functionality (iOS, Android, and Web)
-- Permission-based views for controlling access to Stripe transactions
+## Connecting Your Stripe Account
 
-## Connection Process
-
-1. Navigate to Banking from the left menu
-
+1. Go to Banking in the left menu or visit the [Banking page](https://my.fiskl.com/banking)
 2. Select "Stripe" from the available options
-
-3. Configure Sync Settings:
+3. Configure sync settings:
    - Choose a start date for importing transactions
-   - Check the "All" box to import all transactions from the selected date
+   - Decide whether to import all transactions from the selected date
 
-4. Set Default Categories:
-   - Choose a default category for charges (e.g., "Payment processing fees")
+:::info[caution]
+Avoid selecting `ALL` transactions if possible. Consider using your current financial year's start date. We'll create an Opening Balance ledger transaction as needed. Selecting `ALL` may result in numerous unnecessary ledger entries due to the detailed nature of this feed.
+:::
+
+4. Change your categories if required:
+   - Choose a category for charges (e.g., "Payment processing fees")
    - Optionally, enable "Create clients" and "Create vendors"
 
-:::info[Caution]
-Avoid selecting `ALL` transactions where possible. Consider using the start of your current financial year. We'll create the required Opening Balance ledger transaction. As this feed is very detailed, `ALL` can result in a substantial number of unnecessary ledger transactions.
-
-Enabling "Create vendors" may add a significant number of vendors to your account.
+:::info
+Enabling "Create vendors" may add many new vendors to your account.
 :::
 
 5. Connect to Stripe:
    - Log in to your existing Stripe account or create a new one
+6. Verify the connection:
+   - Your Stripe accounts will appear automatically in Fiskl
+   - You can connect multiple Stripe accounts, including those with multiple currencies
 
-6. Verify Connection:
-   - Your Stripe accounts will automatically appear in Fiskl
-   - You can connect multiple Stripe accounts, including those with multi-currencies
+## After Connecting
 
-## Post-Connection Information
-
-- Initial download may show temporary warning icons
-
-## Viewing Transactions
-
-- Click "Transactions" on the account card or access the matching ledger account from Fiskl Chart of Accounts.
+- The initial download may display temporary warning icons while we balances are calculated
+- To view transactions, click "Transactions" on the account card or access the matching ledger account from Fiskl Chart of Accounts
 
 :::info
-Connecting Stripe as a Payment Gateway is a seperate process.
+Connecting Stripe as a Payment Gateway is a separate process from this banking integration.
 :::
 
-Remember: Regularly review your Stripe connection to ensure accurate transaction import and categorization.
+Remember to regularly review your Stripe connection to ensure accurate transaction import and categorization.
