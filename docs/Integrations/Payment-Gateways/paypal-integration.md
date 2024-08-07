@@ -1,5 +1,5 @@
 ---
-title: Connect PayPal to Fiskl
+title: PayPal
 sidebar_position: 6
 description: Streamline your online payments by connecting PayPal to Fiskl
 tags:
