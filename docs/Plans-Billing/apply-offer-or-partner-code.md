@@ -16,7 +16,7 @@ Fiskl provides introductory offers when you register. We also occasionally offer
 
 You can apply offer codes in three ways:
 
-1. On the [Fiskl Registration](https://my.fiskl.com/registration) screen, select the "Have an offer code?" link in the top right
+1. On the [Fiskl Registration](https://my.fiskl.com/registration) page, select the "Have an offer code?" link in the top right
 2. Use a special URL that automatically applies the offer (e.g., `https://my.fiskl.com/registration?code=your-offer`)
 3. In user settings, go to the account settings tab and enter the code in the "Offer or Partner Code" field
 

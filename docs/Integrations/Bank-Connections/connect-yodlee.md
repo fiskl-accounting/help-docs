@@ -60,7 +60,7 @@ After the initial connection, it may take up to 12 hours for our banking data pr
 We recommend checking your bank connections at least every 30 days to re-authenticate and ensure uninterrupted service.
 
 :::info
-Not all banks support automatic refresh. In this case you will need to refesh your connection from the banking screen periodically.
+Not all banks support automatic refresh. In this case you will need to refesh your connection from the banking page periodically.
 :::
 
 <!-- :::info

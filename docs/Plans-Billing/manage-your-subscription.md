@@ -9,7 +9,7 @@ tags:
   - Plans
 ---
 
-Manage your subscription from the [Subscriptions & Billing](https://my.fiskl.com/subscription-billing) screen, which contains four tabs: Plans, History, User Changes, and Billing.
+Manage your subscription from the [Subscriptions & Billing](https://my.fiskl.com/subscription-billing) page, which contains four tabs: Plans, History, User Changes, and Billing.
 
 :::info[note]
 Only users with the Admin or Owner role can see all four tabs.
@@ -47,7 +47,7 @@ If your tax number is set in company settings, it will appear on the invoice.
 
 ## User Changes
 
-This tab displays the history of users on your account. It shows when users joined and when they were removed from the team members screen.
+This tab displays the history of users on your account. It shows when users joined and when they were removed from the team members page.
 
 ## Billing
 

@@ -9,7 +9,7 @@ tags:
 
 The Company Settings page allows you to manage your basic company information in Fiskl. This information is used across various features to ensure accurate reporting and invoicing.
 
-Access Company Settings using the `gear icon` on the top left menu or visit the [Company Settings page](https://my.fiskl.com/company-settings) on the web dashboard.
+Access Company Settings using the `gear icon` on the top left menu or visit the [Company Settings](https://my.fiskl.com/company-settings) page on the web dashboard.
 
 ## General
 

@@ -51,7 +51,7 @@ Then they need to enter your name (as the Accountant), your email address and se
 
 ![Accountant access](https://fiskl.com/wp-content/uploads/2024/04/Accountant-acccess.png)
 
-You will receive an email notifying you of your accountant access. Log in or register on the Accountant Portal and accept the notification displayed on your portal home screen.
+You will receive an email notifying you of your accountant access. Log in or register on the Accountant Portal and accept the notification displayed on your portal home page.
 
 > If you've been using a trial account, delete that account before accepting the invitation as Fiskl allows a single email per login. Then, register for a new account using the same email address.
 

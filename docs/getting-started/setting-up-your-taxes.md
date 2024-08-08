@@ -37,7 +37,7 @@ Use the interactive demo to learn how to set up your taxes.
 
 [Dashboard - Manage Taxes](https://my.fiskl.com/manage-taxes)
 
-There are three tabs on the manage taxes screen for setting up your taxes. 
+There are three tabs on the manage taxes page for setting up your taxes.
 
 <Tabs lazy>
   <TabItem value="single" label="Single taxes" default>

@@ -9,11 +9,11 @@ tags:
 
 The Tax Settings page allows you to set up and manage your sales taxes, non-sales taxes, tax groups, and tax identification numbers. Fiskl's flexible tax system supports multiple tax agencies in various currencies, accommodating single tax rates, multiple tax rates, and compound taxes.
 
-Access Tax Settings using the `gear icon` on the top left menu or visit the [Manage Taxes page](https://my.fiskl.com/manage-taxes) on the web dashboard.
+Access Tax Settings using the `gear icon` on the top left menu or visit the [Manage Taxes](https://my.fiskl.com/manage-taxes) page on the web dashboard.
 
 ## Tax Configuration
 
-The Manage Taxes screen consists of three main sections:
+The Manage Taxes page consists of three main sections:
 
 ### 1. Single Taxes
 

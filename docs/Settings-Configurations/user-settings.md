@@ -10,7 +10,7 @@ tags:
 
 The User Settings page allows you to manage your personal account information and preferences within Fiskl. These settings affect how Fiskl appears and functions for your individual user account.
 
-Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
+Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings](https://my.fiskl.com/user-settings/account-settings) page on the web dashboard.
 
 ## Account Settings
 
