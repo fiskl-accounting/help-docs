@@ -1,7 +1,7 @@
 ---
 title: Company settings
 sidebar_position: 2
-description: Manage your basic company information in Fiskl
+description: Manage your basic company information
 tags:
  - Settings
  - Company settings

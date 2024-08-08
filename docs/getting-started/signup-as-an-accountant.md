@@ -1,7 +1,7 @@
 ---
 title: Sign up as an Accountant
 sidebar_position: 6
-description: Sign up to Fiskl as an accountant
+description: Sign up as an accountant
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

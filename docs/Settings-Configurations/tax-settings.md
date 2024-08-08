@@ -1,7 +1,7 @@
 ---
 title: Tax settings
 sidebar_position: 6
-description: Configure your tax settings in Fiskl
+description: Configure your tax settings
 tags:
  - Settings
  - Tax settings

@@ -1,7 +1,7 @@
 ---
 title: Stripe
 sidebar_position: 2
-description: Streamline your online payments by connecting Stripe to Fiskl
+description: Streamline your online payments by connecting Stripe
 tags:
   - Integrations
   - Payment gateways

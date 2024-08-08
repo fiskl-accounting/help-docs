@@ -52,18 +52,27 @@ Take an interactive tour of the settings.
   </TabItem>
   <TabItem value="profile" label="Profile settings">
 
+<<<<<<< HEAD
     Profile settings affect just your account. These include.
 
     - Authentication
     - Email & password
+=======
+    - Authentication 
+    - Email & Password
+>>>>>>> origin
     - Time, date and number settings
     </TabItem>
 </Tabs>
 
 ---
 
+<<<<<<< HEAD
 
 ### Company settings
+=======
+### Company Settings 
+>>>>>>> origin
 
 :::info
 You can all your company settings after your account has been created apart from your company currency.

@@ -1,7 +1,7 @@
 ---
 title: Accounting settings
 sidebar_position: 4
-description: Configure your accounting preferences and standard accounts in Fiskl
+description: Configure your accounting preferences and standard accounts
 tags:
  - Settings
  - Accounting settings

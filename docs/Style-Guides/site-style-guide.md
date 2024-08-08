@@ -1,7 +1,7 @@
 ---
 title: Site style guide
 sidebar_position: 6
-description: Style guide structuring help documentation in Fiskl
+description: Style guide structuring help documentation
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

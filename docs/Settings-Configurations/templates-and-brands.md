@@ -1,7 +1,7 @@
 ---
 title: Templates and brands settings
 sidebar_position: 6
-description: Configure your invoice, quote, and email templates and brands in Fiskl
+description: Configure your invoice, quote, and email templates and brands
 tags:
   - Settings
   - Templates

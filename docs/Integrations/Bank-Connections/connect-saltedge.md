@@ -1,13 +1,9 @@
 ---
 title: Connect with Salt Edge
 sidebar_position: 4
-<<<<<<< HEAD
-description: Securely connect your bank accounts to Fiskl using SaltEdge
-=======
 description: Securely connect your bank accounts to Fiskl using Salt Edge
 toc_min_heading_level: 2
 toc_max_heading_level: 4
->>>>>>> origin
 tags:
  - Integrations
  - Banking
@@ -16,11 +12,7 @@ tags:
 
 Salt Edge bank integrations provide a secure way to connect your financial accounts to Fiskl, allowing for efficient and automated sharing of your banking data. This integration enhances your experience by providing comprehensive financial services within Fiskl. Salt Edge is the primary provider for banks in Europe, Asia, and the Middle East.
 
-<<<<<<< HEAD
-## Benefits of SaltEdge integration
-=======
 ## Benefits of Salt Edge Integration
->>>>>>> origin
 
 - Wide coverage of banks in Europe, Asia, and the Middle East.
 - Support for OpenBanking standards.
@@ -31,13 +23,8 @@ Salt Edge bank integrations provide a secure way to connect your financial accou
 
 Before starting, you can check if your bank is supported by Salt Edge:
 
-<<<<<<< HEAD
-1. Visit the [SaltEdge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page.
-2. Search for your bank or browse by country.
-=======
 1. Visit the [Salt Edge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
 2. Search for your bank or browse by country
->>>>>>> origin
 
 ## Connecting your bank account
 

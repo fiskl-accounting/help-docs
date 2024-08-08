@@ -1,7 +1,7 @@
 ---
 title: Invoice and quote settings
 sidebar_position: 10
-description: Configure your invoice and quote preferences in Fiskl
+description: Configure your invoice and quote preferences
 tags:
  - Settings
  - Invoice and quote settings
