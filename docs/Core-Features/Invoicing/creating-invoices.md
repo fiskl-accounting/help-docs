@@ -73,12 +73,20 @@ The client's Tax/VAT Registration Number is shown if set in the client profile.
 
 ### Invoice Number
 
-The initial format is INV-0001, incrementing with each new invoice. You can customize this format, but:
+The initial format is INV-0001, incrementing with each new invoice.
 
-1. Fiskl can only auto-increment if the number ends with a digit
-2. Date-based formats (e.g., 2024-01-0001) require manual updates at each period change
+<details>
+
+    <summary>Learn more about customizing your invoice number</summary>
+
+    **You can customize this format, but there are limitations:**
+
+    1. Auto-increment is only possible if the number ends with a digit
+    2. Date-based formats (e.g., 2024-01-0001) require manual updates at each period change 
 
 To change the format, simply edit the invoice number when creating a new invoice. Subsequent invoices will follow this new pattern.
+
+</details>
 
 ### Invoice Dates
 
@@ -126,11 +134,11 @@ Changes to templates affect all invoices using that template.
 
 Create line items directly on the invoice or in advance. Types include:
 
-- Products
-- Services
-- Expenses
-- Mileage
-- Time
+- [Products](../../Core-Features/Line-Items/products)
+- [Services](../../Core-Features/Line-Items/services)
+- [Expenses](../../Core-Features/Line-Items/expenses)
+- [Mileage](../../Core-Features/Line-Items/mileage)
+- [Time](../../Core-Features/Line-Items/time)
 
 Products and Services are templates, while Expenses, Time & Mileage become billable when added to an invoice.
 
@@ -142,9 +150,16 @@ Apply single, multiple, or compound taxes at the line item level. Taxes are calc
 
 Add invoice-level discounts or request deposits as either fixed amounts or percentages.
 
-Example:
+<details>
+
+<summary>See examples for fixed and percentage discounts</summary>
+
+To make the amount entered a percentage just add a percentage sign at the end of the value. (e.g., `20%`)
+
 - $100 discount = 100
 - 15% discount = 15%
+
+</details>
 
 ### Currency
 
@@ -157,6 +172,9 @@ You can adjust exchange rates for line items in different currencies.
 ### Language
 
 Choose from over 60 languages for invoices & quotes. This affects the invoice, standard emails, and customer-facing screens.
+
+You can customize your languages in [Invoice and Quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
+
 
 ### Additional Information
 
