@@ -1,6 +1,6 @@
 ---
-title: Invoice send
-sidebar_position: 3
+title: Sending invoices
+sidebar_position: 4
 description: Sending invoices
 tags:
   - Invoice
