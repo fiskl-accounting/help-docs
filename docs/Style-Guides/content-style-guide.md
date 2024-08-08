@@ -121,7 +121,33 @@ Example structure for a complex topic:
 
 Remember: The goal is to make complex information accessible to users at different levels of expertise. Always consider your audience and provide clear paths for both basic understanding and deep dives into complex topics.
 
-[Remainder of the style guide stays the same]
+## Left Menu Naming Conventions
+
+When naming items in the left menu, follow these guidelines:
+
+1. Main actions with dedicated files:
+   - Use gerund (verb + -ing) form
+   - Capitalize the first word only (sentence case)
+   - Examples: "Creating invoices", "Creating quotes", "Creating products"
+
+2. Documents covering multiple actions:
+   - Use the noun form of the item
+   - Add "management" to indicate multiple actions
+   - Capitalize the first word only (sentence case)
+   - Examples: "Product management", "Time management", "Mileage management"
+
+3. Sub-actions within a larger document:
+   - Use as anchor links within the document
+   - Use the base verb form
+   - Lowercase all words
+   - Examples: "create", "edit", "delete", "attach to invoice"
+
+4. Invoices and Quotes with larger descriptions:
+   - Use the gerund form for the main actions
+   - Capitalize the first word only (sentence case)
+   - Examples: "Creating invoices", "Editing invoices", "Sending invoices", "Deleting invoices"
+
+Remember: Consistency is key. Always use sentence case for menu items, and choose clear, action-oriented names that users can easily understand and navigate.
 
 ## Numbers and Measurements
 

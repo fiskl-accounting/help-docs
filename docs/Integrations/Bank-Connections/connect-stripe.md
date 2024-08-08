@@ -2,6 +2,8 @@
 title: Connect Stripe
 sidebar_position: 1
 description: Streamline your financial management by connecting your Stripe account to Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
  - Integrations
  - Banking

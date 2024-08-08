@@ -2,6 +2,8 @@
 title: GoCardless
 sidebar_position: 4
 description: Streamline your payment collection by connecting GoCardless to Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Integrations
   - Payment Gateways

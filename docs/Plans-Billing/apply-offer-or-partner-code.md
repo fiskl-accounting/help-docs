@@ -2,6 +2,8 @@
 title: Apply Offer or Partner Code
 sidebar_position: 4
 description: How to apply offer or partner codes in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Billing
   - Plans

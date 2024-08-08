@@ -159,16 +159,45 @@ tags:
 4. No special characters or spaces
 5. Plural forms for multiple document folders
 
-### File Naming Rules
+### File Naming Conventions
 
-1. Lowercase for all file names
-2. Hyphens to separate words
-3. Start with main action/topic
-4. Verbs for action-oriented documents, nouns for concepts
-5. Include file extension (.md)
-6. Avoid dates unless necessary (YYYY-MM-DD format if needed)
-7. Concise but descriptive (2-5 words)
-8. Two-digit numbers with leading zero for sequences
+When naming files for the documentation, follow these guidelines:
+
+1. Use lowercase for all file names
+2. Use hyphens to separate words
+3. Start with the main action or topic
+4. Use verbs for action-oriented documents, nouns for concepts
+5. Include the file extension (.md)
+6. Avoid dates unless necessary (use YYYY-MM-DD format if needed)
+7. Keep names concise but descriptive (2-5 words)
+8. Use two-digit numbers with leading zero for sequences if needed
+
+Examples:
+- `creating-invoices.md`
+- `product-management.md`
+- `chart-of-accounts.md`
+- `01-create-account.md`
+
+For files covering multiple actions:
+- Use the plural noun form of the item
+- Add "-management" to indicate multiple actions
+- Examples: `products-management.md`, `time-management.md`
+
+For larger topics with multiple subtopics:
+- Create a folder with a descriptive name
+- Use individual files for each subtopic within the folder
+- Example:
+  ```
+  Invoicing/
+  ├── creating-invoices.md
+  ├── editing-invoices.md
+  ├── sending-invoices.md
+  └── deleting-invoices.md
+  ```
+
+Remember: The goal is to create an intuitive, maintainable, and flexible documentation structure that accommodates Fiskl's current features and future growth.
+
+[Remainder of the style guide stays the same]
 
 <details>
 <summary>Example directory structure</summary>
