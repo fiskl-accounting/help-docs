@@ -57,7 +57,7 @@ To send an invoice by email:
 5. Click "Send"
 
 :::info[tip]
-To send emails from your own domain, you can whitelist it in [Invoice & quote settings](../Settings/invoice-and-quote-settings.md).
+To send emails from your own domain, you can whitelist it in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
 :::
 
 ### Send Share Link
