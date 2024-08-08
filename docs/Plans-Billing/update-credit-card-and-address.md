@@ -2,6 +2,8 @@
 title: Update Credit Card and Address
 sidebar_position: 8
 description: How to update your billing information in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Billing
   - Plans

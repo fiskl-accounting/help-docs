@@ -2,6 +2,8 @@
 title: User Settings
 sidebar_position: 10
 description: Configure your personal preferences and account settings in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
  - Settings
  - User Settings

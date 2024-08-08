@@ -2,6 +2,8 @@
 title: Set up your taxes
 sidebar_position: 3
 description: Setting up your company taxes
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Getting Started
   - Accounting

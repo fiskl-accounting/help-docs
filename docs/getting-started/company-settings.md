@@ -2,8 +2,8 @@
 title: Company Settings
 sidebar_position: 1
 description: Learn about your company and user settings
-image: ../static/img/docusaurus-social-card.jpg
-keywords: [Getting Started, Company Settings]
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Getting Started
   - Company

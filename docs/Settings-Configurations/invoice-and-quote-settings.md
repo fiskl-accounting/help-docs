@@ -2,6 +2,8 @@
 title: Invoice and Quote Settings
 sidebar_position: 10
 description: Configure your invoice and quote preferences in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
  - Settings
  - Invoice and Quote Settings

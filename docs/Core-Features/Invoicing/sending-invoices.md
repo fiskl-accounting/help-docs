@@ -2,6 +2,8 @@
 title: Sending invoices
 sidebar_position: 4
 description: Sending invoices
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Invoice
   - Accountant

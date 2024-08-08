@@ -2,6 +2,8 @@
 title: Invate team members
 sidebar_position: 8
 description: Invite your team members and accountant
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Getting Started
   - Team

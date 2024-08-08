@@ -2,6 +2,8 @@
 title: Company Settings
 sidebar_position: 2
 description: Manage your basic company information in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
  - Settings
  - Company Settings

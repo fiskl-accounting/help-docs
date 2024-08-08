@@ -2,6 +2,8 @@
 title: Tax Settings
 sidebar_position: 6
 description: Configure your tax settings in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
  - Settings
  - Tax Settings
@@ -29,7 +31,7 @@ The currency of the tax is determined by the associated Tax ID.
 For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
 
 :::info[tip]
-You can set a sales tax as your primary tax by clicking the star icon on the right. Once set, this tax will automatically be added when you create new line items.
+You can set a sales tax as your primary tax using the star icon on the right. This tax will then automatically be added when you create new line item.
 :::
 
 ### 2. Tax Groups
@@ -113,7 +115,12 @@ Follow these steps to set up your taxes:
 Use the interactive demo below to learn how to set up your taxes in detail.
 :::
 
-<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="web" label="Web" default>
+    <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe
 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
 src="https://demo.fiskl.com/e/clzfgbf21001skx0c7irtx3gl/tour"
@@ -123,5 +130,22 @@ mozallowfullscreen="true"
 allowtransparency="true"
 ></iframe>
 </div>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+   <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/clzfgbf21001skx0c7irtx3gl/tour"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+  </TabItem>
+
+</Tabs>
+
+
 
 Remember: Regularly review and update your tax settings to ensure compliance with changing tax regulations in your jurisdiction(s). Consult with a tax professional if you're unsure about specific tax requirements for your business.

@@ -2,6 +2,8 @@
 title: Accounting Settings
 sidebar_position: 4
 description: Configure your accounting preferences and standard accounts in Fiskl
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
  - Settings
  - Accounting Settings

@@ -2,6 +2,8 @@
 title: Import bank data
 sidebar_position: 10
 description: Learn about importing your bank data
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Getting Started
   - Bank
