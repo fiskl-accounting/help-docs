@@ -134,6 +134,10 @@ In this section, you can manage your Tax IDs (also referred to as your Tax Agenc
 2. Currency
 3. Specific taxes
 
+:::note
+Currency can not be changed after the tax ID has been created.
+:::
+
 ## Setting Up Taxes
 
 Follow these steps to set up your taxes:
