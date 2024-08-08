@@ -13,6 +13,39 @@ The Tax Settings page allows you to set up and manage your sales taxes, non-sale
 
 Access Tax Settings using the `gear icon` on the top left menu or visit the [Manage Taxes](https://my.fiskl.com/manage-taxes) page on the web dashboard.
 
+## Tax types
+
+There are two primary tax types:
+
+- Sales tax
+- Non-sales tax
+
+Understanding the difference between sales tax and non-sales tax transactions is crucial for accurate financial reporting.
+
+### Sales tax
+
+Sales tax is a government-imposed fee added to the price of goods and services, collected by businesses at the point of sale and remitted to the appropriate tax authority.
+
+### Non-sales tax
+
+Non-sales tax transactions do not include this additional fee. This distinction affects how you record transactions in Fiskl, ensuring compliance with tax regulations and aiding in precise financial management.
+
+<details>
+  <summary>Learn more about how the different tax types are represented in accounting</summary>
+
+  **Sales taxes**:
+  
+  - Are always assigned a [Tax ID](tax-settings#3-tax-idvat-numbers)
+  - When you create a tax ID, a ledger account with the tax ID as its name is created in your chart of accounts under `Liabilities > Sales Taxes Payable`
+
+  **Non-sales taxes**:
+  
+  - Do not have a tax ID and do not get a unique ledger account created
+  - All values assigned to your non-sales tax will be in the ledger account `Liabilities > Other Taxes Payable`
+
+</details>
+
+
 ## Tax Configuration
 
 The Manage Taxes page consists of three main sections:
@@ -21,14 +54,14 @@ The Manage Taxes page consists of three main sections:
 
 In this section, you can:
 
-- View a list of all your taxes and their assigned tax numbers
-- Add new taxes and assign them to a Tax ID
-- Designate taxes as either Sales or Non-Sales taxes
-- Assign multiple taxes to a single Tax ID
+- View a list of all your taxes and their assigned [tax IDs](tax-settings#3-tax-idvat-numbers)
+- Add new taxes and assign them to a tax ID
+- Designate taxes as either [sales](tax-settings#sales-tax) or [non-sales](tax-settings#non-sales-tax) taxes
+- Assign multiple taxes to a single tax ID
 
-The currency of the tax is determined by the associated Tax ID.
+The currency of the tax is determined by the associated [tax IDs](tax-settings#3-tax-idvat-numbers).
 
-For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
+For example when creating French VAT tax, you would apply for a French VAT number/ID and assign the appropriate VAT rate to that EUR Tax ID.
 
 :::info[tip]
 You can set a sales tax as your primary tax using the star icon on the right. This tax will then automatically be added when you create new line item.
@@ -42,11 +75,11 @@ Tax groups allow you to:
 - Set up compound (stacked) taxes
 
 <details>
-  <summary>Example of a tax group</summary>
+  <summary>Example of a tax group and how it's calculated</summary>
 
     In British Columbia, the sales tax group includes both the Goods and Services Tax (GST) and the Provincial Sales Tax (PST). These are applied together on sales transactions, with each tax having its own rate and rules but grouped for calculation and reporting purposes.
      
-     An example of a tax group with three taxes:
+     **An example of a tax group with three taxes:**
     ```
     Tax Code A: 5% sales tax
     Tax Code B: 6% regional tax
@@ -68,7 +101,7 @@ Total taxes: $5.00 + $6.00 + $4.00 = $15.00
 </details>
 
 <details>
-  <summary>Example of a compound tax group</summary>
+  <summary>Example of a compound tax group and how it's calculated</summary>
 
     In Quebec, Canada, the tax structure includes both the federal Goods and Services Tax (GST) and the provincial Quebec Sales Tax (QST).
 ```
@@ -80,7 +113,7 @@ Total taxes: $5.00 + $6.00 + $4.00 = $15.00
         The QST rate is 9.975%.
 ```
 
-QST is calculated on the selling price plus GST. 
+QST is calculated on the selling price plus GST.
 
 ```
     Base Price of an Item: $100
@@ -95,7 +128,7 @@ Final Price of the Item: $100 + $15.47 = $115.47
 
 ### 3. Tax ID/VAT Numbers
 
-In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each Tax ID is associated with:
+In this section, you can manage your Tax IDs (also referred to as your Tax Agency or Tax Number). Each [tax ID](tax-settings#3-tax-idvat-numbers) is associated with:
 
 1. Country
 2. Currency
