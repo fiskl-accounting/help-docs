@@ -151,6 +151,9 @@ Use "OK," not "okay" or "o.k."
 
 ## P
 
+### Page
+When referring specifically to UI elements on web dashboards. For a neutral context use "view"
+
 ### Payment Gateway
 Use "Payment Gateway" when referring to payment integrations in Fiskl.  "Payment Gateway" is more specific and technically accurate when referring to services like Stripe that process payments. "Payment Integration" is broader and encompasses all types of payment-related integrations.
 
@@ -168,6 +171,9 @@ Example: "Refresh to see new transactions."
 Use right menu when referring to the user menu in Fiskl
 
 ## S
+
+### Screen
+Use screen when referring specifically to UI elements on Mobile devices. For a neutral context use "view" 
 
 ### select
 Use for clickable or tappable items.
@@ -192,6 +198,11 @@ Avoid using "user." Instead, use "you," "person," "people," "someone," or "custo
 
 ### user ID
 Two words. Capitalize "User ID" only as a field name.
+
+## V
+
+### view
+When referring UI elements where the context is neither web or mobile. Use page for web specific references or screen for mobile specific references'
 
 ## W
 

@@ -147,7 +147,26 @@ When naming items in the left menu, follow these guidelines:
    - Capitalize the first word only (sentence case)
    - Examples: "Creating invoices", "Editing invoices", "Sending invoices", "Deleting invoices"
 
-Remember: Consistency is key. Always use sentence case for menu items, and choose clear, action-oriented names that users can easily understand and navigate.
+
+## Terminology for User Interface Elements
+
+### Page vs Screen vs View
+
+When referring to different views in Fiskl's interfaces, use the following terminology:
+
+- Web dashboard: Use "page"
+  Example: "Navigate to the Invoices page in your web dashboard."
+
+- Mobile app: Use "screen"
+  Example: "Tap the menu icon to access the Settings screen in the mobile app."
+
+- General or cross-platform context: Use "view"
+  Example: "The Transactions view displays all your recent financial activities."
+
+Rationale:
+- "Page" is more commonly associated with web interfaces and aligns with users' mental models of website navigation.
+- "Screen" is typically used for mobile apps, reflecting the contained nature of mobile views.
+- "View" is a neutral term that works well for both web and mobile contexts, making it ideal for general or cross-platform documentation.
 
 ## Numbers and Measurements
 
@@ -171,4 +190,4 @@ Remember: Consistency is key. Always use sentence case for menu items, and choos
 - Provide text alternatives for non-text content
 - Ensure sufficient color contrast for text and backgrounds
 
-Remember: The goal is to create documentation that is easy to understand, navigate, and apply. Always consider the user's perspective and needs when writing.
+Remember: Consistency is key. Always use sentence case for menu items, and choose clear, action-oriented names that users can easily understand and navigate.
