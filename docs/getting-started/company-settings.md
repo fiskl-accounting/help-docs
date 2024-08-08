@@ -54,14 +54,13 @@ Take an ineractive tour of the settings.
     
     Profile settings affect just your account. These include. 
 
-    - Autehentication 
+    - Authentication 
     - Email & Password
     - Time, date and number settings
     </TabItem>
 </Tabs>
 
 ---
-
 
 ### Company Settings 
 
