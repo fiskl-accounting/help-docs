@@ -12,13 +12,12 @@ tags:
 
 Once you've created an invoice in Fiskl, you have several options for sending it to your client. This guide will walk you through the process of sending invoices and setting up automated reminders.
 
-## Before You Start
+## Before Sending
 
-Before sending an invoice, ensure that:
+Ensure that:
 
-1. You've created and saved the invoice
-2. You've reviewed the invoice for accuracy
-3. You've selected the appropriate payment methods
+1. You've reviewed the invoice for accuracy
+1. You've selected the appropriate payment methods
 
 For details on creating invoices, refer to the [Create invoices](./creating-invoices.md) section of this guide.
 
@@ -48,13 +47,17 @@ Custom emails allow you to create unique, company-specific messages. You can set
 
 Custom emails provide you with special templates to give you control over the tone and content of your automated communications.
 
-To send an invoice by email:
+<details>
+
+<summary>See all the steps to sending an invoice via email</summary>
 
 1. Click on the "Email" tab in the invoice review screen
 2. Choose between standard or custom email format
 3. Edit the email text if needed
 4. Add Cc or Bcc recipients if required
 5. Click "Send"
+
+</details>
 
 :::info[tip]
 To send emails from your own domain, you can whitelist it in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
@@ -64,9 +67,15 @@ To send emails from your own domain, you can whitelist it in [Invoice & quote se
 
 Share links provide flexibility in how you send invoices. The generated link is the same one used in the "Pay Now" button of emailed invoices. It directs your client to a secure page where they can preview the invoice and make a payment. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
 
+<details>
+
+<summary>See all the steps to sending an invoice via share link</summary>
+
 1. Click "Generate share link" in the invoice review screen
 2. Copy the generated link
 3. Paste the link into your preferred messaging app
+
+</details>
 
 :::info
 Generating a share link automatically marks the invoice as "Sent".

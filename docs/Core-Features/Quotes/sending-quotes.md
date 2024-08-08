@@ -26,6 +26,7 @@ Fiskl offers two email formats for sending quotes:
 #### Standard Emails
 
 HTML-formatted emails provided by Fiskl that:
+
 - Respect the quote's language setting
 - Can be customized with an email logo set in Templates and Brands
 - Use your quote template's primary header color for branding consistency
@@ -34,23 +35,33 @@ HTML-formatted emails provided by Fiskl that:
 
 Create unique, company-specific messages in [Templates and Brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios.
 
-To send a quote by email:
+<details>
+
+<summary>See all the steps to sending a quote via email</summary>
+
 1. Click on the "Email" tab in the quote review screen
 2. Choose between standard or custom email format
 3. Edit the email text if needed
 4. Add Cc or Bcc recipients if required
 5. Click "Send"
 
+</details>
+
 ### Send Share Link
 
 Share links provide flexibility in how you send invoices. The generated link is the same one used in the "View Quote" button of emailed quote. It directs your client to a secure page where they can preview the quote accept it. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
+
+<details>
+<summary>See all the steps to sending a quote via share link</summary>
 
 1. Click "Generate share link" in the quote review screen
 2. Copy the generated link
 3. Paste the link into your preferred messaging app
 
+</details>
+
 :::info
-Generating a share link automatically marks the quoteq as "Sent".
+Generating a share link automatically marks the quote as "Sent".
 :::
 
 ### Send via Messaging App
