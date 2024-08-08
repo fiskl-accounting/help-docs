@@ -28,6 +28,10 @@ The currency of the tax is determined by the associated Tax ID.
 
 For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
 
+:::info[tip]
+You can set a sales tax as your primary tax by clicking the star icon on the right. Once set, this tax will automatically be added when you create new line items.
+:::
+
 ### 2. Tax Groups
 
 Tax groups allow you to:
