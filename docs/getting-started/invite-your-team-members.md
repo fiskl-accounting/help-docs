@@ -1,11 +1,9 @@
 ---
-title: Invate team members
+title: Invite team members
 sidebar_position: 8
 description: Invite your team members and accountant
-toc_min_heading_level: 2
-toc_max_heading_level: 4
 tags:
-  - Getting Started
+  - Getting started
   - Team
   - Accountant
 ---
@@ -27,35 +25,35 @@ tags:
 
     **Admin:**
 
-    * Full access to the Fiskl account.
-    * Unable to access the subscription and billing information for the Fiskl account.
+    * Full access to the Fiskl account
+    * Unable to access the subscription and billing information for the Fiskl account
 
     **Billing user:**
 
-    * Create and send invoices and quotes.
-    * Create items (expenses, mileage, and time).
-    * View all items entered by any user.
-    * Add or edit the client list.
+    * Create and send invoices and quotes
+    * Create items (expenses, mileage, and time)
+    * View all items entered by any user
+    * Add or edit the client list
 
     **User:**
 
-    * Create items (expenses, mileage and time).
-    * See all items that only they have raised.
+    * Create items (expenses, mileage and time)
+    * See all items that only they have raised
 *   ### Invite team member and assign roles <a href="#kbsection1" id="kbsection1"></a>
 
-    ✅ **Step 1** – From the left menu select “Team members”.
+    ✅ **Step 1** – From the left menu select “Team members”
 
     ![](https://fiskl.com/wp-content/uploads/2023/07/menu-6.png)
 
-    ✅ **Step 2** – Click on “Invite new member”.
+    ✅ **Step 2** – Click on “Invite new member”
 
     ![](https://fiskl.com/wp-content/uploads/2023/07/invite-member.png)
 
-    ✅ **Step 3** – Enter team members information and assign a role.
+    ✅ **Step 3** – Enter team members information and assign a role
 
     ![](https://fiskl.com/wp-content/uploads/2023/07/select-role.png)
 
-    ✅ **Step 4** – Your team member will receive an invitation to join Fiskl and Pending status will be applied to your entry. Once they have logged into Fiskl, they will then become Active.
+    ✅ **Step 4** – Your team member will receive an invitation to join Fiskl and Pending status will be applied to your entry. Once they have logged into Fiskl, they will then become Active
 
     ![](https://fiskl.com/wp-content/uploads/2023/07/User-on-list-1.png)
 *   ### Other actions <a href="#kbsection2" id="kbsection2"></a>

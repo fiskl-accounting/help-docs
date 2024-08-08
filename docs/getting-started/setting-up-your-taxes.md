@@ -15,7 +15,7 @@ tags:
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-The taxes in Fiskl are extreemly flexable and allow for multiple tax agencies in multiple currencies and support `single tax rates`, `multiple tax rates` and `compound taxes`. 
+The taxes in Fiskl are extremely flexible and allow for multiple tax agencies in multiple currencies and support `single tax rates`, `multiple tax rates` and `compound taxes`.
 
 ## Set up your taxes
 
@@ -33,7 +33,7 @@ Use the interactive demo to learn how to set up your taxes.
   ></iframe>
 </div>
 
---- 
+---
 
 ### Manage taxes
 
@@ -43,22 +43,22 @@ There are three tabs on the manage taxes page for setting up your taxes.
 
 <Tabs lazy>
   <TabItem value="single" label="Single taxes" default>
-    In this tab you will see the list of all your taxes and the tax number they are assigned to. 
+    In this tab you will see the list of all your taxes and the tax number they are assigned to.
 
-    You will also be able to add a new tax and assign it to a `Tax Number`. 
-    Taxes are either `Sales` or `Non Sales` taxes. 
+    You will also be able to add a new tax and assign it to a `Tax Number`.
+    Taxes are either `Sales` or `Non Sales` taxes.
 
     The currency of the tax is determined by the `Tax Number`
 
-    You can assign multiple taxes to a tax number. 
+    You can assign multiple taxes to a tax number.
 
     An example would be having to pay VAT in France. You would apply for a French VAT number and assing the approiate VAT rate to that EUR Tax number.
   </TabItem>
   <TabItem value="groups" label="Tax groups">
-    Tax groups are a collection of taxes. These can include two or more taxes and can also be set to be compounding. 
-    
-    For example: 
-    > In British Columbia, the sales tax group includes both the Goods and Services Tax (GST) and the Provincial Sales Tax (PST). These are applied together on sales transactions, with each tax having its own rate and rules but being grouped for the purpose of calculation and reporting 
+    Tax groups are a collection of taxes. These can include two or more taxes and can also be set to be compounding.
+
+    For example:
+    > In British Columbia, the sales tax group includes both the Goods and Services Tax (GST) and the Provincial Sales Tax (PST). These are applied together on sales transactions, with each tax having its own rate and rules but being grouped for the purpose of calculation and reporting
 
     A compound tax is a tax that is calculated on the total of the pre-tax price plus any other taxes that have already been applied. This means that the second tax is applied to the subtotal that includes the first tax, resulting in a higher overall tax amount. Compound taxes are also known as stacked taxes.
 
@@ -78,7 +78,7 @@ There are three tabs on the manage taxes page for setting up your taxes.
 
   </TabItem>
   <TabItem value="number" label="Tax ID/VAT Nr">
-    This is your `Tax Number` or as it's also referred to as a `Tax Agency` number. 
+    This is your `Tax Number` or as it's also referred to as a `Tax Agency` number.
     Your `Tax Number` is assosiated with:
     1. Country
     1. Currency

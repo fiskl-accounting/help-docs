@@ -1,5 +1,5 @@
 ---
-title: Bank Connection Errors
+title: Bank connection errors
 sidebar_position: 8
 description: Troubleshooting bank connection errors
 toc_min_heading_level: 2

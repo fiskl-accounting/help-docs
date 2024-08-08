@@ -1,5 +1,5 @@
 ---
-title: Invoicing Problems
+title: Invoicing problems
 sidebar_position: 4
 description: Troubleshooting invoicing problems
 toc_min_heading_level: 2

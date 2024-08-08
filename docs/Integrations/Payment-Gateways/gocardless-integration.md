@@ -2,11 +2,9 @@
 title: GoCardless
 sidebar_position: 4
 description: Streamline your payment collection by connecting GoCardless to Fiskl
-toc_min_heading_level: 2
-toc_max_heading_level: 4
 tags:
   - Integrations
-  - Payment Gateways
+  - Payment gateways
   - GoCardless
 ---
 
@@ -14,12 +12,12 @@ Connecting GoCardless to Fiskl transforms how you collect payments, especially f
 
 For more information, see [GoCardless](https://gocardless.com/).
 
-## Benefits and Use Cases
+## Benefits and use cases
 
-- **Automated Payments**: Set up Direct Debits for recurring invoices or payment schedules
-- **International Support**: Collect payments in over 30 countries and multiple currencies
-- **Improved Cash Flow**: Reduce late payments with automated collection
-- **Currency Flexibility**: Collect in your customer's currency and settle in your own
+- **Automated payments**: Set up Direct Debits for recurring invoices or payment schedules
+- **International support**: Collect payments in over 30 countries and multiple currencies
+- **Improved cash flow**: Reduce late payments with automated collection
+- **Currency flexibility**: Collect in your customer's currency and settle in your own
 
 GoCardless is particularly suited for:
 
@@ -32,7 +30,7 @@ It's less suitable for:
 - Transactions requiring instant clearing
 - High-value, one-off payments
 
-## How It Works and Payment Types
+## How it works and payment types
 
 When you connect GoCardless to Fiskl:
 
@@ -43,13 +41,13 @@ When you connect GoCardless to Fiskl:
 
 GoCardless offers two main payment types:
 
-1. **Direct Debit**: For recurring or one-off payments
+1. **Direct Debit**: For recurring or one-off payments:
    - Create an invoice in Fiskl with GoCardless as the payment option
    - Your customer completes the bank debit form (first time only)
    - Fiskl notifies you when the customer mandate is authorized
    - For subsequent invoices, payments are collected automatically
 
-2. **Instant Bank Pay** (UK only): Uses Open Banking for immediate bank-to-bank payments
+2. **Instant Bank Pay** (UK only): Uses Open Banking for immediate bank-to-bank payments:
    - Available alongside Direct Debit for UK customers
    - Ideal for first payments in recurring invoices or payment schedules
    - Subsequent payments use the established Direct Debit mandate
@@ -60,7 +58,7 @@ GoCardless offers two main payment types:
 2. Complete the GoCardless Account Activation form and create your account
 3. Wait for account approval (You'll be notified of any status changes)
 
-## Payment Timings and Limits
+## Payment timings and limits
 
 - Funds are typically paid out two working days after collection
 - Transaction limits vary by country (e.g., £5000 for UK, $5000 for US)

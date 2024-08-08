@@ -1,9 +1,7 @@
 ---
-title: Templates and Brands Settings
+title: Templates and brands settings
 sidebar_position: 6
 description: Configure your invoice, quote, and email templates and brands in Fiskl
-toc_min_heading_level: 2
-toc_max_heading_level: 4
 tags:
   - Settings
   - Templates
@@ -12,7 +10,7 @@ tags:
 
 The Templates and Brands Settings page allows you to create and manage various styled invoices, quotes, and emails. You can also set up multiple brands within one account, giving you flexibility in how you present your business to clients.
 
-Access Templates and Brands Settings using the `gear icon` on the top left menu or visit the [Template Settings](https://sandbox.fiskl.ca/templates) page on the web dashboard.
+Access Templates and Brands Settings using the `gear icon` on the top left menu or visit the [Template Settings page](https://sandbox.fiskl.ca/templates) on the web dashboard.
 
 ## Templates
 
@@ -36,7 +34,7 @@ A brand is a template with overridden company details. This feature is particula
 
 Follow these steps to set up your templates and brands:
 
-1. Navigate to the Templates and Brands Settings page
+1. Navigate to the Templates and Brands Settings page via the gear icon at the top of the left menu
 2. Click "Add New Template" or select an existing template to edit
 3. Customize the following sections:
 
@@ -55,7 +53,7 @@ Override these company details if creating a brand:
 - Quote name
 
 :::info[tip]
-As you change these values, you'll see them update in the preview on the right. Use this to adjust the layout, especially for the address.
+As you change these values, you'll see them update in the preview on the right. Use this to adjust the layout, especially for the address
 :::
 
 ### Theme and Colors
@@ -63,10 +61,10 @@ As you change these values, you'll see them update in the preview on the right. 
 - Customize colors for various elements (header, text, labels, dividers)
 
 ### Fonts
-Choose from available fonts for your documents.
+Choose from available fonts for your documents
 
 :::info[caution]
-Not all fonts support languages like Chinese, Cyrillic, or Arabic when generating PDFs. Always test your invoice by downloading the PDF after changing fonts.
+Not all fonts support languages like Chinese, Cyrillic, or Arabic when generating PDFs. Always test your invoice by downloading the PDF after changing fonts
 :::
 
 ### Display Options
@@ -89,7 +87,7 @@ Create custom emails for:
 - Overdue reminders
 - Quotes
 
-Use provided templates and placeholders for dynamic content (e.g., `[CompanyName]`, `[Total]`, `[ClientName]`)
+Use provided templates and placeholders for dynamic content (e.g., `[Company name]`, `[Total]`, `[Client name]`)
 
 :::info[note]
 Custom emails are plain text without HTML formatting. The email logo is only available for standard emails.

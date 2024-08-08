@@ -1,9 +1,7 @@
 ---
-title: Templates and Brands
+title: Templates and brands
 sidebar_position: 5
-description: Invoice Templates and Brands
-toc_min_heading_level: 2
-toc_max_heading_level: 4
+description: Customise your invoice and quotes.
 tags:
   - Invoice
   - Templates

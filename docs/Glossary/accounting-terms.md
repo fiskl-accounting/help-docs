@@ -1,5 +1,5 @@
 ---
-title: Accounting Terms
+title: Accounting terms
 sidebar_position: 2
 description: Accounting Terms
 toc_min_heading_level: 2

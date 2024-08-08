@@ -1,9 +1,7 @@
 ---
-title: User Settings
+title: User settings
 sidebar_position: 10
 description: Configure your personal preferences and account settings in Fiskl
-toc_min_heading_level: 2
-toc_max_heading_level: 4
 tags:
  - Settings
  - User Settings
@@ -12,7 +10,7 @@ tags:
 
 The User Settings page allows you to manage your personal account information and preferences within Fiskl. These settings affect how Fiskl appears and functions for your individual user account.
 
-Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings](https://my.fiskl.com/user-settings/account-settings) page on the web dashboard.
+Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
 
 ## Account Settings
 
@@ -37,12 +35,12 @@ Only users with the Owner role can delete an account. Deleting your account will
 ## Preferences
 
 ### Mileage Tracking
-- Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile)
-- Travel unit: Choose between miles (mi) or kilometers (km)
+- Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile).
+- Travel unit: Choose between miles (mi) or kilometers (km).
 
 ### Time Tracking
-- Billing rate: Set your hourly rate (e.g., 100 per hour)
-- Billing unit: Currently, only hours (H) are supported
+- Billing rate: Set your hourly rate (e.g., 100 per hour).
+- Billing unit: Currently, only hours (H) are supported.
 
 ### Accounting
 - Category suggestions: Enable or disable suggestions for categorization of accounts, taxes, and vendors in ledger accounts
@@ -52,11 +50,11 @@ Only users with the Owner role can delete an account. Deleting your account will
 Correctly setting your Region, Language, and Time Zone ensures that dates, numbers, and other localized information appear correctly throughout Fiskl, including the web dashboard and mobile apps.
 :::
 
-- Region and Language: Affects formatting of dates, numbers, and currency
-- Time Zone: Ensures times are displayed correctly for your location
+- Region and Language: Affects formatting of dates, numbers, and currency.
+- Time Zone: Ensures times are displayed correctly for your location.
 
 ## Applying Changes
 
-Settings auto save there is no save button. You may have to select outside the input field to save. 
+Settings auto save there is no save button. You may have to select outside the input field to save.
 
 Remember: Regularly review your user settings to ensure they accurately reflect your current preferences and needs. If you're experiencing issues with date or number formats in Fiskl, check your localization settings first.

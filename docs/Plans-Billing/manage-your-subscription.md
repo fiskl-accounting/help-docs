@@ -1,5 +1,5 @@
 ---
-title: Manage Your Subscription
+title: Manage your subscription
 sidebar_position: 7
 description: Control your Fiskl plan and billing information
 toc_min_heading_level: 2
@@ -42,10 +42,10 @@ Downgrades take effect at the end of your current billing period. You can cancel
 Use the date range filter to view your billing history. You can open invoices and download PDF versions using the print function.
 
 :::info[tip]
-If your tax number is set in company settings, it will appear on the invoice.
+If your tax number is set in Company settings, it will appear on the invoice.
 :::
 
-## User Changes
+## User changes
 
 This tab displays the history of users on your account. It shows when users joined and when they were removed from the team members page.
 
@@ -60,7 +60,7 @@ The left card shows your current plan, price, any discounts, and the next billin
 - "X": Cancels your subscription at the end of the current period. You'll revert to the free plan with limited features.
 - Round arrow icon: Appears if you've cancelled but are still in the current billing period. Selecting this will revert the cancellation.
 
-### Stored Card
+### Saved card
 
 Edit your card information here if it's expiring or you want to change payment methods.
 

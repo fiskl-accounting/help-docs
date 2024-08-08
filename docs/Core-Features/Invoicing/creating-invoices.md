@@ -7,7 +7,7 @@ toc_max_heading_level: 4
 tags:
   - Invoice
   - Client
-  - Invoice Payment
+  - Invoice payment
   - Stripe
 ---
 
@@ -16,15 +16,15 @@ import Mermaid from '@theme/Mermaid';
 
 Fiskl offers a range of invoicing options, from basic to sophisticated. This guide will walk you through creating a basic invoice and then explore each component in detail for more advanced features.
 
-## Before You Start
+## Before you start
 
 While you can set up everything as you create your first invoice, it's helpful to have the following in place:
 
-1. Complete your Company Settings, ensuring your address is correct
-2. Create a Client
-3. Set up a Payment Method (either an integrated payment gateway like Stripe or a Manual Payment method)
+1. Complete your company settings, ensuring your address is correct
+2. Create a client
+3. Set up a payment method (either an integrated payment gateway like Stripe or a manual payment method)
 
-## Creating a Basic Invoice
+## Creating a basic invoice
 
 Try our interactive demo to create a basic invoice:
 
@@ -39,15 +39,15 @@ Try our interactive demo to create a basic invoice:
   ></iframe>
 </div>
 
-## Invoice Components in Detail
+## Invoice components in detail
 
 Let's examine each part of the invoice for a comprehensive understanding:
 
 <TOCInline toc={toc} />
 
-### Company Information
+### Company information
 
-The invoice pulls the following details from your Company Settings:
+The invoice pulls the following details from your Company settings:
 
 1. Company name
 2. Company address
@@ -59,19 +59,19 @@ You can customize your address layout in Company Settings to change how it appea
 
 ### Client Details
 
-A Client is required for invoice creation. You can add a client in advance or while creating the invoice. The invoice uses:
+A client is required for invoice creation. You can add a client in advance or while creating the invoice. The invoice uses:
 
 1. Client name
 2. Client address
-3. Client email (including Cc and Bcc)
-4. Tax/VAT Registration Number
-5. Defaults (Currency and Time rate)
+3. Client email (including cc and bcc)
+4. Tax/VAT Registration number
+5. Defaults (Currency and time rate)
 
 :::info
-The client's Tax/VAT Registration Number is shown if set in the client profile.
+The client's Tax/VAT Registration number is shown if set in the client profile.
 :::
 
-### Invoice Number
+### Invoice number
 
 The initial format is INV-0001, incrementing with each new invoice. You can customize this format, but:
 
@@ -80,19 +80,19 @@ The initial format is INV-0001, incrementing with each new invoice. You can cust
 
 To change the format, simply edit the invoice number when creating a new invoice. Subsequent invoices will follow this new pattern.
 
-### Invoice Dates
+### Invoice dates
 
 Invoices include three dates:
 
-1. Invoice Date: Creation date
-2. Due Date: Payment deadline
-3. Sale Date: (Optional)
+1. Invoice date: Creation date
+2. Due date: Payment deadline
+3. Sales date: (Optional)
 
 :::info
-The standard Due Date is set to 7 days after the Invoice Date. You can adjust this in Invoice & Quote settings.
+The standard due date is set to 7 days after the invoice date. You can adjust this in Invoice & quote settings.
 :::
 
-### Invoice Status
+### Invoice status
 
 Invoices follow this status flow:
 
@@ -122,7 +122,7 @@ Customize invoice appearance using themes, colors, and fonts in your Template se
 Changes to templates affect all invoices using that template.
 :::
 
-### Line Items
+### Line items
 
 Create line items directly on the invoice or in advance. Types include:
 
@@ -138,7 +138,7 @@ Products and Services are templates, while Expenses, Time & Mileage become billa
 
 Apply single, multiple, or compound taxes at the line item level. Taxes are calculated per item and displayed on the invoice.
 
-### Discounts and Deposits
+### Discounts and deposits
 
 Add invoice-level discounts or request deposits as either fixed amounts or percentages.
 
@@ -158,24 +158,24 @@ You can adjust exchange rates for line items in different currencies.
 
 Choose from over 60 languages for invoices & quotes. This affects the invoice, standard emails, and customer-facing screens.
 
-### Additional Information
+### Additional information
 
 Add extra details like PO Numbers to your invoice.
 
 ### Notes
 
-Include custom notes on each invoice or set default notes in Invoice & Quote settings.
+Include custom notes on each invoice or set default notes in Invoice & quote settings.
 
-### Payment Terms
+### Payment terms
 
-Set standard payment terms in Invoice & Quote settings. The Due Date is calculated based on these terms.
+Set standard payment terms in Invoice & quote settings. The due date is calculated based on these terms.
 
-### Payment Schedules
+### Payment schedules
 
-Create payment plans for single invoices with 2 to 12 installments, using either flat amounts or percentages.
+Create payment plans for single invoices with 2 to 12 instalments, using either flat amounts or percentages.
 
 :::info[tip]
-Use payment schedules for short-term installments. For long-term recurring payments, consider using recurring invoices.
+Use payment schedules for short-term instalments. For long-term recurring payments, consider using recurring invoices.
 :::
 
 Remember: Fiskl's invoicing features are designed to be flexible and accommodate a wide range of business needs. Experiment with different options to find the setup that works best for your business.

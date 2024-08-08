@@ -1,5 +1,5 @@
 ---
-title: Apply Offer or Partner Code
+title: Apply offer or partner Code
 sidebar_position: 4
 description: How to apply offer or partner codes in Fiskl
 toc_min_heading_level: 2
@@ -12,7 +12,7 @@ tags:
 
 Fiskl provides introductory offers when you register. We also occasionally offer special partner codes with unique conditions or billing managed by the partner.
 
-## How to Apply Offer Codes
+## How to apply offer codes
 
 You can apply offer codes in three ways:
 
@@ -20,7 +20,7 @@ You can apply offer codes in three ways:
 2. Use a special URL that automatically applies the offer (e.g., `https://my.fiskl.com/registration?code=your-offer`)
 3. In user settings, go to the account settings tab and enter the code in the "Offer or Partner Code" field
 
-## Important Notes About Offers
+## Important notes about offers
 
 :::info
 - Offers cannot be stacked

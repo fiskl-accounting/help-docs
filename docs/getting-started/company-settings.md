@@ -1,11 +1,11 @@
 ---
-title: Company Settings
+title: Company settings
 sidebar_position: 1
 description: Learn about your company and user settings
-toc_min_heading_level: 2
-toc_max_heading_level: 4
+image: ../static/img/docusaurus-social-card.jpg
+keywords: [Getting Started, Company Settings]
 tags:
-  - Getting Started
+  - Getting started
   - Company
   - Company settings
 ---
@@ -16,13 +16,13 @@ import TabItem from '@theme/TabItem';
 
 # Set up your company
 
-There are two distinct settings menues. The first relates to the account and the company and the second is for all user related settings. 
+There are two distinct settings menus. The first relates to the account and the company and the second is for all user related settings.
 
-Your company account settings are available via gear icon on the top of the left menu and all your user related settings are accessable from the top right menu. 
+Your company account settings are available via gear icon on the top of the left menu and all your user related settings are accessible from the top right menu.
 
 ## Settings overview
 
-Take an ineractive tour of the settings.
+Take an interactive tour of the settings.
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -46,16 +46,16 @@ Take an ineractive tour of the settings.
 
     - Company settings
     - Accounting settings
-    - Manage taxes 
-    - Templates & Brands
-    - Invoice & Quotes
+    - Manage taxes
+    - Templates & brands
+    - Invoice & quotes
   </TabItem>
   <TabItem value="profile" label="Profile settings">
-    
-    Profile settings affect just your account. These include. 
 
-    - Autehentication 
-    - Email & Password
+    Profile settings affect just your account. These include.
+
+    - Authentication
+    - Email & password
     - Time, date and number settings
     </TabItem>
 </Tabs>
@@ -63,10 +63,10 @@ Take an ineractive tour of the settings.
 ---
 
 
-### Company Settings 
+### Company settings
 
 :::info
-You can all your company settings after your account has been created apart from your company currency. 
+You can all your company settings after your account has been created apart from your company currency.
 :::
 
 Company settings is where you set:
@@ -77,10 +77,10 @@ Company settings is where you set:
 - Company logo
 
 
-### User Settings 
+### User settings
 
 :::info
-It's useful ensuring that your `Region`, `Language` & `Time Zone` in your user settings are set correctly as this influences the way Fiskl appears to you. If youre dates or numbers are appearing wrong in the web dashboard or on Android or iOS then this is the setting that is affecting it. 
+It's useful ensuring that your `Region`, `Language` & `Time Zone` in your user settings are set correctly as this influences the way Fiskl appears to you. If you're dates or numbers are appearing wrong in the web dashboard or on Android or iOS then this is the setting that is affecting it.
 :::
 
 <CardContainer>
@@ -89,18 +89,18 @@ It's useful ensuring that your `Region`, `Language` & `Time Zone` in your user s
     <h3>Lorem Ipsum</h3>
   </CardHeader>
 
-<CardBody> 
+<CardBody>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
 suspendisse ultrices gravida.
-</CardBody> 
+</CardBody>
 
 
 <CardFooter>
 
-  <button className="button button--secondary button--block">See All</button> 
+  <button className="button button--secondary button--block">See All</button>
 
-</CardFooter> 
+</CardFooter>
 
 </Card>
 
@@ -119,30 +119,28 @@ suspendisse ultrices gravida.
 </div>
 </div>
 </CardHeader>
-<CardBody style={{ backgroundColor: 'black' , color:'silver'}} className="padding-vert--md" textAlign='center' Transform= 'uppercase'> 
+<CardBody style={{ backgroundColor: 'black' , color:'silver'}} className="padding-vert--md" textAlign='center' Transform= 'uppercase'>
 <h3>Docux Card component</h3>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
 suspendisse ultrices gravida.
-</CardBody> 
+</CardBody>
 
 
-<CardFooter style={{ backgroundColor: '#205d3b' , color:'black'}} className='text--center'> 
+<CardFooter style={{ backgroundColor: '#205d3b' , color:'black'}} className='text--center'>
 <div className="button-group button-group--block">
       <button className="button button--secondary">Like</button>
       <button className="button button--secondary">Comment</button>
       <button className="button button--secondary">Share</button>
     </div>
-</CardFooter> 
+</CardFooter>
 
 </Card>
 
 </CardContainer>
 <!--  with _Markdown_ `syntax`. Check [this `api`](#). -->
 
-Company settings includes your company name and address. 
+Company settings includes your company name and address.
 
-It also includes you <Tag color="#3399ff">Time Zone</Tag> settings which is important for when your scheduled invoice are sent. 
-
-
+It also includes you <Tag color="#3399ff">Time Zone</Tag> settings which is important for when your scheduled invoice are sent.

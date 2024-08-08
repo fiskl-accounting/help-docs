@@ -13,7 +13,7 @@ tags:
 
 import TOCInline from '@theme/TOCInline';
 
-### Client Structure
+### Client structure
 
 <TOCInline toc={toc} />
 
@@ -34,4 +34,3 @@ TODO
 ### Defaults
 
 TODO
-

@@ -1,5 +1,5 @@
 ---
-title: Account Issues
+title: Account issues
 sidebar_position: 2
 description: Troubleshooting account issues
 toc_min_heading_level: 2

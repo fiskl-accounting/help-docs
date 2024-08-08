@@ -7,6 +7,6 @@ toc_max_heading_level: 4
 tags:
   - Invoice
   - Client
-  - Invoice Payment
+  - Invoice payment
   - Stripe
 ---

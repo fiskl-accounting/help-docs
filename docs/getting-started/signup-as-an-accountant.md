@@ -11,12 +11,12 @@ tags:
 
 # Sign up as an Accountant
 
-Using the `Accounting Portal` in Fiskl you can manage your clients Fiskl accounts for which you have been given access to. 
+Using the `Accounting portal` in Fiskl you can manage your clients Fiskl accounts for which you have been given access to.
 
 If you would like create new Fiskl accounts on behalf of your clients then please reach out so that we can provide you with the required codes making onboarding of clients easier.
 
 :::note
-If you want Fiskl to bill you for your clients then you will need to speak to us and we will provide you with URL's for each package to more easly create accounts on your clients behalf. 
+If you want Fiskl to bill you for your clients then you will need to speak to us and we will provide you with URL's for each package to more easily create accounts on your clients behalf.
 :::
 
 ## Steps for creating an account on behalf of your client
@@ -29,7 +29,7 @@ https://my.fiskl.com/registration?code=specialcode\_solo
 
 https://my.fiskl.com/registration?code=specialcode\_pro
 
-https://my.fiskl.com/registration?code=specialcode\_prime.
+https://my.fiskl.com/registration?code=specialcode\_prime
 
 :::note
 Before you invite your clients, ensure that you receive your custom link from Fiskl with the associated discount as per your agreement with Fiskl and ensure that you specify the maximum number of clients you would like to configure for each plan for the next 12 months at a minimum. Clients numbers can be increased on request (up to 24h turnaround, except for week-ends).
@@ -47,7 +47,7 @@ Your client will need to verify their email to be able to access their Fiskl acc
 
 ![Invite team member](https://fiskl.com/wp-content/uploads/2024/04/Invite-team-member.png)
 
-### Step 4 
+### Step 4
 
 Then they need to enter your name (as the Accountant), your email address and select Accountant from the list of roles.
 

@@ -1,5 +1,5 @@
 ---
-title: Acounting FAQs
+title: Accounting FAQs
 sidebar_position: 4
 description: Accounting FAQs
 toc_min_heading_level: 2
@@ -11,4 +11,4 @@ tags:
 
 TODO
 
-## Heading 
+## Heading

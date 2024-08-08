@@ -1,5 +1,5 @@
 ---
-title: Select Your Fiskl Plan
+title: Select your Fiskl plan
 sidebar_position: 2
 description: Choose the right Fiskl plan for your business
 toc_min_heading_level: 2
@@ -11,17 +11,17 @@ tags:
 
 Fiskl offers three plans to suit different business needs: Solo, Pro, and Prime. Each plan is designed to provide the features and support you need as your business grows.
 
-## Plan Basics
+## Plan basics
 
 - Plans are billed monthly (yearly billing available on request)
 - Additional users over the plan's included users are billed monthly
 
-## Choosing Your Plan
+## Choosing your plan
 
 1. Go to [Fiskl Registration Page](https://my.fiskl.com/registration)
 1. Choose your preferred plan
 
-## Additional Users
+## Additional users
 
 - Charges for extra users are added to your monthly bill
 - New user charges are not instant, allowing flexible team management
@@ -30,7 +30,7 @@ Fiskl offers three plans to suit different business needs: Solo, Pro, and Prime.
 If you add a new user and deactivate another on the same day, there's no extra charge.
 :::
 
-## Offers and Discounts
+## Offers and discounts
 
 - Not all discounts carry over when upgrading plans. If you are unsure contact support
 - Pay attention to the amounts shown when changing plans
