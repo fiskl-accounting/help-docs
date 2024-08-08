@@ -86,6 +86,8 @@ The initial format is INV-0001, incrementing with each new invoice.
 
 To change the format, simply edit the invoice number when creating a new invoice. Subsequent invoices will follow this new pattern.
 
+</details>
+
 ### Invoice dates
 
 Invoices include three dates:
