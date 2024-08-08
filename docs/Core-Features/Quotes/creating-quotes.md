@@ -1,18 +1,11 @@
 ---
 title: Creating quotes
 sidebar_position: 2
-<<<<<<< HEAD
-description: How to create a quote
-=======
-description: How to create and customize quotes in Fiskl
->>>>>>> origin
+description: Create quote
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Quote
-<<<<<<< HEAD
----
-=======
   - Client
   - Sales
 ---
@@ -196,4 +189,3 @@ Once a quote is accepted, you can easily convert it to an invoice:
 :::info
 Converting a quote to an invoice will automatically update the quote status to "Converted".
 :::
->>>>>>> origin

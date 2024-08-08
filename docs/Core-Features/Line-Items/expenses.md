@@ -1,17 +1,12 @@
 ---
 title: Expenses
 sidebar_position: 5
-description: Managing and tracking expenses
+description: Managing and tracking expenses in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-<<<<<<< HEAD
-  - Expense
-  - Line item
----
-=======
  - Expense
- - Line Item
+ - Line item
 ---
 
 Expenses in Fiskl represent costs incurred in running your business. They play a crucial role in financial management, offering flexibility in how they're created, tracked, and utilized within the platform.
@@ -93,4 +88,3 @@ Standalone expenses are particularly useful in these scenarios:
 5. **Regular Reconciliation**: Regularly match and reconcile expenses with your accounting transactions
 
 Remember, effective expense management in Fiskl contributes to accurate financial reporting, smoother client billing, and better overall financial health for your business.
->>>>>>> origin

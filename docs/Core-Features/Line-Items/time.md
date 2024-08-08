@@ -1,17 +1,12 @@
 ---
 title: Time
 sidebar_position: 6
-description: Time tracking and billing
+description: Time tracking and billing in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-<<<<<<< HEAD
-  - Time
-  - Line item
----
-=======
  - Time
- - Line Item
+ - Line item
 ---
 
 Time tracking in Fiskl allows you to record and bill for the time spent on client projects or tasks. This feature is crucial for service-based businesses and professionals who bill by the hour.
@@ -98,4 +93,3 @@ You can configure a custom name template in [Company settings](../../Settings-Co
 5. **Utilize Projects**: Use project or task categorizations to better organize and analyze your time usage
 
 Remember, effective time tracking in Fiskl not only ensures accurate client billing but also provides valuable insights into your productivity and profitability.
->>>>>>> origin

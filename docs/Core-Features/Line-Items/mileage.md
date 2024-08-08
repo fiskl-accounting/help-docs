@@ -1,17 +1,12 @@
 ---
 title: Mileage
 sidebar_position: 8
-description: Mileage tracking and billing
+description: Mileage tracking and billing in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-<<<<<<< HEAD
-  - Mileage
-  - Line item
----
-=======
  - Mileage
- - Line Item
+ - Line item
 ---
 
 Mileage tracking in Fiskl allows you to record and bill for business-related travel. This feature is essential for professionals who need to track vehicle usage for client billing or tax purposes.
@@ -90,4 +85,3 @@ This ensures you can accurately track your mileage regardless of where you're tr
 5. **Regular Review**: Periodically review your mileage entries to ensure all billable travel is invoiced
 
 Remember, effective mileage tracking in Fiskl not only ensures accurate client billing but also helps maintain proper records for tax purposes and business expense analysis.
->>>>>>> origin

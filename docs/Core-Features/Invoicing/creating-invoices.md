@@ -1,7 +1,7 @@
 ---
 title: Creating invoices
 sidebar_position: 2
-description: How to create and edit invoices
+description: How to create and edit invoices in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -86,13 +86,7 @@ The initial format is INV-0001, incrementing with each new invoice.
 
 To change the format, simply edit the invoice number when creating a new invoice. Subsequent invoices will follow this new pattern.
 
-<<<<<<< HEAD
 ### Invoice dates
-=======
-</details>
-
-### Invoice Dates
->>>>>>> origin
 
 Invoices include three dates:
 
@@ -177,14 +171,10 @@ You can adjust exchange rates for line items in different currencies.
 
 Choose from over 60 languages for invoices & quotes. This affects the invoice, standard emails, and customer-facing screens.
 
-<<<<<<< HEAD
-### Additional information
-=======
 You can customize your languages in [Invoice and Quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
 
 
 ### Additional Information
->>>>>>> origin
 
 Add extra details like PO Numbers to your invoice.
 
