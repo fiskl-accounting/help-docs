@@ -103,7 +103,7 @@ tags:
 4. Integrations
    4.1 Bank Connections
        4.1.1 Connecting via Yodlee
-       4.1.2 Connecting via SaltEdge
+       4.1.2 Connecting via Salt Edge
    4.2 Payment Gateways
        4.2.1 Stripe Integration
        4.2.2 GoCardless Integration
@@ -286,7 +286,7 @@ Fiskl Documentation/
 ├── Integrations/
 │   ├── Bank Connections/
 │   │   ├── connect-yodlee.md                (Connect with Yodlee)
-│   │   ├── connect-saltedge.md              (Connect with SaltEdge)
+│   │   ├── connect-saltedge.md              (Connect with Salt Edge)
 │   │   └── stripe-data-feed.md              (Stripe Data Feed)
 │   │
 │   └── Payment Gateways/

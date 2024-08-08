@@ -1,18 +1,18 @@
 ---
-title: Connect with SaltEdge
+title: Connect with Salt Edge
 sidebar_position: 4
-description: Securely connect your bank accounts to Fiskl using SaltEdge
+description: Securely connect your bank accounts to Fiskl using Salt Edge
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
  - Integrations
  - Banking
- - SaltEdge
+ - Salt Edge
 ---
 
-SaltEdge bank integrations provide a secure way to connect your financial accounts to Fiskl, allowing for efficient and automated sharing of your banking data. This integration enhances your experience by providing comprehensive financial services within Fiskl. SaltEdge is the primary provider for banks in Europe, Asia, and the Middle East.
+Salt Edge bank integrations provide a secure way to connect your financial accounts to Fiskl, allowing for efficient and automated sharing of your banking data. This integration enhances your experience by providing comprehensive financial services within Fiskl. Salt Edge is the primary provider for banks in Europe, Asia, and the Middle East.
 
-## Benefits of SaltEdge Integration
+## Benefits of Salt Edge Integration
 
 - Wide coverage of banks in Europe, Asia, and the Middle East
 - Support for OpenBanking standards
@@ -21,16 +21,16 @@ SaltEdge bank integrations provide a secure way to connect your financial accoun
 
 ## Checking Bank Coverage
 
-Before starting, you can check if your bank is supported by SaltEdge:
+Before starting, you can check if your bank is supported by Salt Edge:
 
-1. Visit the [SaltEdge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
+1. Visit the [Salt Edge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
 2. Search for your bank or browse by country
 
 ## Connecting Your Bank Account
 
 1. Go to "Banking" in the left menu
 2. Click "Connect bank"
-3. Select SaltEdge as your provider
+3. Select Salt Edge as your provider
 4. Search for or select your bank
 5. Follow your bank's unique connection flow
    - This typically involves entering your bank credentials
