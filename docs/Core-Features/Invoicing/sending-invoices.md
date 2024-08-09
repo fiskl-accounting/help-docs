@@ -111,5 +111,7 @@ Fiskl can send automated reminders for overdue invoices:
 - Use custom emails for a more personalized touch with regular clients
 - Set up automated reminders to improve cash flow
 - Keep your email templates professional and consistent with your brand voice
+- Use the Fiskl Android and iOS apps to receive push notifictions on invoice delivrey statuses
+- Check your notifications and emails for any failed delivery notifications
 
 Remember: Clear communication and timely follow-ups are key to maintaining healthy client relationships and ensuring prompt payments.
