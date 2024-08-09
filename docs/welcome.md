@@ -28,7 +28,7 @@ Begin your journey with Fiskl in just a few simple steps:
 
 1. Sign up for a new account [here](https://my.fiskl.com/registration)
 2. Watch our Getting Started video below
-3. Explore the [Getting Started](category/getting-started) guide for detailed instructions
+<!-- 3. Explore the [Getting Started](category/getting-started) guide for detailed instructions -->
 
 :::info[tip]
 Fiskl requires minimal information to begin. To maximize its potential:

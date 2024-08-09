@@ -16,6 +16,7 @@ After creating an invoice, select it to open the preview screen. You'll see how 
 ## Draft invoices
 
 For draft invoices, you can:
+
 - Configure email delivery settings
 - Verify, update, or create payment methods
 - Add attachments to be included with the invoice

@@ -8,7 +8,6 @@ tags:
   - Getting started
   - Bank
   - Chart of accounts
-
 ---
 
 import Tabs from '@theme/Tabs';
