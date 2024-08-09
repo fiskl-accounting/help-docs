@@ -1,6 +1,6 @@
 ---
 title: Chart of Accounts
-sidebar_position: 3
+sidebar_position: 2
 description: Understanding and managing your Chart of Accounts in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4

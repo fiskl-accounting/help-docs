@@ -105,17 +105,18 @@ The standard due date is set to 7 days after the invoice date. You can adjust th
 Invoices follow this status flow:
 
 ```mermaid
-graph LR
-    Draft -->| to | Sent
-    Sent -->| to | Draft
-    Sent -->| to | Overdue
-    Sent -->| to | Paid
-    Sent -->| to | Partial
-    Sent -->| to | Rejected
-    Overdue -->| to | Paid
-    Rejected -->| to | Draft
-    Partial -->| to | Paid
-    Partial -->| to | Overdue
+stateDiagram-v2
+    direction LR
+    Draft --> Sent: to
+    Sent --> Draft: to
+    Sent --> Overdue: to
+    Sent --> Paid: to
+    Sent --> Partial: to
+    Sent --> Rejected: to
+    Overdue --> Paid: to
+    Rejected --> Draft: to
+    Partial --> Paid: to
+    Partial --> Overdue: to
 ```
 
 :::info
