@@ -78,6 +78,6 @@ Remember, Fiskl's financial reports draw directly from these journal entries, so
 
 Now that you understand the basics of journal entries in Fiskl, you might want to explore:
 
-- [Creating and Managing Transactions](link-to-transactions-guide)
+<!-- - [Creating and Managing Transactions](link-to-transactions-guide)
 - [Understanding Financial Reports in Fiskl](link-to-reports-guide)
-- [Setting Up Your Chart of Accounts](link-to-chart-of-accounts-guide)
+- [Setting Up Your Chart of Accounts](link-to-chart-of-accounts-guide) -->

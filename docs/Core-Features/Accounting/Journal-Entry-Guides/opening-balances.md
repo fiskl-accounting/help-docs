@@ -73,9 +73,9 @@ A zero balance confirms you've entered all balances correctly and completely.
 ## Next Steps
 
 Now that you understand opening balances in Fiskl, you might want to explore:
-
+<!-- 
 - [Setting Up Your Chart of Accounts](link-to-chart-of-accounts-guide)
 - [Creating and Managing Transactions](link-to-transactions-guide)
-- [Understanding Financial Reports in Fiskl](link-to-reports-guide)
+- [Understanding Financial Reports in Fiskl](link-to-reports-guide) -->
 
 Remember, accurate opening balances are the foundation for reliable financial reporting and informed decision-making in your business.
