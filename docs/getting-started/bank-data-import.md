@@ -29,9 +29,11 @@ Whenever you need to reconcile, edit or add a transaction, you mostly start in t
 Ideally, you should automatically import your transactions using our [banking](./connect-bank) feature.
 
 However, there are times when manually importing bank transactions is useful:
+
 - When your bank is not supported by any of the banking aggregators
 - When you need more historical data than the bank connections provide
 - If you don't like using third parties and don't mind importing manually
+
 :::
 
 ## Types of imports

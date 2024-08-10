@@ -1,5 +1,5 @@
 ---
-title: Journal Entries
+title: Journal entries
 sidebar_position: 3
 description: Understanding and managing journal entries in Fiskl
 toc_min_heading_level: 2
@@ -9,75 +9,118 @@ tags:
   - Journal Entries
   - Financial Reports
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-# Journal Entries in Fiskl
-
-## What are Journal Entries?
-
-Journal entries are the foundation of your accounting system. They record all financial transactions in your business, ensuring your books are accurate and up-to-date. In Fiskl, journal entries are created automatically for most transactions, making accounting simpler for non-accountants.
+Journal entries also referred to as `Account transactions` and are the foundation of your accounting system. Journal entries are the record of all financial transactions in your business. You can think of the chart of accounts as your folder structure and journal entries as the transactions within them.
 
 ## How Fiskl Handles Journal Entries
 
-Fiskl uses a modern, double-entry accounting system that's fully multi-currency. Here's how it works:
-
-1. **Automatic Creation**: Most journal entries are created automatically when you record transactions like sales, purchases, or bank transfers
-1. **Multi-Currency Support**: Fiskl handles transactions in multiple currencies, automatically calculating exchange rates and maintaining separate balances for each currency
-1. **Real-Time Updates**: Your financial reports are updated in real-time as journal entries are created or modified
-1. **Mobile Access**: You can view and manage journal entries from both the web interface and mobile app
-
-## Types of Journal Entries in Fiskl
-
-Fiskl supports several types of journal entries to cover all your accounting needs:
-
-1. **Standard Entries**: For regular income and expense transactions.
-2. **Split Transactions**: When a single transaction affects multiple accounts.
-3. **Matched Transactions**: For reconciling bank statements with your records.
-4. **Internal Transfers**: For moving money between your own accounts.
-5. **Multi-Currency Transactions**: For dealing with foreign currency transactions.
-6. **Opening/Closing Balances**: To set up your initial account balances when starting with Fiskl.
-
-## Creating and Managing Journal Entries
-
-While Fiskl automates much of the process, you can also create and manage journal entries manually:
-
-1. Go to the `Accounting > Chart of Accounts` in the left menu
-1. Select the appropriate account
-1. Click on `+IN` or `-OUT`
-    1. For accountants the buttons also have `Debit` and `Credit` 
-1. Fill in the transaction details.
-1. Fiskl will automatically create the corresponding journal entry.
-
-:::info[tip]
-When adding or viewing a transaction we add a `CR` or `DR` under the category. This also has a very useful tool tip explaining which account is being credited and which is being debited.
-:::
+Fiskl is an intuitive double-entry accounting system built wth the business owner in mind while ensuring accountants have a fully featured accounting platform to process their clients accounts.
 
 <details>
-<summary>Tips for Managing Journal Entries</summary>
+<summary>Learn more about the journal entry capabilities</summary>
 
-- For business owners you will mostly be creating your transactions from `Assets > Cash & Cash Equivalency` and `Liabilities > Credit Cards`
-- Regularly review your transactions to ensure accuracy.
-- Use the split function for complex transactions affecting multiple accounts.
-- Take advantage of Fiskl's automatic categorization to save time.
-- Use the matching feature to reconcile your bank statements with your Fiskl records.
-- Don't forget to record non-cash transactions like depreciation or accruals.
+1. **Multi-Currency support**: Full multi currency support. Cross currency matching, splitting and internal transfers, multi currency chart of accounts and full multi currency reporting
+1. **Automatic creation**: Most journal entries are created automatically when you record transactions like sales, purchases, or bank transfers. Accounts receivables are automatically managed for invoices and payments. Banking feeds and imports automatically generate their respective journal entries
+1. **Real-Time updates**: Your financial reports are updated in real-time as journal entries are created or modified
+1. **Fully featured on mobile**: You can view and manage journal entries from both the web interface and mobile app
+1. **Accounting methods**: You can switch between cash and accrual
 
 </details>
 
+## Types of Journal Entries in Fiskl
+
+Fiskl supports several types of journal entries to cover all your accounting needs.
+
+<details>
+<summary>Learn more about the different types of journal entries </summary>
+
+1. **Standard journal entries**: For regular income and expense transactions
+1. **Multi journal entries**: For accountants to create several entries in one transaction
+1. **Split transactions**: When a single transaction affects multiple accounts
+1. **Matched transactions**: For reconciling bank statements with your records
+1. **Internal transfers**: For moving money between your own accounts
+1. **Multi-Currency transactions**: For dealing with different currency transactions
+1. **Opening balances**: To set up your initial account balances when starting
+
+</details>
+
+## Creating and Managing Journal Entries
+
+While Fiskl automates much of the process there are many reason why you would need to manually create and edit journal entries.
+
+<Tabs>
+  <TabItem value="businessOwner" label="Business owner" default>
+
+  As the business owner you would typically be adding journal entries directly to their accounts in `Cash & Cash Equivalents` and `Credit Cards`.
+
+   **Journal entry guides**
+
+  - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an accounts receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an accounts payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an opening balance](Journal-Entry-Guides/create-manual-transactions.md)
+
+  </TabItem>
+    <TabItem value="accountant" label="Accountant" default>
+
+ As an accountant you can add journal entries as you would in any other accounting system. But in Fiskl, for transactions involving `Cash & Cash Equivalents` and `Credit Cards` you need to add them from these accounts.
+
+ For example if you were adding an expense in `Expenses > Operating Expenses > Travel - Accommodation` you would need to start from `Cash & Cash Equivalents` and `Credit Cards` and not in `Operating Expenses`. 
+
+For a more familiar feel you can use the [Multi journal entry](multi-journal-entries) which also supports multi currency.
+
+ **Journal entry guides**
+
+ - Learn more about [multi journal entries](multi-journal-entries)
+  - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an accounts receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an accounts payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an opening balance](Journal-Entry-Guides/create-manual-transactions.md)
+
+  </TabItem>
+
+  </Tabs>
+
+
+:::info[tip]
+When adding or viewing a transaction we add a `CR` or `DR` under the category. This also has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** "Bank Account" and **Debits** "Cost of Goods Sold")
+:::
+
 ## Viewing Journal Entries
 
-To view your journal entries:
+You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making an adjustments.
 
-1. Go to the `Accounting > Chart of Accounts` in the left menu
-1. Select the appropriate account
-1. Use filters to find specific entries by date, account, or amount
-1. Click on any entry to see more details or make edits
+For a bigger picture on your transactions you can use the [Transactions by Account](Reports/transactions-by-account) or [General Ledger by Account](Reports/general-ledger) reports.
 
-Remember, Fiskl's financial reports draw directly from these journal entries, so keeping them accurate ensures your reports are always up-to-date and reliable.
+Depending on your reason you can use the reports like [Balance sheet](Reports/balance-sheet) or [Profit and Loss (P&L)](Reports/profit-and-loss). 
+
+:::info[tip]
+Setting the reports to detailed allows you to drill down to transaction level.
+:::
+
+:::info
+Remember, Fiskl's accounting reports draw directly from these journal entries, so keeping them accurate ensures your reports are always up-to-date and reliable.
+:::
+
+## Cheat sheet
+
+![Debit Credit sheet](/img/acounting/account-table.png)
 
 ## Next Steps
 
 Now that you understand the basics of journal entries in Fiskl, you might want to explore:
 
-<!-- - [Creating and Managing Transactions](link-to-transactions-guide)
-- [Understanding Financial Reports in Fiskl](link-to-reports-guide)
-- [Setting Up Your Chart of Accounts](link-to-chart-of-accounts-guide) -->
+  - Setting up your chart of accounts [CoA](chart-of-accounts) transaction
+  - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an accounts receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an accounts payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an opening balance](Journal-Entry-Guides/create-manual-transactions.md)
+  - Learn more about [multi journal entries](multi-journal-entries)
