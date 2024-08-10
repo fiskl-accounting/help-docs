@@ -12,7 +12,7 @@ tags:
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Journal entries also referred to as `Account transactions` and are the foundation of your accounting system. Journal entries are the record of all financial transactions in your business. You can think of the chart of accounts as your folder structure and journal entries as the transactions within them.
+Journal entries also referred to as `Account transactions` and are the foundation of your accounting system. Journal entries are the record of all financial transactions in your business. You can think of the [chart of accounts](chart-of-accounts) as your folder structure and journal entries as the transactions within them.
 
 ## How Fiskl Handles Journal Entries
 
@@ -23,9 +23,9 @@ Fiskl is an intuitive double-entry accounting system built wth the business owne
 
 1. **Multi-Currency support**: Full multi currency support. Cross currency matching, splitting and internal transfers, multi currency chart of accounts and full multi currency reporting
 1. **Automatic creation**: Most journal entries are created automatically when you record transactions like sales, purchases, or bank transfers. Accounts receivables are automatically managed for invoices and payments. Banking feeds and imports automatically generate their respective journal entries
-1. **Real-Time updates**: Your financial reports are updated in real-time as journal entries are created or modified
+1. **Real-Time**: All reports and balances are generated in real time. There is no possibility of stale data in your financial reports or balances
 1. **Fully featured on mobile**: You can view and manage journal entries from both the web interface and mobile app
-1. **Accounting methods**: You can switch between cash and accrual
+1. **Accounting methods**: You can switch between cash and accrual without any effect to the underlying data due to our real time approach
 
 </details>
 
@@ -69,9 +69,11 @@ While Fiskl automates much of the process there are many reason why you would ne
 
  As an accountant you can add journal entries as you would in any other accounting system. But in Fiskl, for transactions involving `Cash & Cash Equivalents` and `Credit Cards` you need to add them from these accounts.
 
- For example if you were adding an expense in `Expenses > Operating Expenses > Travel - Accommodation` you would need to start from `Cash & Cash Equivalents` and `Credit Cards` and not in `Operating Expenses`. 
+ For example if you were adding a `Travel - Accommodation` expense to `Cash on Hand` you would create this in `Assets > Cash & Cash Equivalency > Cash on Hand` and select the `Travel - Accommodation` category.
 
-For a more familiar feel you can use the [Multi journal entry](multi-journal-entries) which also supports multi currency.
+ Alternatively, if there was an Expense created in Fiskl you would match this expense from `Assets > Cash & Cash Equivalency > Cash on Hand`.
+
+For making adjustments or for more accountant familiar feel you can use the [Multi journal entry](multi-journal-entries) which also supports multi currency.
 
  **Journal entry guides**
 
@@ -89,19 +91,19 @@ For a more familiar feel you can use the [Multi journal entry](multi-journal-ent
 
 
 :::info[tip]
-When adding or viewing a transaction we add a `CR` or `DR` under the category. This also has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** "Bank Account" and **Debits** "Cost of Goods Sold")
+When adding or viewing a transaction we add a `CR` or `DR` under the category which has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** "Bank Account" and **Debits** "Cost of Goods Sold")
 :::
 
 ## Viewing Journal Entries
 
-You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making an adjustments.
+You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making adjustments.
 
-For a bigger picture on your transactions you can use the [Transactions by Account](Reports/transactions-by-account) or [General Ledger by Account](Reports/general-ledger) reports.
+For a bigger picture on your transactions you can use the [Transactions by Account](Reports/transactions-by-account) or [General Ledger](Reports/general-ledger) reports.
 
 Depending on your reason you can use the reports like [Balance sheet](Reports/balance-sheet) or [Profit and Loss (P&L)](Reports/profit-and-loss). 
 
 :::info[tip]
-Setting the reports to detailed allows you to drill down to transaction level.
+Setting the reports to **detailed** allows you to drill down to transaction level.
 :::
 
 :::info
