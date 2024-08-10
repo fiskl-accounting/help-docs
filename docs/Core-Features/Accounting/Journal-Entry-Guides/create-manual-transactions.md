@@ -5,83 +5,81 @@ description: Create manual IN/OUT Debit/Credit transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-  - Accounting
-  - Journal Entry
+ - Accounting
+ - Journal entry
+ - Account transaction
+ - Chart of accounts
 ---
+This guide will show you how to create a manual `journal entry` also referred to as an `account transaction`.
 
-Journal entries are
+## Common reasons for creating manual transactions
 
-| **Account Type** | **Debit** | **Credit** |
-|------------------|-----------|------------|
-| **Assets**       | +         | -          |
-| **Liabilities**  | -         | +          |
-| **Equity**       | -         | +          |
+Businesses are complex and not everything is automated. Here are just two examples of why you would create a manual transaction:
 
-## Journal Entries in Fiskl
-
-Journal entries are the backbone of your accounting system in Fiskl. In many cases they are created automatically.
+1. **Cash purchases**: When you buy office supplies with petty cash, you'll need to record this to update your 'Cash on Hand' and 'Office Supplies' expense account
+2. **Future payments**: If you receive inventory now but pay later, you'll want to record this upcoming expense in 'Accounts Payable' for accurate budgeting
 
 <details>
+<summary>See more reasons for manual transactions </summary>
 
-<summary>See some examples of automatically created journal entries  </summary>
-
-- Transactions are received from connected bank accounts
-- You import your bank transactions
-- Invoices are sent or paid
-- Expenses are recorded
-- Payments are processed
+1. Recording cash transactions - Essential for keeping an accurate record of cash flows that aren't processed through electronic means, such as petty cash expenses
+2. Adjusting entries at month-end or year-end - Crucial for ensuring financial statements reflect the correct revenues and expenses within the appropriate accounting period
+3. Depreciation of assets - Important for reflecting the consumption of the economic benefits of fixed assets over their useful lives
+4. Accruals for unpaid expenses or unearned revenue - Necessary for compliance with the accrual basis of accounting, ensuring expenses and revenues are matched to the period in which they are incurred or earned, regardless of cash movement
+5. Recording non-monetary transactions like bartering - Important for capturing the exchange of goods or services where no cash is involved, affecting the financial position and performance of the business
+6. Correcting errors in previously recorded transactions - Critical for maintaining the integrity and accuracy of accounting records
+7. Creating Opening and Closing balances - Fundamental for starting new accounting periods correctly and closing out the books at period end
 
 </details>
 
-While automation handles many transactions, there are several reasons why you might need to add manual transactions:
+### Guided walk through
 
-<details>
+Follow along with this guided walk through of creating a manual entry for the purchase of coffee for the office using cash.
 
-<summary>See some examples of manually creating journal entries  </summary>
+<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/clzo5r09n0001me0cc2itnijh/tour"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
 
-- Recording cash transactions
-- Adjusting entries at month-end or year-end
-- Depreciation of assets
-- Accruals for unpaid expenses or unearned revenue
-- Recording non-monetary transactions like bartering
-- Correcting errors in previously recorded transactions
-- Creating Opening and Closing balances
+### Instructions
 
-</details>
+1. Navigate using the left menu to `Accounting > Chart of Accounts`
+1. Choose `Assets > Cash & Cash Equivalents` to expand and see all of its accounts (As the business owner you would typically be adding journal entries directly to their accounts in `Cash & Cash Equivalents` and `Credit Cards`)
+1. Select the account you are adding the transaction to
+1. Choose if you want to Debit or Credit the account. When working from what we term the `money accounts` it can be useful to use the IN/OUT notion of money flowing into or out of the account
+1. Enter a name for your transaction
+1. Assign a category by selecting an available category from the category selector
+1. You can add a tax, create a new tax or leave empty if there was no tax
+1. Enter the transaction amount
+1. Select client and vendor if this transaction is associated with either or both
+1. Click on the # icon to add a reference number if needed
+1. To add an attachment, click on the paperclip icon
+1. Click "Create" to save your transaction
 
-This guide will walk you through creating manual transactions in Fiskl.
+Your transaction will appear in your account and your balance will change. The transaction will also be saved in the selected category account.
 
-### For Business Owners
+### Multi-currency transactions
 
-As a business owner, you'll primarily work with what we loosely term "Money Accounts".
+Fiskl offers two ways to record foreign currency transactions:
 
-These are the accounts where money flows into and out of your company and include all sub-accounts in `Cash & Cash Equivalents` and `Credit Cards`.
-Almost all your day to day accounting take place in these accounts.
+1. In any `Cash and Cash Equivalent` account, you can record the transaction directly by choosing a category in either foreign or base currency
+1. You can open a foreign currency `Cash or Cash Equivalent` account and input the transaction amount in that specific foreign currency
 
-Whenever you need to reconcile, edit, or add a transaction, you'll mostly start here.
+To record in a different currency:
 
-:::info[Business Owner TIP]
-Always start at the money accounts. For example if you are going to reconcile an Expense start where the money moved out of your company. You would typically go to `Cash & Cash Equivalents > Your bank account` find the transaction and then categorize or match it to an expense from here.
-:::
+1. Follow steps 1-4 from the instructions above
+1. Click on "Record in different currency?"
+1. Select the required currency
+1. Enter the foreign currency amount. The exchange rate will appear underneath
+1. Complete the remaining details as in the standard instructions
+1. Click "Create" to save your transaction
 
-### Cheat Diagram for Debits and Credits
+Your transaction will appear in your account, displaying both the foreign and base currencies.
 
-![alt](/img/acounting/account-table.png)
-
-### For Accountants
-
-Accountants may need to add manual transactions for various purposes:
-
-- Reconciling accounts
-- Making year-end adjustments
-- Recording complex transactions that span multiple accounts
-- Implementing accounting changes or corrections
-
-Fiskl offers two methods for adding manual transactions:
-
-1. Directly into specific ledger accounts
-2. Using the multi-journal entry page, where you can enter multiple transactions across various accounts in one session
-
-The multi-journal entry feature is particularly useful for accountants dealing with complex entries or batch processing of transactions.
-
-Whether you're a business owner or an accountant, Fiskl's flexible journal entry system allows you to maintain accurate and up-to-date financial records with ease.
+Remember, keeping accurate manual entries ensures your financial reports are always up-to-date and reliable.
