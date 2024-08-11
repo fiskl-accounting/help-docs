@@ -10,12 +10,14 @@ tags:
   - Internal Transfers
 ---
 
+# Internal transfers
+
 ## What are internal transfers?
 
 Internal transfers involve moving money between your business accounts. There are two key aspects to understand:
 
-1. **Business action**: The actual movement of funds between accounts, typically done through your bank or financial institution
-2. **Accounting process**: Recording these fund movements in your accounting system to maintain accurate financial records
+1. **Business action**: The actual movement of funds between accounts, typically done through your bank or financial institution.
+1. **Accounting process**: Recording these fund movements in your accounting system to maintain accurate financial records.
 
 In Fiskl, we focus on helping you record internal transfers correctly to ensure your books reflect these important fund movements.
 
@@ -29,7 +31,7 @@ Properly recording internal transfers in your accounting system is crucial for:
 - Accurately tracking cross-currency transfers
 
 :::info[note]
-It's essential for you as a business owner to record your internal transfers in accounting accurately and timely. This is especially true if you do regular transfers and if they are in different currencies where it's not obvious that the transactions are a transfer.
+It's essential for you as a business owner to record your internal transfers in accounting accurately and timely. This is especially true if you do regular transfers and if they are in different currencies where it's not obvious that the transactions are transfers.
 :::
 
 <details>
@@ -49,7 +51,7 @@ Businesses often use internal transfers for:
 
 ## How Fiskl helps with internal transfers
 
-Fiskl provides tools to easily record your internal transfers, ensuring your accounting records accurately reflect the movement of funds between your accounts. In the case of [WIO Bank](../../../Integrations/Bank-Connections/connect-wio.md) we do these automatically.
+Fiskl provides tools to easily record your internal transfers, ensuring your accounting records accurately reflect the movement of funds between your accounts. In the case of [WIO Bank](../../../Integrations/Bank-Connections/connect-wio.md), we do these automatically.
 
 ## Types of internal transfers in Fiskl
 
@@ -60,17 +62,17 @@ Fiskl categorizes internal transfers based on currency types:
 
 ### Rules for internal transfer
 
-The following rules apply when Fiskl searches for transactions to match in an internal transfer.
+The following rules apply when Fiskl searches for transactions to match in an internal transfer:
 
-1. Only transactions with a category of `Uncategorised Income` and `Uncategorised Expense` can be matched
-1. Match suggestion priorities
+1. Only transactions with a category of `Uncategorised Income` and `Uncategorised Expense` can be matched.
+1. Match suggestion priorities:
     1. Transactions on the same day with same amounts
     1. Transactions on the same day with different currencies converted to a close match
     1. Transactions within several days where amounts match or are close
 
 :::info
-If no match can be found for a transfer between accounts A to B then try changing accounts to B and trying to match it from B to A.
-The reason this can occur is if a movement of funds takes a while process. We may not think a transfer made on 1st December matches with another transaction on the 15th November. But we will think that 15th November might match with the 1st December.
+If no match can be found for a transfer between accounts A to B, try changing accounts to B and matching it from B to A.
+This can occur if a movement of funds takes time to process. We may not think a transfer made on 1st December matches with another transaction on 15th November. But we will think that 15th November might match with 1st December.
 :::
 
 ## Creating an internal transfer
@@ -80,7 +82,7 @@ The reason this can occur is if a movement of funds takes a while process. We ma
 To transfer money between accounts with the same currency:
 
 <details>
-  <summary>Do an interactive video walk through of an internal transfer</summary>
+  <summary>Do an interactive video walkthrough of an internal transfer</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
@@ -95,22 +97,22 @@ To transfer money between accounts with the same currency:
 
 </details>  
 
-1. From the left menu, go to `Accounting > Chart of Accounts`
-1. Select the account you want to transfer money to or from
-1. Select the  `Match` link on the transaction.
-1. Click on `Internal transfer`
-1. You will be presented with potential matches
-    1. Choose the matching transaction
-    1. Choose "Update" to save the internal transfer match
+1. From the left menu, go to `Accounting > Chart of Accounts`.
+1. Select the account you want to transfer money to or from.
+1. Select the `Match` link on the transaction.
+1. Select `Internal transfer`.
+1. You will be presented with potential matches:
+    1. Choose the matching transaction.
+    1. Select "Update" to save the internal transfer match.
 
 Your internal transfer will appear in both the sending and receiving accounts.
 
 ### Multi-currency transfer
 
-Transfers between accounts with different currencies is exactly the same as for [same currency transfer](create-internal-transfer-transactions#same-currency-transfer). The only difference is that the exchange rate the bank used for the transfer is shown on the matched transaction.
+Transfers between accounts with different currencies follow the same process as [same currency transfers](#same-currency-transfer). The only difference is that the exchange rate the bank used for the transfer is shown on the matched transaction.
 
 <details>
-  <summary>Do an interactive video walk through of an internal transfer between different currency accounts</summary>
+  <summary>Do an interactive video walkthrough of an internal transfer between different currency accounts</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
@@ -124,8 +126,6 @@ Transfers between accounts with different currencies is exactly the same as for 
     </div>
 
 </details> 
-
-
 
 The transfer will appear in both accounts, showing both the foreign and base currency amounts.
 
