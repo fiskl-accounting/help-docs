@@ -1,10 +1,132 @@
 ---
-title: Create internal transfers
+title: Internal transfers
 sidebar_position: 14
-description: Create internal transfer transactions between your accounts
+description: Create and manage internal transfer transactions between your accounts
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Accounting
   - Journal Entry
+  - Internal Transfers
 ---
+
+## What are internal transfers?
+
+Internal transfers involve moving money between your business accounts. There are two key aspects to understand:
+
+1. **Business action**: The actual movement of funds between accounts, typically done through your bank or financial institution
+2. **Accounting process**: Recording these fund movements in your accounting system to maintain accurate financial records
+
+In Fiskl, we focus on helping you record internal transfers correctly to ensure your books reflect these important fund movements.
+
+## Why record internal transfers?
+
+Properly recording internal transfers in your accounting system is crucial for:
+
+- Distinguishing fund movements from income or expenses
+- Maintaining a clear audit trail
+- Keeping account balances up-to-date across all accounts
+- Accurately tracking cross-currency transfers
+
+:::info[note]
+It's essential for you as a business owner to record your internal transfers in accounting accurately and timely. This is especially true if you do regular transfers and if they are in different currencies where it's not obvious that the transactions are a transfer.
+:::
+
+<details>
+<summary>Common reasons for internal transfers</summary>
+
+Businesses often use internal transfers for:
+
+- Covering operational expenses
+- Purchasing inventory
+- Paying salaries
+- Reallocating funds between accounts
+- Managing multiple currencies
+- Maintaining specific account balance levels
+- Bridging gaps between cash reserves and bank balances
+
+</details>
+
+## How Fiskl helps with internal transfers
+
+Fiskl provides tools to easily record your internal transfers, ensuring your accounting records accurately reflect the movement of funds between your accounts. In the case of [WIO Bank](../../../Integrations/Bank-Connections/connect-wio.md) we do these automatically.
+
+## Types of internal transfers in Fiskl
+
+Fiskl categorizes internal transfers based on currency types:
+
+1. Transfers between accounts of the same currency
+1. Transfers between accounts with different currencies
+
+### Rules for internal transfer
+
+The following rules apply when Fiskl searches for transactions to match in an internal transfer.
+
+1. Only transactions with a category of `Uncategorised Income` and `Uncategorised Expense` can be matched
+1. Match suggestion priorities
+    1. Transactions on the same day with same amounts
+    1. Transactions on the same day with different currencies converted to a close match
+    1. Transactions within several days where amounts match or are close
+
+:::info
+If no match can be found for a transfer between accounts A to B then try changing accounts to B and trying to match it from B to A.
+The reason this can occur is if a movement of funds takes a while process. We may not think a transfer made on 1st December matches with another transaction on the 15th November. But we will think that 15th November might match with the 1st December.
+:::
+
+## Creating an internal transfer
+
+### Same currency transfer
+
+To transfer money between accounts with the same currency:
+
+<details>
+  <summary>Do an interactive video walk through of an internal transfer</summary>
+
+    <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+    <iframe
+    style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+    src="https://demo.fiskl.com/e/clzofy1kn005slb0c18g004hq/tour"
+    allowFullScreen
+    webkitallowfullscreen="true"
+    mozallowfullscreen="true"
+    allowtransparency="true"
+    ></iframe>
+    </div>
+
+</details>  
+
+1. From the left menu, go to `Accounting > Chart of Accounts`
+1. Select the account you want to transfer money to or from
+1. Select the  `Match` link on the transaction.
+1. Click on `Internal transfer`
+1. You will be presented with potential matches
+    1. Choose the matching transaction
+    1. Choose "Update" to save the internal transfer match
+
+Your internal transfer will appear in both the sending and receiving accounts.
+
+### Multi-currency transfer
+
+Transfers between accounts with different currencies is exactly the same as for [same currency transfer](create-internal-transfer-transactions#same-currency-transfer). The only difference is that the exchange rate the bank used for the transfer is shown on the matched transaction.
+
+<details>
+  <summary>Do an interactive video walk through of an internal transfer between different currency accounts</summary>
+
+    <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+    <iframe
+    style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+    src="https://demo.fiskl.com/e/clzoh9ms7004ol10ck1ymc14p/tour"
+    allowFullScreen
+    webkitallowfullscreen="true"
+    mozallowfullscreen="true"
+    allowtransparency="true"
+    ></iframe>
+    </div>
+
+</details> 
+
+
+
+The transfer will appear in both accounts, showing both the foreign and base currency amounts.
+
+By using internal transfers correctly, you ensure accurate tracking of funds across all your accounts, maintain proper financial records, and simplify your accounting processes.
