@@ -34,7 +34,8 @@ Businesses are complex and not everything is automated. Here are just two exampl
 
 ### Guided walk through
 
-Follow along with this guided walk through of creating a manual entry for the purchase of coffee for the office using cash.
+<details>
+<summary>Do an interactive walkthrough of creating a manual entry</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe
@@ -46,8 +47,14 @@ mozallowfullscreen="true"
 allowtransparency="true"
 ></iframe>
 </div>
+</details>
+
+---
 
 ### Instructions
+
+<details>
+<summary>See step by step instructiosn for creating a manual journal entry</summary>
 
 1. Navigate using the left menu to `Accounting > Chart of Accounts`
 1. Choose `Assets > Cash & Cash Equivalents` to expand and see all of its accounts (As the business owner you would typically be adding journal entries directly to their accounts in `Cash & Cash Equivalents` and `Credit Cards`)
@@ -61,6 +68,8 @@ allowtransparency="true"
 1. Click on the # icon to add a reference number if needed
 1. To add an attachment, click on the paperclip icon
 1. Click "Create" to save your transaction
+
+</details>
 
 Your transaction will appear in your account and your balance will change. The transaction will also be saved in the selected category account.
 
