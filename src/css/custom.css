@@ -41,6 +41,7 @@ body {
   --admonitions-tip-bg: #00976f;
   --admonitions-tip-border-color: #0d4939;
   --admonitions-tip-hightlight-color: #0d4939;
+
 }
 
 .navbar--dark {
@@ -52,6 +53,39 @@ body {
   --ifm-navbar-link-hover-color: #00d89e;
   --ifm-navbar-background-color: #080420;
 }
+
+[data-theme='dark'] .theme-admonition-note {
+  --ifm-color-secondary-contrast-background: rgb(31, 122, 157);
+  --ifm-color-secondary-dark:rgb(149, 175, 186);
+  --ifm-color-info-contrast-background: rgba(197, 71, 18, 0.522);
+
+}
+
+.theme-admonition-note {
+  --ifm-color-secondary-contrast-background: rgba(17, 200, 250, 0.1);
+  --ifm-color-secondary-dark:rgba(7, 91, 115, 0.5);
+}
+
+[data-theme='light'] .theme-admonition-tip {
+  --ifm-color-secondary-contrast-background: rgba(0, 209, 143, 0.2); /* Light yellow background */
+  --ifm-color-secondary-dark: rgba(2, 69, 53, 0.264); /* Darker yellow edge */
+  background-color: var(--ifm-color-secondary-contrast-background);
+  border-left: 6px solid var(--ifm-color-secondary-dark);
+}
+
+
+[data-theme='dark'] .theme-admonition-info {
+  --ifm-color-info-contrast-background: rgba(0, 94, 255, 0.6);
+  --ifm-color-info-contrast-foreground: fff;
+}
+
+
+.theme-admonition-info {
+  --ifm-color-info-contrast-background: rgba(0, 94, 255, 0.3);
+  --ifm-color-info-dark:rgba(0, 94, 255, 0.6);
+}
+
+
 
 /* Adjust the font size of sidebar links */
 .menu__link {

@@ -8,3 +8,8 @@ tags:
   - Accounting
   - Journal Entry
 ---
+
+
+:::tip
+this is a tip
+:::
