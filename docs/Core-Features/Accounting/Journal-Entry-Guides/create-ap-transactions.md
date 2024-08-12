@@ -10,9 +10,9 @@ tags:
  - Accounts Payable
 ---
 
-## What is accounts payable?
+Accounts payable (AP) is a key component in accrual accounting.
 
-Accounts payable (AP) is a record of what your business owes to suppliers or vendors. It includes goods or services you've bought on credit but haven't paid for yet. In Fiskl, the AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This way, you can easily see how much you need to pay without any surprises.
+AP is a record of what your business owes to suppliers or vendors. It includes goods or services you've bought on credit but haven't paid for yet. In Fiskl, the AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This way, you can easily see how much you need to pay without any surprises.
 
 <details>
 <summary>Why is managing accounts payable important?</summary>
@@ -25,6 +25,7 @@ Proper AP management helps you:
 :::tip
 If the balance in your Accounts Payable account is zero, it means you currently have no future payments or liabilities recorded.
 :::
+
 
 ## Creating an AP transaction
 
