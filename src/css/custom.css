@@ -67,8 +67,15 @@ body {
 }
 
 [data-theme='light'] .theme-admonition-tip {
-  --ifm-color-secondary-contrast-background: rgba(0, 209, 143, 0.2); /* Light yellow background */
-  --ifm-color-secondary-dark: rgba(2, 69, 53, 0.264); /* Darker yellow edge */
+  --ifm-color-secondary-contrast-background: rgba(0, 209, 143, 0.2); 
+  --ifm-color-secondary-dark: rgba(2, 69, 53, 0.264); 
+  background-color: var(--ifm-color-secondary-contrast-background);
+  border-left: 6px solid var(--ifm-color-secondary-dark);
+}
+
+[data-theme='dark'] .theme-admonition-tip {
+  --ifm-color-secondary-contrast-background: rgba(4, 90, 63, 0.696); 
+  --ifm-color-secondary-dark: rgba(239, 247, 245, 0.663); 
   background-color: var(--ifm-color-secondary-contrast-background);
   border-left: 6px solid var(--ifm-color-secondary-dark);
 }

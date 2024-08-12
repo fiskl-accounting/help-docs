@@ -5,9 +5,9 @@ description: Understanding and managing accounts payable (AP) transactions in Fi
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-  - Accounting
-  - Journal Entry
-  - Accounts Payable
+ - Accounting
+ - Journal Entry
+ - Accounts Payable
 ---
 
 ## What is accounts payable?
@@ -15,38 +15,35 @@ tags:
 Accounts payable (AP) is a record of what your business owes to suppliers or vendors. It includes goods or services you've bought on credit but haven't paid for yet. In Fiskl, the AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This way, you can easily see how much you need to pay without any surprises.
 
 <details>
-    <summary>Why is managing accounts payable important?</summary>
+<summary>Why is managing accounts payable important?</summary>
 
 Proper AP management helps you:
-
 - Track your short-term obligations
 - Accurately report your financial position
-
 </details>
+
+:::tip
+If the balance in your Accounts Payable account is zero, it means you currently have no future payments or liabilities recorded.
+:::
 
 ## Creating an AP transaction
 
 To record a new accounts payable transaction:
 
 <details>
-  <summary>Do an interactive walkthrough of creating an accounts payable transaction</summary>
+<summary>Do an interactive walkthrough of creating an accounts payable transaction</summary>
 
-    <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
-    <iframe
-    style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-    src="https://demo.fiskl.com/e/clzpv1b2y001fk20czt0zm7eq/tour"
-    allowFullScreen
-    webkitallowfullscreen="true"
-    mozallowfullscreen="true"
-    allowtransparency="true"
-    ></iframe>
-    </div>
-
-</details>  
-
-
-
-<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0; width: 100%"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://demo.fiskl.com/e/clzpv1b2y001fk20czt0zm7eq/tour" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency></iframe></div> -->
+<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/clzpv1b2y001fk20czt0zm7eq/tour"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
 
 1. Go to `Accounting > Transactions` from the left menu
 1. Select "Accounts Payable" from the account list
@@ -66,15 +63,30 @@ Your new AP transaction will now appear in the Accounts Payable list and the cor
 
 ## Matching AP transactions with payments
 
+<details>
+<summary>Do an interactive walkthrough of matching an accounts payable transaction</summary>
+
+<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/clzqu40870001mr0cwgr8jqhe/tour"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
 When you pay an AP transaction, you need to match it with the payment in your bank or credit card account:
 
 1. Go to the relevant bank or credit card account
-1. Create a new -OUT transaction for the payment
-1. Click "Show matches"
-1. Select the corresponding AP transaction from the list
-1. Click "Update" to confirm the match
+1. Find the relevant transaction
+1. Select "Show matches"
+1. Choose the corresponding AP transaction from the list
+1. Select "Update" to confirm the match
 
-The matched transaction will now appear in both the payment account and Accounts Payable, with the AP balance updated accordingly.
+In the Accounts Payable section, you will find two transactions associated with this transaction. The initial transaction logs the future expense, while the subsequent transaction records its payment. Consequently, the outstanding balance for this payable is zeroed out. These updates are reflected in the account transactions and are visible on both the balance sheet and the balance sheet report.
 
 ## Working with foreign currency AP transactions
 
