@@ -15,7 +15,7 @@ Access Accounting Settings using the `gear icon` on the top left menu or visit t
 
 - **Company currency**: Displays your base currency. This cannot be changed after account creation
 
-- **Fiscal year end**: Set your company's fiscal year end date. This affects date periods in filters, such as:
+- **Fiscal year end**: Set your company's fiscal year end date. mThis affects date periods in filters, such as:
   - This year / Last year
   - This financial year
   - This quarter / Last quarter

@@ -52,27 +52,19 @@ These payment methods will appear on invoices and payment pages, with convenient
 
 ## Invoice settings
 
-### Payment terms
-Set the number of days between the invoice date and the due date. The initial value is 7 days.
+Configure your invoice preferences:
 
-Example: If you change this to 14 days, new invoices will have a due date 14 days from the invoice date.
-
-### Auto-select payment gateways
-Toggle this option to automatically select all available payment methods (both manual and payment gateways) compatible with the invoice's country, currency, and amount.
-
-### Invoice notes
-Add notes to appear on all invoices. You can use basic HTML for styling.
+- **Payment terms**: Set the number of days between the invoice date and due date (default: 7 days).
+- **Auto-select payment gateways**: Toggle to automatically select all available payment methods compatible with the invoice's country, currency, and amount.
+- **Invoice notes**: Add notes to appear on all invoices. Basic HTML styling is supported.
 
 ## Quote settings
 
-### Terms and conditions
-Add terms and conditions for your quotes. Basic HTML styling is supported.
+Customize your quote preferences:
 
-### Quote notes
-Include additional notes for your quotes. HTML styling can be used here as well.
-
-### Quote validity period
-Set the number of days a quote remains valid. The initial value is 7 days.
+- **Terms and conditions**: Add standard terms and conditions for your quotes. Basic HTML styling is supported.
+- **Quote notes**: Include additional notes for your quotes. HTML styling can be used.
+- **Quote validity period**: Set the number of days a quote remains valid (default: 7 days).
 
 ## Email settings
 
@@ -83,7 +75,7 @@ Set up a whitelisted email domain for sending invoices:
 2. Set up required CNAME records (instructions provided via email)
 3. Verify your domain
 
-:::danger[caution]
+:::info[caution]
 Ensure your domain has proper DMARC and SPF records set up for the best email deliverability. Failure to have these may result in email providers like Gmail or Yahoo Mail not delivering your messages.
 
 Removing the CNAME records after verification will also prevent your emails from being delivered.

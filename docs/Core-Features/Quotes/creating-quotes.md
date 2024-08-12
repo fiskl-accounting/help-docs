@@ -99,12 +99,13 @@ The initial number of days a quote is valid for can be set in Quote settings. Yo
 Quotes follow this status flow:
 
 ```mermaid
-graph LR
-    Draft -->| to | Sent
-    Sent -->| to | Draft
-    Sent -->| to | Accepted
-    Sent -->| to | Rejected
-    Accepted -->| to | Converted
+stateDiagram-v2
+    direction LR
+    Draft --> Sent: to
+    Sent --> Draft: to
+    Sent --> Accepted: to
+    Sent --> Rejected: to
+    Accepted --> Converted: to
 ```
 
 ---
