@@ -5,8 +5,8 @@ description: Learn about using templates and brands
 toc_min_heading_level: 2
 toc_max_heading_level: 6
 tags:
-  - Getting Started
-  - Templates & Brands
+  - Getting started
+  - Templates & brands
   - Invoice
   - Company settings
 ---
@@ -17,7 +17,7 @@ import TOCInline from '@theme/TOCInline';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Templates and Brands
+# Templates and brands
 
 Templates & brands are a fantastic way to create various styled invoices, quotes and emails and to have multiple brands in one account.
 
@@ -38,7 +38,7 @@ You can have multiple templates to suit different needs.
 The email logo is only available on the default emails. If you choose custom emails they will be plain text without any HTML formatting.
 :::
 
-## What is a Brand?
+## What is a brand?
 
 A brand is a template but where you override your company details. This is particularly useful if you operate multiple brands under one accounting entity.
 

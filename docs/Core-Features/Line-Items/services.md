@@ -1,7 +1,7 @@
 ---
 title: Services
 sidebar_position: 4
-description: Managing and using services in Fiskl
+description: Managing and using services
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

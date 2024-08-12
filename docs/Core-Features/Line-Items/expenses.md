@@ -1,7 +1,7 @@
 ---
 title: Expenses
 sidebar_position: 5
-description: Managing and tracking expenses in Fiskl
+description: Managing and tracking expenses
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

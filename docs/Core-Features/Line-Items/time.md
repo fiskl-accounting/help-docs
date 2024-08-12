@@ -1,7 +1,7 @@
 ---
 title: Time
 sidebar_position: 6
-description: Time tracking and billing in Fiskl
+description: Time tracking and billing
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

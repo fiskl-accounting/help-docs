@@ -5,11 +5,11 @@ description: Setting up your company taxes
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-  - Getting Started
+  - Getting started
   - Accounting
   - Invoices
   - Tax
-  - Tax Number
+  - Tax number
 ---
 
 import Tabs from '@theme/Tabs';

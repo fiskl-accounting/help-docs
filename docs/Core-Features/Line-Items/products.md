@@ -1,7 +1,7 @@
 ---
 title: Products
 sidebar_position: 2
-description: Managing and using products in Fiskl
+description: Managing and using products
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

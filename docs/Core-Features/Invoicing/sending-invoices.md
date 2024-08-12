@@ -1,7 +1,7 @@
 ---
 title: Sending invoices
 sidebar_position: 4
-description: Sending invoices
+description: How to send invoices
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -12,7 +12,7 @@ tags:
 
 ## Send invoices
 
-For a quick overview watch the video on Sending an invoice 
+For a quick overview watch the video on Sending an invoice
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GqB0c77qJC4?si=SsZ9B1agw0gIxo9q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -68,7 +68,7 @@ If you would like Fiskl to send automated overdue reminders, go to the “Email�
 
 
 
-### Step 2 – 
+### Step 2 –
 
 Scroll down to Overdue reminders and select your preferred option.
 
@@ -81,7 +81,7 @@ To choose your payment method, click on the “Payment methods” tab.
 
 
 
-### Step 2 – 
+### Step 2 –
 
 Your connected payment gateways will automatically be selected.
 
@@ -95,7 +95,7 @@ To save a manual payment method go to Invoice & quote settings.
 
 Add a payment method to your Fiskl invoice.
 
- 
+
 
 See Payment integrations section in this guide for more information.
 Add an attachment
@@ -116,9 +116,7 @@ Once your client has received their invoice they can view, pay using the availab
 
 
 
- 
+
 View invoice history
 
 Once you have sent your invoice, you can keep track of its activity going forwards, including when your invoice was sent, delivery confirmation, when payments have been received along with any other actions relating to the invoice.
-
-

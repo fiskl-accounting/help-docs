@@ -4,7 +4,7 @@ sidebar_position: 10
 description: Configure your personal preferences and account settings.
 tags:
  - Settings
- - User Settings
+ - User settings
  - Profile
 ---
 
@@ -12,9 +12,9 @@ The User Settings page allows you to manage your personal account information an
 
 Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
 
-## Account Settings
+## Account settings
 
-### General Information
+### General information
 - First name
 - Last name
 - Email
@@ -24,21 +24,21 @@ Access User Settings by clicking the `round icon` in the top right menu or visit
 - Change email
 - Change password
 
-### Session Management
+### Session management
 - Refresh session option: Useful when working with support. Generally not needed for regular use.
 
-### Account Deletion
+### Account deletion
 :::danger
 Only users with the Owner role can delete an account. Deleting your account will permanently remove all your data.
 :::
 
 ## Preferences
 
-### Mileage Tracking
+### Mileage tracking
 - Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile).
 - Travel unit: Choose between miles (mi) or kilometers (km).
 
-### Time Tracking
+### Time tracking
 - Billing rate: Set your hourly rate (e.g., 100 per hour).
 - Billing unit: Currently, only hours (H) are supported.
 
@@ -53,7 +53,7 @@ Correctly setting your Region, Language, and Time Zone ensures that dates, numbe
 - Region and Language: Affects formatting of dates, numbers, and currency.
 - Time Zone: Ensures times are displayed correctly for your location.
 
-## Applying Changes
+## Applying changes
 
 Settings auto save there is no save button. You may have to select outside the input field to save.
 

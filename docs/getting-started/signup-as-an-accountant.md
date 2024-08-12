@@ -5,7 +5,7 @@ description: Sign up as an accountant
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-  - Getting Started
+  - Getting started
   - Accountant
 ---
 

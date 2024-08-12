@@ -30,7 +30,7 @@ Modifying a template affects previously sent invoices using that template. Consi
 
 A brand is a template with overridden company details. This feature is particularly useful if you operate multiple brands under one accounting entity.
 
-## Configuring Templates and Brands
+## Configuring templates and brands
 
 Follow these steps to set up your templates and brands:
 
@@ -38,12 +38,12 @@ Follow these steps to set up your templates and brands:
 2. Click "Add New Template" or select an existing template to edit
 3. Customize the following sections:
 
-### Name & Header
+### Name & header
 - Give your template a descriptive name (visible only to you)
 - Add and adjust the size of your logo
 - Upload an email logo for standard emails (square image, max 100KB, rendered at 70x70 px)
 
-### Brand Overrides
+### Brand overrides
 Override these company details if creating a brand:
 - Company name
 - Email address
@@ -56,7 +56,7 @@ Override these company details if creating a brand:
 As you change these values, you'll see them update in the preview on the right. Use this to adjust the layout, especially for the address
 :::
 
-### Theme and Colors
+### Theme and colors
 - Select a preset invoice layout
 - Customize colors for various elements (header, text, labels, dividers)
 
@@ -67,7 +67,7 @@ Choose from available fonts for your documents
 Not all fonts support languages like Chinese, Cyrillic, or Arabic when generating PDFs. Always test your invoice by downloading the PDF after changing fonts
 :::
 
-### Display Options
+### Display options
 Toggle visibility for:
 - Company ID
 - Tax ID (must be enabled in tax settings)
@@ -79,7 +79,7 @@ Toggle visibility for:
 ### Attachments
 Add files to be included with all invoices or quotes using this template (e.g., terms of service)
 
-### Custom Emails
+### Custom emails
 Create custom emails for:
 - Invoices
 - Deposit requests
@@ -93,11 +93,11 @@ Use provided templates and placeholders for dynamic content (e.g., `[Company nam
 Custom emails are plain text without HTML formatting. The email logo is only available for standard emails.
 :::
 
-## Interactive Guides
+## Interactive guides
 
 Use these interactive demos to learn how to set up templates and brands:
 
-### Configure Your Template
+### Configure your template
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
@@ -109,7 +109,7 @@ Use these interactive demos to learn how to set up templates and brands:
   ></iframe>
 </div>
 
-### Create a Branded Template
+### Create a branded template
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}

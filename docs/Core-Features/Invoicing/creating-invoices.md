@@ -1,7 +1,7 @@
 ---
 title: Creating invoices
 sidebar_position: 2
-description: How to create and edit invoices in Fiskl
+description: How to create and edit invoices
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -57,7 +57,7 @@ The invoice pulls the following details from your Company settings:
 You can customize your address layout in Company Settings to change how it appears on invoices and quotes.
 :::
 
-### Client Details
+### Client details
 
 A client is required for invoice creation. You can add a client in advance or while creating the invoice. The invoice uses:
 
@@ -174,7 +174,7 @@ Choose from over 60 languages for invoices & quotes. This affects the invoice, s
 You can customize your languages in [Invoice and Quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
 
 
-### Additional Information
+### Additional information
 
 Add extra details like PO Numbers to your invoice.
 
