@@ -12,26 +12,6 @@ The User Settings page allows you to manage your personal account information an
 
 Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
 
-## Account Settings
-
-### General Information
-- First name
-- Last name
-- Email
-- Phone
-
-### Security
-- Change email
-- Change password
-
-### Session Management
-- Refresh session option: Useful when working with support. Generally not needed for regular use.
-
-### Account Deletion
-:::danger
-Only users with the Owner role can delete an account. Deleting your account will permanently remove all your data.
-:::
-
 ## Preferences
 
 ### Mileage Tracking
@@ -52,6 +32,29 @@ Correctly setting your Region, Language, and Time Zone ensures that dates, numbe
 
 - Region and Language: Affects formatting of dates, numbers, and currency.
 - Time Zone: Ensures times are displayed correctly for your location.
+
+---
+
+## Account Settings
+
+### General Information
+- First name
+- Last name
+- Email
+- Phone
+
+### Security
+- Change email
+- Change password
+
+### Session Management
+- Refresh session option: Useful when working with support. Generally not needed for regular use.
+
+### Account Deletion
+:::danger
+Only users with the Owner role can delete an account. Deleting your account will permanently remove all your data.
+:::
+
 
 ## Applying Changes
 
