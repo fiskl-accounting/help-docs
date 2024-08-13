@@ -1,7 +1,7 @@
 ---
 title: Profit and Loss
 sidebar_position: 3
-description: Understanding and using the Profit and Loss report in Fiskl
+description: Understanding and using the Profit and Loss report
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -83,7 +83,7 @@ Fiskl offers both Cash and Accrual accounting methods for your P&L report:
 <summary>Which method should I use?</summary>
 
 Learn more about the differences between [Cash vs Accrual accounting](../cash-vs-accrual) and how you can easily switch between them in Fiskl.
- 
+
 </details>
 
 ## Analyzing Your Profit and Loss Report
@@ -104,7 +104,7 @@ Click on any total in the detailed view to drill down to all related transaction
 
 Fiskl makes it easy to share your P&L report:
 
-1. **Export to spreadsheet**: 
+1. **Export to spreadsheet**:
 
    - Click the export button at the top right of the screen
    - Choose between Google Sheets or Excel format

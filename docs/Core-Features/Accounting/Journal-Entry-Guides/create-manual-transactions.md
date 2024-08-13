@@ -54,12 +54,12 @@ allowtransparency="true"
 ### Instructions
 
 <details>
-<summary>See step by step instructiosn for creating a manual journal entry</summary>
+<summary>See step by step instructions for creating a manual journal entry</summary>
 
 1. Navigate using the left menu to `Accounting > Chart of Accounts`
 1. Choose `Assets > Cash & Cash Equivalents` to expand and see all of its accounts (As the business owner you would typically be adding journal entries directly to their accounts in `Cash & Cash Equivalents` and `Credit Cards`)
 1. Select the account you are adding the transaction to
-1. Choose if you want to Debit or Credit the account. When working from what we term the `money accounts` it can be useful to use the IN/OUT notion of money flowing into or out of the account
+1. Choose if you want to debit or credit the account. When working from what we term the `money accounts` it can be useful to use the IN/OUT notion of money flowing into or out of the account
 1. Enter a name for your transaction
 1. Assign a category by selecting an available category from the category selector
 1. You can add a tax, create a new tax or leave empty if there was no tax

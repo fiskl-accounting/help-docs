@@ -1,21 +1,21 @@
 ---
-title: Accounts payable
+title: Accounts Payable
 sidebar_position: 10
-description: Understanding and managing accounts payable (AP) transactions in Fiskl
+description: Understanding and managing Accounts Payable (AP) transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
  - Accounting
- - Journal Entry
+ - Journal entry
  - Accounts Payable
 ---
 
-Accounts payable (AP) is a key component in accrual accounting.
+Accounts Payable (AP) is a key component in accrual accounting.
 
 AP is a record of what your business owes to suppliers or vendors. It includes goods or services you've bought on credit but haven't paid for yet. In Fiskl, the AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This way, you can easily see how much you need to pay without any surprises.
 
 <details>
-<summary>Why is managing accounts payable important?</summary>
+<summary>Why is managing Accounts Payable important?</summary>
 
 Proper AP management helps you:
 - Track your short-term obligations
@@ -29,7 +29,7 @@ If the balance in your Accounts Payable account is zero, it means you currently 
 
 ## Creating an AP transaction
 
-To record a new accounts payable transaction:
+To record a new Accounts Payable transaction:
 
 <details>
 <summary>Do an interactive walkthrough of creating an accounts payable transaction</summary>
@@ -87,7 +87,7 @@ When you pay an AP transaction, you need to match it with the payment in your ba
 1. Choose the corresponding AP transaction from the list
 1. Select "Update" to confirm the match
 
-In the Accounts Payable section, you will find two transactions associated with this transaction. The initial transaction logs the future expense, while the subsequent transaction records its payment. Consequently, the outstanding balance for this payable is zeroed out. These updates are reflected in the account transactions and are visible on both the balance sheet and the balance sheet report.
+In the Accounts Payable section, you will find two transactions associated with this transaction. The initial transaction logs the future expense, while the subsequent transaction records its payment. Consequently, the outstanding balance for this payable is zeroed out. These updates are reflected in the account transactions and are visible on both the Balance Sheet and the Balance Sheet report.
 
 ## Working with foreign currency AP transactions
 

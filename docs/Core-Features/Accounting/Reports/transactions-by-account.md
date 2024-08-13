@@ -79,7 +79,7 @@ The Transactions by Account report provides extensive information for each trans
 **Each of these amounts (Gross, Net, Tax) is shown in three currencies:::
 
 - **Original Currency**: The currency in which the transaction was originally recorded
-- **Account Currency**: The currency of the account (for revenue and expenses, this is the home currency)
+- **Account Currency**: The currency of the account (for revenue and expenses, this is the base currency)
 - **Base Currency**: Your company's base accounting currency
 
 1. **Balance**: Running balance of the account (if enabled)
@@ -123,7 +123,7 @@ Customizing your columns can significantly streamline your report, especially wh
 
 Fiskl makes it easy to share and further analyze your report:
 
-1. **Export to spreadsheet**: 
+1. **Export to spreadsheet**:
    - Click the export button at the top right of the screen
    - Choose between Google Sheets or Excel format
 

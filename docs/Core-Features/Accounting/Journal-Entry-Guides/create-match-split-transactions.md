@@ -1,12 +1,12 @@
 ---
-title: Match and Split Transactions
+title: Match and split transactions
 sidebar_position: 6
-description: Learn how to match and split transactions in Fiskl for accurate accounting
+description: Learn how to match and split transactions for accurate accounting
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
  - Accounting
- - Journal Entry
+ - Journal entry
  - Transactions
 ---
 
@@ -17,11 +17,11 @@ Transaction matching in Fiskl allows you to reconcile recorded financial activit
 <details>
 <summary>Common matching scenarios</summary>
 
-- Matching an expense to a bank transaction.
-- Matching an invoice to a received payment.
-- Matching an invoice payment to a received payment.
-- Reconciling a batch payment (like a Stripe payout) with multiple invoices.
-- Matching a received payment to an Accounts Receivable transaction.
+- Matching an expense to a bank transaction
+- Matching an invoice to a received payment
+- Matching an invoice payment to a received payment
+- Reconciling a batch payment (like a Stripe pay-out) with multiple invoices
+- Matching a received payment to an Accounts Receivable transaction
 
 </details>
 
@@ -45,7 +45,7 @@ Transaction matching in Fiskl allows you to reconcile recorded financial activit
 
 1. Navigate to the `Accounting > Chart of Accounts` or `Accounting > Transactions` page from the left menu
 1. Find the account you want to work on and open it
-1. Select `Match` on the transaction
+1. Select `Show matches` on the transaction
 1. Choose the corresponding transaction(s) from the list
 1. Review the match details
 1. Select `Confirm Match` to complete the process
@@ -84,14 +84,14 @@ Splitting allows you to divide a single transaction into multiple parts, assigni
 <details>
   <summary>See an example of a real world split transaction</summary>
 
-Imagine you're a freelance marketing consultant who attends a professional conference. You pay a single fee of $1,500 for the event, but this fee covers multiple aspects of your business expenses. 
+Imagine you're a freelance marketing consultant who attends a professional conference. You pay a single fee of $1,500 for the event, but this fee covers multiple aspects of your business expenses.
 
 Here's how you might split this transaction:
 
   ```
-    $800 for Conference Registration (Expense > Operating Expenses > Education and Training)
-    $400 for Workshop Materials (Expenses > Operating Expenses > Office Supplies)
-    $300 for Included accommodation (Expenses > Operating Expenses > Travel - Accommodation)
+    $800 for Conference registration (Expense > Operating Expenses > Education and Training)
+    $400 for workshop materials (Expenses > Operating Expenses > Office Supplies)
+    $300 for included accommodation (Expenses > Operating Expenses > Travel - Accommodation)
   ```
 
 This split allows you to accurately categorize your expenses for both accounting and tax purposes. It provides a clearer picture of how you're investing in different aspects of your business:
@@ -126,7 +126,7 @@ Gain insights into the cost breakdown of attending professional events
     ></iframe>
     </div>
 
-</details> 
+</details>
 
 1. Navigate to the `Accounting > Chart of Accounts` or `Accounting > Transactions` page from the left menu
 1. Find the transaction you want to split and open it
@@ -150,6 +150,6 @@ Fiskl supports matching and splitting transactions involving different currencie
 
 1. When matching or splitting transactions with different currencies, Fiskl displays the exchange rates
 1. You can adjust amounts or rates to balance the transaction
-1. For multi-currency splits, choose which currency's rate to adjust for matching
+1. For multi-currency splits, choose which currency rate to adjust for matching
 
 Remember, accurate matching and splitting of transactions forms the foundation of reliable financial reporting in Fiskl.

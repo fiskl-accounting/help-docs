@@ -6,9 +6,9 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
  - Accounting
- - Journal Entry
+ - Journal entry
  - Reporting
- - Data Management
+ - Data management
 ---
 
 ## Overview
@@ -43,7 +43,7 @@ Use text filters to search for specific vendors, invoice numbers, or transaction
 
 Exporting your transactions allows you to analyze your data in other applications. Fiskl offers three export options:
 
-1. Google Sheets
+1. Google sheets
 2. Excel format
 3. CSV format
 

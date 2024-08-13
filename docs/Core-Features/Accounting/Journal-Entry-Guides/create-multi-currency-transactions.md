@@ -1,14 +1,14 @@
 ---
 title: Multi-currency transactions
 sidebar_position: 8
-description: Create and manage multi-currency transactions in Fiskl
+description: Create and manage multi-currency transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
  - Accounting
- - Journal Entry
- - Multi-Currency
- - Foreign Exchange
+ - Journal entry
+ - Multi-currency
+ - Foreign exchange
 ---
 
 ## Understanding multi-currency transactions
@@ -19,10 +19,10 @@ In today's global business environment, it's common to deal with transactions in
 
 Recording transactions in their original currency is crucial for several reasons:
 
-1. **Accuracy**: It reflects the actual amount paid or received in the transaction's currency.
-2. **Exchange rate tracking**: It allows you to track exchange rate fluctuations over time.
-3. **Financial reporting**: It enables more accurate financial reporting, especially for businesses operating in multiple countries.
-4. **Tax compliance**: It helps in meeting tax reporting requirements in different jurisdictions.
+1. **Accuracy**: It reflects the actual amount paid or received in the transaction's currency
+2. **Exchange rate tracking**: It allows you to track exchange rate fluctuations over time
+3. **Financial reporting**: It enables more accurate financial reporting, especially for businesses operating in multiple countries
+4. **Tax compliance**: It helps in meeting tax reporting requirements in different jurisdictions
 
 <details>
 <summary>Real-world example</summary>
@@ -93,7 +93,7 @@ The transaction will be recorded in both the foreign currency and your base curr
 You can view your multi-currency transactions in several ways:
 
 1. In the specific account where the transaction was recorded
-2. In your Chart of Accounts under the relevant account category
+2. In your Chart of accounts under the relevant account category
 3. In various financial reports, such as the Balance Sheet or Income Statement
 
 These reports will typically show amounts in your base currency but may offer options to view original currency amounts.

@@ -1,7 +1,7 @@
 ---
-title: Accounts receivable
+title: Accounts Receivable
 sidebar_position: 12
-description: Create accounts receivable (AR) transactions
+description: Create Accounts Receivable (AR) transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -14,7 +14,7 @@ Accounts Receivable (AR) is a key component in accrual accounting.
 AR is a record of money owed to your business by customers for goods or services you've provided but haven't been paid for yet. In Fiskl, the AR account automatically tracks these amounts in multiple currencies, displaying the total in your base currency. This gives you a clear overview of the payments you're expecting to receive.
 
 <details>
-<summary>Why is managing accounts receivable important?</summary>
+<summary>Why is managing Accounts Receivable important?</summary>
 
 Proper AR management helps you:
 
@@ -36,8 +36,8 @@ Account Receivable transactions are generated automatically for invoices and inv
 
 Fiskl simplifies the management of your Accounts Receivable for invoices and their payments:
 
-1. **Invoice Creation**: Each time you generate an invoice, Fiskl automatically creates an Accounts Receivable (AR) record. This AR entry is an asset, representing the income you expect to receive from your customer
-1. **Receiving Payments**: When a payment is received for an invoice, whether it's partial or in full, Fiskl automatically updates the AR transactions to reflect the payment, reducing the outstanding balance accordingly"
+1. **Invoice creation**: Each time you generate an invoice, Fiskl automatically creates an Accounts Receivable (AR) record. This AR entry is an asset, representing the income you expect to receive from your customer
+1. **Receiving payments**: When a payment is received for an invoice, whether it's partial or in full, Fiskl automatically updates the AR transactions to reflect the payment, reducing the outstanding balance accordingly"
 
 This automation ensures your AR is always up-to-date and accurately reflects your outstanding customer payments.
 
@@ -45,25 +45,25 @@ This automation ensures your AR is always up-to-date and accurately reflects you
 
 You can also record manual AR that record payments expected in the future.
 
-You can enter an AR transaction in any currency and can also split the transaction into multiple accounts. 
+You can enter an AR transaction in any currency and can also split the transaction into multiple accounts.
 
 <details>
-<summary>Real World Example of an Accounts Receivable with Splits in Non-Base Currency</summary>
+<summary>Real world example of an Accounts Receivable with splits in non-base Currency</summary>
 
 You are invited to speak at a conference abroad and are being paid in a currency different from your base currency.
 
 Suppose the contract stipulates a total payment of €3000 EUR. Of this amount, €2500 is allocated for your speaking engagement, classified as 'Sales of Services,' and the remaining €500 is for merchandise you are selling at the event, categorized under `Sales of Products`.
 
-Splitting these transactions in your accounts receivable not only allows you to accurately track revenue streams but also manages the complexities of foreign currency transactions.
+Splitting these transactions in your Accounts Receivable not only allows you to accurately track revenue streams but also manages the complexities of foreign currency transactions.
 
-This separation helps in analyzing the profitability of different business activities and is crucial for accurate financial reporting, strategic financial planning, and tax preparation in your home currency.
+This separation helps in analyzing the profitability of different business activities and is crucial for accurate financial reporting, strategic financial planning, and tax preparation in your base currency.
 
 </details>
 
 
 ## Viewing AR transactions
 
-View your accounts receivable transactions in many ways:
+View your Accounts Receivable transactions in many ways:
 
 1. Go to `Accounting > Transactions` from the left menu and choose `Accounts Receivable`
 1. Go to `Accounting > Chart of Accounts` from the left menu and choose `Accounts Receivable`
@@ -76,8 +76,8 @@ View your accounts receivable transactions in many ways:
 
 In your Accounts Receivable list, you'll see two main types of transactions:
 
-1. **In Debit**: These are invoices you've sent to customers, increasing your AR balance
-2. **In Credit**: These are payments received from customers, decreasing your AR balance
+1. **In debit**: These are invoices you've sent to customers, increasing your AR balance
+2. **In credit**: These are payments received from customers, decreasing your AR balance
 
 ## Matching AR transactions
 

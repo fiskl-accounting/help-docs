@@ -6,8 +6,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Accounting
-  - Journal Entry
-  - Internal Transfers
+  - Journal entry
+  - Internal transfers
 ---
 
 # Internal transfers
@@ -125,7 +125,7 @@ Transfers between accounts with different currencies follow the same process as 
     ></iframe>
     </div>
 
-</details> 
+</details>
 
 The transfer will appear in both accounts, showing both the foreign and base currency amounts.
 

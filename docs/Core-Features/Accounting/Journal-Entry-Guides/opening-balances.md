@@ -17,7 +17,7 @@ tags:
 An opening balance is the initial amount in an account at the start of a financial period. It's the starting point for recording all financial activities during that period, such as sales, purchases, expenses, and payments.
 
 <details>
-<summary>See why opening balances are needed</summary>
+<summary>See why Opening Balances are needed</summary>
 
 - Ensuring balances are correct
 - Starting a new accounting period
@@ -28,7 +28,7 @@ An opening balance is the initial amount in an account at the start of a financi
 </details>
 
 :::info[For banking ledger accounts]
-Opening balances bridge the gap between your imported transactions and your actual bank balance. When you import transactions for the current financial year, they may not sum up to your bank balance, which includes all transactions since the account's creation. 
+Opening balances bridge the gap between your imported transactions and your actual bank balance. When you import transactions for the current financial year, they may not sum up to your bank balance, which includes all transactions since the account's creation.
 
 An opening balance represents all transactions before your imported data, ensuring your ledger matches your bank balance. This alignment helps verify that all transactions are accurately accounted for in your financial records.
 :::
@@ -43,9 +43,9 @@ For connected bank accounts, Fiskl automatically adds the opening balance as a t
 1. Set the date to be the earliest, usually the day before the earliest transaction date
 1. Save to complete the process
 
-## Viewing Opening Balance Transactions
+## Viewing Opening Balance transactions
 
-There are many ways to view your opening balances 
+There are many ways to view your opening balances
 
 1. Individually in the account you can filter on opening balance
 1. Collectively
@@ -57,7 +57,7 @@ There are many ways to view your opening balances
 When moving from a different accounting system to Fiskl, follow these steps:
 
 1. Enter opening balances for all your accounts
-1. Check the ending balance of the Opening Balance account
+1. Check the ending balance of the opening balance account
 1. Ensure this balance equals zero
 
 A zero balance confirms you've entered all balances correctly and completely.

@@ -54,7 +54,7 @@ The invoice pulls the following details from your Company settings:
 3. Company ID or Registration number
 
 :::info[tip]
-You can customize your address layout in Company Settings to change how it appears on invoices and quotes.
+You can customize your address layout in Company settings to change how it appears on invoices and quotes.
 :::
 
 ### Client details
