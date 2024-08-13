@@ -10,7 +10,7 @@ tags:
   - Multi-currency
 ---
 
-The Transactions by Account report in Fiskl provides a detailed view of all transactions for one or more accounts over a specified period. This comprehensive report is especially powerful for businesses dealing with multiple currencies, offering unparalleled granularity in transaction details.
+The Transactions by Account report in Fiskl offers a comprehensive view of all transactions across all accounts over a specified period. This unified report is especially powerful for businesses managing multiple currencies, providing detailed insights with unparalleled granularity in transaction details.
 
 <details>
 <summary>Why is the Transactions by Account report important?</summary>
