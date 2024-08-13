@@ -11,7 +11,7 @@ tags:
   - Accounting
 ---
 
-import TOCInline from '@theme/TOCInline';
+<!-- import TOCInline from '@theme/TOCInline'; -->
 import Mermaid from '@theme/Mermaid';
 
 Clients are essential for managing your business interactions in Fiskl. They are used in invoices, quotes, and accounting transactions, helping you keep track of all financial activities. By adding and managing clients effectively, you ensure accurate and organized financial records, making your invoicing and quoting processes efficient and reliable.

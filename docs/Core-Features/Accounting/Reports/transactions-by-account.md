@@ -26,8 +26,8 @@ The Transactions by Account report is essential because it:
 
 This report stands out for its comprehensive multi-currency support:
 
-- **Multiple Currency Views**: See amounts in original currency, base (accounting) currency, and ledger account currency
-- **Detailed Transaction Breakdown**: View gross amount, net amount, and tax amount for each transaction
+- **Multiple Currency Views**: See the original currency amounts, ledger account currency, and base (accounting) currency
+- **Detailed Transaction Breakdown**: View gross amount, net amount, and tax amount for each transaction (per respective currency)
 - **Exchange Rate Information**: Includes FX rates for easy currency conversion tracking
 
 ## Generating a Transactions by Account Report in Fiskl
