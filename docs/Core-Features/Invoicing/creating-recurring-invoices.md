@@ -1,13 +1,9 @@
 ---
 title: Creating recurring invoices
 sidebar_position: 7
-<<<<<<< HEAD
 description: How to create recurring invoices
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-=======
-description: How to create and manage recurring invoices
->>>>>>> origin
 tags:
   - Invoice
   - Recurring invoices

@@ -1,11 +1,7 @@
 ---
 title: Sending invoices
 sidebar_position: 4
-<<<<<<< HEAD
 description: How to send invoices
-=======
-description: How to send invoices and set up automated reminders in Fiskl
->>>>>>> origin
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -18,11 +14,7 @@ Once you've created an invoice in Fiskl, you have several options for sending it
 
 ## Before Sending
 
-<<<<<<< HEAD
-For a quick overview watch the video on Sending an invoice
-=======
 Ensure that:
->>>>>>> origin
 
 1. You've reviewed the invoice for accuracy
 1. You've selected the appropriate payment methods
@@ -113,68 +105,13 @@ Fiskl can send automated reminders for overdue invoices:
 2. Scroll down to "Overdue reminders"
 3. Select your preferred reminder schedule
 
-<<<<<<< HEAD
-### Step 2 –
-
-Scroll down to Overdue reminders and select your preferred option.
-
-
-## Add a payment method
-
-### Step 1 – Choose a payment method
-
-To choose your payment method, click on the “Payment methods” tab.
-
-
-
-### Step 2 –
-
-Your connected payment gateways will automatically be selected.
-
-To turn the auto connect off, go to Invoice & Quote Settings.
-If you have a manual payment saved in Invoice & quote settings this will also be included.
-
-
-
-To save a manual payment method go to Invoice & quote settings.
-### Step 3 – If your payment method isn’t selected, click on “Add payment method” to choose other available payment gateways or add a manual payment method.
-
-Add a payment method to your Fiskl invoice.
-
-
-
-See Payment integrations section in this guide for more information.
-Add an attachment
-
-To add an attachment, click on the “Attachments” tab and click “Attach file”.
-
-
-Change template or brand
-
-To change the template or brand for this invoice, click on Brands and select template.
-
-
-
-To add or edit a brand or template go to Templates & Brands from the main Settings menu.
-Client invoice view
-
-Once your client has received their invoice they can view, pay using the available payment methods, download it to PDF and access help. For more information about how your client can pay, go to the Payments section in this guide.
-
-
-
-
-View invoice history
-
-Once you have sent your invoice, you can keep track of its activity going forwards, including when your invoice was sent, delivery confirmation, when payments have been received along with any other actions relating to the invoice.
-=======
 ## Best Practices for Sending Invoices
 
 - Always double-check the invoice details before sending
 - Use custom emails for a more personalized touch with regular clients
 - Set up automated reminders to improve cash flow
 - Keep your email templates professional and consistent with your brand voice
-- Use the Fiskl Android and iOS apps to receive push notifictions on invoice delivrey statuses
+- Use the Fiskl Android and iOS apps to receive push notifications on invoice delivery statuses
 - Check your notifications and emails for any failed delivery notifications
 
 Remember: Clear communication and timely follow-ups are key to maintaining healthy client relationships and ensuring prompt payments.
->>>>>>> origin

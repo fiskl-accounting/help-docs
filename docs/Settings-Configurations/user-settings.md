@@ -12,43 +12,24 @@ The User Settings page allows you to manage your personal account information an
 
 Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
 
-<<<<<<< HEAD
-## Account settings
-
-### General information
-- First name
-- Last name
-- Email
-- Phone
-
-### Security
-- Change email
-- Change password
-
-### Session management
-- Refresh session option: Useful when working with support. Generally not needed for regular use.
-
-### Account deletion
-:::danger
-Only users with the Owner role can delete an account. Deleting your account will permanently remove all your data.
-:::
-
-=======
->>>>>>> origin
 ## Preferences
 
 ### Mileage tracking
+
 - Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile).
 - Travel unit: Choose between miles (mi) or kilometers (km).
 
 ### Time tracking
+
 - Billing rate: Set your hourly rate (e.g., 100 per hour).
 - Billing unit: Currently, only hours (H) are supported.
 
 ### Accounting
+
 - Category suggestions: Enable or disable suggestions for categorization of accounts, taxes, and vendors in ledger accounts
 
 ### Localization
+
 :::info
 Correctly setting your Region, Language, and Time Zone ensures that dates, numbers, and other localized information appear correctly throughout Fiskl, including the web dashboard and mobile apps.
 :::
@@ -56,34 +37,33 @@ Correctly setting your Region, Language, and Time Zone ensures that dates, numbe
 - Region and Language: Affects formatting of dates, numbers, and currency.
 - Time Zone: Ensures times are displayed correctly for your location.
 
-<<<<<<< HEAD
-## Applying changes
-=======
 ---
 
 ## Account Settings
 
 ### General Information
+
 - First name
 - Last name
 - Email
 - Phone
 
 ### Security
+
 - Change email
 - Change password
 
 ### Session Management
+
 - Refresh session option: Useful when working with support. Generally not needed for regular use.
 
 ### Account Deletion
+
 :::danger
 Only users with the Owner role can delete an account. Deleting your account will permanently remove all your data.
 :::
 
-
 ## Applying Changes
->>>>>>> origin
 
 Settings auto save there is no save button. You may have to select outside the input field to save.
 

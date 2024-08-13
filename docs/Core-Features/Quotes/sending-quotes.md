@@ -1,18 +1,11 @@
 ---
 title: Sending quotes
 sidebar_position: 2
-<<<<<<< HEAD
 description: How to send quotes
-=======
-description: How to send quotes in Fiskl
->>>>>>> origin
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Quote
-<<<<<<< HEAD
----
-=======
   - Email
 ---
 
@@ -94,4 +87,3 @@ Consider your client's preferences when choosing between email and messaging app
 - Keep your email templates professional and consistent with your brand voice
 
 Remember: Clear communication helps maintain good client relationships and can lead to more accepted quotes.
->>>>>>> origin
