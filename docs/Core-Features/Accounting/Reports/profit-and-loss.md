@@ -1,5 +1,5 @@
 ---
-title: Profit and Loss Report
+title: Profit and Loss
 sidebar_position: 3
 description: Understanding and using the Profit and Loss report in Fiskl
 toc_min_heading_level: 2
@@ -53,7 +53,7 @@ Pay close attention to your Gross Profit and Operating Profit. These figures can
 To create and customize your P&L report in Fiskl:
 
 1. Go to `Accounting > Reports` from the left menu and select "Profit and Loss"
-1. Choose your desired time period using the date selector
+1. Choose the date `as of` which point you want to see the report
 1. Customize your report using the available options:
    - Compare periods
    - Switch between Cash and Accrual accounting methods
@@ -67,8 +67,8 @@ To create and customize your P&L report in Fiskl:
 Fiskl allows you to compare up to three different time periods:
 
 1. Click on "Compare" after selecting your initial period
-2. Choose additional periods to compare
-3. View differences in both monetary and percentage values
+1. Choose additional periods to compare
+1. View differences in both monetary and percentage values
 
 This feature helps you track your business's performance over time and identify trends or anomalies.
 
@@ -97,7 +97,7 @@ To get the most out of your P&L report:
 5. **Use it for forecasting**: Your P&L can inform budget planning and financial projections
 
 :::note
-Click on any total in the detailed view to see all related transactions, helping you investigate specific entries.
+Click on any total in the detailed view to drill down to all related transactions, helping you investigate specific entries.
 :::
 
 ## Exporting and Sharing Your Profit and Loss Report
@@ -105,10 +105,12 @@ Click on any total in the detailed view to see all related transactions, helping
 Fiskl makes it easy to share your P&L report:
 
 1. **Export to spreadsheet**: 
+
    - Click the export button at the top right of the screen
    - Choose between Google Sheets or Excel format
 
 2. **Create a PDF**:
+
    - Click the print button at the top right of the screen
    - Save as PDF or print a physical copy
 
