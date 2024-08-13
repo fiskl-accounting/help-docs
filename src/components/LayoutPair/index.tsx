@@ -3,8 +3,8 @@ import './LayoutPair.css'; // Make sure you include this CSS file
 
 function LayoutPair({ children, imageUrl }) {
   return (
-    <div className="container">
-      <div className="markdown">
+    <div className="layout-pair-container">
+      <div className="layout-pair-markdown">
         {children}
       </div>
       <div className="image">
