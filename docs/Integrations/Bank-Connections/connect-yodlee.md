@@ -42,7 +42,7 @@ After connecting your bank:
 1. Click the edit icon on the bank account card to:
    - Change how your bank account is displayed in Fiskl
    - Add a description
-2. Check "Sync bank name and account" to match the bank name with the account name in your Chart of Accounts -->
+2. Check "Sync bank name and account" to match the bank name with the account name in your chart of accounts -->
 
 :::info
 After the initial connection, it may take up to 12 hours for our banking data providers to fetch the initial transactions from your connected bank account.

@@ -1,12 +1,12 @@
 ---
-title: Chart of Accounts
+title: Chart of accounts
 sidebar_position: 2
-description: Understanding and managing your Chart of Accounts in Fiskl
+description: Understanding and managing your chart of accounts
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Accounting
-  - Chart of Accounts
+  - Chart of accounts
   - Financial Reports
 ---
 
@@ -14,17 +14,17 @@ import Mermaid from '@theme/Mermaid';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Chart of Accounts
+# Chart of accounts
 
-## What is a Chart of Accounts?
+## What is a chart of accounts?
 
-A Chart of Accounts (CoA) is a fundamental tool for organizing your business finances. It acts as a roadmap, helping you categorize transactions and group similar accounts for reporting and analysis.
+A chart of accounts (CoA) is a fundamental tool for organizing your business finances. It acts as a roadmap, helping you categorize transactions and group similar accounts for reporting and analysis.
 
-In Fiskl, you can view your Chart of Accounts filtered by account type or as a complete list.
+In Fiskl, you can view your chart of accounts filtered by account type or as a complete list.
 
 ## Account Types
 
-Your Chart of Accounts is divided into five main account types:
+Your chart of accounts is divided into five main account types:
 
 1. Assets
 2. Liabilities
@@ -97,19 +97,19 @@ Key points about expense accounts:
 - A debit increases expenses, while a credit decreases them
 - Expenses appear on your income statement and are subtracted from revenue to calculate net income
 
-## Managing Your Chart of Accounts in Fiskl
+## Managing your chart of accounts in Fiskl
 
 Fiskl provides a comprehensive selection of commonly used accounts. You can also add custom categories to match your specific business needs.
 
-To access your Chart of Accounts:
+To access your chart of accounts:
 
 1. Select "Accounting" from the left menu
-2. Choose "Chart of Accounts" from the submenu
+2. Choose "chart of accounts" from the submenu
 
 <details>
-<summary>Why is a well-structured Chart of Accounts important?</summary>
+<summary>Why is a well-structured chart of accounts important?</summary>
 
-A properly maintained Chart of Accounts:
+A properly maintained chart of accounts:
 
 - Enables effective financial management
 - Supports informed decision-making
@@ -120,7 +120,7 @@ A properly maintained Chart of Accounts:
 
 </details>
 
-## Visualize the default Chart of Account
+## Visualize the default chart of accounts
 
 <details>
 
@@ -219,4 +219,4 @@ flowchart TD
 
 </details>
 
-Remember: Your Chart of Accounts is a living document. As your business grows and changes, you may need to add, remove, or modify accounts to keep your financial structure aligned with your operations.
+Remember: Your chart of accounts is a living document. As your business grows and changes, you may need to add, remove, or modify accounts to keep your financial structure aligned with your operations.

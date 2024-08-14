@@ -11,7 +11,7 @@ tags:
 
 Mileage tracking in Fiskl allows you to record and bill for business-related travel. This feature is essential for professionals who need to track vehicle usage for client billing or tax purposes.
 
-## Understanding Mileage in Fiskl
+## Understanding mileage in Fiskl
 
 In Fiskl, mileage entries are standalone line items that represent distance traveled for business purposes. They can be created independently and later added to invoices for client billing.
 
@@ -22,20 +22,20 @@ Key features of mileage tracking:
 - Available on both web dashboard and mobile app
 - Option to attach images (e.g., odometer readings)
 
-## Mileage Entry Methods
+## Mileage entry methods
 
 Fiskl offers three ways to track mileage:
 
-1. **Direct Miles/Kilometers Entry**:
+1. **Direct miles/kilometers entry**:
    - Enter the distance traveled and the rate
    - Fiskl calculates the total cost
 
-2. **Google Maps Integration**:
+2. **Google Maps integration**:
    - Enter start and end points
    - Fiskl uses Google Maps to calculate the distance
    - Apply your mileage rate to the calculated distance
 
-3. **Odometer Readings**:
+3. **Odometer readings**:
    - Enter start and end odometer readings
    - Fiskl calculates the distance traveled
 
@@ -43,7 +43,7 @@ Fiskl offers three ways to track mileage:
 Use the Google Maps integration for accurate distance calculations.
 :::
 
-## Mileage Entry Components
+## Mileage entry components
 
 A mileage entry in Fiskl typically includes:
 
@@ -54,7 +54,7 @@ A mileage entry in Fiskl typically includes:
 5. **Client**: The client for whom the travel was done (for billable mileage)
 6. **Images**: Optional attachments (e.g., odometer readings)
 
-## Billable vs. Non-billable Mileage
+## Billable vs. non-billable mileage
 
 Mileage entries can be marked as billable or non-billable:
 
@@ -65,7 +65,7 @@ Mileage entries can be marked as billable or non-billable:
 When you add a mileage entry to an invoice, it automatically becomes billable to that invoice's client.
 :::
 
-## Mileage Tracking on Mobile
+## Mileage tracking on mobile
 
 The Fiskl mobile app allows you to track mileage on the go, offering all the features available on the web dashboard:
 
@@ -76,12 +76,12 @@ The Fiskl mobile app allows you to track mileage on the go, offering all the fea
 
 This ensures you can accurately track your mileage regardless of where you're traveling.
 
-## Best Practices for Mileage Tracking
+## Best practices for mileage tracking
 
-1. **Be Consistent**: Develop a habit of recording mileage immediately after trips for accuracy
-2. **Use Descriptive Entries**: Provide clear descriptions for each mileage entry to justify billing and help with tax reporting
-3. **Keep Rate Updated**: Ensure your mileage rate is up-to-date and complies with relevant tax regulations
-4. **Utilize Images**: Attach images of odometer readings for trips where exact mileage is crucial
-5. **Regular Review**: Periodically review your mileage entries to ensure all billable travel is invoiced
+1. **Be consistent**: Develop a habit of recording mileage immediately after trips for accuracy
+2. **Use descriptive entries**: Provide clear descriptions for each mileage entry to justify billing and help with tax reporting
+3. **Keep rate updated**: Ensure your mileage rate is up-to-date and complies with relevant tax regulations
+4. **Utilize images**: Attach images of odometer readings for trips where exact mileage is crucial
+5. **Regular review**: Periodically review your mileage entries to ensure all billable travel is invoiced
 
 Remember, effective mileage tracking in Fiskl not only ensures accurate client billing but also helps maintain proper records for tax purposes and business expense analysis.

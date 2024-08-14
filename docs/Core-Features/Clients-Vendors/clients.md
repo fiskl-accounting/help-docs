@@ -16,25 +16,25 @@ import Mermaid from '@theme/Mermaid';
 
 Clients are essential for managing your business interactions in Fiskl. They are used in invoices, quotes, and accounting transactions, helping you keep track of all financial activities. By adding and managing clients effectively, you ensure accurate and organized financial records, making your invoicing and quoting processes efficient and reliable.
 
-## Before You Start
+## Before you start
 
 Before creating clients, it's helpful to have:
 
-1. Your company details set up in Company Settings
+1. Your company details set up in Company settings
 2. A clear understanding of your client's billing requirements (e.g., currency preferences, tax information)
 3. Any specific time rates for clients who are billed hourly
 
-## Managing Clients
+## Managing clients
 
-### Creating a New Client
+### Creating a new client
 
-Follow these steps to add a new client to Fiskl:
+Follow these steps to add a new client:
 
 1. From the left menu, click on "Clients & Vendors" and select the "Clients" tab
 2. Click on "New client"
-3. In the client name search for your client name or business name
+3. In the client name, search for your client name or business name
 4. Select your the client and their details will be automatically populated
-5. Add Client email
+5. Add client email
 6. Add Cc and Bcc
 7. Edit the address layout if required
 
@@ -46,7 +46,7 @@ Review and adjust the custom format of the address as this is the exact layout t
 
 You can add a default currency and time rate which will be applied when creating invoices and time items
 
-### Importing Clients
+### Importing clients
 
 To import multiple clients at once:
 
@@ -67,7 +67,7 @@ To import multiple clients at once:
 You can easily import your contact list using the Fiskl app in Android or iOS.
 :::
 
-### Viewing and Managing Your Client List
+### Viewing and managing Your client List
 
 The client list provides a quick overview of your clients and their key information.
 From this list, you can perform common tasks like creating invoices, viewing client-specific details, and managing your client database.
@@ -77,12 +77,12 @@ Use the sorting and filtering options to find specific clients quickly, and acce
 Explore the options available in the client list to streamline your client management workflow.
 :::
 
-### Direct Debit Mandates
+### Direct Debit mandates
 
 Fiskl supports setting up direct debit mandates for automatic payments using [GoCardless.](../../Integrations/Payment-Gateways/gocardless-integration.md)
 In the client list you will be able to see the status of the Direct Debit mandate.
 
-#### Direct Debit Mandate Flow
+#### Direct Debit mandate flow
 
 ```mermaid
 graph TD
@@ -96,7 +96,7 @@ graph TD
   G --> |No| A
 ```
 
-# Best Practices for Client Management
+# Best practices for client management
 
 - Keep client information up to date, especially contact details and tax information
 - Use client-specific currencies and time rates for accurate invoicing

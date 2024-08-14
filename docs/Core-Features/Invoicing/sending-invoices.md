@@ -12,7 +12,7 @@ tags:
 
 Once you've created an invoice in Fiskl, you have several options for sending it to your client. This guide will walk you through the process of sending invoices and setting up automated reminders.
 
-## Before Sending
+## Before sending
 
 Ensure that:
 
@@ -21,7 +21,7 @@ Ensure that:
 
 For details on creating invoices, refer to the [Create invoices](./creating-invoices.md) section of this guide.
 
-## Sending Options
+## Sending options
 
 There are multiple methods to sending invoices.
 
@@ -29,7 +29,7 @@ There are multiple methods to sending invoices.
 
 Fiskl offers two types of email formats for sending invoices:
 
-#### Standard Emails
+#### Standard emails
 
 Standard emails are HTML-formatted and provided by Fiskl. They offer the following features:
 
@@ -37,7 +37,7 @@ Standard emails are HTML-formatted and provided by Fiskl. They offer the followi
 - Can be customized with a specific email logo set in Templates and Brands
 - Use the primary header color from your invoice template for branding consistency
 
-#### Custom Emails
+#### Custom emails
 
 Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and Brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios, such as:
 
@@ -63,7 +63,7 @@ Custom emails provide you with special templates to give you control over the to
 To send emails from your own domain, you can whitelist it in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
 :::
 
-### Send Share Link
+### Send share Link
 
 Share links provide flexibility in how you send invoices. The generated link is the same one used in the "Pay Now" button of emailed invoices. It directs your client to a secure page where they can preview the invoice and make a payment. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
 
@@ -81,7 +81,7 @@ Share links provide flexibility in how you send invoices. The generated link is 
 Generating a share link automatically marks the invoice as "Sent".
 :::
 
-### Send via Messaging App
+### Send via messaging app
 
 Sending invoices through messaging apps offers a casual yet trackable method of delivery:
 
@@ -97,7 +97,7 @@ The share link directs clients to a secure invoice preview and payment page. Mes
 Consider your client's preferences when choosing between email and messaging apps for invoice delivery.
 :::
 
-## Setting Up Automated Reminders
+## Setting up automated reminders
 
 Fiskl can send automated reminders for overdue invoices:
 
@@ -105,7 +105,7 @@ Fiskl can send automated reminders for overdue invoices:
 2. Scroll down to "Overdue reminders"
 3. Select your preferred reminder schedule
 
-## Best Practices for Sending Invoices
+## Best practices for sending invoices
 
 - Always double-check the invoice details before sending
 - Use custom emails for a more personalized touch with regular clients

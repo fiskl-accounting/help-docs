@@ -49,7 +49,7 @@ After connecting your bank:
 1. Click the edit icon on the bank account card to:
    - Customize how your bank account is displayed in Fiskl.
    - Add a description.
-2. Check "Sync bank name and account" to match the bank name with the account name in your Chart of Accounts -->
+2. Check "Sync bank name and account" to match the bank name with the account name in your chart of accounts -->
 
 :::info
 The initial connection may take a while to refresh as it's synchronously pulling in your transactions

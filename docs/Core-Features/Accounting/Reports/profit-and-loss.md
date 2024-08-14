@@ -32,25 +32,25 @@ While both the Profit and Loss report and the Balance Sheet are crucial financia
 
 Think of the P&L as a video of your business's financial journey over time, while the Balance Sheet is more like a photograph of your financial status at a specific moment.
 
-## Key Components of the Profit and Loss Report
+## Key components of the Profit and Loss report
 
 Understanding the main sections of your P&L report can help you better analyze your business's financial health:
 
-1. **Revenue (Income)**: The total amount earned from your primary business activities.
-1. **Cost of Sales (Cost of Goods Sold)**: Direct costs associated with producing your goods or services.
-1. **Gross Profit**: Revenue minus Cost of Sales, showing how much money you have to cover operating expenses and generate profit.
-1. **Operating Expenses**: Costs incurred in running your business that aren't directly tied to production.
-1. **Operating Profit**: Gross Profit minus Operating Expenses, reflecting the profitability of your core business activities.
-1. **Non-Operating Income and Expenses**: Income or costs not related to your main business operations.
-1. **Net Profit (or Loss)**: The final figure showing your business's profitability after all income and expenses are accounted for.
+1. **Revenue (income)**: The total amount earned from your primary business activities
+1. **Cost of Sales (Cost of Goods Sold)**: Direct costs associated with producing your goods or services
+1. **Gross Profit**: Revenue minus Cost of Sales, showing how much money you have to cover operating expenses and generate profit
+1. **Operating Expenses**: Costs incurred in running your business that aren't directly tied to production
+1. **Operating Profit**: Gross profit minus Operating Expenses, reflecting the profitability of your core business activities
+1. **Non-Operating Income and Expenses**: Income or costs not related to your main business operations
+1. **Net Profit (or Loss)**: The final figure showing your business's profitability after all income and expenses are accounted for
 
 :::tip
 Pay close attention to your Gross Profit and Operating Profit. These figures can help you identify if you need to increase prices, reduce costs, or improve operational efficiency.
 :::
 
-## Generating a Profit and Loss Report in Fiskl
+## Generating a Profit and Loss Report
 
-To create and customize your P&L report in Fiskl:
+To create and customize your P&L report:
 
 1. Go to `Accounting > Reports` from the left menu and select "Profit and Loss"
 1. Choose the date `as of` which point you want to see the report
@@ -62,7 +62,7 @@ To create and customize your P&L report in Fiskl:
    - Show or hide unrealized foreign exchange gains/losses
    - Toggle between summary and detailed views
 
-### Comparing Periods
+### Comparing periods
 
 Fiskl allows you to compare up to three different time periods:
 
@@ -100,7 +100,7 @@ To get the most out of your P&L report:
 Click on any total in the detailed view to drill down to all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and Sharing Your Profit and Loss Report
+## Exporting and sharing Your Profit and Loss report
 
 Fiskl makes it easy to share your P&L report:
 
@@ -116,7 +116,7 @@ Fiskl makes it easy to share your P&L report:
 
 All exported reports include a date and time stamp, as well as the selected accounting method.
 
-## Adding Notes to Your Report
+## Adding notes to your report
 
 To provide context or explanations for your financial data:
 

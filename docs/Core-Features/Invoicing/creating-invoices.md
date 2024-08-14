@@ -65,7 +65,7 @@ A client is required for invoice creation. You can add a client in advance or wh
 2. Client address
 3. Client email (including cc and bcc)
 4. Tax/VAT Registration number
-5. Defaults (Currency and time rate)
+5. Defaults (currency and time rate)
 
 :::info
 The client's Tax/VAT Registration number is shown if set in the client profile.
@@ -120,12 +120,12 @@ stateDiagram-v2
 ```
 
 :::info
-Status changes occur automatically based on the Due Date and payments received.
+Status changes occur automatically based on the due date and payments received.
 :::
 
 ### Styling
 
-Customize invoice appearance using themes, colors, and fonts in your Template settings.
+Customize invoice appearance using themes, colors, and fonts in your template settings.
 
 :::info[caution]
 Changes to templates affect all invoices using that template.
@@ -164,7 +164,7 @@ To make the amount entered a percentage just add a percentage sign at the end of
 
 ### Currency
 
-Change the invoice currency by selecting the currency name next to the Total. The initial currency is set to your Company currency unless the Client has a different currency specified.
+Change the invoice currency by selecting the currency name next to the total. The initial currency is set to your company currency unless the client has a different currency specified.
 
 :::info[tip]
 You can adjust exchange rates for line items in different currencies.
@@ -183,11 +183,11 @@ Add extra details like PO Numbers to your invoice.
 
 ### Notes
 
-Include custom notes on each invoice or set default notes in Invoice & quote settings.
+Include custom notes on each invoice or set default notes in Invoice & Quote settings.
 
 ### Payment terms
 
-Set standard payment terms in Invoice & quote settings. The due date is calculated based on these terms.
+Set standard payment terms in Invoice & Quote settings. The due date is calculated based on these terms.
 
 ### Payment schedules
 

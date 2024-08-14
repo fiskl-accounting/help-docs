@@ -13,17 +13,17 @@ import TOCInline from '@theme/TOCInline';
 
 After creating a quote in Fiskl, you have several options for sending it to your client. This guide will walk you through the process of sending quotes.
 
-## Before You Start
+## Before you start
 
 Ensure that you've created, saved, and reviewed the quote for accuracy before sending.
 
-## Sending Options
+## Sending options
 
-### Send by Email
+### Send by email
 
 Fiskl offers two email formats for sending quotes:
 
-#### Standard Emails
+#### Standard emails
 
 HTML-formatted emails provided by Fiskl that:
 
@@ -31,7 +31,7 @@ HTML-formatted emails provided by Fiskl that:
 - Can be customized with an email logo set in Templates and Brands
 - Use your quote template's primary header color for branding consistency
 
-#### Custom Emails
+#### Custom emails
 
 Create unique, company-specific messages in [Templates and Brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios.
 
@@ -47,9 +47,9 @@ Create unique, company-specific messages in [Templates and Brands](../../Setting
 
 </details>
 
-### Send Share Link
+### Send share link
 
-Share links provide flexibility in how you send invoices. The generated link is the same one used in the "View Quote" button of emailed quote. It directs your client to a secure page where they can preview the quote accept it. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
+Share links provide flexibility in how you send quotes. The generated link is the same one used in the "View Quote" button of emailed quote. It directs your client to a secure page where they can preview the quote and accept it. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
 
 <details>
 <summary>See all the steps to sending a quote via share link</summary>
@@ -64,7 +64,7 @@ Share links provide flexibility in how you send invoices. The generated link is 
 Generating a share link automatically marks the quote as "Sent".
 :::
 
-### Send via Messaging App
+### Send via messaging app
 
 Sending quotes through messaging apps offers a casual yet trackable method of delivery:
 
@@ -80,7 +80,7 @@ The share link directs clients to a secure quotes view page. Messaging apps prov
 Consider your client's preferences when choosing between email and messaging apps for quote delivery.
 :::
 
-## Best Practices for Sending Quotes
+## Best practices for sending Quotes
 
 - Double-check all quote details before sending
 - Use custom emails for a personalized touch with regular clients

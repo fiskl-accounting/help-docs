@@ -1,7 +1,7 @@
 ---
 title: Vendors
 sidebar_position: 4
-description: Creating and managing vendors in Fiskl
+description: Creating and managing vendors
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -17,7 +17,7 @@ Vendors in Fiskl represent the companies or individuals from whom you purchase g
 When you pay a utility bill, the vendor is the utility company. For every future utility bill from this company, you will select the same vendor.
 :::
 
-## Creating Vendors
+## Creating vendors
 
 You can create vendors in several ways:
 
@@ -25,15 +25,15 @@ You can create vendors in several ways:
 2. When creating an accounting transaction
 3. Directly from the Vendors list
 
-### Creating a Vendor While Recording an Expense
+### Creating a vendor while recording an expense
 
-The the primary field in the expense is the vendor. Here you either select an existing vendor or create a new one.
+The primary field in the expense is the vendor. Here you either select an existing vendor or create a new one.
 
-### Creating a Vendor While Recording an Account Transaction
+### Creating a vendor while recording an account transaction
 
 When you record an account transaction expense you will select or create a new vendor.
 
-### Creating a Vendor from the Vendors List
+### Creating a vendor from the vendors list
 
 1. From the left menu, go to "Clients & Vendors"
 2. Select the "Vendors" tab
@@ -42,7 +42,7 @@ When you record an account transaction expense you will select or create a new v
 5. (Optional) Add additional details like contact information or notes
 6. Click "Save"
 
-## Managing Vendors
+## Managing vendors
 
 The Vendors list provides an overview of all your vendors. From here, you can:
 
@@ -54,7 +54,7 @@ The Vendors list provides an overview of all your vendors. From here, you can:
 Vendors with expenses or accounting transactions will be archived, allowing for reinstatement at any time. If there are no associated transactions, the vendor will be permanently deleted. This follows our standard archiving logic.
 :::
 
-## Best Practices for Vendor Management
+## Best practices for vendor management
 
 - Use consistent naming conventions for vendors to avoid duplicates
 - Create vendors as you encounter them in your business operations
