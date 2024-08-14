@@ -1,7 +1,7 @@
 import React from 'react';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
-const HotjarScript: React.FC = () => {
+const HotJar: React.FC = () => {
   const isBrowser = useIsBrowser();
 
   React.useEffect(() => {
