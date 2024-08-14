@@ -30,7 +30,7 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 <details>
 <summary>I want to manage my accounting</summary>
 
-1. [Set up your company profile](#set-up-your-company-profile)
+1. Set up your company profile
 2. [Configure accounting settings](#configure-accounting-settings)
 3. [Connect your bank](#connect-your-bank)
 4. [Review your chart of accounts](#review-your-chart-of-accounts)
