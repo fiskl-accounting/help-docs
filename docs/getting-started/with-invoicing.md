@@ -1,7 +1,7 @@
 ---
-title: Invoicing
+title: Invoice Basics
 sidebar_position: 3
-description: Getting started with invoicing
+description: Getting started with invoice basics
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -12,7 +12,7 @@ tags:
 
 import LayoutPair from '@site/src/components/LayoutPair';
 
-We created a series of steps with guided walk through to help you get started with invoicing.
+To get you started with invoicing, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
 
 ### Complete your company profile
 
