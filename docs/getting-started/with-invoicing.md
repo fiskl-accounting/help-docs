@@ -18,7 +18,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
 
-  *Dashboard [Company settings](https://my.fiskl.com/company-settings)*
+  *Your [Company settings](https://my.fiskl.com/company-settings)*
   1. Select Company settings via the left menu gear icon.
   1. Ensure company name, email, and registration number are completed.
   1. Check and adjust the invoice address format if necessary.
@@ -32,7 +32,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Complete your invoice settings
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
 
   - Dashboard [Invoice settings](https://my.fiskl.com/invoice-settings)
   - Check your
