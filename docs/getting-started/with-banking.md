@@ -9,3 +9,13 @@ tags:
   - Bank
   - Chart of accounts
 ---
+To get you started with invoicing, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
+
+Your bank
+
+  1. Select Banking from the left menu
+  2. Choose your bank
+  3. Follow the on screen instructions
+  4. Click Connect bank to add more banks.
+
+Your accounts and transactions are automatically added to Fiskl.
