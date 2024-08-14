@@ -30,11 +30,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 <details>
 <summary>I want to manage my accounting</summary>
 
-1. Set up your company profile
-2. [Configure accounting settings](#configure-accounting-settings)
-3. [Connect your bank](#connect-your-bank)
-4. [Review your chart of accounts](#review-your-chart-of-accounts)
-5. [What's next?](#whats-next-accounting)
+1. [Complete your accounting settings](with-accounting#complete-your-accounting-settings)
+1. [Get to know your Chart of Accounts](with-accounting#get-to-know-your-chart-of-accounts)
+1. [Connect your bank](with-accounting#connect-your-bank)
+1. [Import your bank data](with-accounting#import-your-bank-data)
+1. [Create a journal entry](with-accounting#create-a-journal-entry)
+1. [View your reports](with-accounting#view-your-reports)
 
 </details>
 

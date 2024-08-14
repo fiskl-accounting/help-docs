@@ -5,7 +5,105 @@ description: Getting started with accounting essentials
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-  - Getting started
-  - Bank
-  - Chart of accounts
+ - Getting started
+ - Bank
+ - Chart of accounts
+---
+import LayoutPair from '@site/src/components/LayoutPair';
+
+To get you started with accounting, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
+
+### Complete your accounting settings
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+
+*Your [Accounting settings](https://my.fiskl.com/accounting-settings)*
+
+1. Select Accounting settings via the left menu gear icon
+1. Set your fiscal year end date
+1. Choose accrual or cash accounting method
+1. Review default income accounts
+
+Learn more about [Company settings](../Settings-Configurations/accounting-settings.md)
+</LayoutPair>
+
+---
+
+### Get to know your Chart of Accounts
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+
+*Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
+
+1. Select Accounting > Chart of Accounts via the left menu
+1. Customize your accounts if needed
+1. Create, archive, and add descriptions to accounts
+
+Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accounts)
+</LayoutPair>
+
+---
+
+### Connect your bank
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+
+*Your [Banking](https://my.fiskl.com/banking)*
+
+1. Select Banking via the left menu
+1. Choose from the following options:
+   - [Yodlee](../Integrations/Bank-Connections/connect-yodlee) (Banking aggregator)
+   - [Salt Edge](../Integrations/Bank-Connections/connect-saltedge) (Banking aggregator)
+   - [Stripe](../Integrations/Bank-Connections/connect-stripe)
+   - [WIO](../Integrations/Bank-Connections/connect-wio)
+
+Learn more about [Bank Integrations](../Integrations/_category_.json)
+</LayoutPair>
+
+---
+
+### Import your bank data
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+
+If you want to import your bank data manually, follow our guide on [Importing Bank Data](Journies/bank-data-import.md).
+
+Learn more about [Bank Integrations](../Integrations/_category_.json)
+</LayoutPair>
+
+---
+
+### Create a journal entry
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+
+*Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
+
+1. Select Accounting > Chart of Accounts via the left menu
+1. Select Assets > Cash & Cash Equivalents
+1. Choose "Cash on Hand" or "Bank Account"
+1. Select OUT to create a new credit or IN for a debit
+1. Enter an amount, name, and description, then save
+1. You have now created a journal entry
+1. View it in your "Reports"
+
+Learn more about [Journal Entries](../Core-Features/Accounting/journal-entries)
+</LayoutPair>
+
+---
+
+### View your reports
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+
+*Your [Accounting Reports](https://my.fiskl.com/accounting/reports)*
+
+1. Select Accounting > Reports via the left menu
+1. Select Profit & Loss
+1. Toggle between Summary and Detail views
+1. Explore other available reports
+
+Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_category_.json)
+</LayoutPair>
+
 ---
