@@ -1,5 +1,5 @@
 import React from 'react';
-import HotjarScript from '@site/src/components/HotjarScript';
+import HotjarScript from '@site/src/components/Hotjar';
 
 interface RootProps {
   children: React.ReactNode;
