@@ -14,7 +14,7 @@ import LayoutPair from '@site/src/components/LayoutPair';
 
 To get you started as an accountant, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
 
-### Register in the accounting portal
+### Register on the accounting portal
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
 

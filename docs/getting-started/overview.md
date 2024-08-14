@@ -42,52 +42,13 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 <details>
 <summary>I'm an accountant</summary>
 
-1. [Register on the accounting portal](#register-on-the-accounting-portal)
-2. [Set up your practice](#set-up-your-practice)
-3. [Invite a client](#invite-a-client)
-4. [What's next?](#whats-next-accountant)
+1. [Register on the accounting portal](as-an-accountant#register-on-the-accounting-portal)
+2. [Reach out to the Fiskl team](as-an-accountant#reach-out-to-the-fiskl-team)
+4. [What's next?](as-an-accountant#whats-next)
 
 </details>
 
 
-## Register on the Accounting Portal
-
-1. Visit the Fiskl Accountant Portal
-2. Click 'Sign Up as an Accountant'
-3. Complete the registration form
-4. Verify your email address
-
-## Set Up Your Practice
-
-1. Log in to the Accountant Portal
-2. Navigate to Practice Settings
-3. Enter your practice details
-4. Save your information
-
-## Invite a Client
-
-1. In the Accountant Portal, go to Clients > Invite Client
-2. Enter your client's email address
-3. Customize the invitation message
-4. Click 'Send Invite'
-
-## What's Next? (Invoicing)
-
-- Explore recurring invoices for regular clients
-- Set up expense tracking to monitor business costs
-- Generate your first financial report
-
-## What's Next? (Accounting)
-
-- Import historical data if needed
-- Set up bank rules for automatic transaction categorization
-- Explore financial reports to gain insights into your business
-
-## What's Next? (Accountant)
-
-- Familiarize yourself with the client dashboard
-- Explore Fiskl's accountant-specific features
-- Consider reaching out to Fiskl to become a partner
 
 Need help? Contact our support team at support@fiskl.com.
 
