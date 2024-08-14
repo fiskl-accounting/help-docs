@@ -1,5 +1,5 @@
 import React from 'react';
-import HotjarScript from '@site/src/components/Hotjar';
+import HotJar from '@site/src/components/HotJar';
 
 interface RootProps {
   children: React.ReactNode;
@@ -9,7 +9,7 @@ const Root: React.FC<RootProps> = ({children}) => {
   return (
     <>
       {children}
-      <HotjarScript />
+      <HotJar />
     </>
   );
 };
