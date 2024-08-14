@@ -106,4 +106,31 @@ Learn more about [Journal Entries](../Core-Features/Accounting/journal-entries)
 Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_category_.json)
 </LayoutPair>
 
----
+### What's next
+
+  <CardContainer>
+
+    <Card shadow='tl'>
+      <CardHeader>
+        <h3>Invite your accountant</h3>
+      </CardHeader>
+      <CardBody>
+        Adding your accountant(s) can help you efficiently manage your books, ensure compliance, and provide valuable insights. You have full control over their access and there is no charge for this feature.
+      </CardBody>
+      <CardFooter>
+        <button className='button button--secondary button--block'>[Learn more](Journies/setting-up-your-taxes.md)</button>
+      </CardFooter>
+    </Card>
+
+     <Card shadow='tl'>
+      <CardHeader>
+        <h3>Invite your team members</h3>
+      </CardHeader>
+      <CardBody>
+        Enhance your workflow by bringing your team into Fiskl. Collaborative features allow shared financial insights, and improved communication. By involving your team early, you'll streamline processes and ensure everyone has the right level of access to financial data. Set up your team now to maximize Fiskl's potential for your business.
+      </CardBody>
+      <CardFooter>
+        <button className='button button--secondary button--block'>[Learn more](Journies/invite-your-team-members.md)</button>
+      </CardFooter>
+    </Card>
+  </CardContainer>

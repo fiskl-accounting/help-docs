@@ -1,77 +1,51 @@
 ---
 title: Invite team members
 sidebar_position: 8
-description: Invite your team members and accountant
+description: Invite and manage your team members in Fiskl
 tags:
-  - Getting started
-  - Team
-  - Accountant
+ - Getting started
+ - Team
 ---
 
 # Invite team members
 
-### Team member level permissions
+Fiskl makes it easy to collaborate with your team. Here's how to invite and manage team members:
 
-    If you have a team or an accountant then it’s easy to share the workload, if you have owner or admin rights you can invite, activate, edit users and assign each one with a role containing relevant permissions.
+## Access team member management
 
-    :::info
-    Your sensitive financial information, such as accounting details and key business metrics on the Fiskl dashboard are only accessible to the business owner and those assigned with admin rights. Other users cannot view this confidential data.
-    :::
+1. Select "Team Members" from the left menu
+2. You'll see a list of all your current team members, their roles, and their status (active, inactive, or pending)
 
-    **Owner:**
+At the top, you'll find three cards:
+1. User stats (active, inactive, and accountant counts)
+2. Invite new member
+3. Invite accountant
 
-    * Full access to the Fiskl account.
-    * The only user who can access subscription and billing information for the Fiskl account.
+## Invite a new team member
 
-    **Admin:**
+1. Click the "Invite new member" card
+2. Enter the team member's information
+3. Assign a role (see below for role descriptions)
+4. Click "Send invite"
 
-    * Full access to the Fiskl account
-    * Unable to access the subscription and billing information for the Fiskl account
+The new member will appear in your list with a "Pending" status until they accept the invitation.
 
-    **Billing user:**
+## Team member roles
 
-    * Create and send invoices and quotes
-    * Create items (expenses, mileage, and time)
-    * View all items entered by any user
-    * Add or edit the client list
+- **Owner:** Full access, including subscription and billing information
+- **Admin:** Full access, excluding subscription and billing information
+- **Billing user:** Can create invoices, quotes, and items; view all items; manage client list
+- **User:** Can create and view their own items (expenses, mileage, time)
 
-    **User:**
+:::info
+Sensitive financial information is only accessible to owners and admins.
+:::
 
-    * Create items (expenses, mileage and time)
-    * See all items that only they have raised
-*   ### Invite team member and assign roles <a href="#kbsection1" id="kbsection1"></a>
+## Manage existing team members
 
-    ✅ **Step 1** – From the left menu select “Team members”
+- **Change roles:** Click on a member's current role and select a new one from the dropdown
+- **Deactivate a user:** Switch the toggle next to their name to the off position
+- **Reactivate a user:** Switch the toggle back on
+- **Delete a member:** Deactivate the user, then click the delete button that appears
 
-    ![](https://fiskl.com/wp-content/uploads/2023/07/menu-6.png)
-
-    ✅ **Step 2** – Click on “Invite new member”
-
-    ![](https://fiskl.com/wp-content/uploads/2023/07/invite-member.png)
-
-    ✅ **Step 3** – Enter team members information and assign a role
-
-    ![](https://fiskl.com/wp-content/uploads/2023/07/select-role.png)
-
-    ✅ **Step 4** – Your team member will receive an invitation to join Fiskl and Pending status will be applied to your entry. Once they have logged into Fiskl, they will then become Active
-
-    ![](https://fiskl.com/wp-content/uploads/2023/07/User-on-list-1.png)
-*   ### Other actions <a href="#kbsection2" id="kbsection2"></a>
-
-    **Change roles**
-
-    If you would like to change the assigned role for your team member, simply click on the role and choose the relevant option. Their access levels will automatically be applied.
-
-    ![](https://fiskl.com/wp-content/uploads/2023/07/team-list-v2.png)
-
-    **Make user inactive**
-
-    To make any team member inactive, simply switch the toggle off, your user will stay on the list but will be inactive unless you switch the toggle back on to reactivate their permissions.
-
-    ![](https://fiskl.com/wp-content/uploads/2023/07/team-list-with-toggle.png)
-
-    **Delete a team member**
-
-    Switch the toggle off and click on the delete button.
-
-    ![](https://fiskl.com/wp-content/uploads/2023/07/Delete-member.png)
+Remember, effective team management in Fiskl can streamline your workflow and ensure proper access control to your financial data.

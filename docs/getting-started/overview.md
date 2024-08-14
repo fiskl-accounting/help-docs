@@ -50,30 +50,6 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 </details>
 
 
-
-
-
-## Configure Accounting Settings
-
-1. Go to Settings > Accounting Settings
-2. Set your fiscal year
-3. Choose your accounting method (Cash or Accrual)
-4. Save your changes
-
-## Connect Your Bank
-
-1. Navigate to Banking > Add Bank Connection
-2. Select your bank from the list
-3. Follow the secure connection process
-4. Start importing transactions
-
-## Review Your Chart of Accounts
-
-1. Go to Accounting > Chart of Accounts
-2. Review the default accounts
-3. Add or modify accounts as needed
-4. Save your changes
-
 ## Register on the Accounting Portal
 
 1. Visit the Fiskl Accountant Portal
