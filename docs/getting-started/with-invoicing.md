@@ -1,5 +1,5 @@
 ---
-title: Started with invoicing
+title: Invoicing
 sidebar_position: 3
 description: Getting started with invoicing
 toc_min_heading_level: 2
@@ -12,11 +12,13 @@ tags:
 
 import LayoutPair from '@site/src/components/LayoutPair';
 
+We created a series of steps with guided walk through to help you get started with invoicing.
+
 ### Complete your company profile
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
 
-  - Navigate to [Company settings](https://my.fiskl.com/company-settings) on your dashboard
+  - Dashboard [Company settings](https://my.fiskl.com/company-settings)
   - Check your
     - Company name
     - Company email
@@ -25,33 +27,91 @@ import LayoutPair from '@site/src/components/LayoutPair';
     - Address and format
   - Logo
 
+  Learn more about [company settings](../Settings-Configurations/company-settings)
+
 </LayoutPair>
 
 ---
 
-## Complete your invoice and quote settings
+### Complete your invoice settings
 
-1. Go to Settings > Invoice Settings
-2. Choose a template
-3. Add your logo
-4. Customize colors and fonts
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
 
-## Set Up Payments
+  - Dashboard [Invoice settings](https://my.fiskl.com/invoice-settings)
+  - Check your
+    - Invoice language
+    - Payment terms (days)
+    - Invoice notes
 
-1. Navigate to Settings > Payment Options
-2. Choose 'Add Payment Gateway'
-3. Select your preferred gateway (e.g., Stripe)
-4. Follow the prompts to connect
+  Learn more about [invoice settings](../Settings-Configurations/invoice-and-quote-settings)
 
-## Create Your First Invoice
-
-1. Click 'Create New' > 'Invoice'
-2. Add line items for your products or services
-3. Review and customize if needed
-4. Click 'Send' to email it to your client
-
-<LayoutPair imageUrl="https://share.layerpath.com/e/clz4a2qb000010cmc6jn7dhwc/tour">
-  ### Here is some markdown
-  - You can use normal markdown here
-  - Lists, **bold**, _italics_, etc.
 </LayoutPair>
+
+---
+
+### Style your invoice
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+
+  - Dashboard [Invoice templates](https://my.fiskl.com/templates)
+  - Check your
+    - Logo & size
+  - Choose a theme
+  - Style your invoice
+    - Colors & fonts
+    - Display options
+  - Add attachments
+
+  Learn more about [templates & brands](../Settings-Configurations/templates-and-brands)
+
+</LayoutPair>
+
+---
+
+### Connect a payment gateway
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+
+  - Dashboard [Integrations](https://my.fiskl.com/integration/payment)
+  - Connect an existing or add new integration
+    - Stripe
+    - GoCardless
+    - Paypal
+
+  Learn more about [payment integrations](../Integrations/Payment-Gateways/_category_.json)
+
+</LayoutPair>
+
+---
+
+### Add a manual payment
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+
+  - Dashboard [Invoice settings](https://my.fiskl.com/invoice-settings)
+  - Add payment method
+    - Name
+    - Customer notes
+    - Payment info
+
+  Learn more about [manual payment methods](../Settings-Configurations/invoice-and-quote-settings#payment-methods)
+
+</LayoutPair>
+
+---
+
+### Create your first invoice
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+
+  - Dashboard [new Invoice](https://my.fiskl.com/invoices/new)
+  - Sales > Invoices
+    - Add a [client](../Core-Features/Clients-Vendors/clients.md)
+    - Add [line items](../Core-Features/Line-Items/_category_.json)
+    - Save and review
+
+  Learn more about [creating invoices](../Core-Features/Invoicing/creating-invoices.md)
+
+</LayoutPair>
+
+

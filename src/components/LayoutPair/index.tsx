@@ -8,7 +8,9 @@ function LayoutPair({ children, imageUrl }) {
         {children}
       </div>
       <div className="image">
-        <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+        <details> 
+          <summary>Video walk through</summary>
+          <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
           <iframe
             style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
             src={imageUrl}
@@ -18,6 +20,8 @@ function LayoutPair({ children, imageUrl }) {
             allowtransparency="true"
           ></iframe>
         </div>
+        </details>
+        
       </div>
     </div>
   );

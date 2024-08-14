@@ -18,11 +18,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 <details>
 <summary>I want to start invoicing</summary>
 
-1. [Set up your company profile](#set-up-your-company-profile)
-2. [Customize your invoice](#customize-your-invoice)
-3. [Set up payments](#set-up-payments)
-4. [Create your first invoice](#create-your-first-invoice)
-5. [What's next?](#whats-next-invoicing)
+1. [Complete your company profile](with-invoicing#complete-your-company-profile)
+1. [Complete your invoice settings](with-invoicing#complete-your-invoice-settings)
+1. [Style your invoice](with-invoicing#style-your-invoice)
+1. [Connect a payment gateway](with-invoicing#connect-a-payment-gateway)
+1. [Add a manual payment](with-invoicing#add-a-manual-payment)
+1. [Create your first invoice](with-invoicing#create-your-first-invoice)
 
 </details>
 
@@ -47,33 +48,9 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 
 </details>
 
-## Set Up Your Company Profile
 
-1. Log in to your Fiskl account
-2. Navigate to Settings > Company Profile
-3. Enter your company details
-4. Save your changes
 
-## Customize Your Invoice
 
-1. Go to Settings > Invoice Settings
-2. Choose a template
-3. Add your logo
-4. Customize colors and fonts
-
-## Set Up Payments
-
-1. Navigate to Settings > Payment Options
-2. Choose 'Add Payment Gateway'
-3. Select your preferred gateway (e.g., Stripe)
-4. Follow the prompts to connect
-
-## Create Your First Invoice
-
-1. Click 'Create New' > 'Invoice'
-2. Add line items for your products or services
-3. Review and customize if needed
-4. Click 'Send' to email it to your client
 
 ## Configure Accounting Settings
 
