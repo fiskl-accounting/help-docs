@@ -98,7 +98,7 @@ When adding or viewing a transaction we add a `CR` or `DR` under the category wh
 
 You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making adjustments.
 
-For a bigger picture on your transactions you can use the [Transactions by Account](Reports/transactions-by-account) or [General Ledger](Reports/general-ledger) reports.
+For a bigger picture on your transactions you can use the [Transactions by Account](Reports/transactions-by-account) report.
 
 Depending on your reason you can use the reports like [Balance Sheet](Reports/balance-sheet) or [Profit and Loss (P&L)](Reports/profit-and-loss).
 
