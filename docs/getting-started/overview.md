@@ -24,6 +24,7 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 1. [Connect a payment gateway](with-invoicing#connect-a-payment-gateway)
 1. [Add a manual payment](with-invoicing#add-a-manual-payment)
 1. [Create your first invoice](with-invoicing#create-your-first-invoice)
+1. [What's next?](with-invoicing#whats-next)
 
 </details>
 
@@ -36,6 +37,7 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 1. [Import your bank data](with-accounting#import-your-bank-data)
 1. [Create a journal entry](with-accounting#create-a-journal-entry)
 1. [View your reports](with-accounting#view-your-reports)
+1. [What's next?](with-accounting#whats-next)
 
 </details>
 
@@ -43,8 +45,8 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 <summary>I'm an accountant</summary>
 
 1. [Register on the accounting portal](as-an-accountant#register-on-the-accounting-portal)
-2. [Reach out to the Fiskl team](as-an-accountant#reach-out-to-the-fiskl-team)
-4. [What's next?](as-an-accountant#whats-next)
+1. [Reach out to the Fiskl team](as-an-accountant#reach-out-to-the-fiskl-team)
+1. [What's next?](as-an-accountant#whats-next)
 
 </details>
 
