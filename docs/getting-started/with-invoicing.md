@@ -50,7 +50,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Style your invoice
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzuy4p0a006tlb0cgamuga8e/tour">
 
   [Invoice templates](https://my.fiskl.com/templates)
 
