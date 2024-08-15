@@ -68,7 +68,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Connect a payment gateway
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzv0z7060003le0czr4k4kz0/tour">
 
   [Integrations](https://my.fiskl.com/integration/payment)
 
