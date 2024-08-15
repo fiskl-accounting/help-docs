@@ -10,6 +10,9 @@ tags:
  - Sales Tax
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Sales Tax Report
 
 The Sales Tax Report in Fiskl provides a comprehensive overview of your company's sales tax activities and liabilities. This report is crucial for calculating and reporting the sales tax owed to tax authorities, ensuring compliance, and supporting informed financial decisions.
@@ -41,39 +44,50 @@ Your applied filters are cached, allowing you to return to the same filtered rep
 
 ## Understanding Report Views
 
-### Summary View
+<Tabs>
 
-The summary view presents main amounts for all report sections. Customize columns using the gear icon to show:
+   <TabItem value="summaryView" label="Summary View" default>
 
-- Tax Rate
-- Gross Amount
-- Net Amount
-- Tax Amount
-- Gross Amount (base currency)
-- Net Amount (base currency)
-- Tax Amount (base currency)
+   The summary view presents main amounts for all report sections. Customize columns using the gear icon to show:
 
-### Detailed View
+   - Tax Rate
+   - Gross Amount
+   - Net Amount
+   - Tax Amount
+   - Gross Amount (base currency)
+   - Net Amount (base currency)
+   - Tax Amount (base currency)
 
-The detailed view provides transaction-level information. Default columns include:
+   </TabItem>
 
-- Date
-- Number
-- Name
-- Client/Vendor
-- Category
-- Description
-- Tax Rate
-- Gross Amount
-- Net Amount
-- Tax Amount
+   <TabItem value="detailedView" label="Detailed View" default>
+   The detailed view provides transaction-level information. Default columns include:
 
-Customize columns using the gear icon to add:
+   - Date
+   - Number
+   - Name
+   - Client/Vendor
+   - Category
+   - Description
+   - Tax Rate
+   - Gross Amount
+   - Net Amount
+   - Tax Amount
 
-- Gross Amount (base currency)
-- Net Amount (base currency)
-- Tax Amount (base currency)
-- FX rate
+   </TabItem>
+
+   <TabItem value="customColumns" label="Custom Columns" default>
+
+   Customize columns using the gear icon to add:
+
+   - Gross Amount (base currency)
+   - Net Amount (base currency)
+   - Tax Amount (base currency)
+   - FX rate
+
+   </TabItem>
+
+</Tabs>
 
 ## Customizing Your Report
 
@@ -87,7 +101,9 @@ You can change the title, subtitle, and add notes to the report. These changes a
 
 ## Report Components
 
-The Sales Tax Report includes:
+<details>
+
+   <summary>The Sales Tax Report includes</summary>
 
 - Opening and Closing balances for the selected period
 - Sales: All sales transactions with an assigned client
@@ -95,6 +111,8 @@ The Sales Tax Report includes:
 - Other: Manual transactions associated with this sales tax account
 - Total Tax: Sum of Sales, Purchases, and Other
 - Payments: Tax payments categorized with this sales tax account
+
+</details>
 
 :::info
 Fiskl calculates sales tax upon invoicing the customer or receiving a vendor bill. The tax amount is recorded in the month when the invoice or bill is created, regardless of the payment date.
