@@ -23,7 +23,7 @@ If you want Fiskl to bill you for your clients then you will need to speak to us
 
 ### Step 1
 
-Create the client’s account using the custom Fiskl URL link tailored to the desired plan, using your client’s email address for account setup. E.g
+Create the client’s account using the custom Fiskl URL link tailored to the desired plan, using your client’s email address for account setup. E.g.,
 
 https://my.fiskl.com/registration?code=specialcode\_solo
 

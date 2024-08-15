@@ -17,6 +17,7 @@ Fiskl allows you to collaborate seamlessly with your accountant. Here's how to i
 2. You'll see a list of all your current team members, including your accountant if you have one
 
 At the top, you'll find three cards, including:
+
 3. Invite accountant
 
 ## Invite your accountant

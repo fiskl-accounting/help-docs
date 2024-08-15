@@ -42,7 +42,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   3. Review the pre-set payment terms (days)
   4. Add notes to appear on every invoice
 
-  Learn more about [invoice settings](../Settings-Configurations/invoice-and-quote-settings)
+  Learn more about [Invoice settings](../Settings-Configurations/invoice-and-quote-settings)
 
 </LayoutPair>
 
@@ -60,7 +60,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   4. Style your invoice with colors, fonts, and display options
   5. Add attachments to include with each invoice
 
-  Learn more about [templates & brands](../Settings-Configurations/templates-and-brands)
+  Learn more about [Templates & brands](../Settings-Configurations/templates-and-brands)
 
 </LayoutPair>
 
@@ -82,7 +82,7 @@ To get you started with invoicing, we've put together a flexible series of guide
     - iDeal (Netherlands)
     - Bancontact (Belgium)
 
-  Learn more about [payment integrations](../Integrations/Payment-Gateways/_category_.json)
+  Learn more about [Payment integrations](../Integrations/Payment-Gateways/_category_.json)
 
 </LayoutPair>
 
@@ -98,7 +98,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   2. Add a manual payment method
   3. Add name, customer notes, and payment details
 
-  Learn more about [manual payment methods](../Settings-Configurations/invoice-and-quote-settings#payment-methods)
+  Learn more about [Manual payment methods](../Settings-Configurations/invoice-and-quote-settings#payment-methods)
 
 </LayoutPair>
 
@@ -115,7 +115,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   3. Add a [client](../Core-Features/Clients-Vendors/clients.md) and [line items](../Core-Features/Line-Items/_category_.json)
   4. Save and review
 
-  Learn more about [creating invoices](../Core-Features/Invoicing/creating-invoices)
+  Learn more about [Creating invoices](../Core-Features/Invoicing/creating-invoices)
 
 </LayoutPair>
 

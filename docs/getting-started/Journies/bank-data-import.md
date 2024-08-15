@@ -108,9 +108,9 @@ Follow along with our interactive demo on importing bank transactions from a CSV
 
 ---
 
-## Create Bank & Credit Card Ledger account
+## Create bank & credit Card ledger account
 
-Try our interactive demo to learn how to create a `Ledger Account` for your bank or credit card transactions.
+Try our interactive demo to learn how to create a `ledger account` for your bank or credit card transactions.
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -125,42 +125,42 @@ Try our interactive demo to learn how to create a `Ledger Account` for your bank
 
 ---
 
-### Steps to Bank Ledger Account
+### Steps to bank ledger account
 
-These are for regular bank accounts like Checking, Savings, and Debit accounts.
+These are for regular bank accounts like checking, savings, and debit accounts.
 
 - Navigate to the chart of accounts [Chart of Accounts](https://my.fiskl.com/accounting/chart)
 - In `Assets` > `Cash and Cash Equivalents`, choose to add a new account using the plus icon
 - Provide the following three essential bits of information:
     - **Name**: This can be changed later
     - **Currency**: It's really important that the currency matches the bank account currency
-    - **Account Type**: The account type in this example must be `Bank Account`
+    - **Account type**: The account type in this example must be `Bank Account`
 - Save
 
-You now have your Ledger Account that you can import your manual bank transactions into.
+You now have your ledger account that you can import your manual bank transactions into.
 
 :::info[Business Owner TIP]
-You can think of these `Ledger Accounts` as folders for your transactions. It's your job as a business owner to ensure all transactions in your bank are reflected correctly in the `Ledger Accounts`.
+You can think of these `ledger accounts` as folders for your transactions. It's your job as a business owner to ensure all transactions in your bank are reflected correctly in the `ledger accounts`.
 
-It's the job of Fiskl to calculate the accounting reports following the accounting rules of each `Ledger Account`.
+It's the job of Fiskl to calculate the accounting reports following the accounting rules of each `ledger account`.
 :::
 
-### Steps to Credit Card Ledger Account
+### Steps to credit card ledger account
 
 - Navigate to the Chart of Accounts [Chart of Accounts](https://my.fiskl.com/accounting/chart)
 - In `Liabilities` > `Credit Cards`, choose to add a new account using the plus icon
 - Provide the following two essential bits of information:
     - **Name**: This can be changed later
-    - **Currency**: It's really important that the currency matches the bank account currency.
-- Save.
+    - **Currency**: It's really important that the currency matches the bank account currency
+- Save
 
-You now have your Ledger Account that you can import your manual credit card transactions into.
+You now have your ledger account that you can import your manual credit card transactions into.
 
 ## Troubleshooting
 
 Although we try our best, there are times when we fail to import. These are the common reasons and solutions:
 
 1. **Cannot parse the amount column**: Sometimes amounts are in formats it's just not possible for us to parse. They can have symbols and formats that our libraries can't parse. In this case, it's recommended to open your CSV file in Excel and change the format of the amount column. The easiest format to parse is two decimals. For example, `$1,000.00` would be easier to parse as `1000.00`.
-2. **Cannot parse the date column**: Sometimes localized dates are difficult for us to parse. For example, a date of `31/01/2024` is easy but `31st JAN '24` is challenging. Try selecting different formats, but if all fails, then it's recommended to open your CSV file in Excel, change the format of the date column, export, and try again.
-3. **Not all transactions were imported**: First try changing the date period to `All` to check they are not being filtered out. If you added a unique column to the `Advanced` options, then rows with the same id will not be imported.
-4. **I get an error**: In this case, contact support to investigate.
+2. **Cannot parse the date column**: Sometimes localized dates are difficult for us to parse. For example, a date of `31/01/2024` is easy but `31st JAN '24` is challenging. Try selecting different formats, but if all fails, then it's recommended to open your CSV file in Excel, change the format of the date column, export, and try again
+3. **Not all transactions were imported**: First try changing the date period to `All` to check they are not being filtered out. If you added a unique column to the `Advanced` options, then rows with the same id will not be imported
+4. **I get an error**: In this case, contact support to investigate

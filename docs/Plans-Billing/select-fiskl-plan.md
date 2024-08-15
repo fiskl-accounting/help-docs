@@ -18,7 +18,7 @@ Fiskl offers three plans to suit different business needs: Solo, Pro, and Prime.
 
 ## Choosing your plan
 
-1. Go to [Fiskl Registration Page](https://my.fiskl.com/registration)
+1. Go to [Fiskl registration page](https://my.fiskl.com/registration)
 1. Choose your preferred plan
 
 ## Additional users

@@ -29,17 +29,17 @@ Learn more about [Company settings](../Settings-Configurations/accounting-settin
 
 ---
 
-### Get to know your Chart of Accounts
+### Get to know your chart of accounts
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
 
-*Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
+*Your [chart of accounts](https://my.fiskl.com/accounting/chart)*
 
 1. Select Accounting > Chart of Accounts via the left menu
 1. Customize your accounts if needed
 1. Create, archive, and add descriptions to accounts
 
-Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accounts)
+Learn more about [Chart of accounts](../Core-Features/Accounting/chart-of-accounts)
 </LayoutPair>
 
 ---
@@ -57,7 +57,7 @@ Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accoun
    - [Stripe](../Integrations/Bank-Connections/connect-stripe)
    - [WIO](../Integrations/Bank-Connections/connect-wio)
 
-Learn more about [Bank Integrations](../Integrations/_category_.json)
+Learn more about [Bank integrations](../Integrations/_category_.json)
 </LayoutPair>
 
 ---
@@ -66,9 +66,9 @@ Learn more about [Bank Integrations](../Integrations/_category_.json)
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
 
-If you want to import your bank data manually, follow our guide on [Importing Bank Data](Journies/bank-data-import.md).
+If you want to import your bank data manually, follow our guide on [Importing bank data](Journies/bank-data-import.md).
 
-Learn more about [Bank Integrations](../Integrations/_category_.json)
+Learn more about [Bank integrations](../Integrations/_category_.json)
 </LayoutPair>
 
 ---
@@ -77,7 +77,7 @@ Learn more about [Bank Integrations](../Integrations/_category_.json)
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
 
-*Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
+*Your [Chart of accounts](https://my.fiskl.com/accounting/chart)*
 
 1. Select Accounting > Chart of Accounts via the left menu
 1. Select Assets > Cash & Cash Equivalents

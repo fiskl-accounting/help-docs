@@ -13,7 +13,7 @@ tags:
 
 Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 
-## Choose Your Path
+## Choose your path
 
 <details>
 <summary>I want to start invoicing</summary>
@@ -53,4 +53,3 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
 
 
 Need help? Contact our support team at support@fiskl.com.
-

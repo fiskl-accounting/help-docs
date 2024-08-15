@@ -8,7 +8,7 @@ tags:
   - Brands
 ---
 
-The Templates and Brands Settings page allows you to create and manage various styled invoices, quotes, and emails. You can also set up multiple brands within one account, giving you flexibility in how you present your business to clients.
+The Templates and brands Settings page allows you to create and manage various styled invoices, quotes, and emails. You can also set up multiple brands within one account, giving you flexibility in how you present your business to clients.
 
 Access Templates and Brands Settings using the `gear icon` on the top left menu or visit the [Template Settings page](https://sandbox.fiskl.ca/templates) on the web dashboard.
 

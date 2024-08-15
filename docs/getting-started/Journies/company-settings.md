@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 There are two distinct settings menus. The first relates to the account and the company and the second is for all user related settings.
 
-Your company account settings are available via gear icon on the top of the left menu and all your user related settings are accessible from the top right menu.
+Your company account settings are available via the gear icon on the top of the left menu and all your user related settings are accessible from the top right menu.
 
 ## Settings overview
 
@@ -66,7 +66,7 @@ Take an interactive tour of the settings.
 ### Company settings
 
 :::info
-You can all your company settings after your account has been created apart from your company currency.
+You can do all your company settings after your account has been created apart from your company currency.
 :::
 
 Company settings is where you set:
@@ -80,7 +80,7 @@ Company settings is where you set:
 ### User settings
 
 :::info
-It's useful ensuring that your `Region`, `Language` & `Time Zone` in your user settings are set correctly as this influences the way Fiskl appears to you. If you're dates or numbers are appearing wrong in the web dashboard or on Android or iOS then this is the setting that is affecting it.
+It's useful ensuring that your `Region`, `Language` & `Time Zone` in your user settings are set correctly as this influences the way Fiskl appears to you. If your dates or numbers are appearing wrong in the web dashboard or on Android or iOS then this is the setting that is affecting it.
 :::
 
 <CardContainer>
@@ -143,4 +143,4 @@ suspendisse ultrices gravida.
 
 Company settings includes your company name and address.
 
-It also includes you <Tag color="#3399ff">Time Zone</Tag> settings which is important for when your scheduled invoice are sent.
+It also includes your <Tag color="#3399ff">Time Zone</Tag> settings which is important for when your scheduled invoice are sent.

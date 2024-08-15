@@ -24,9 +24,9 @@ In this section, you can:
 - Designate taxes as either Sales or Non-Sales taxes
 - Assign multiple taxes to a single Tax ID
 
-The currency of the tax is determined by the associated Tax ID
+The currency of the tax is determined by the associated Tax ID.
 
-For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID
+For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
 
 ### 2. Tax groups
 

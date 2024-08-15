@@ -13,7 +13,7 @@ Access Company settings using the `gear icon` on the top left menu or visit the 
 
 ## General
 
-Most values in Company settings can be overridden by a Brand in [Templates and brands](./templates-and-brands).
+Most values in Company settings can be overridden by a brand in [Templates and brands](./templates-and-brands).
 
 - **Company name**: Your official name for invoices, quotes, and reports
 - **Industry**: Helps Fiskl provide relevant features and reports
@@ -33,14 +33,14 @@ You can add a different logo or change its size and layout for invoices and quot
 Enter your company's official address for use on invoices and financial reports
 
 :::info[tip]
-Type your company name or street to find your address and its preferred layout for your region
+Type your company name or street to find your address and its preferred layout for your region.
 
-You can edit the formatted part of the address to ensure it appears exactly as you want in your invoices, quotes, and reports
+You can edit the formatted part of the address to ensure it appears exactly as you want in your invoices, quotes, and reports.
 :::
 
 ## Time name template
 
-Create a template for all recorded time entries. A descriptive line item name can be useful when billing a client via an invoice
+Create a template for all recorded time entries. A descriptive line item name can be useful when billing a client via an invoice.
 
 Example template:
 ```

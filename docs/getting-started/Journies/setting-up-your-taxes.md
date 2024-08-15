@@ -52,7 +52,7 @@ There are three tabs on the manage taxes page for setting up your taxes.
 
     You can assign multiple taxes to a tax number.
 
-    An example would be having to pay VAT in France. You would apply for a French VAT number and assing the approiate VAT rate to that EUR Tax number.
+    An example would be having to pay VAT in France. You would apply for a French VAT number and assigning the appropriate VAT rate to that EUR Tax number.
   </TabItem>
   <TabItem value="groups" label="Tax groups">
     Tax groups are a collection of taxes. These can include two or more taxes and can also be set to be compounding.
