@@ -1,5 +1,5 @@
 ---
-title: Welcome to Fiskl
+title: 🎉 Welcome to Fiskl
 sidebar_position: 1
 description: Get started with Fiskl's powerful accounting and invoicing platform
 image: ../static/img/docusaurus-social-card.jpg
