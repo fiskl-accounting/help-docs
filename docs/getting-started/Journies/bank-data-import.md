@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 You can import your bank statements into Ledger Accounts in `Cash & Cash Equivalents` or `Credit Cards`.
 
 :::info[Business Owner TIP]
-We loosely term `Cash & Cash Equivalents` and `Credit Cards` accounts as `Money Accounts`.
+We loosely term `Cash & Cash Equivalents` and `Credit Cards` accounts as `Money accounts`.
 
 `Money accounts` in Fiskl are all the sub-accounts in `Cash & Cash Equivalents` and `Credit Cards`, and as a business owner, it's in these `Money accounts` that you will do 90% of your accounting.
 
@@ -54,28 +54,28 @@ The general rule of thumb is to use OFX if possible.
 
 The general steps to importing your bank transactions are:
 
-1. Export your banking data from your bank.
+1. Export your banking data from your bank
 2. In Fiskl, create a `Ledger Account` in `Cash & Cash Equivalents` or `Credit Cards` if you are importing credit card transactions. See [Create Bank and Credit Card Ledger Accounts](#create-bank--credit-card-ledger-account)
-3. Choose the import function.
-4. Select your file.
-5. Choose your fields if you are importing `CSV` and upload.
-6. You will be presented with a preview of your import before selecting finish.
+3. Choose the import function
+4. Select your file
+5. Choose your fields if you are importing `CSV` and upload
+6. You will be presented with a preview of your import before selecting finish
 
 :::info
 Bank transactions only require three fields:
-1. Name: The name or description of the transaction.
-2. Date: The date of the transaction.
-3. Amount: The amount of the transaction.
+1. Name: The name or description of the transaction
+2. Date: The date of the transaction
+3. Amount: The amount of the transaction
 :::
 
 ### Importing CSV
 
 CSV is one of the most common formats but also one of the most difficult to import. When importing using the CSV import utility, we map the columns to the values. E.g., if Date is in column F, you choose F when asked to map the Date.
 
-1. You start by choosing which row to start from. If you have a header in row 1, you would choose 2.
-2. Choose a name column.
-3. Choose the amount column. There is a toggle if the amount is in two columns, debit & credit.
-4. Choose the date column. You may have to adjust the date format if we cannot work it out automatically.  
+1. You start by choosing which row to start from. If you have a header in row 1, you would choose 2
+2. Choose a name column
+3. Choose the amount column. There is a toggle if the amount is in two columns, debit & credit
+4. Choose the date column. You may have to adjust the date format if we cannot work it out automatically
 
 :::info
 To select the column, you can just click on the column instead of typing the column value. For example, if Name is in column D, then just click on column D.
@@ -108,7 +108,7 @@ Follow along with our interactive demo on importing bank transactions from a CSV
 
 ---
 
-## Create Bank & Credit Card Ledger Account
+## Create Bank & Credit Card Ledger account
 
 Try our interactive demo to learn how to create a `Ledger Account` for your bank or credit card transactions.
 
@@ -129,13 +129,13 @@ Try our interactive demo to learn how to create a `Ledger Account` for your bank
 
 These are for regular bank accounts like Checking, Savings, and Debit accounts.
 
-- Navigate to the Chart of Accounts [Chart of Accounts](https://my.fiskl.com/accounting/chart)
+- Navigate to the chart of accounts [Chart of Accounts](https://my.fiskl.com/accounting/chart)
 - In `Assets` > `Cash and Cash Equivalents`, choose to add a new account using the plus icon
 - Provide the following three essential bits of information:
     - **Name**: This can be changed later
-    - **Currency**: It's really important that the currency matches the bank account currency.
-    - **Account Type**: The account type in this example must be `Bank Account`.
-- Save.
+    - **Currency**: It's really important that the currency matches the bank account currency
+    - **Account Type**: The account type in this example must be `Bank Account`
+- Save
 
 You now have your Ledger Account that you can import your manual bank transactions into.
 
