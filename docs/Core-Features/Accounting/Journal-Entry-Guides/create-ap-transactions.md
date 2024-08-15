@@ -87,7 +87,7 @@ When you pay an AP transaction, you need to match it with the payment in your ba
 1. Choose the corresponding AP transaction from the list
 1. Select "Update" to confirm the match
 
-In the Accounts Payable section, you will find two transactions associated with this transaction. The initial transaction logs the future expense, while the subsequent transaction records its payment. Consequently, the outstanding balance for this payable is zeroed out. These updates are reflected in the account transactions and are visible on both the Balance Sheet and the Balance Sheet report.
+In the Accounts Payable section, you will find two transactions associated with this transaction. The initial transaction logs the future expense, while the subsequent transaction records its payment. Consequently, the outstanding balance for this payable is zeroed out. These updates are reflected in the account transactions and are visible on your Balance Sheet, Transactions by Account and Trial Balance reports.
 
 ## Working with foreign currency AP transactions
 
@@ -95,7 +95,7 @@ Fiskl supports AP transactions in multiple currencies:
 
 1. When creating an AP transaction, select the appropriate currency
 1. The transaction will display both the foreign and base currency amounts
-1. When matching with a payment, uncheck "Show [base currency] items only" to see all potential matches
+1. When matching, you will be presented with matches in all currencies. You can filter these to specific currencies using the currency selector
 1. Select the correct match, and adjust the exchange rate if necessary
 
 For payments covering multiple foreign currency invoices:

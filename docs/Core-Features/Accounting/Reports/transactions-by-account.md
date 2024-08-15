@@ -1,6 +1,6 @@
 ---
 title: Transactions by Account
-sidebar_position: 6
+sidebar_position: 4
 description: Understanding and using the Transactions by Account report in Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
