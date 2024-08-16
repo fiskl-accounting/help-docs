@@ -11,7 +11,7 @@ tags:
 
 Time tracking in Fiskl allows you to record and bill for the time spent on client projects or tasks. This feature is crucial for service-based businesses and professionals who bill by the hour.
 
-## Understanding Time in Fiskl
+## Understanding time in Fiskl
 
 In Fiskl, time entries are standalone line items that represent periods of work. They can be created independently and later added to invoices for client billing.
 
@@ -77,7 +77,7 @@ This ensures you can accurately track your time regardless of where you're worki
 
 For certain professions, like legal, Fiskl offers the option to automatically round up time entries:
 
-- Round presets include `3`, `5`, `10`, `15` and `30` minutes
+- Round pre-sets include `3`, `5`, `10`, `15` and `30` minutes
 - Helps standardize billing practices
 
 ## Custom name templates

@@ -32,7 +32,7 @@ While both the Balance Sheet and the Profit and Loss (P&L) report are vital fina
 
 Think of the Balance Sheet as a photograph of your financial status at a specific moment, while the P&L is more like a video of your business's financial journey over time.
 
-## Key Components of the Balance Sheet Report
+## Key components of the Balance Sheet Report
 
 Understanding the main sections of your Balance Sheet can help you better analyze your business's financial health:
 
@@ -67,7 +67,7 @@ To create and customize your Balance Sheet report in Fiskl:
    - Show or hide unrealized foreign exchange gains/losses
    - Toggle between summary and detailed views
 
-### Comparing Periods
+### Comparing periods
 
 Fiskl allows you to compare up to three different dates:
 
@@ -77,7 +77,7 @@ Fiskl allows you to compare up to three different dates:
 
 This feature helps you track changes in your financial position over time and identify trends or anomalies.
 
-### Cash vs. Accrual Accounting
+### Cash vs. Accrual accounting
 
 Fiskl offers both Cash and Accrual accounting methods for your Balance Sheet report:
 
@@ -88,10 +88,10 @@ Fiskl offers both Cash and Accrual accounting methods for your Balance Sheet rep
 <summary>Which method should I use?</summary>
 
 Learn more about the differences between [Cash vs Accrual accounting](../cash-vs-accrual) and how you can easily switch between them in Fiskl.
- 
+
 </details>
 
-## Analyzing Your Balance Sheet Report
+## Analyzing your Balance Sheet Report
 
 To get the most out of your Balance Sheet report:
 
@@ -105,11 +105,11 @@ To get the most out of your Balance Sheet report:
 Click on any total in the detailed view to see all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and Sharing Your Balance Sheet Report
+## Exporting and sharing your Balance Sheet Report
 
 Fiskl makes it easy to share your Balance Sheet report:
 
-1. **Export to spreadsheet**: 
+1. **Export to spreadsheet**:
    - Click the export button at the top right of the screen
    - Choose between Google Sheets or Excel format
 
@@ -119,7 +119,7 @@ Fiskl makes it easy to share your Balance Sheet report:
 
 All exported reports include a date and time stamp, as well as the selected accounting method.
 
-## Adding Notes to Your Report
+## Adding notes to your report
 
 To provide context or explanations for your financial data:
 

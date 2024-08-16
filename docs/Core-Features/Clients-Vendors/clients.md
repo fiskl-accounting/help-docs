@@ -39,12 +39,12 @@ Follow these steps to add a new client:
 7. Edit the address layout if required
 
 :::info[tip]
-Review and adjust the custom format of the address as this is the exact layout that will be on the invoices and quotes
+Review and adjust the custom format of the address as this is the exact layout that will be on the invoices and quotes.
 :::
 
 #### Defaults
 
-You can add a default currency and time rate which will be applied when creating invoices and time items
+You can add a default currency and time rate which will be applied when creating invoices and time items.
 
 ### Importing clients
 
@@ -67,7 +67,7 @@ To import multiple clients at once:
 You can easily import your contact list using the Fiskl app in Android or iOS.
 :::
 
-### Viewing and managing Your client List
+### Viewing and managing your client List
 
 The client list provides a quick overview of your clients and their key information.
 From this list, you can perform common tasks like creating invoices, viewing client-specific details, and managing your client database.
@@ -79,7 +79,7 @@ Explore the options available in the client list to streamline your client manag
 
 ### Direct Debit mandates
 
-Fiskl supports setting up direct debit mandates for automatic payments using [GoCardless.](../../Integrations/Payment-Gateways/gocardless-integration.md)
+Fiskl supports setting up Direct Debit mandates for automatic payments using [GoCardless.](../../Integrations/Payment-Gateways/gocardless-integration.md)
 In the client list you will be able to see the status of the Direct Debit mandate.
 
 #### Direct Debit mandate flow

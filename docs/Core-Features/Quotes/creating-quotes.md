@@ -173,7 +173,7 @@ You can customize your languages in [Invoice and Quote](../../Settings-Configura
 
 ### Terms and conditions
 
-Include your terms and conditions on each quote or set default terms in Invoice and Quote settings.
+Include your terms and conditions on each quote or set default terms in Invoice and quote settings.
 
 Remember: Fiskl's quoting features are designed to be flexible and accommodate a wide range of business needs. Experiment with different options to find the setup that works best for your business.
 

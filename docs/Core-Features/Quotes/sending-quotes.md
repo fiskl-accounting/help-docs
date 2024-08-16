@@ -28,12 +28,12 @@ Fiskl offers two email formats for sending quotes:
 HTML-formatted emails provided by Fiskl that:
 
 - Respect the quote's language setting
-- Can be customized with an email logo set in Templates and Brands
+- Can be customized with an email logo set in Templates and brands
 - Use your quote template's primary header color for branding consistency
 
 #### Custom emails
 
-Create unique, company-specific messages in [Templates and Brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios.
+Create unique, company-specific messages in [Templates and brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios.
 
 <details>
 

@@ -26,7 +26,7 @@ Cash accounting is straightforward: you record income when you receive payment a
 - The client pays on April 15th
 - In cash accounting, you record $1000 income in April
 
-### Accrual Accounting
+### Accrual accounting
 
 Accrual accounting records income when it's earned and expenses when they're incurred, regardless of when money changes hands.
 
@@ -38,11 +38,11 @@ Accrual accounting records income when it's earned and expenses when they're inc
 
 ## Key differences
 
-1. **Timing**: Cash accounting focuses on immediate cash flow, while accrual accounting focuses on when value is exchanged.
+1. **Timing**: Cash accounting focuses on immediate cash flow, while accrual accounting focuses on when value is exchanged
 
-2. **Complexity**: Cash accounting is simpler, while accrual accounting requires more detailed record-keeping.
+2. **Complexity**: Cash accounting is simpler, while accrual accounting requires more detailed record-keeping
 
-3. **Financial picture**: Accrual accounting often provides a more accurate long-term view of business performance.
+3. **Financial picture**: Accrual accounting often provides a more accurate long-term view of business performance
 
 ## Benefits of each method
 

@@ -22,7 +22,7 @@ A chart of accounts (CoA) is a fundamental tool for organizing your business fin
 
 In Fiskl, you can view your chart of accounts filtered by account type or as a complete list.
 
-## Account Types
+## Account types
 
 Your chart of accounts is divided into five main account types:
 
@@ -104,7 +104,7 @@ Fiskl provides a comprehensive selection of commonly used accounts. You can also
 To access your chart of accounts:
 
 1. Select "Accounting" from the left menu
-2. Choose "chart of accounts" from the submenu
+2. Choose "Chart of Accounts" from the submenu
 
 <details>
 <summary>Why is a well-structured chart of accounts important?</summary>

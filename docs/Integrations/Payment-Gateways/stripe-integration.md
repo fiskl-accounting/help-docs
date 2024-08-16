@@ -45,7 +45,7 @@ You can either connect a new Stripe account or link an existing one.
 Once connected, Stripe will appear as a payment method on your invoices.
 
 :::info[tip]
-Connected payment gateways are automatically selected for every invoice. You can change this in Invoice & Quote settings.
+Connected payment gateways are automatically selected for every invoice. You can change this in Invoice & quote settings.
 :::
 
 ## Additional payment methods
@@ -77,6 +77,6 @@ If you're based in Belgium:
 - You can switch between payment gateways when creating a new invoice
 - To remove a payment gateway, select the small "x" at the top of each gateway in the Integrations menu
 
-For more information on creating and sending invoices, refer to the "Sending Invoices" article in this guide.
+For more information on creating and sending invoices, refer to the "Sending invoices" article in this guide.
 
 Remember: Keeping your Stripe connection up-to-date ensures smooth payment processing and accurate financial data in Fiskl.

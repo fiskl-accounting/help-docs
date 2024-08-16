@@ -25,7 +25,7 @@ For details on creating invoices, refer to the [Create invoices](./creating-invo
 
 There are multiple methods to sending invoices.
 
-### Send by Email
+### Send by email
 
 Fiskl offers two types of email formats for sending invoices:
 
@@ -34,12 +34,12 @@ Fiskl offers two types of email formats for sending invoices:
 Standard emails are HTML-formatted and provided by Fiskl. They offer the following features:
 
 - Respect the language setting of the invoice
-- Can be customized with a specific email logo set in Templates and Brands
+- Can be customized with a specific email logo set in Templates and brands
 - Use the primary header color from your invoice template for branding consistency
 
 #### Custom emails
 
-Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and Brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios, such as:
+Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios, such as:
 
 - Overdue reminders
 - Deposit requests

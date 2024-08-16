@@ -10,7 +10,7 @@ tags:
   - Multi-currency
 ---
 
-The Transactions by Account report in Fiskl offers a comprehensive view of all transactions across all accounts over a specified period. This unified report is especially powerful for businesses managing multiple currencies, providing detailed insights with unparalleled granularity in transaction details.
+The Transactions by Account Report in Fiskl offers a comprehensive view of all transactions across all accounts over a specified period. This unified report is especially powerful for businesses managing multiple currencies, providing detailed insights with unparalleled granularity in transaction details.
 
 <details>
 <summary>Why is the Transactions by Account report important?</summary>
@@ -22,17 +22,17 @@ The Transactions by Account report is essential because it:
 - Allows for in-depth analysis of account activity over time
 </details>
 
-## Key Features of the Transactions by Account Report
+## Key features of the Transactions by Account Report
 
 This report stands out for its comprehensive multi-currency support:
 
-- **Multiple Currency Views**: See the original currency amounts, ledger account currency, and base (accounting) currency
-- **Detailed Transaction Breakdown**: View gross amount, net amount, and tax amount for each transaction (per respective currency)
-- **Exchange Rate Information**: Includes FX rates for easy currency conversion tracking
+- **Multiple currency views**: See the original currency amounts, ledger account currency, and base (accounting) currency
+- **Detailed transaction breakdown**: View gross amount, net amount, and tax amount for each transaction (per respective currency)
+- **Exchange rate information**: Includes FX rates for easy currency conversion tracking
 
 ## Generating a Transactions by Account Report in Fiskl
 
-To create and customize your Transactions by Account report:
+To create and customize your Transactions by Account Report:
 
 1. Go to `Accounting > Reports` from the left menu and select "Transactions by Account"
 2. Use the account selector to choose all accounts or specific ones
@@ -44,18 +44,18 @@ To create and customize your Transactions by Account report:
    - Hide empty accounts (those with no transactions in the selected period)
    - Show or hide opening and closing balances for each account
 
-### Customizing Your Report View
+### Customizing your report view
 
 Fiskl offers several options to tailor the report to your needs:
 
-- **Account Selection**: Choose to view all accounts or focus on one or more specific accounts
-- **Date Range**: Set the time period for which you want to see transactions
+- **Account selection**: Choose to view all accounts or focus on one or more specific accounts
+- **Date range**: Set the time period for which you want to see transactions
 - **Cash vs. Accrual**: Switch between cash and accrual accounting methods
-- **Summary/Detail Toggle**: Choose between a high-level summary or a detailed transaction view
-- **Empty Account Visibility**: Option to hide accounts with no activity in the selected period
-- **Balance Display**: Show or hide opening and closing balances for each account
+- **Summary/Detail toggle**: Choose between a high-level summary or a detailed transaction view
+- **Empty account visibility**: Option to hide accounts with no activity in the selected period
+- **Balance display**: Show or hide opening and closing balances for each account
 
-## Understanding the Report Columns
+## Understanding the report columns
 
 The Transactions by Account report provides extensive information for each transaction:
 
@@ -72,23 +72,23 @@ The Transactions by Account report provides extensive information for each trans
 
 **For amounts, the report shows:**
 
-1. **Gross Amount**: Total transaction amount
-1. **Net Amount**: Amount excluding tax
-1. **Tax Amount**: Tax portion of the transaction
+1. **Gross amount**: Total transaction amount
+1. **Net amount**: Amount excluding tax
+1. **Tax amount**: Tax portion of the transaction
 
-**Each of these amounts (Gross, Net, Tax) is shown in three currencies:::
+**Each of these amounts (Gross, Net, Tax) is shown in three currencies:
 
-- **Original Currency**: The currency in which the transaction was originally recorded
-- **Account Currency**: The currency of the account (for revenue and expenses, this is the base currency)
-- **Base Currency**: Your company's base accounting currency
+- **Original currency**: The currency in which the transaction was originally recorded
+- **Account currency**: The currency of the account (for revenue and expenses, this is the base currency)
+- **Base currency**: Your company's base accounting currency
 
 1. **Balance**: Running balance of the account (if enabled)
-1. **Tax Rate**: Applicable tax rate for the transaction
-1. **FX Rate**: Exchange rate between the base currency and account currency
+1. **Tax rate**: Applicable tax rate for the transaction
+1. **FX rate**: Exchange rate between the base currency and account currency
 
 </details>
 
-## Customizing Report Columns
+## Customizing report columns
 
 Given the complexity and depth of information in the Transactions by Account report, Fiskl allows you to customize which columns are displayed. This feature helps you focus on the most relevant data for your needs and simplifies the report view.
 
@@ -119,7 +119,7 @@ Customizing your columns can significantly streamline your report, especially wh
 :::
 
 
-## Exporting Your Transactions by Account Report
+## Exporting your Transactions by Account Report
 
 Fiskl makes it easy to share and further analyze your report:
 

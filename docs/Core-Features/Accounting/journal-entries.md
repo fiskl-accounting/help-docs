@@ -16,12 +16,12 @@ Journal entries also referred to as `Account transactions` and are the foundatio
 
 ## How Fiskl handles journal entries
 
-Fiskl is an intuitive double-entry accounting system built wth the business owner in mind while ensuring accountants have a fully featured accounting platform to process their clients accounts.
+Fiskl is an intuitive double-entry accounting system built with the business owner in mind while ensuring accountants have a fully featured accounting platform to process their clients accounts.
 
 <details>
 <summary>Learn more about the journal entry capabilities</summary>
 
-1. **Multi-Currency support**: Full multi currency support. Cross currency matching, splitting and internal transfers, multi-currency chart of accounts and full multi-currency reporting
+1. **Multi-currency support**: Full multi-currency support. cross-currency matching, splitting and internal transfers, multi-currency chart of accounts and full multi-currency reporting
 1. **Automatic creation**: Most journal entries are created automatically when you record transactions like sales, purchases, or bank transfers. Accounts receivables are automatically managed for invoices and payments. Banking feeds and imports automatically generate their respective journal entries
 1. **Real-time**: All reports and balances are generated in real-time. There is no possibility of stale data in your financial reports or balances
 1. **Fully featured on mobile**: You can view and manage journal entries from both the web interface and mobile app
@@ -81,8 +81,8 @@ For making adjustments or for a more accountant familiar feel you can use the [M
   - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create an accounts receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create an accounts payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an Accounts Receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create an Accounts Payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create an opening balance](Journal-Entry-Guides/create-manual-transactions.md)
 
   </TabItem>
@@ -114,7 +114,7 @@ Remember, Fiskl's accounting reports draw directly from these journal entries, s
 
 ![Debit Credit sheet](/img/acounting/account-table.png)
 
-## Next Steps
+## Next steps
 
 Now that you understand the basics of journal entries in Fiskl, you might want to explore:
 
@@ -124,5 +124,5 @@ Now that you understand the basics of journal entries in Fiskl, you might want t
   - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create an Accounts Receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create an Accounts Payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create an Opening Balance](Journal-Entry-Guides/create-manual-transactions.md)
+  - See how to [create an opening balance](Journal-Entry-Guides/create-manual-transactions.md)
   - Learn more about [multi journal entries](multi-journal-entries)

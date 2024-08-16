@@ -11,7 +11,7 @@ tags:
   - Client Management
 ---
 
-The Statement of Accounts report in Fiskl provides a comprehensive summary of financial transactions between your business and your customers. This versatile report can be generated from multiple locations within Fiskl. 
+The Statement of Accounts report in Fiskl provides a comprehensive summary of financial transactions between your business and your customers. This versatile report can be generated from multiple locations within Fiskl.
 
 <details>
 <summary>Why is the Statement of Accounts report important?</summary>
@@ -27,13 +27,13 @@ The Statement of Accounts report is essential because it:
 
 </details>
 
-## Key Components of the Statement of Accounts Report
+## Key components of the Statement of Accounts Report
 
 Understanding the main elements of your Statement of Accounts can help you better manage your client relationships and cash flow:
 
-1. **Invoice Records**: Detailed list of sales transactions, including dates, descriptions, and amounts
-2. **Payment Records**: Information about payments received from the client
-3. **Outstanding Balances**: Any unpaid amounts owed by the client
+1. **Invoice records**: Detailed list of sales transactions, including dates, descriptions, and amounts
+2. **Payment records**: Information about payments received from the client
+3. **Outstanding balances**: Any unpaid amounts owed by the client
 4. **Accounts Receivables**: Any non-invoice accounts receivable amounts
 
 :::info
@@ -58,27 +58,27 @@ To generate and customize your Statement of Accounts report:
    - Include or exclude Accounts Receivable (AR) transactions
    - Add notes for your client
 
-### Customizing Your Report View
+### Customizing your report view
 
 Fiskl offers several options to tailor the report to your needs:
 
-- **Client Selection**: Choose the specific client for the report
-- **Date Range**: Set the time period for which you want to see transactions
-- **Currency Display**: Choose to show transactions in one, multiple, or all currencies
-- **AR Transactions**: Toggle to include or exclude Accounts Receivable transactions
+- **Client selection**: Choose the specific client for the report
+- **Date range**: Set the time period for which you want to see transactions
+- **Currency display**: Choose to show transactions in one, multiple, or all currencies
+- **AR transactions**: Toggle to include or exclude Accounts Receivable transactions
 
 :::tip
 Invoices that have been fully or partially reconciled will display a special icon next to the invoice number.
 :::
 
-## Viewing Your Statement of Accounts Report
+## Viewing your Statement of Accounts Report
 
 There are two views for your statement of accounts report:
 
-1. **Fiskl Dashboard View**: In this view, if you select the invoices or the AR transactions, you will navigate to the respective transactions.
-2. **Customer View**: This is the view if you send the PDF report to your client. In this view, if they select an invoice, they are taken to the payment page flow where they can view the invoice and any payments made or outstanding, and download the invoice and receipts.
+1. **Fiskl dashboard view**: In this view, if you select the invoices or the AR transactions, you will navigate to the respective transactions
+2. **Customer view**: This is the view if you send the PDF report to your client. In this view, if they select an invoice, they are taken to the payment page flow where they can view the invoice and any payments made or outstanding, and download the invoice and receipts
 
-## Adding Notes to Your Report
+## Adding notes to your report
 
 To provide additional context or messages for your client:
 
@@ -86,7 +86,7 @@ To provide additional context or messages for your client:
 2. Add your comments or explanations
 3. These notes will be included when you export or print the report
 
-## Sharing Your Statement of Accounts Report
+## Sharing your Statement of Accounts Report
 
 Fiskl makes it easy to share the Statement of Accounts with your clients:
 

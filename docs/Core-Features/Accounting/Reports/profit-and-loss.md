@@ -72,7 +72,7 @@ Fiskl allows you to compare up to three different time periods:
 
 This feature helps you track your business's performance over time and identify trends or anomalies.
 
-### Cash vs. Accrual Accounting
+### Cash vs. Accrual accounting
 
 Fiskl offers both Cash and Accrual accounting methods for your P&L report:
 
@@ -86,7 +86,7 @@ Learn more about the differences between [Cash vs Accrual accounting](../cash-vs
 
 </details>
 
-## Analyzing Your Profit and Loss Report
+## Analyzing your Profit and Loss Report
 
 To get the most out of your P&L report:
 
@@ -100,7 +100,7 @@ To get the most out of your P&L report:
 Click on any total in the detailed view to drill down to all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing Your Profit and Loss report
+## Exporting and sharing your Profit and Loss Report
 
 Fiskl makes it easy to share your P&L report:
 

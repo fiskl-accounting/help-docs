@@ -27,14 +27,14 @@ The Sales Tax Report in Fiskl provides a comprehensive overview of your company'
 
 The report is generated per [Tax Number](../../../Settings-Configurations/tax-settings#3-tax-idvat-numbers), also known as your Tax Agency. The report will be in the currency of that Tax Number, but you can choose to display your base currency conversion alongside it. You generate the report per tax period, and it will include your opening and closing balances."
 
-## Configuring Your Report
+## Configuring your report
 
-### Select Tax and Period
+### Select tax and period
 
 1. Choose the relevant `Tax` from the dropdown menu
 2. Select a period (e.g., last quarter)
 
-### Choose View Type
+### Choose view type
 
 Toggle between Summary and Detailed views using the Summary/Details switch
 
@@ -42,7 +42,7 @@ Toggle between Summary and Detailed views using the Summary/Details switch
 Your applied filters are cached, allowing you to return to the same filtered report on subsequent visits. You can change these filters at any time.
 :::
 
-## Understanding Report Views
+## Understanding report views
 
 <Tabs>
 
@@ -89,17 +89,17 @@ Your applied filters are cached, allowing you to return to the same filtered rep
 
 </Tabs>
 
-## Customizing Your Report
+## Customizing your report
 
 You can change the title, subtitle, and add notes to the report. These changes are transient and will be included in any exports and downloads but are not saved.
 
-## Exporting Your Report
+## Exporting your report
 
 1. Click the "Export" button at the top right of the screen
 1. Choose to export to Google Sheets or Excel
 1. The export will reflect your current view (Summary or Detailed) and any applied filters
 
-## Report Components
+## Report components
 
 <details>
 

@@ -174,7 +174,7 @@ You can adjust exchange rates for line items in different currencies.
 
 Choose from over 60 languages for invoices & quotes. This affects the invoice, standard emails, and customer-facing screens.
 
-You can customize your languages in [Invoice and Quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
+You can customize your languages in [Invoice and quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
 
 
 ### Additional information
@@ -183,11 +183,11 @@ Add extra details like PO Numbers to your invoice.
 
 ### Notes
 
-Include custom notes on each invoice or set default notes in Invoice & Quote settings.
+Include custom notes on each invoice or set default notes in Invoice & quote settings.
 
 ### Payment terms
 
-Set standard payment terms in Invoice & Quote settings. The due date is calculated based on these terms.
+Set standard payment terms in Invoice & quote settings. The due date is calculated based on these terms.
 
 ### Payment schedules
 

@@ -8,21 +8,21 @@ tags:
  - Profile
 ---
 
-The User Settings page allows you to manage your personal account information and preferences within Fiskl. These settings affect how Fiskl appears and functions for your individual user account.
+The User settings page allows you to manage your personal account information and preferences within Fiskl. These settings affect how Fiskl appears and functions for your individual user account.
 
-Access User Settings by clicking the `round icon` in the top right menu or visiting the [User Settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
+Access User settings by clicking the `round icon` in the top right menu or visiting the [User settings page](https://my.fiskl.com/user-settings/account-settings) on the web dashboard.
 
 ## Preferences
 
 ### Mileage tracking
 
-- Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile).
-- Travel unit: Choose between miles (mi) or kilometers (km).
+- Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile)
+- Travel unit: Choose between miles (mi) or kilometers (km)
 
 ### Time tracking
 
-- Billing rate: Set your hourly rate (e.g., 100 per hour).
-- Billing unit: Currently, only hours (H) are supported.
+- Billing rate: Set your hourly rate (e.g., 100 per hour)
+- Billing unit: Currently, only hours (H) are supported
 
 ### Accounting
 
@@ -31,17 +31,17 @@ Access User Settings by clicking the `round icon` in the top right menu or visit
 ### Localization
 
 :::info
-Correctly setting your Region, Language, and Time Zone ensures that dates, numbers, and other localized information appear correctly throughout Fiskl, including the web dashboard and mobile apps.
+Correctly setting your region, language, and time zone ensures that dates, numbers, and other localized information appear correctly throughout Fiskl, including the web dashboard and mobile apps.
 :::
 
-- Region and Language: Affects formatting of dates, numbers, and currency.
-- Time Zone: Ensures times are displayed correctly for your location.
+- Region and language: Affects formatting of dates, numbers, and currency
+- Time zone: Ensures times are displayed correctly for your location
 
 ---
 
-## Account Settings
+## Account settings
 
-### General Information
+### General information
 
 - First name
 - Last name

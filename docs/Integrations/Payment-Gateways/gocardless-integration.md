@@ -69,18 +69,18 @@ GoCardless offers two main payment types:
 Your customer only needs to authorize the first payment. Subsequent invoices will be paid automatically under the same mandate.
 
 ### When do I receive my payment?
-GoCardless typically pays out funds to your bank account two working days after collection from your customer. You can see your estimated payout in your GoCardless dashboard which you can link to directly from the payment in Fiskl.
+GoCardless typically pays out funds to your bank account two working days after collection from your customer. You can see your estimated pay-out in your GoCardless dashboard which you can link to directly from the payment in Fiskl.
 
 ### Can I collect payments in different currencies?
 Yes, GoCardless supports multiple currencies including GBP, EUR, USD, SEK, DKK, AUD, NZD, and CAD.
 
 ### What are the fees?
-Fiskl does not add additional charges to any payments. Please see [GoCardless Pricing](https://gocardless.com/pricing/).
+Fiskl does not add additional charges to any payments. Please see [GoCardless pricing](https://gocardless.com/pricing/).
 
 :::info[tip]
-Use the [GoCardless Calculator](https://gocardless.com/pricing/) to understand the fee structure. Pay attention to invoices over $2000 as an additional fee is added.
+Use the [GoCardless calculator](https://gocardless.com/pricing/) to understand the fee structure. Pay attention to invoices over $2000 as an additional fee is added.
 :::
 
-For more detailed information, visit the [GoCardless International Payments](https://gocardless.com/international-payments) page.
+For more detailed information, visit the [GoCardless international payments](https://gocardless.com/international-payments) page.
 
 Remember: Keeping your GoCardless connection up-to-date ensures smooth payment collection and accurate financial data in Fiskl.
