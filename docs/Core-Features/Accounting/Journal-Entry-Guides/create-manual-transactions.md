@@ -35,7 +35,7 @@ Businesses are complex and not everything is automated. Here are just two exampl
 ### Guided walk through
 
 <details>
-<summary>Do an interactive walkthrough of creating a manual entry</summary>
+<summary>Take an interactive walkthrough of creating a manual entry</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe

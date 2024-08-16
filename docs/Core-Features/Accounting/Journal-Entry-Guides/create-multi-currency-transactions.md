@@ -43,7 +43,7 @@ Fiskl offers two primary methods for recording foreign currency transactions:
 
 
 <details>
-<summary>Do an interactive walkthrough of recording transactions in a different currency</summary>
+<summary>Take an interactive walkthrough of recording transactions in a different currency</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe

@@ -88,7 +88,7 @@ It's not possible to manually match your invoice AR transactions as this is done
 :::
 
 <details>
-<summary>Do an interactive walkthrough of matching an accounts receivable transaction</summary>
+<summary>Take an interactive walkthrough of matching an accounts receivable transaction</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe

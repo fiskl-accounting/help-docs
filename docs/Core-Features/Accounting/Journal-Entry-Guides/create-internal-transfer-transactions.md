@@ -82,7 +82,7 @@ This can occur if a movement of funds takes time to process. We may not think a 
 To transfer money between accounts with the same currency:
 
 <details>
-  <summary>Do an interactive video walkthrough of an internal transfer</summary>
+  <summary>Take an interactive video walkthrough of an internal transfer</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
@@ -112,7 +112,7 @@ Your internal transfer will appear in both the sending and receiving accounts.
 Transfers between accounts with different currencies follow the same process as [same currency transfers](#same-currency-transfer). The only difference is that the exchange rate the bank used for the transfer is shown on the matched transaction.
 
 <details>
-  <summary>Do an interactive video walkthrough of an internal transfer between different currency accounts</summary>
+  <summary>Take an interactive video walkthrough of an internal transfer between different currency accounts</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe

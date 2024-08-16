@@ -28,7 +28,7 @@ Transaction matching in Fiskl allows you to reconcile recorded financial activit
 ## How to match transactions
 
 <details>
-  <summary>Do an interactive video walkthrough of matching a transaction</summary>
+  <summary>Take an interactive video walkthrough of matching a transaction</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
@@ -61,7 +61,7 @@ The process is exactly the same as a regular match. The only difference is we ar
 
 <details>
 
-  <summary>Do an interactive video walkthrough of matching multiple transactions in different currencies</summary>
+  <summary>Take an interactive video walkthrough of matching multiple transactions in different currencies</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
@@ -113,7 +113,7 @@ Gain insights into the cost breakdown of attending professional events
 
 <details>
 
-  <summary>Do an interactive video walkthrough of splitting a transaction to multiple accounts</summary>
+  <summary>Take an interactive video walkthrough of splitting a transaction to multiple accounts</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
