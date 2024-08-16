@@ -22,7 +22,9 @@ Your company account settings are available via the gear icon on the top of the 
 
 ## Settings overview
 
-Take an interactive tour of the settings.
+<details>
+
+<summary>Take an interactive tour of the settings.</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -34,6 +36,9 @@ Take an interactive tour of the settings.
     allowtransparency="true"
   ></iframe>
 </div>
+
+</details>
+
 
 ---
 
