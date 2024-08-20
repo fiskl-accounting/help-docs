@@ -15,7 +15,7 @@ To get you started with accounting, we've put together a flexible series of guid
 
 ### Complete your accounting settings
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzv3zhdb0008md0ch0gxluii/tour">
 
 *Your [Accounting settings](https://my.fiskl.com/accounting-settings)*
 
@@ -31,7 +31,7 @@ Learn more about [Company settings](../Settings-Configurations/accounting-settin
 
 ### Get to know your chart of accounts
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm011524i0009k40ca6humme8/tour">
 
 *Your [chart of accounts](https://my.fiskl.com/accounting/chart)*
 
@@ -64,7 +64,7 @@ Learn more about [Bank integrations](../Integrations/_category_.json)
 
 ### Import your bank data
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzvasl9d00afl40covt7wfyg/tour">
 
 If you want to import your bank data manually, follow our guide on [Importing bank data](Journies/bank-data-import.md).
 
@@ -94,7 +94,7 @@ Learn more about [Journal Entries](../Core-Features/Accounting/journal-entries)
 
 ### View your reports
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzv9k69z000xia0chrwcgi2m/tour">
 
 *Your [Accounting Reports](https://my.fiskl.com/accounting/reports)*
 
