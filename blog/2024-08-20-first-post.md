@@ -3,12 +3,7 @@ title: Release 6.0.0
 description: 🎉 Exciting Multi-Currency Accounting Updates!!
 slug: multicurrency-release
 date: 2024-04-06
-authors:
-  - name: Shawn Vader
-    title: CTO
-    image_url: https://media.licdn.com/dms/image/v2/D4E03AQHiRbB-j26c1w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709650775707?e=1729728000&v=beta&t=77utFtSXLJrPDytlM2TGZh3BRbW_Vj5eNNTje6mmTes
-    socials:
-      linkedin: https://www.linkedin.com/in/shawnvader/
+authors: shawn
 tags: [Accounting, Invoicing, Multi-currency]
 hide_table_of_contents: false
 ---
