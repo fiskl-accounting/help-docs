@@ -8,7 +8,7 @@ tags: [Accounting, Invoicing, Multi-currency]
 hide_table_of_contents: false
 ---
 
-### Get ready to take your multi-currency accounting to the next level with these game-changing updates! 💪
+#### Get ready to take your multi-currency accounting to the next level with these game-changing updates! 💪
 
 <!-- truncate -->
 

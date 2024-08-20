@@ -97,7 +97,7 @@ const config: Config = {
           label: 'Docs',
           to: '/docs/introduction'
         },
-        // {to: '/guides', label: 'Guides', position: 'left'},
+        {to: '/guides', label: 'Guides', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'}, // Ensure the Blog link is here
         {
           type: 'search',
