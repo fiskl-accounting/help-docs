@@ -11,24 +11,13 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
 
   favicon: 'img/favicon/favicon-32x32.png',
-
-  // Set the production url of your site here
   url: 'https://help.fiskl.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'fiskl', // Usually your GitHub org/user name.
   projectName: 'fiskl-docs', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -44,11 +33,11 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
-          path: './blog', // Directory where blog markdown files are stored
-          routeBasePath: '/blog', // URL path for the blog section
+          path: './product-updates', // Directory where blog markdown files are stored
+          routeBasePath: '/product-updates', // URL path for the blog section
           postsPerPage: 10,
-          blogTitle: 'Blog',
-          blogDescription: 'A blog powered by Docusaurus',
+          blogTitle: 'Product updates',
+          blogDescription: 'Fiskl product updates',
         },
         theme: {
           customCss: 'src/css/custom.css',
@@ -98,7 +87,7 @@ const config: Config = {
           to: '/docs/introduction'
         },
         {to: '/guides', label: 'Tutorials', position: 'left'},
-        {to: '/blog', label: 'Product updates', position: 'left'}, // Ensure the Blog link is here
+        {to: '/product-updates', label: 'Product updates', position: 'left'}, // Ensure the Blog link is here
         {
           type: 'search',
           position: 'right',
