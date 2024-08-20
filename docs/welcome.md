@@ -9,9 +9,12 @@ tags:
   - Getting Started
 ---
 
-## Introduction
+Welcome to Fiskl help where you will find detailed documentation including interactive video walk through guides on how to get started and use Fiskl.
+A relevant blog for release notes new features and tips on using Fiskl. 
+There is also a FAQ area.
 
-Welcome to Fiskl, a powerful and intuitive accounting platform designed for modern businesses. Whether you're a business owner or an accountant, Fiskl offers a comprehensive suite of tools to streamline your financial management.
+You can get involved by messaging us about areas of the documentation that you would like to have improved. 
+
 
 ### Key Features
 

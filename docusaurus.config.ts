@@ -2,8 +2,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-
-
 const config: Config = {
   title: 'How can we',
   tagline: 'help you',
@@ -11,22 +9,21 @@ const config: Config = {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
- 
 
   favicon: 'img/favicon/favicon-32x32.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://help.fiskl.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'fiskl', // Usually your GitHub org/user name.
+  projectName: 'fiskl-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -45,7 +42,14 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/fiskl-accounting/help-docs/tree/master',
         },
-        
+        blog: {
+          showReadingTime: true,
+          path: './blog', // Directory where blog markdown files are stored
+          routeBasePath: '/blog', // URL path for the blog section
+          postsPerPage: 10,
+          blogTitle: 'Blog',
+          blogDescription: 'A blog powered by Docusaurus',
+        },
         theme: {
           customCss: 'src/css/custom.css',
         },
@@ -59,6 +63,17 @@ const config: Config = {
       ({
         hashed: true,
       }),
+    ],
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/docs/introduction', 
+            from: '/',
+          },
+        ],
+      },
     ],
   ],
 
@@ -82,17 +97,10 @@ const config: Config = {
           label: 'Docs',
           to: '/docs/introduction'
         },
-   
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/about', label: 'About', position: 'left'},
+        {to: '/guides', label: 'Guides', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'}, // Ensure the Blog link is here
         {
           type: 'search',
-          position: 'left',
-        },
-
-        {
-          href: 'https://github.com/fiskl-accounting/help-docs',
-          label: 'GitHub',
           position: 'right',
         },
       ],
@@ -105,7 +113,11 @@ const config: Config = {
           items: [
             {
               label: 'Getting started',
-              to: '/docs/introduction',
+              to: '/docs/Getting-Started/overview',
+            },
+            {
+              label: 'Core features',
+              to: '/docs/category/core-features',
             },
           ],
         },
@@ -113,24 +125,28 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/fiskl-limited/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/FisklApp/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UCL1LEvSYp2uIo5sAg68ZKRw',
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/@fiskl_accounting',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Guides',
           items: [
             {
-              label: 'GitHub',
+              label: 'Accounting',
               href: 'https://github.com/fiskl-accounting/help-docs',
             },
           ],
@@ -144,6 +160,5 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 };
-
 
 export default config;
