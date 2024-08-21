@@ -75,7 +75,7 @@ Learn more about [Bank integrations](../Integrations/_category_.json)
 
 ### Create a journal entry
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/clzv4miym000bmd0cujndpyo7/tour">
 
 *Your [Chart of accounts](https://my.fiskl.com/accounting/chart)*
 
