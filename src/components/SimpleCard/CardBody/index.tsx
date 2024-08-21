@@ -41,6 +41,7 @@ const CardBody: React.FC<CardBodyProps> = ({
     <div
       className={clsx(
         'card__body',
+        'card__body-flex',  // Add this new class
         className,
         text,
         textType,
@@ -51,7 +52,12 @@ const CardBody: React.FC<CardBodyProps> = ({
         textTruncate,
         textWeight
       )}
-      style={style}
+      style={{
+        ...style,
+        display: 'flex',
+        flexDirection: 'column',
+        flexGrow: 1,
+      }}
     >
       {children}
     </div>
@@ -59,5 +65,3 @@ const CardBody: React.FC<CardBodyProps> = ({
 };
 
 export default CardBody;
-
-

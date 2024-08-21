@@ -5,8 +5,8 @@ interface CardContainerProps {
 }
 
 const CardContainer: React.FC<CardContainerProps> = ({ children }) => (
-  <div className='cardContainer'>
-        {children}
+  <div className="card-grid">
+    {children}
   </div>
 );
 
