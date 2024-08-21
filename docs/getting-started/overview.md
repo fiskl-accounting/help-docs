@@ -6,15 +6,13 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Getting started
-  - Bank
-  - Chart of accounts
+  - Accounting
+  - Invoice
+  - Accountant
 ---
 
 
-Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
-
-## Choose your path
-
+Welcome to Fiskl! Let's get you set up!
 
 <CardContainer>
 <div className="card-grid invoicing-cards">
@@ -22,12 +20,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Invoicing</div>
-        <small>Complete your company profile</small>
+        <small>Settings</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Company Profile</h2>
-        <p>Get started by taking a tour on how to complete your company profile.</p>
+        <p>Complete your company profile.</p>
       </div>
     </div>
   </a>
@@ -36,12 +34,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
   <div className="card">
     <div className="card__header">
       <div>Invoicing</div>
-      <small>Complete your invoice settings</small>
+      <small>Settings</small>
       <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
     </div>
     <div className="card__body">
       <h2>Invoice Settings</h2>
-      <p>Set up your invoice preferences and default settings for a smooth billing process.</p>
+      <p>Complete your invoice settings.</p>
     </div>
   </div>
 </a>
@@ -50,12 +48,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
   <div className="card">
     <div className="card__header">
       <div>Invoicing</div>
-      <small>Style your invoice</small>
+      <small>Styling</small>
       <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
     </div>
     <div className="card__body">
       <h2>Invoice Styling</h2>
-      <p>Customize the look and feel of your invoices to match your brand identity.</p>
+      <p>Customize the look and feel of your invoices.</p>
     </div>
   </div>
 </a>
@@ -64,12 +62,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
   <div className="card">
     <div className="card__header">
       <div>Invoicing</div>
-      <small>Connect a payment gateway</small>
+      <small>Payments</small>
       <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
     </div>
     <div className="card__body">
       <h2>Payment Gateway</h2>
-      <p>Link your preferred payment gateway to enable online payments for your invoices.</p>
+      <p>Enable online payments for your invoices.</p>
     </div>
   </div>
 </a>
@@ -78,12 +76,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
   <div className="card">
     <div className="card__header">
       <div>Invoicing</div>
-      <small>Add a manual payment</small>
+      <small>Payments</small>
       <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
     </div>
     <div className="card__body">
       <h2>Manual Payments</h2>
-      <p>Learn how to record payments received outside of the online payment system.</p>
+      <p>Configure manual payments for your invoices.</p>
     </div>
   </div>
 </a>
@@ -92,12 +90,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
   <div className="card">
     <div className="card__header">
       <div>Invoicing</div>
-      <small>Create your first invoice</small>
+      <small>Invoice</small>
       <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
     </div>
     <div className="card__body">
       <h2>First Invoice</h2>
-      <p>Step-by-step guide to creating and sending your very first invoice using our system.</p>
+      <p>Step-by-step guide to creating and sending your very first invoice.</p>
     </div>
   </div>
 </a>
@@ -105,12 +103,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
   <div className="card">
     <div className="card__header">
       <div>Invoicing</div>
-      <small>What's next</small>
+      <small>Next</small>
       <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
     </div>
     <div className="card__body">
       <h2>What's next?</h2>
-      <p>Look to get more advanced and set up your accounting?</p>
+      <p>Set up your accounting.</p>
     </div>
   </div>
 </a>
@@ -127,12 +125,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>Complete your accounting settings</small>
+        <small>Settings</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Accounting Settings</h2>
-        <p>Set up your accounting preferences and configure essential settings for accurate financial tracking.</p>
+        <p>Complete your accounting settings.</p>
       </div>
     </div>
   </a>
@@ -141,12 +139,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>Get to know your Chart of Accounts</small>
+        <small>CoA</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Chart of Accounts</h2>
-        <p>Understand and customize your Chart of Accounts to effectively organize your financial records.</p>
+        <p>Get to know your Chart of Accounts.</p>
       </div>
     </div>
   </a>
@@ -155,12 +153,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>Connect your bank</small>
+        <small>Banking</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Bank Connection</h2>
-        <p>Link your bank accounts to automatically import transactions and streamline your bookkeeping.</p>
+        <p>Connect your bank to automate your accounting.</p>
       </div>
     </div>
   </a>
@@ -169,12 +167,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>Import your bank data</small>
+        <small>Banking</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Bank Data Import</h2>
-        <p>Learn how to import your bank transactions and reconcile them with your accounting records.</p>
+        <p>Import your banking transaction data.</p>
       </div>
     </div>
   </a>
@@ -183,12 +181,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>Create a journal entry</small>
+        <small>Accounting</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Journal Entries</h2>
-        <p>Master the process of creating and managing journal entries for accurate financial record-keeping.</p>
+        <p>Create and managing journal entries for accurate financial record-keeping.</p>
       </div>
     </div>
   </a>
@@ -197,12 +195,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>View your reports</small>
+        <small>Reports</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Financial Reports</h2>
-        <p>Access and interpret various financial reports to gain insights into your business's financial health.</p>
+        <p>View your accounting and business reports.</p>
       </div>
     </div>
   </a>
@@ -211,12 +209,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accounting</div>
-        <small>What's next?</small>
+        <small>Next</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Next Steps</h2>
-        <p>Explore advanced accounting features and best practices to optimize your financial management.</p>
+        <p>Explore advanced accounting features.</p>
       </div>
     </div>
   </a>
@@ -231,12 +229,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accountant</div>
-        <small>Register on the portal</small>
+        <small>Registration</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
-        <h2>Portal Registration</h2>
-        <p>Learn how to register and set up your account on the accounting portal to access client information and tools.</p>
+        <h2>Registration</h2>
+        <p>Register on the Accountant Portal.</p>
       </div>
     </div>
   </a>
@@ -245,12 +243,12 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accountant</div>
-        <small>Reach out to the Fiskl team</small>
+        <small>Contact</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
         <h2>Contact Fiskl</h2>
-        <p>Find out how to get in touch with the Fiskl team for support, questions, or collaboration opportunities.</p>
+        <p>Get in touch with the team at Fiskl.</p>
       </div>
     </div>
   </a>
@@ -259,7 +257,7 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accountant</div>
-        <small>What's next?</small>
+        <small>Next</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">

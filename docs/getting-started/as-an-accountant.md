@@ -46,19 +46,6 @@ Learn more about [Billing](../Plans-Billing/apply-offer-or-partner-code)
 
 ## What's next
 
-  <CardContainer>
-
-    <Card shadow='tl'>
-      <CardHeader>
-        <h3>Explore Fiskl Accounting</h3>
-      </CardHeader>
-      <CardBody>
-       Discover how Fiskl simplifies accounting for businesses. Our platform offers comprehensive financial management tools, including automated bank feeds, customizable chart of accounts, and real-time financial reporting. With features like multi-currency support and intuitive tax handling, Fiskl adapts to diverse business needs. Familiarize yourself with our user-friendly interface to better serve your clients using Fiskl.
-      </CardBody>
-      <CardFooter>
-        <button className='button button--secondary button--block'>[Learn more](../Core-Features/Accounting/_category_.json)</button>
-      </CardFooter>
-    </Card>
-
-  
-  </CardContainer>
+:::info[Explore Fiskl Accounting]
+**Learn more about Fiskl Accounting**: Discover how Fiskl simplifies accounting for businesses with comprehensive financial management tools. From automated bank feeds and customizable charts of accounts to real-time financial reporting, Fiskl has you covered. With multi-currency support and intuitive tax handling, our platform adapts to diverse business needs. Get familiar with our user-friendly interface to better serve your clients. [See the accounting core features](../category/accounting)
+:::
