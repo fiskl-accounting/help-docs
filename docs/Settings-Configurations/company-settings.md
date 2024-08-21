@@ -1,5 +1,5 @@
 ---
-title: Company settings
+title: Company Settings
 sidebar_position: 2
 description: Manage your basic company information
 tags:

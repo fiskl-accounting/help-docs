@@ -1,5 +1,5 @@
 ---
-title: 🎉 Welcome 🎉 
+title: Welcome 🎉 
 sidebar_position: 1
 description: Navigate Fiskl's powerful accounting and invoicing platform with ease
 image: ../static/img/fiskl-logo.png
@@ -65,4 +65,3 @@ Can't find what you're looking for? Our support team is always ready to assist y
 
 We value your feedback! If you'd like to see improvements or additions to our documentation, please let us know. Your input helps us make Fiskl even better for everyone.
 
-Ready to dive in? Let's get started with [Setting Up Your Fiskl Account](/docs/getting-started/create-account).

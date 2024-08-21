@@ -1,5 +1,5 @@
 ---
-title: Invoice basics
+title: Invoice Basics
 sidebar_position: 3
 description: Getting started with invoice basics
 toc_min_heading_level: 2
@@ -125,7 +125,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 <div className="card-grid invoicing-cards">
   <a href="with-accounting#connect-your-bank">
-    <div className="card">
+    <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
         <small>Connect your bank</small>
@@ -141,7 +141,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   </a>
 
   <a href="Journies/setting-up-your-taxes.md">
-    <div className="card">
+    <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
         <small>Set up your taxes</small>

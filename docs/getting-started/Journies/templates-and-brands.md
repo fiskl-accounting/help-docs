@@ -1,5 +1,5 @@
 ---
-title: Templates & brands
+title: Create Templates & Brands
 sidebar_position: 6
 description: Learn about using templates and brands
 toc_min_heading_level: 2

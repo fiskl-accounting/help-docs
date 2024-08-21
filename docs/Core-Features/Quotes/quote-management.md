@@ -1,5 +1,5 @@
 ---
-title: Quote management
+title: Quote Management
 sidebar_position: 2
 description: Managing your quotes after creation.
 toc_min_heading_level: 2

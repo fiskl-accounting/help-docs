@@ -1,5 +1,5 @@
 ---
-title: Creating invoices
+title: Creating Invoices
 sidebar_position: 2
 description: How to create and edit invoices
 toc_min_heading_level: 2

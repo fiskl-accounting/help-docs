@@ -1,5 +1,5 @@
 ---
-title: Mileage
+title: Logging Mileage
 sidebar_position: 8
 description: Mileage tracking and billing
 toc_min_heading_level: 2

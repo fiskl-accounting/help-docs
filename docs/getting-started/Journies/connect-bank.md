@@ -1,5 +1,5 @@
 ---
-title: Connecting your banks
+title: Connect Your Bank
 description: Learn about how to connect your bank accounts
 sidebar_position: 4
 toc_min_heading_level: 2

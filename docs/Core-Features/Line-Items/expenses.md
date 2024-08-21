@@ -1,5 +1,5 @@
 ---
-title: Expenses
+title: Tracking Expenses
 sidebar_position: 5
 description: Managing and tracking expenses
 toc_min_heading_level: 2

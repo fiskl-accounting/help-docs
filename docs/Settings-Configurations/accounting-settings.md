@@ -1,5 +1,5 @@
 ---
-title: Accounting settings
+title: Accounting Settings
 sidebar_position: 4
 description: Configure your accounting preferences and standard accounts
 tags:

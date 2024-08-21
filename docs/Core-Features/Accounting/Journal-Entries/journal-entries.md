@@ -1,5 +1,5 @@
 ---
-title: Journal entries
+title: Understanding Journal Entries
 sidebar_position: 3
 description: Understanding and managing journal entries
 toc_min_heading_level: 2
@@ -12,7 +12,7 @@ tags:
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Journal entries also referred to as `Account transactions` and are the foundation of your accounting system. Journal entries are the record of all financial transactions in your business. You can think of the [chart of accounts](chart-of-accounts) as your folder structure and journal entries as the transactions within them.
+Journal entries also referred to as `Account transactions` and are the foundation of your accounting system. Journal entries are the record of all financial transactions in your business. You can think of the [chart of accounts](../chart-of-accounts.md) as your folder structure and journal entries as the transactions within them.
 
 ## How Fiskl handles journal entries
 
@@ -98,9 +98,9 @@ When adding or viewing a transaction we add a `CR` or `DR` under the category wh
 
 You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making adjustments.
 
-For a bigger picture on your transactions you can use the [Transactions by Account](Reports/transactions-by-account) report.
+For a bigger picture on your transactions you can use the [Transactions by Account](../Reports/transactions-by-account) report.
 
-Depending on your reason you can use the reports like [Balance Sheet](Reports/balance-sheet) or [Profit and Loss (P&L)](Reports/profit-and-loss).
+Depending on your reason you can use the reports like [Balance Sheet](../Reports/balance-sheet) or [Profit and Loss (P&L)](../Reports/profit-and-loss).
 
 :::info[tip]
 Setting the reports to **detailed** allows you to drill down to transaction level.
@@ -118,7 +118,7 @@ Remember, Fiskl's accounting reports draw directly from these journal entries, s
 
 Now that you understand the basics of journal entries in Fiskl, you might want to explore:
 
-  - Setting up your chart of accounts [CoA](chart-of-accounts) transaction
+  - Setting up your chart of accounts [CoA](../chart-of-accounts) transaction
   - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction

@@ -1,5 +1,5 @@
 ---
-title: Clients
+title: Managing Clients
 sidebar_position: 4
 description: Creating and editing clients
 toc_min_heading_level: 2

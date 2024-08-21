@@ -1,5 +1,6 @@
 ---
-title: User settings
+title: User Preferences
+
 sidebar_position: 10
 description: Configure your personal preferences and account settings.
 tags:

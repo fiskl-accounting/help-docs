@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Managing Services
 sidebar_position: 4
 description: Managing and using services
 toc_min_heading_level: 2

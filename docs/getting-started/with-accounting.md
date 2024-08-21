@@ -87,7 +87,8 @@ Learn more about [Bank integrations](../Integrations/_category_.json)
 1. You have now created a journal entry
 1. View it in your "Reports"
 
-Learn more about [Journal Entries](../Core-Features/Accounting/journal-entries)
+<!-- Learn more about [Journal Entries](../Core-Features/Accounting/Journal-Entries/journal-entries) -->
+
 </LayoutPair>
 
 ---
@@ -112,7 +113,7 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
 
     <div className="card-grid invoicing-cards">
   <a href="Journies/setting-up-your-taxes.md">
-    <div className="card">
+    <div className="container_card">
       <div className="card__header">
         <div>Team Management</div>
         <small>Invite your accountant</small>
@@ -128,7 +129,7 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
   </a>
 
   <a href="Journies/invite-your-team-members.md">
-    <div className="card">
+    <div className="container_card">
       <div className="card__header">
         <div>Team Management</div>
         <small>Invite your team members</small>

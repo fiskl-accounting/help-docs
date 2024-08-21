@@ -1,5 +1,5 @@
 ---
-title: Invoice and quote settings
+title: Invoice and Quote Settings
 sidebar_position: 10
 description: Configure your invoice and quote preferences
 tags:

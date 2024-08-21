@@ -1,5 +1,5 @@
 ---
-title: Tax settings
+title: Tax Settings
 sidebar_position: 6
 description: Configure your tax settings
 tags:

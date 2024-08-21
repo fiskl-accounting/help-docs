@@ -1,5 +1,5 @@
 ---
-title: Accounts Payable
+title: Working with Accounts Payable
 sidebar_position: 10
 description: Understanding and managing Accounts Payable (AP) transactions
 toc_min_heading_level: 2

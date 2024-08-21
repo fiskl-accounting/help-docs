@@ -1,5 +1,5 @@
 ---
-title: Apply offer or partner Code
+title: Apply Discount Codes
 sidebar_position: 4
 description: How to apply offer or partner codes
 toc_min_heading_level: 2

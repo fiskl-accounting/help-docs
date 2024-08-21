@@ -127,7 +127,6 @@ body {
   list-style-image: none;
 }
 
-/* Common styles for both cardContainer and card-grid */
 .cardContainer,
 .card-grid {
   display: flex;
@@ -147,28 +146,30 @@ body {
   color: inherit;
 }
 
-.card {
+.container_card {
   display: flex;
   flex-direction: column;
   width: 100%;
   height: 100%;
   color: white;
+  border-radius: 8px; /* Added rounded corners */
+  overflow: hidden; /* Ensures content doesn't overflow rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
 }
 
-.accounting-cards .card {
+.accounting-cards .container_card {
   background-color: rgb(10, 107, 70);
 }
 
-.invoicing-cards .card {
+.invoicing-cards .container_card {
   background-color: rgb(33, 126, 209);
 }
 
-
-.accountant-cards .card {
+.accountant-cards .container_card {
   background-color: rgb(70, 15, 159);
 }
 
-.team-cards .card {
+.team-cards .container_card {
   background-color: rgb(33, 126, 209);
 }
 
@@ -216,4 +217,3 @@ body {
     max-width: calc(25% - 16px);
   }
 }
-

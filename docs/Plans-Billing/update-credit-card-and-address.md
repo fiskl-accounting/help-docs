@@ -1,5 +1,5 @@
 ---
-title: Update credit card and address
+title: Update Billing Information
 sidebar_position: 8
 description: How to update your billing information in Fiskl
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Creating quotes
+title: Creating Quotes
 sidebar_position: 2
 description: How to create quotes
 toc_min_heading_level: 2

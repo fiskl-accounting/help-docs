@@ -1,5 +1,5 @@
 ---
-title: Opening Balances
+title: Creating Opening Balances
 sidebar_position: 2
 description: Understanding and managing opening balances in Fiskl
 toc_min_heading_level: 2

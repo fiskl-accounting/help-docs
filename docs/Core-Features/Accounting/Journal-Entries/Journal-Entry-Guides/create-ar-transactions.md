@@ -1,5 +1,5 @@
 ---
-title: Accounts Receivable
+title: Working with Accounts Receivable
 sidebar_position: 12
 description: Create Accounts Receivable (AR) transactions
 toc_min_heading_level: 2

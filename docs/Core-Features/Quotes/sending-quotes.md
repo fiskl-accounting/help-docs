@@ -1,5 +1,5 @@
 ---
-title: Sending quotes
+title: Sending Quotes
 sidebar_position: 2
 description: How to send quotes
 toc_min_heading_level: 2

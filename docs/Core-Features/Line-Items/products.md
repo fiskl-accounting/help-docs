@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Managing Products
 sidebar_position: 2
 description: Managing and using products
 toc_min_heading_level: 2

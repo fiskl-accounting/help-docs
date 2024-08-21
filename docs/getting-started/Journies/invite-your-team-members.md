@@ -1,5 +1,5 @@
 ---
-title: Invite team members
+title: Invite Team Members
 sidebar_position: 8
 description: Invite and manage your team members in Fiskl
 tags:

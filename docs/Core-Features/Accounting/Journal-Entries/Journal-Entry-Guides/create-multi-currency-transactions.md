@@ -1,5 +1,5 @@
 ---
-title: Multi-currency transactions
+title: Managing Multi-Currency Transactions
 sidebar_position: 8
 description: Create and manage multi-currency transactions
 toc_min_heading_level: 2

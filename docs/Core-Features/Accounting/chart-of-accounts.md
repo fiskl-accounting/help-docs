@@ -1,5 +1,5 @@
 ---
-title: Chart of accounts
+title: Chart of Accounts
 sidebar_position: 2
 description: Understanding and managing your chart of accounts
 toc_min_heading_level: 2

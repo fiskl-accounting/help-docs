@@ -1,5 +1,5 @@
 ---
-title: Started with banking
+title: Banking Basics
 sidebar_position: 5
 description: Getting started with banking and bank data import
 toc_min_heading_level: 2

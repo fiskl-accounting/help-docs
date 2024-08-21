@@ -1,5 +1,5 @@
 ---
-title: Filtering and exporting
+title: Filtering and Exporting Journal Entries
 sidebar_position: 16
 description: Filter and export your transactions
 toc_min_heading_level: 2

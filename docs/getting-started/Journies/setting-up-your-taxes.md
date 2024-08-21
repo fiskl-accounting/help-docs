@@ -1,5 +1,5 @@
 ---
-title: Set up your taxes
+title: Set Up Your Taxes
 sidebar_position: 3
 description: Setting up your company taxes
 toc_min_heading_level: 2

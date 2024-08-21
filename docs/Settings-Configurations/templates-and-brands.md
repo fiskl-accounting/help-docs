@@ -1,5 +1,5 @@
 ---
-title: Templates and brands settings
+title: Templates and Brands
 sidebar_position: 6
 description: Configure your invoice, quote, and email templates and brands
 tags:

@@ -53,17 +53,6 @@ const config: Config = {
         hashed: true,
       }),
     ],
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        redirects: [
-          {
-            to: '/docs/introduction', 
-            from: '/',
-          },
-        ],
-      },
-    ],
   ],
 
   themeConfig: {
@@ -86,7 +75,7 @@ const config: Config = {
           label: 'Docs',
           to: '/docs/introduction'
         },
-        {to: '/guides', label: 'Tutorials', position: 'left'},
+        // {to: '/guides', label: 'Tutorials', position: 'left'},
         {to: '/product-updates', label: 'Product updates', position: 'left'}, // Ensure the Blog link is here
         {
           type: 'search',

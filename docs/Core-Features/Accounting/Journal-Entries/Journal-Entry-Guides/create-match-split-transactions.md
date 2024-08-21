@@ -1,5 +1,5 @@
 ---
-title: Match and split transactions
+title: Matching and Splitting Transactions
 sidebar_position: 6
 description: Learn how to match and split transactions for accurate accounting
 toc_min_heading_level: 2

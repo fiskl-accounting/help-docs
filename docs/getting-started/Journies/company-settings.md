@@ -1,5 +1,5 @@
 ---
-title: Company settings
+title: Configure Company Settings
 sidebar_position: 3
 description: Learn about your company and user settings
 image: ../static/img/docusaurus-social-card.jpg

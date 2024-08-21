@@ -1,5 +1,5 @@
 ---
-title: Time
+title: Recording Time
 sidebar_position: 6
 description: Time tracking and billing
 toc_min_heading_level: 2

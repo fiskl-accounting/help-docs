@@ -1,6 +1,6 @@
 ---
 title: Multi Journal Entries
-sidebar_position: 3
+sidebar_position: 5
 description: Understanding and managing multi-currency journal entries
 toc_min_heading_level: 2
 toc_max_heading_level: 4

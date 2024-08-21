@@ -1,5 +1,5 @@
 ---
-title: Invoice management
+title: Invoice Management
 sidebar_position: 3
 description: Managing your invoices after creation
 tags:

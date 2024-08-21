@@ -1,5 +1,5 @@
 ---
-title: Sending invoices
+title: Sending Invoices
 sidebar_position: 4
 description: How to send invoices
 toc_min_heading_level: 2

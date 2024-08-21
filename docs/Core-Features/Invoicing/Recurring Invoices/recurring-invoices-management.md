@@ -1,13 +1,11 @@
 ---
-title: Managing recurring invoices
-sidebar_position: 7
+title: Managing Recurring Invoices
+sidebar_position: 5
 description: How to manage your recurring invoices
 tags:
  - Invoice
  - Recurring invoices
 ---
-
-# Managing recurring invoices
 
 Access your recurring invoice list by selecting Sales > Recurring invoices from the left menu.
 

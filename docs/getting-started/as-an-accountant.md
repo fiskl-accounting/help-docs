@@ -1,5 +1,5 @@
 ---
-title: Started as an accountant
+title: Getting Started as an Accountant
 sidebar_position: 6
 description: Getting started as an accountant
 toc_min_heading_level: 2

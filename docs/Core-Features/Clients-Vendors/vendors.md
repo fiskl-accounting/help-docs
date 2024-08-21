@@ -1,5 +1,5 @@
 ---
-title: Vendors
+title: Managing Vendors
 sidebar_position: 4
 description: Creating and managing vendors
 toc_min_heading_level: 2

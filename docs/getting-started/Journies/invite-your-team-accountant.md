@@ -1,5 +1,5 @@
 ---
-title: Invite your accountant
+title: Invite Your Accountant
 sidebar_position: 9
 description: Invite and manage your accountant in Fiskl
 tags:

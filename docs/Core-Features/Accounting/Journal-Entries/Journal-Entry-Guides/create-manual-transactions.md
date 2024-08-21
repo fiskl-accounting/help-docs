@@ -1,5 +1,5 @@
 ---
-title: Create manual transactions
+title: Recording Manual Transactions
 sidebar_position: 4
 description: Create manual IN/OUT Debit/Credit transactions
 toc_min_heading_level: 2

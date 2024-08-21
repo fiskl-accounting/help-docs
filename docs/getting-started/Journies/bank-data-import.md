@@ -1,5 +1,5 @@
 ---
-title: Import bank data
+title: Import Bank Data
 sidebar_position: 10
 description: Learn about importing your bank data
 toc_min_heading_level: 2
