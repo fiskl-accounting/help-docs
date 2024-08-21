@@ -231,7 +231,7 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     <div className="card">
       <div className="card__header">
         <div>Accountant</div>
-        <small>Register on the accounting portal</small>
+        <small>Register on the portal</small>
         <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
       </div>
       <div className="card__body">
