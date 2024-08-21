@@ -46,7 +46,7 @@ Learn more about [Chart of accounts](../Core-Features/Accounting/chart-of-accoun
 
 ### Connect your bank
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm03lvxwt001rmb0cih22pqei/tour">
 
 *Your [Banking](https://my.fiskl.com/banking)*
 
