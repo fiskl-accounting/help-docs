@@ -1,5 +1,5 @@
 ---
-title: 🎉 Welcome
+title: 🎉 Welcome 🎉 
 sidebar_position: 1
 description: Navigate Fiskl's powerful accounting and invoicing platform with ease
 image: ../static/img/fiskl-logo.png
