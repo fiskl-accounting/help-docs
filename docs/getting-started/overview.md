@@ -101,6 +101,20 @@ Welcome to Fiskl! Let's get you set up quickly based on your primary needs.
     </div>
   </div>
 </a>
+<a href="with-invoicing#whats-next">
+  <div className="card">
+    <div className="card__header">
+      <div>Invoicing</div>
+      <small>What's next</small>
+      <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
+    </div>
+    <div className="card__body">
+      <h2>What's next?</h2>
+      <p>Look to get more advanced and set up your accounting?</p>
+    </div>
+  </div>
+</a>
+
 </div>
 </CardContainer>
 

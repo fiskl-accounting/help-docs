@@ -168,6 +168,10 @@ body {
   background-color: rgb(70, 15, 159);
 }
 
+.team-cards .card {
+  background-color: rgb(33, 126, 209);
+}
+
 .card__header {
   padding: 1rem;
 }
@@ -212,3 +216,4 @@ body {
     max-width: calc(25% - 16px);
   }
 }
+

@@ -123,27 +123,37 @@ To get you started with invoicing, we've put together a flexible series of guide
 
   <CardContainer>
 
-    <Card shadow='tl'>
-      <CardHeader>
+<div className="card-grid invoicing-cards">
+  <a href="with-accounting#connect-your-bank">
+    <div className="card">
+      <div className="card__header">
+        <div>Accounting</div>
+        <small>Connect your bank</small>
+        <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
+      </div>
+      <div className="card__body">
         <h3>Connect your bank</h3>
-      </CardHeader>
-      <CardBody>
-        Supercharge your invoicing with real-time bank data! Link your bank account to Fiskl and watch your financial picture come to life. You'll breeze through invoice reconciliation, track payments instantly, and keep your books accurate without breaking a sweat. It's like giving your invoicing superpowers – quick, easy, and oh-so-efficient!
-      </CardBody>
-      <CardFooter>
-        <button className='button button--secondary button--block'>[Learn more](with-accounting#connect-your-bank)</button>
-      </CardFooter>
-    </Card>
+        <p>
+          Supercharge your invoicing with real-time bank data! Link your bank account to Fiskl and bring your financial picture to life. You'll easily breeze through invoice reconciliation, track payments instantly, and keep your books accurate without any hassle. It’s like giving your invoicing superpowers – quick, easy, and incredibly efficient!
+        </p>
+      </div>
+    </div>
+  </a>
 
-    <Card shadow='tl'>
-      <CardHeader>
+  <a href="Journies/setting-up-your-taxes.md">
+    <div className="card">
+      <div className="card__header">
+        <div>Accounting</div>
+        <small>Set up your taxes</small>
+        <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
+      </div>
+      <div className="card__body">
         <h3>Set up your taxes</h3>
-      </CardHeader>
-      <CardBody>
-        Stay tax-smart from day one! Quick tax setup now means hassle-free invoicing and spot-on accounting later. Whether it's VAT or sales tax, Fiskl's got you covered. Nail your tax game early, and you'll thank yourself come tax season. It's the secret sauce for keeping your finances squeaky clean and your business running smooth!
-      </CardBody>
-      <CardFooter>
-        <button className='button button--secondary button--block'>[Learn more](Journies/setting-up-your-taxes.md)</button>
-      </CardFooter>
-    </Card>
+        <p>
+          Stay tax-smart from day one! Setting up your taxes now means hassle-free invoicing and accurate accounting later. Whether it’s VAT or sales tax, Fiskl has you covered. Get your tax setup right early on, and you’ll thank yourself come tax season. It’s the secret sauce for keeping your finances in check and your business running smoothly!
+        </p>
+      </div>
+    </div>
+  </a>
+</div>
   </CardContainer>

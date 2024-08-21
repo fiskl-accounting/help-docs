@@ -110,27 +110,37 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
 
   <CardContainer>
 
-    <Card shadow='tl'>
-      <CardHeader>
+    <div className="card-grid invoicing-cards">
+  <a href="Journies/setting-up-your-taxes.md">
+    <div className="card">
+      <div className="card__header">
+        <div>Team Management</div>
+        <small>Invite your accountant</small>
+        <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
+      </div>
+      <div className="card__body">
         <h3>Invite your accountant</h3>
-      </CardHeader>
-      <CardBody>
-        Adding your accountant(s) can help you efficiently manage your books, ensure compliance, and provide valuable insights. You have full control over their access and there is no charge for this feature.
-      </CardBody>
-      <CardFooter>
-        <button className='button button--secondary button--block'>[Learn more](Journies/setting-up-your-taxes.md)</button>
-      </CardFooter>
-    </Card>
+        <p>
+          Adding your accountant(s) can help you manage your books efficiently, ensure compliance, and gain valuable insights. You have full control over their access, and this feature is provided at no extra cost.
+        </p>
+      </div>
+    </div>
+  </a>
 
-     <Card shadow='tl'>
-      <CardHeader>
+  <a href="Journies/invite-your-team-members.md">
+    <div className="card">
+      <div className="card__header">
+        <div>Team Management</div>
+        <small>Invite your team members</small>
+        <div style={{ width: '80%', height: '2px', backgroundColor: 'white', margin: '1rem auto' }}></div>
+      </div>
+      <div className="card__body">
         <h3>Invite your team members</h3>
-      </CardHeader>
-      <CardBody>
-        Enhance your workflow by bringing your team into Fiskl. Collaborative features allow shared financial insights, and improved communication. By involving your team early, you'll streamline processes and ensure everyone has the right level of access to financial data. Set up your team now to maximize Fiskl's potential for your business.
-      </CardBody>
-      <CardFooter>
-        <button className='button button--secondary button--block'>[Learn more](Journies/invite-your-team-members.md)</button>
-      </CardFooter>
-    </Card>
+        <p>
+          Bring your team into Fiskl to enhance workflow. Collaborative features enable shared insights and better communication. Early involvement streamlines processes and ensures everyone has the right access. Set up your team now to unlock Fiskl's full potential.
+        </p>
+      </div>
+    </div>
+  </a>
+</div>
   </CardContainer>
