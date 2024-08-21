@@ -36,8 +36,8 @@ const config: Config = {
           path: './product-updates', // Directory where blog markdown files are stored
           routeBasePath: '/product-updates', // URL path for the blog section
           postsPerPage: 10,
-          blogTitle: 'Product updates',
-          blogDescription: 'Fiskl product updates',
+          blogTitle: 'What\'s New',
+          blogDescription: 'What\'s new and noteworthy update news',
         },
         theme: {
           customCss: 'src/css/custom.css',
@@ -76,7 +76,7 @@ const config: Config = {
           to: '/docs/introduction'
         },
         // {to: '/guides', label: 'Tutorials', position: 'left'},
-        {to: '/product-updates', label: 'Product updates', position: 'left'}, // Ensure the Blog link is here
+        {to: '/product-updates', label: 'Noteworthy', position: 'left'}, // Ensure the Blog link is here
         {
           type: 'search',
           position: 'right',
