@@ -1,6 +1,5 @@
 ---
 title: Chart of Accounts
-sidebar_position: 12
 description: Understanding the chart of accounts in accounting
 ---
 ## Chart of Accounts (Definition)

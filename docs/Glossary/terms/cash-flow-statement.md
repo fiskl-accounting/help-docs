@@ -1,6 +1,6 @@
 ---
 title: Cash Flow Statement
-sidebar_position: 8
+
 description: Understanding the cash flow statement in financial reporting
 ---
 ## Cash Flow Statement (Definition)

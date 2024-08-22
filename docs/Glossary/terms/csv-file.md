@@ -1,6 +1,5 @@
 ---
 title: CSV File
-sidebar_position: 18
 description: Understanding CSV files in data management
 ---
 ## CSV File (Definition)

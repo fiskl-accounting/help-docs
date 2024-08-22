@@ -1,6 +1,5 @@
 ---
 title: Cost of Goods Sold
-sidebar_position: 14
 description: Understanding Cost of Goods Sold (COGS) in business finance
 ---
 ## Cost of Goods Sold (Definition)

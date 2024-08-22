@@ -1,6 +1,5 @@
 ---
 title: Cash on Hand
-sidebar_position: 10
 description: Understanding cash on hand in business finance
 ---
 ## Cash on Hand (Definition)

@@ -1,6 +1,5 @@
 --- 
 title: Accrued Expenses 
- 
 description: Explanation of accrued expenses in financial accounting 
 --- 
 

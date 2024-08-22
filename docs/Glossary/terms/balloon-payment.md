@@ -1,6 +1,6 @@
 ---
 title: Balloon Payment
-sidebar_position: 4
+
 description: Understanding balloon payments in finance and lending
 ---
 ## Balloon Payment (Definition)

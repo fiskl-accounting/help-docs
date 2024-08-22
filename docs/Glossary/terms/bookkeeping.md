@@ -1,6 +1,6 @@
 ---
 title: Bookkeeping
-sidebar_position: 6
+
 description: Overview of bookkeeping in business finance
 ---
 ## Bookkeeping (Definition)

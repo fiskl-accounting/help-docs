@@ -1,6 +1,5 @@
 ---
 title: Cloud Migration
-sidebar_position: 13
 description: Understanding cloud migration in business technology
 ---
 ## Cloud Migration (Definition)

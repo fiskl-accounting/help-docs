@@ -1,6 +1,6 @@
 ---
 title: Bad Debt Expense
-sidebar_position: 1
+
 description: Definition and explanation of bad debt expense in accounting
 ---
 ## Bad Debt Expense (Definition)

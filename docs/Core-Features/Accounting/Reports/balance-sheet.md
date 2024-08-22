@@ -87,7 +87,7 @@ Fiskl offers both Cash and Accrual accounting methods for your Balance Sheet rep
 <details>
 <summary>Which method should I use?</summary>
 
-Learn more about the differences between [Cash vs Accrual accounting](../cash-vs-accrual) and how you can easily switch between them in Fiskl.
+Learn more about the differences between [Cash vs Accrual accounting](../../../Glossary/terms/cash-vs-accrual) and how you can easily switch between them in Fiskl.
 
 </details>
 

@@ -1,6 +1,5 @@
 ---
 title: Crowdfunding
-sidebar_position: 17
 description: Understanding crowdfunding as a financing method
 ---
 ## Crowdfunding (Definition)

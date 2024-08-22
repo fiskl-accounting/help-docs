@@ -1,6 +1,6 @@
 ---
 title: Cash Basis Accounting
-sidebar_position: 5
+
 description: Understanding cash basis accounting in business finance
 ---
 ## Cash Basis Accounting (Definition)

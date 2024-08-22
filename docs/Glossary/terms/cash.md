@@ -1,6 +1,6 @@
 ---
 title: Cash
-sidebar_position: 3
+
 description: Understanding cash in business finance
 ---
 ## Cash (Definition)

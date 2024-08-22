@@ -1,6 +1,6 @@
 ---
 title: Cash Method Accounting
-sidebar_position: 9
+
 description: Understanding cash method accounting in business finance
 ---
 ## Cash Method Accounting (Definition)

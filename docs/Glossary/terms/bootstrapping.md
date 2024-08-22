@@ -1,6 +1,6 @@
 ---
 title: Bootstrapping
-sidebar_position: 7
+
 description: Understanding bootstrapping in business and finance
 ---
 ## Bootstrapping (Definition)

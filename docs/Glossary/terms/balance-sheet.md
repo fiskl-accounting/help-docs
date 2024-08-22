@@ -1,6 +1,6 @@
 ---
 title: Balance Sheet
-sidebar_position: 3
+
 description: Explanation of the balance sheet and its importance in financial reporting
 ---
 ## Balance Sheet (Definition)

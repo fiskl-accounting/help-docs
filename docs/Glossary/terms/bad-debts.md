@@ -1,6 +1,6 @@
 ---
 title: Bad Debts
-sidebar_position: 2
+
 description: Understanding bad debts and their impact on business finances
 ---
 ## Bad Debts (Definition)

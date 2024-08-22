@@ -47,7 +47,7 @@ Create unique, company-specific messages in [Templates and brands](../../Setting
 
 </details>
 
-### Send share link
+### Share link
 
 Share links provide flexibility in how you send quotes. The generated link is the same one used in the "View Quote" button of emailed quote. It directs your client to a secure page where they can preview the quote and accept it. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
 

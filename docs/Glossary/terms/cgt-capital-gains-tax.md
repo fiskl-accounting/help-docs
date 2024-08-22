@@ -1,6 +1,5 @@
 ---
 title: CGT - Capital Gains Tax
-sidebar_position: 11
 description: Understanding Capital Gains Tax in finance and taxation
 ---
 ## CGT - Capital Gains Tax (Definition)

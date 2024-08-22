@@ -1,6 +1,6 @@
 ---
 title: Capital
-sidebar_position: 1
+
 description: Understanding capital in business and finance
 ---
 ## Capital (Definition)

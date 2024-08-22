@@ -1,6 +1,5 @@
 ---
 title: Current Assets
-sidebar_position: 19
 description: Understanding current assets in business finance
 ---
 ## Current Assets (Definition)

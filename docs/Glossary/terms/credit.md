@@ -1,6 +1,5 @@
 ---
 title: Credit
-sidebar_position: 15
 description: Understanding credit in accounting and finance
 ---
 ## Credit (Definition)

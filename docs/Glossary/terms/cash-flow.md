@@ -1,6 +1,6 @@
 ---
 title: Cash Flow
-sidebar_position: 7
+
 description: Understanding cash flow in business finance
 ---
 ## Cash Flow (Definition)

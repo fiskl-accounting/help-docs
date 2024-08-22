@@ -1,6 +1,5 @@
 ---
 title: Credit Entries
-sidebar_position: 16
 description: Understanding credit entries in accounting
 ---
 ## Credit Entries (Definition)

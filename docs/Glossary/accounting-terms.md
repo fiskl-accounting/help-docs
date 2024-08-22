@@ -111,6 +111,9 @@ A method of accounting where income and expenses are recorded when cash is actua
 ### [Cash on Hand](./terms/cash-on-hand)
 The total amount of accessible cash kept by a company.
 
+### [Cash vs Accural](./terms/cash-vs-accrual)
+Detailed overview of Cash vs Accrual
+
 ### [CGT - Capital Gains Tax](./terms/cgt-capital-gains-tax)
 A tax on the profit when you sell an asset that has increased in value.
 

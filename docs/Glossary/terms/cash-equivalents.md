@@ -1,6 +1,6 @@
 ---
 title: Cash Equivalents
-sidebar_position: 6
+
 description: Understanding cash equivalents in business finance
 ---
 ## Cash Equivalents (Definition)

@@ -1,6 +1,5 @@
 ---
 title: Current Liabilities
-sidebar_position: 20
 description: Understanding current liabilities in business finance
 ---
 ## Current Liabilities (Definition)

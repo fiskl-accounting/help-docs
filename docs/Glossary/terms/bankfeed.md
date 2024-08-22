@@ -1,6 +1,6 @@
 ---
 title: Bankfeed
-sidebar_position: 5
+
 description: Explanation of bank feeds in accounting software
 ---
 ## Bankfeed (Definition)

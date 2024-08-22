@@ -1,6 +1,6 @@
 ---
 title: Capital Cost
-sidebar_position: 2
+
 description: Understanding capital costs in business finance
 ---
 ## Capital Cost (Definition)
