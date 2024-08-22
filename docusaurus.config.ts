@@ -9,20 +9,17 @@ const config: Config = {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
-
   favicon: 'img/favicon/favicon-32x32.png',
   url: 'https://help.fiskl.com',
   baseUrl: '/',
   organizationName: 'fiskl', // Usually your GitHub org/user name.
   projectName: 'fiskl-docs', // Usually your repo name.
-
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
@@ -45,16 +42,14 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   plugins: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       ({
         hashed: true,
       }),
-    ],
+    ]
   ],
-
   themeConfig: {
     tableOfContents: {
       minHeadingLevel: 4,
@@ -70,13 +65,19 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docsSidebar',
           position: 'left',
           label: 'Docs',
           to: '/docs/introduction'
         },
-        // {to: '/guides', label: 'Tutorials', position: 'left'},
-        {to: '/product-updates', label: 'Noteworthy', position: 'left'}, // Ensure the Blog link is here
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialsSidebar', // Changed to match tutorialSidebar.ts
+          position: 'left',
+          label: 'Tutorials',
+          to: '/docs/Tutorials/introduction' // Changed to match the correct path
+        },
+        {to: '/product-updates', label: 'What\'s New', position: 'left'}, // Ensure the Blog link is here
         {
           type: 'search',
           position: 'right',

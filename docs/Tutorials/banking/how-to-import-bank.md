@@ -1,19 +1,18 @@
 ---
-title: Import Bank Data
-sidebar_position: 10
-description: Learn about importing your bank data
+title: How to Import Bank Transactions
+sidebar_position: 3
+description: How to manually import your banking transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
-  - Getting started
-  - Bank
-  - Chart of accounts
+  - Tutorials
+  - Banking
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Importing banking data into Fiskl
+## Importing banking data into Fiskl
 
 You can import your bank statements into Ledger Accounts in `Cash & Cash Equivalents` or `Credit Cards`.
 
@@ -26,7 +25,7 @@ Whenever you need to reconcile, edit or add a transaction, you mostly start in t
 :::
 
 :::info
-Ideally, you should automatically import your transactions using our [banking](./connect-bank) feature.
+Ideally, you should automatically import your transactions using our [banking](../../Integrations/Bank-Connections/_category_.json) feature.
 
 However, there are times when manually importing bank transactions is useful:
 

@@ -66,7 +66,7 @@ Learn more about [Bank integrations](../Integrations/_category_.json)
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzvasl9d00afl40covt7wfyg/tour">
 
-If you want to import your bank data manually, follow our guide on [Importing bank data](Journies/bank-data-import.md).
+If you want to import your bank data manually, follow our guide on [Importing bank data](../Tutorials/banking/how-to-import-bank.md).
 
 Learn more about [Bank integrations](../Integrations/_category_.json)
 </LayoutPair>
