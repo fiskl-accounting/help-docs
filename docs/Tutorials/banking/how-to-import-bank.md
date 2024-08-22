@@ -1,92 +1,94 @@
 ---
 title: How to Import Bank Transactions
 sidebar_position: 3
-description: How to manually import your banking transactions
+description: Learn how to manually import your banking transactions into Fiskl
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
   - Tutorials
   - Banking
+  - Transactions
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## Importing banking data into Fiskl
+# How to Import Bank Transactions
 
-You can import your bank statements into Ledger Accounts in `Cash & Cash Equivalents` or `Credit Cards`.
+Importing your banking transactions into Fiskl helps you keep your financial records up-to-date and accurate. This tutorial will guide you through the process of manually importing your bank transactions.
 
-:::info[Business Owner TIP]
-We loosely term `Cash & Cash Equivalents` and `Credit Cards` accounts as `Money accounts`.
+## Overview
 
-`Money accounts` in Fiskl are all the sub-accounts in `Cash & Cash Equivalents` and `Credit Cards`, and as a business owner, it's in these `Money accounts` that you will do 90% of your accounting.
+While Fiskl offers automatic bank connections for easy transaction imports, there are situations where you might need to import transactions manually. This tutorial covers:
 
-Whenever you need to reconcile, edit or add a transaction, you mostly start in these accounts.
+1. Understanding money accounts in Fiskl
+2. Types of file formats for importing transactions
+3. Step-by-step guide to importing transactions
+4. Creating bank and credit card ledger accounts
+5. Troubleshooting common import issues
+
+## Understanding Money Accounts in Fiskl
+
+Before we dive into importing transactions, let's clarify what we mean by "money accounts" in Fiskl:
+
+- **Money accounts** refer to sub-accounts under "Cash & Cash Equivalents" and "Credit Cards" in your chart of accounts.
+- As a business owner, you'll conduct about 90% of your accounting activities in these money accounts.
+- These accounts are where you'll reconcile, edit, or add transactions most frequently.
+
+## File Formats for Importing Transactions
+
+Fiskl supports three file formats for importing bank transactions:
+
+1. **CSV (Comma-Separated Values)**
+   - Most common format
+   - Requires column mapping and date format selection
+   - Fiskl provides a utility to simplify the import process
+
+2. **OFX (Open Financial Exchange)**
+   - Banking standard format
+   - Easiest to import; just upload and import
+
+3. **QIF (Quicken Interchange Format)**
+   - Another popular standard
+   - Similar to OFX in ease of use
+
+:::tip
+When possible, use OFX format for the smoothest import experience.
 :::
+
+## Importing Bank Transactions: Step-by-Step Guide
+
+Follow these general steps to import your bank transactions:
+
+1. Export your banking data from your bank's website or app.
+2. In Fiskl, create a ledger account if you haven't already (see [Creating Bank & Credit Card Ledger Accounts](#creating-bank--credit-card-ledger-accounts)).
+3. Select the import function in Fiskl.
+4. Choose your exported file.
+5. For CSV imports, map the fields as prompted.
+6. Review the preview of your import before finalizing.
 
 :::info
-Ideally, you should automatically import your transactions using our [banking](../../Integrations/Bank-Connections/_category_.json) feature.
-
-However, there are times when manually importing bank transactions is useful:
-
-- When your bank is not supported by any of the banking aggregators
-- When you need more historical data than the bank connections provide
-- If you don't like using third parties and don't mind importing manually
-
+Bank transactions require only three essential fields:
+1. Name: Transaction description
+2. Date: Transaction date
+3. Amount: Transaction amount
 :::
 
-## Types of imports
+### Importing CSV Files
 
-There are three file formats that we support for importing bank transactions:
+CSV imports require more attention due to their flexibility. Here's how to use the CSV import utility:
 
-`CSV`: Is the most common and the most challenging. With CSV, you will need to choose the columns and date formats. Don't worry, we have a utility to make this easier.
+1. Select the starting row (usually row 2 if there's a header).
+2. Map the Name column.
+3. Map the Amount column (toggle for split debit/credit columns if needed).
+4. Map the Date column and adjust the format if necessary.
 
-`OFX`: OFX is a banking standard and the easiest to import. With OFX, you can just upload the file and import.
-
-`QIF`: QIF is a wrapper of OFX and just another popular standard.
-
-:::info[TIP]
-The general rule of thumb is to use OFX if possible.
+:::tip
+Click on the column in the preview to select it, instead of typing the column letter.
 :::
 
-## Importing your banking transactions
-
-The general steps to importing your bank transactions are:
-
-1. Export your banking data from your bank
-2. In Fiskl, create a `Ledger Account` in `Cash & Cash Equivalents` or `Credit Cards` if you are importing credit card transactions. See [Create Bank and Credit Card Ledger Accounts](#create-bank--credit-card-ledger-account)
-3. Choose the import function
-4. Select your file
-5. Choose your fields if you are importing `CSV` and upload
-6. You will be presented with a preview of your import before selecting finish
-
-:::info
-Bank transactions only require three fields:
-1. Name: The name or description of the transaction
-2. Date: The date of the transaction
-3. Amount: The amount of the transaction
-:::
-
-### Importing CSV
-
-CSV is one of the most common formats but also one of the most difficult to import. When importing using the CSV import utility, we map the columns to the values. E.g., if Date is in column F, you choose F when asked to map the Date.
-
-1. You start by choosing which row to start from. If you have a header in row 1, you would choose 2
-2. Choose a name column
-3. Choose the amount column. There is a toggle if the amount is in two columns, debit & credit
-4. Choose the date column. You may have to adjust the date format if we cannot work it out automatically
-
-:::info
-To select the column, you can just click on the column instead of typing the column value. For example, if Name is in column D, then just click on column D.
-
-The default is to start importing from row 2. If you don't have a header column, then select row 1 in the first step.
-:::
-
-:::info
-Avoid using the advanced section unless absolutely necessary.
-:::
-
-Follow along with our interactive demo on importing bank transactions from a CSV export.
+<details>
+<summary>Watch our interactive demo on importing bank transactions from a CSV file</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -99,17 +101,43 @@ Follow along with our interactive demo on importing bank transactions from a CSV
   ></iframe>
 </div>
 
----
+</details>
 
-### Importing QIF
+### Importing OFX and QIF Files
 
-[Content to be added]
+OFX and QIF imports are generally simpler:
 
----
+1. Select the OFX or QIF file.
+2. Upload the file.
+3. Review the preview and confirm the import.
 
-## Create bank & credit Card ledger account
+If you encounter issues with OFX imports, contact Fiskl support for assistance.
 
-Try our interactive demo to learn how to create a `ledger account` for your bank or credit card transactions.
+## Creating Bank & Credit Card Ledger Accounts
+
+Before importing transactions, you need to create the appropriate ledger account in Fiskl. Here's how:
+
+### Creating a Bank Ledger Account
+
+1. Navigate to the [Chart of Accounts](https://my.fiskl.com/accounting/chart).
+2. Under Assets > Cash and Cash Equivalents, select the plus icon to add a new account.
+3. Provide the following information:
+   - **Name**: Choose a descriptive name (can be changed later)
+   - **Currency**: Must match the bank account currency
+   - **Account type**: Select "Bank Account"
+4. Save the new account.
+
+### Creating a Credit Card Ledger Account
+
+1. Navigate to the [Chart of Accounts](https://my.fiskl.com/accounting/chart).
+2. Under Liabilities > Credit Cards, select the plus icon to add a new account.
+3. Provide the following information:
+   - **Name**: Choose a descriptive name (can be changed later)
+   - **Currency**: Must match the credit card account currency
+4. Save the new account.
+
+<details>
+<summary>Watch our interactive demo on creating a bank or credit card ledger account</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -122,44 +150,22 @@ Try our interactive demo to learn how to create a `ledger account` for your bank
   ></iframe>
 </div>
 
----
+</details>
 
-### Steps to bank ledger account
+## Troubleshooting Common Import Issues
 
-These are for regular bank accounts like checking, savings, and debit accounts.
+If you encounter problems during the import process, try these solutions:
 
-- Navigate to the chart of accounts [Chart of Accounts](https://my.fiskl.com/accounting/chart)
-- In `Assets` > `Cash and Cash Equivalents`, choose to add a new account using the plus icon
-- Provide the following three essential bits of information:
-    - **Name**: This can be changed later
-    - **Currency**: It's really important that the currency matches the bank account currency
-    - **Account type**: The account type in this example must be `Bank Account`
-- Save
+1. **Amount parsing errors**: Open the CSV in a spreadsheet application and format the amount column to use two decimal places (e.g., 1000.00).
 
-You now have your ledger account that you can import your manual bank transactions into.
+2. **Date parsing errors**: Try different date formats in Fiskl, or reformat the date column in your spreadsheet application before importing.
 
-:::info[Business Owner TIP]
-You can think of these `ledger accounts` as folders for your transactions. It's your job as a business owner to ensure all transactions in your bank are reflected correctly in the `ledger accounts`.
+3. **Missing transactions**: Set the date filter to "All" to ensure transactions aren't being filtered out. If using the "Advanced" option with a unique column, check for duplicate IDs.
 
-It's the job of Fiskl to calculate the accounting reports following the accounting rules of each `ledger account`.
+4. **Other errors**: Contact Fiskl support for further assistance.
+
+Remember, as a business owner, your role is to ensure that all transactions from your bank are accurately reflected in your Fiskl ledger accounts. Fiskl then uses this data to generate accurate accounting reports based on the rules for each account type.
+
+:::tip
+While manual imports are useful in certain situations, consider using Fiskl's [automatic bank connections](../../Integrations/Bank-Connections/_category_.json) for more efficient transaction management.
 :::
-
-### Steps to credit card ledger account
-
-- Navigate to the Chart of Accounts [Chart of Accounts](https://my.fiskl.com/accounting/chart)
-- In `Liabilities` > `Credit Cards`, choose to add a new account using the plus icon
-- Provide the following two essential bits of information:
-    - **Name**: This can be changed later
-    - **Currency**: It's really important that the currency matches the bank account currency
-- Save
-
-You now have your ledger account that you can import your manual credit card transactions into.
-
-## Troubleshooting
-
-Although we try our best, there are times when we fail to import. These are the common reasons and solutions:
-
-1. **Cannot parse the amount column**: Sometimes amounts are in formats it's just not possible for us to parse. They can have symbols and formats that our libraries can't parse. In this case, it's recommended to open your CSV file in Excel and change the format of the amount column. The easiest format to parse is two decimals. For example, `$1,000.00` would be easier to parse as `1000.00`.
-2. **Cannot parse the date column**: Sometimes localized dates are difficult for us to parse. For example, a date of `31/01/2024` is easy but `31st JAN '24` is challenging. Try selecting different formats, but if all fails, then it's recommended to open your CSV file in Excel, change the format of the date column, export, and try again
-3. **Not all transactions were imported**: First try changing the date period to `All` to check they are not being filtered out. If you added a unique column to the `Advanced` options, then rows with the same id will not be imported
-4. **I get an error**: In this case, contact support to investigate
