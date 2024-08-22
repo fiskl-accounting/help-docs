@@ -7,7 +7,7 @@ toc_max_heading_level: 4
 tags:
  - Getting started
  - Bank
- - Chart of accounts
+ - Chart of Accounts
 ---
 import LayoutPair from '@site/src/components/LayoutPair';
 
@@ -29,17 +29,17 @@ Learn more about [Company settings](../Settings-Configurations/accounting-settin
 
 ---
 
-### Get to know your chart of accounts
+### Get to know your Chart of Accounts
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm011524i0009k40ca6humme8/tour">
 
-*Your [chart of accounts](https://my.fiskl.com/accounting/chart)*
+*Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
 
 1. Select Accounting > Chart of Accounts via the left menu
 1. Customize your accounts if needed
 1. Create, archive, and add descriptions to accounts
 
-Learn more about [Chart of accounts](../Core-Features/Accounting/chart-of-accounts)
+Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accounts)
 </LayoutPair>
 
 ---
@@ -77,7 +77,7 @@ Learn more about [Bank integrations](../Integrations/_category_.json)
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzv4miym000bmd0cujndpyo7/tour">
 
-*Your [Chart of accounts](https://my.fiskl.com/accounting/chart)*
+*Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
 
 1. Select Accounting > Chart of Accounts via the left menu
 1. Select Assets > Cash & Cash Equivalents

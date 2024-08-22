@@ -52,8 +52,8 @@ Use "business name" when referring to the customer's business or legal business 
 ### can, can't
 Use "can" instead of "allowed to" or "enabled." Use "can't" instead of "cannot" or "can not."
 
-### chart of accounts
-Lowercase. Use lowercase unless referring to a specific product or branded feature (e.g., "Fiskl Chart of Accounts") or ("You can customize your chart of accounts to better match your business needs.") or ("To access the Fiskl Chart of Accounts, navigate to the accounting section.")
+### Chart of Accounts
+Lowercase. Use lowercase unless referring to a specific product or branded feature (e.g., "Fiskl Chart of Accounts") or ("You can customize your Chart of Accounts to better match your business needs.") or ("To access the Fiskl Chart of Accounts, navigate to the accounting section.")
  
 ### click
 Use "select" instead—not everyone uses a mouse. Provide clear context for where a CTA will take the customer.

@@ -8,7 +8,7 @@ tags:
  - Accounting
  - Journal entry
  - Account transaction
- - Chart of accounts
+ - Chart of Accounts
 ---
 This guide will show you how to create a manual `journal entry` also referred to as an `account transaction`.
 

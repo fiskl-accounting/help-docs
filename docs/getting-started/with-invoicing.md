@@ -7,7 +7,7 @@ toc_max_heading_level: 4
 tags:
   - Getting started
   - Bank
-  - Chart of accounts
+  - Chart of Accounts
 ---
 
 import LayoutPair from '@site/src/components/LayoutPair';

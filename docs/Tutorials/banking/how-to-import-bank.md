@@ -31,7 +31,7 @@ While Fiskl offers automatic bank connections for easy transaction imports, ther
 
 Before we dive into importing transactions, let's clarify what we mean by "money accounts" in Fiskl:
 
-- **Money accounts** refer to sub-accounts under "Cash & Cash Equivalents" and "Credit Cards" in your chart of accounts.
+- **Money accounts** refer to sub-accounts under "Cash & Cash Equivalents" and "Credit Cards" in your Chart of Accounts.
 - As a business owner, you'll conduct about 90% of your accounting activities in these money accounts.
 - These accounts are where you'll reconcile, edit, or add transactions most frequently.
 

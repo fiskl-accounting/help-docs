@@ -93,7 +93,7 @@ The transaction will be recorded in both the foreign currency and your base curr
 You can view your multi-currency transactions in several ways:
 
 1. In the specific account where the transaction was recorded
-2. In your Chart of accounts under the relevant account category
+2. In your Chart of Accounts under the relevant account category
 3. In various financial reports, such as the Balance Sheet or Income Statement
 
 These reports will typically show amounts in your base currency but may offer options to view original currency amounts.

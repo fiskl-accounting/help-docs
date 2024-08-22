@@ -8,7 +8,7 @@ draft: true
 tags:
   - Getting started
   - Bank
-  - Chart of accounts
+  - Chart of Accounts
 ---
 To get you started with invoicing, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
 

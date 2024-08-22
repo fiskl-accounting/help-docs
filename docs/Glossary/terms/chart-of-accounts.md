@@ -1,11 +1,11 @@
 ---
 title: Chart of Accounts
-description: Understanding the chart of accounts in accounting
+description: Understanding the Chart of Accounts in accounting
 ---
 ## Chart of Accounts (Definition)
-A chart of accounts is a financial organizational tool that provides a complete listing of every account in an accounting system.
+A Chart of Accounts is a financial organizational tool that provides a complete listing of every account in an accounting system.
 
-Key aspects of a chart of accounts include:
+Key aspects of a Chart of Accounts include:
 1. Serves as an index of all financial accounts in the general ledger
 2. Typically divided into five main categories: assets, liabilities, equity, revenue, and expenses
 3. Each account is assigned a unique identifier, usually a number
@@ -14,4 +14,4 @@ Key aspects of a chart of accounts include:
 6. Helps in preparing financial statements and tax returns
 7. Facilitates tracking and reporting of financial information
 
-A well-designed chart of accounts is essential for accurate financial record-keeping and reporting.
+A well-designed Chart of Accounts is essential for accurate financial record-keeping and reporting.
