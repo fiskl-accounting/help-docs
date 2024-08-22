@@ -2,6 +2,8 @@
 title: Getting started
 sidebar_position: 1
 description: Steps to getting you started
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
   - Getting started
   - Accounting
@@ -9,7 +11,9 @@ tags:
   - Accountant
 ---
 
-**Welcome to Fiskl! Let's get you set up!**
+To get you started we have created steps for [Invoicing](#invoicing), [Accounting](#accounting) and if you are an [Accountant](#accountant). You can run through the steps that are relevant to you an each have quick video walkthroughs.
+
+## Invoicing
 
 <CardContainer>
 <div className="card-grid invoicing-cards">
@@ -113,7 +117,7 @@ tags:
 </div>
 </CardContainer>
 
----
+## Accounting
 
 <CardContainer>
 {/* Accounting Card Container */}
@@ -218,7 +222,7 @@ tags:
 </div>
 </CardContainer>
 
----
+## Accountant
 
 <CardContainer>
 <div className="card-grid accountant-cards">
