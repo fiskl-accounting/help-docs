@@ -16,7 +16,7 @@ To get you started as an accountant, we've put together a flexible series of gui
 
 ### Register on the accounting portal
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm026yto90045l00dvl9vxlho/tour">
 
 *[Accounting portal registration](https://my.fiskl.com/portal/registration)*
 
@@ -24,23 +24,14 @@ To get you started as an accountant, we've put together a flexible series of gui
 1. You will have to confirm your email before proceeding
 1. Invite clients to use Fiskl
 
-TODO - WRITE ABOUT ACCOUNTING PORTAL
-Learn more about [Accounting portal](../Settings-Configurations/accounting-settings.md)
+Learn more about [Accounting portal](../Core-Features/Accounting-Portal/getting-started-accounting-portal)
 </LayoutPair>
 
 ---
 
 ### Reach out to the Fiskl team
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clztlpcv10064jx0cn42tfo2h/tour">
-
-TODO - ?? 
-*[Contact Fiskl Team](https://my.fiskl.com/accounting/chart)*
-
-Reach out to the Fiskl team to get referral codes and agree billing so that you can onboard your clients or invite them with codes.
-
-Learn more about [Billing](../Plans-Billing/apply-offer-or-partner-code)
-</LayoutPair>
+Reach out to the Fiskl team to get referral codes and agree billing so that you can onboard your clients or invite them with codes. [support@fiskl.com](mailto:support@fiskl.com)
 
 ---
 

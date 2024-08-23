@@ -14,6 +14,24 @@ tags:
 
 Welcome to the Fiskl Accounting Portal! This powerful tool allows accountants to manage multiple client accounts efficiently from a centralized dashboard. This guide will walk you through the key features and functionalities of the portal, focusing on getting started and managing your account.
 
+<details>
+
+  <summary>TL;DR - Watch a walkthrough of the Accounting Portal</summary>
+
+  <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/cm026yto90045l00dvl9vxlho/tour
+"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
+
 ## Getting Started
 
 ### Registering on the Accounting Portal
