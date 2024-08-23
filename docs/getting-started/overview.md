@@ -87,6 +87,20 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
   </div>
 </a>
 
+<a href="with-invoicing#setting-up-your-taxes">
+  <div className="container_card">
+    <div className="card__header">
+      <div>Invoicing</div>
+      <small>Taxes</small>
+      <div style={{ width: '80%', height: '1px', backgroundColor: 'white', margin: '1rem auto' }}></div>
+    </div>
+    <div className="card__body">
+      <h2>Taxes</h2>
+      <p>Step-by-step guide to creating your taxes.</p>
+    </div>
+  </div>
+</a>
+
 <a href="with-invoicing#create-your-first-invoice">
   <div className="container_card">
     <div className="card__header">

@@ -11,6 +11,25 @@ The Tax settings page allows you to set up and manage your sales taxes, non-sale
 
 Access Tax settings using the `gear icon` on the top left menu or visit the [Manage taxes page](https://my.fiskl.com/manage-taxes) on the web dashboard.
 
+<details>
+
+  <summary>TL;DR - Watch a walkthrough of the Tax Settings</summary>
+
+    <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+      <iframe
+      style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+      src="https://demo.fiskl.com/e/cm06sh5y20078l20ciep3zw5g/tour
+      "
+      allowFullScreen
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowtransparency="true"
+      ></iframe>
+    </div>
+</details>
+
+
+
 ## Tax configuration
 
 The Manage taxes screen consists of three main sections:
@@ -104,20 +123,5 @@ Follow these steps to set up your taxes:
 3. Click the "Add" button to create a new entry
 4. Fill in the required information
 5. Save your changes
-
-:::info[tip]
-Use the interactive demo below to learn how to set up your taxes in detail.
-:::
-
-<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
-<iframe
-style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-src="https://demo.fiskl.com/e/clzfgbf21001skx0c7irtx3gl/tour"
-allowFullScreen
-webkitallowfullscreen="true"
-mozallowfullscreen="true"
-allowtransparency="true"
-></iframe>
-</div>
 
 Remember: Regularly review and update your tax settings to ensure compliance with changing tax regulations in your jurisdiction(s). Consult with a tax professional if you're unsure about specific tax requirements for your business.

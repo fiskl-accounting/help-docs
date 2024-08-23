@@ -104,6 +104,22 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
+### Setting up your taxes
+
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm06sh5y20078l20ciep3zw5g/tour">
+
+  [Tax settings](https://my.fiskl.com/manage-taxes)
+
+  1. Open "Tax Settings" from the left menu, gear icon
+  1. Select the Tax ID tab and update or add your Tax Number
+  1. Choose the Single Taxes and create your tax assigning it to your new tax number
+
+  Learn more about [Managing taxes](../Settings-Configurations/tax-settings.md)
+
+</LayoutPair>
+
+---
+
 ### Create your first invoice
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzv57bcg0003l90ctpanaj1x/tour">
