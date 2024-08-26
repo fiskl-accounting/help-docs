@@ -4,7 +4,6 @@ sidebar_position: 1
 description: Steps to getting you started
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-slug: Getting-Started
 tags:
   - Getting started
   - Accounting
