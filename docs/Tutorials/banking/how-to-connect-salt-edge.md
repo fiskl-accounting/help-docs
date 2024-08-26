@@ -14,7 +14,7 @@ Connecting your bank to Fiskl using Salt Edge allows you to automatically import
 
 <details>
 
-  <summary>TL;DR - Watch a walkthrough of connecting SaltEdge</summary>
+  <summary>TL;DR - Watch a walkthrough of connecting Salt Edge</summary>
 
   <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe

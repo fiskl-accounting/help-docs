@@ -46,7 +46,7 @@ Examples include:
 - Equipment
 - Accounts receivable (money owed to you by customers)
 
-Assets appear on your balance sheet and are categorized based on their nature, use, and how quickly you can convert them to cash (liquidity).
+Assets appear on your Balance Sheet and are categorized based on their nature, use, and how quickly you can convert them to cash (liquidity).
 
 ### Liabilities
 
@@ -59,7 +59,7 @@ Examples include:
 - Unpaid bills
 - Sales taxes owed
 
-Liabilities appear on your balance sheet and are classified as either current (to be paid within a year) or non-current (long-term obligations).
+Liabilities appear on your Balance Sheet and are classified as either current (to be paid within a year) or non-current (long-term obligations).
 
 ### Equity
 

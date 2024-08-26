@@ -51,7 +51,7 @@ After the initial connection, it may take up to 12 hours for our banking data pr
 ## Regional considerations
 
 - Yodlee is the primary provider for users in the United States, Canada, and South Africa
-- You can use both Yodlee and SaltEdge. If your bank or institution is not available try SaltEdge
+- You can use both Yodlee and Salt Edge. If your bank or institution is not available try Salt Edge
 
 ## Maintaining your connection
 
