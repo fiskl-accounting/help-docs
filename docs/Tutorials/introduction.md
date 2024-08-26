@@ -1,8 +1,9 @@
 ---
+id: introduction
 title: Introduction to Tutorials
 sidebar_label: Introduction
-slug: tutorials
 ---
+
 
 Welcome to our tutorials section! Here, you'll find step-by-step guides to help you make the most of Fiskl's features and streamline your accounting processes.
 
