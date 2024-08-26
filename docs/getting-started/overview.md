@@ -17,7 +17,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
 
 <CardContainer>
 <div className="card-grid invoicing-cards">
-  <a href="with-invoicing#complete-your-company-profile">
+  <a href="/docs/Getting-Started/with-invoicing#complete-your-company-profile">
     <div className="container_card">
       <div className="card__header">
         <div>Invoicing</div>
@@ -31,7 +31,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="with-invoicing#complete-your-invoice-settings">
+  <a href="/docs/Getting-Started/with-invoicing#complete-your-invoice-settings">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -45,7 +45,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
   </div>
 </a>
 
-<a href="with-invoicing#style-your-invoice">
+<a href="/docs/Getting-Started/with-invoicing#style-your-invoice">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -59,7 +59,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
   </div>
 </a>
 
-<a href="with-invoicing#connect-a-payment-gateway">
+<a href="/docs/Getting-Started/with-invoicing#connect-a-payment-gateway">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -73,7 +73,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
   </div>
 </a>
 
-<a href="with-invoicing#add-a-manual-payment">
+<a href="/docs/Getting-Started/with-invoicing#add-a-manual-payment">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -87,7 +87,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
   </div>
 </a>
 
-<a href="with-invoicing#setting-up-your-taxes">
+<a href="/docs/Getting-Started/with-invoicing#setting-up-your-taxes">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -101,7 +101,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
   </div>
 </a>
 
-<a href="with-invoicing#create-your-first-invoice">
+<a href="/docs/Getting-Started/with-invoicing#create-your-first-invoice">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -114,7 +114,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </div>
 </a>
-<a href="with-invoicing#whats-next">
+<a href="/docs/Getting-Started/with-invoicing#whats-next">
   <div className="container_card">
     <div className="card__header">
       <div>Invoicing</div>
@@ -136,7 +136,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
 <CardContainer>
 {/* Accounting Card Container */}
 <div className="card-grid accounting-cards">
-  <a href="with-accounting#complete-your-accounting-settings">
+  <a href="/docs/Getting-Started/with-accounting#complete-your-accounting-settings">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -164,7 +164,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="with-accounting#connect-your-bank">
+  <a href="/docs/Getting-Started/with-accounting#connect-your-bank">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -178,7 +178,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="with-accounting#import-your-bank-data">
+  <a href="/docs/Getting-Started/with-accounting#import-your-bank-data">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -192,7 +192,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="with-accounting#create-a-journal-entry">
+  <a href="/docs/Getting-Started/with-accounting#create-a-journal-entry">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -206,7 +206,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="with-accounting#view-your-reports">
+  <a href="/docs/Getting-Started/with-accounting#view-your-reports">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -220,7 +220,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="with-accounting#whats-next">
+  <a href="/docs/Getting-Started/with-accounting#whats-next">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -240,7 +240,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
 
 <CardContainer>
 <div className="card-grid accountant-cards">
-  <a href="as-an-accountant#register-on-the-accounting-portal">
+  <a href="/docs/Getting-Started/as-an-accountant#register-on-the-accounting-portal">
     <div className="container_card">
       <div className="card__header">
         <div>Accountant</div>
@@ -254,7 +254,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="as-an-accountant#reach-out-to-the-fiskl-team">
+  <a href="/docs/Getting-Started/as-an-accountant#reach-out-to-the-fiskl-team">
     <div className="container_card">
       <div className="card__header">
         <div>Accountant</div>
@@ -268,7 +268,7 @@ To get you started we have created steps for [Invoicing](#invoicing), [Accountin
     </div>
   </a>
 
-  <a href="as-an-accountant#whats-next">
+  <a href="/docs/Getting-Started/with-invoicing#whats-next">
     <div className="container_card">
       <div className="card__header">
         <div>Accountant</div>
