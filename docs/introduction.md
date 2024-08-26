@@ -1,5 +1,4 @@
 ---
-id: introduction
 title: Welcome to Fiskl Help
 sidebar_position: 1
 slug: /

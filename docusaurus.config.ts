@@ -68,14 +68,14 @@ const config: Config = {
           sidebarId: 'docsSidebar',
           position: 'left',
           label: 'Docs',
-          to: '/docs/introduction'
+          to: '/docs/'
         },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialsSidebar', // Changed to match tutorialSidebar.ts
           position: 'left',
           label: 'Tutorials',
-          to: '/docs/Tutorials/introduction' // Changed to match the correct path
+          to: '/docs/tutorials/introduction' // Changed to match the correct path
         },
         {to: '/product-updates', label: 'What\'s New', position: 'left'}, // Ensure the Blog link is here
         {
