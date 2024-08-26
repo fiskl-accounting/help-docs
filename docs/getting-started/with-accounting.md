@@ -57,7 +57,7 @@ Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accoun
    - [Stripe](../Integrations/Bank-Connections/connect-stripe)
    - [WIO](../Integrations/Bank-Connections/connect-wio)
 
-Learn more about [Bank integrations](../Integrations/_category_.json)
+Learn more about [Bank integrations](/docs/category/integrations)
 </LayoutPair>
 
 ---
@@ -66,9 +66,15 @@ Learn more about [Bank integrations](../Integrations/_category_.json)
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzvasl9d00afl40covt7wfyg/tour">
 
-If you want to import your bank data manually, follow our guide on [Importing bank data](../Tutorials/banking/how-to-import-bank.md).
+:::tip
+Before manually importing your bank data, you’ll need to create the ledger accounts where the data will be imported.
 
-Learn more about [Bank integrations](../Integrations/_category_.json)
+Follow our tutorial on [Creating Bank Ledger Accounts](../Tutorials/banking/how-to-import-bank#creating-bank--credit-card-ledger-accounts).
+:::
+
+Whenever possible, connect your bank for automatic data import.
+
+Learn more about [Bank Integrations](/docs/category/integrations).
 </LayoutPair>
 
 ---
