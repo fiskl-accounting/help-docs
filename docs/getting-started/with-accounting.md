@@ -128,7 +128,7 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
       <div className="card__body">
         <h3>Invite your accountant</h3>
         <p>
-          Adding your accountant(s) can help you manage your books efficiently, ensure compliance, and gain valuable insights. You have full control over their access, and this feature is provided at no extra cost.
+          Adding your accountant(s) is free and can help you manage your books more efficiently.
         </p>
       </div>
     </div>
@@ -144,7 +144,7 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
       <div className="card__body">
         <h3>Invite your team members</h3>
         <p>
-          Bring your team into Fiskl to enhance workflow. Collaborative features enable shared insights and better communication. Early involvement streamlines processes and ensures everyone has the right access. Set up your team now to unlock Fiskl's full potential.
+          Invite team members and assign the appropriate permissions to help manage your business.
         </p>
       </div>
     </div>

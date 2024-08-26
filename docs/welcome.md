@@ -17,7 +17,7 @@ Our help guide is structured to provide you with the information you need, when 
 
 ### 📚 Documentation
 
-The core of our help guide, accessible via the left menu, covers:
+The core of our help guide, accessible via the **left menu**, covers:
 
 - **Getting Started**: Essential information for new users, including guides on invoicing, accounting, and accessing the accountant portal.
 - **Core Features**: Detailed explanations of Fiskl's key functionalities, such as Accounting and Invoicing.
