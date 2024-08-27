@@ -21,7 +21,7 @@ Yes you can upgrade immediately to a new plan and downgrade which will come into
 
 ### I want to pay for my Fiskl subscription using a USA debit card but it won't allow me to as I am based in the UK?
 
-For Tax reasons you have to use a card local to your region.
+For tax reasons you have to use a card local to your region.
 
 ### I have an offer code, how do I apply it?
 
@@ -29,13 +29,13 @@ The easiest way to apply an offer is at the time of registration via the provide
 
 ### Can I migrate my data into Fiskl?
 
-We currently do not have dedicated migration imports from other major platfroms althouh we are planing these. We do have imports for Clients, Expenses, Banking Transactions
+We currently do not have dedicated migration imports from other major platforms although we are planning these. We do have imports for Clients, Expenses, Banking Transactions
 
 ### Does Fiskl provide an API link?
 
 Our APIs are available only to partners on a contractual basis. If you have a proposal in mind, please email sales@fiskl.com.
 
-## Account Management
+## Account management
 
 ### How can I set up a custom domain so that all emails to my clients are sent from my email account?
 

@@ -1,5 +1,5 @@
 ---
-title: How to Connect Your Bank Using Salt Edge
+title: How to connect your bank using Salt Edge
 sidebar_position: 6
 description: Learn how to securely connect your bank to Fiskl using Salt Edge
 toc_min_heading_level: 2
@@ -40,33 +40,33 @@ Salt Edge is a financial data aggregator that securely connects your bank accoun
 - Secure and efficient connection between your bank and Fiskl
 - Automated synchronization of your banking data
 
-## Before You Begin
+## Before you begin
 
 Before starting the connection process, it's a good idea to check if your bank is supported by Salt Edge:
 
 1. Visit the [Salt Edge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
 2. Search for your bank or browse by country
 
-## Step-by-Step Guide to Connecting Your Bank
+## Step-by-Step guide to connecting your bank
 
 Follow these steps to connect your bank account using Salt Edge:
 
-### Step 1: Access the Banking Section
+### Step 1: Access the banking section
 
 1. Log in to your Fiskl account
 2. In the left menu, select "Banking"
 
-### Step 2: Initiate the Bank Connection
+### Step 2: Initiate the bank connection
 
 1. Click the "Connect bank" button
 2. From the list of providers, select "Salt Edge"
 
-### Step 3: Find Your Bank
+### Step 3: Find your bank
 
 1. Use the search function to find your bank
 2. Alternatively, browse the list of available banks
 
-### Step 4: Connect Your Bank Account
+### Step 4: Connect your bank account
 
 1. Select your bank from the list
 2. You'll be redirected to your bank's unique connection flow
@@ -77,7 +77,7 @@ Follow these steps to connect your bank account using Salt Edge:
 The connection process should feel familiar if you've used online banking before. Each bank has its own specific steps, so follow the prompts carefully.
 :::
 
-### Step 5: Confirm the Connection
+### Step 5: Confirm the connection
 
 1. Once you've completed your bank's authentication process, you'll be redirected back to Fiskl
 2. Fiskl will automatically detect and connect your accounts
@@ -86,7 +86,7 @@ The connection process should feel familiar if you've used online banking before
 The initial connection may take a few minutes to complete as Fiskl syncs your transactions for the first time.
 :::
 
-## Maintaining Your Bank Connection
+## Maintaining your bank connection
 
 To ensure your financial data stays up-to-date in Fiskl:
 
