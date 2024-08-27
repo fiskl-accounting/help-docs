@@ -14,8 +14,6 @@ import LayoutPair from '@site/src/components/LayoutPair';
 
 ### How do I change my invoice currency
 
-:::note[Answer]
-
 You change the invoice currency by selecting the currency abbreviation next to the Total.
 
 <details>
@@ -39,12 +37,11 @@ You change the invoice currency by selecting the currency abbreviation next to t
         </LayoutPair>
 
 </details>
-:::
+
 
 ---
 
 ### How do I change my invoice language
-:::note[Answer]
 
 You change the invoice currency by selecting the language abbreviation below the client selector.
 
@@ -68,7 +65,6 @@ You change the invoice currency by selecting the language abbreviation below the
         </LayoutPair>
 
 </details>
-:::
 
 ---
 

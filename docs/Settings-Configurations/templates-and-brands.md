@@ -110,10 +110,11 @@ Use these interactive demos to learn how to set up templates and brands:
 </div>
 
 ### Create a branded template
+
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-    src="https://demo.fiskl.com/share/clzazu9qj0007ie0c8f76kk8r/tour"
+    src="https://demo.fiskl.com/e/clzazu9qj0007ie0c8f76kk8r/tour"
     allowFullScreen
     webkitallowfullscreen="true"
     mozallowfullscreen="true"
