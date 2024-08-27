@@ -68,7 +68,7 @@ Customize your quote preferences:
 
 ## Email settings
 
-### Invoice email
+### Custom domain
 Set up a whitelisted email domain for sending invoices:
 
 1. Provide your email

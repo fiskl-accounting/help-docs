@@ -14,6 +14,11 @@ const sidebars: SidebarsConfig = {
         'Tutorials/introduction',
         {
           type: 'category',
+          label: 'General Tutorials',
+          items: ['Tutorials/account/invite-team-members'],
+        },
+        {
+          type: 'category',
           label: 'Banking Tutorials',
           items: ['Tutorials/banking/how-to-import-bank', 'Tutorials/banking/how-to-connect-salt-edge'],
         }
