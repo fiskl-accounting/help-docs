@@ -11,9 +11,10 @@ tags:
  - Advanced Features
 ---
 
-## Managing Client Connections
+## Managing client connections
 
 Effectively managing your client connections is at the heart of using the Fiskl Accounting Portal. This section covers the essential processes for establishing and maintaining your client relationships within the portal.
+
 Here, you'll learn how to:
 
 Invite new clients to connect their accounts to your portal
@@ -22,7 +23,7 @@ Disconnect from client accounts when necessary
 
 These features allow you to build and manage your client network efficiently, ensuring you have the right level of access to serve your clients' needs. Let's dive into each of these processes in detail.
 
-### Inviting Clients
+### Inviting clients
 
 You can invite clients to connect their Fiskl accounts to your portal:
 
@@ -32,7 +33,7 @@ You can invite clients to connect their Fiskl accounts to your portal:
 
 The client will receive an email with instructions, and their account will be automatically linked to yours upon creation.
 
-### Accepting Client Invitations
+### Accepting client invitations
 
 Clients can also invite you to access their accounts:
 
@@ -41,7 +42,7 @@ Clients can also invite you to access their accounts:
 3. Review the invitation and choose to accept or reject
 4. If accepted, the client's account will be connected to your portal
 
-### Disconnecting Clients
+### Disconnecting clients
 
 To disconnect a client:
 
@@ -54,7 +55,7 @@ To disconnect a client:
 Clients can also disconnect your access to their account at any time from their Fiskl settings.
 :::
 
-## Accessing Client Accounts
+## Accessing client accounts
 
 To access a client's account directly from the Accounting Portal:
 
@@ -77,7 +78,7 @@ The "Back to Accountant" button is always visible in the left menu when you're i
 
 Remember to exercise caution and professionalism when accessing and working within client accounts, as all actions are audited for security purposes.
 
-## Accountant Permissions and Responsibilities
+## Accountant permissions and responsibilities
 
 As an accountant connected to a client's account, you have admin-level access, which includes:
 
@@ -90,7 +91,7 @@ As an accountant connected to a client's account, you have admin-level access, w
 All actions taken within a client's account are audited for security and transparency. Exercise caution and professionalism when accessing client accounts.
 :::
 
-## Signup Codes and Referral Agreements
+## Signup codes and referral agreements
 
 Fiskl offers special options for accountants to manage client billing and earn referral bonuses:
 
@@ -102,16 +103,16 @@ These options allow you to:
 - Manage billing for your clients
 - Earn referral bonuses for new Fiskl signups
 
-## Upcoming Features
+## Upcoming features
 
 We're continually improving the Accounting Portal. Here are some features on our roadmap:
 
 - **Team & Permissions**: Manage access levels for your team members
-- **Referral Section with Billing**: Easily track and manage your referrals and associated billing
-- **Client Signup**: Streamlined process to sign up new clients directly through the portal
+- **Referral section with billing**: Easily track and manage your referrals and associated billing
+- **Client signup**: Streamlined process to sign up new clients directly through the portal
 
 Stay tuned for updates on these exciting new features!
 
-## Need Help?
+## Need help?
 
 If you have any questions or need assistance with the Accounting Portal, please don't hesitate to reach out to our support team at support@fiskl.com.

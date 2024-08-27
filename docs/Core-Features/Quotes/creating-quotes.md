@@ -74,7 +74,7 @@ The initial format is QUOTE-0001, incrementing with each new quote.
 
     <summary>Learn more about customizing your quote number</summary>
 
-    **You can customize this format, but there are limitations:**
+    **You can customize this format, however there are limitations:**
 
     1. Auto-increment is only possible if the number ends with a digit
     2. Date-based formats (e.g., 2024-01-0001) require manual updates at each period change

@@ -85,7 +85,7 @@ To record in a different currency:
 1. Follow steps 1-4 from the instructions above
 1. Click on "Record in different currency?"
 1. Select the required currency
-1. Enter the foreign currency amount. The exchange rate will appear underneath
+1. Enter the foreign currency amount. The exchange rate will be displayed automatically or can be adjusted if necessary
 1. Complete the remaining details as in the standard instructions
 1. Click "Create" to save your transaction
 

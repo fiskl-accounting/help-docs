@@ -48,7 +48,7 @@ Transaction matching in Fiskl allows you to reconcile recorded financial activit
 1. Select `Show matches` on the transaction
 1. Choose the corresponding transaction(s) from the list
 1. Review the match details
-1. Select `Confirm Match` to complete the process
+1. Select `Update` to complete the process
 
 :::info
 When you match a payment to an invoice, Fiskl automatically creates a payment record for that invoice.
@@ -133,7 +133,7 @@ Gain insights into the cost breakdown of attending professional events
 1. Select the "Split" option
 1. Add new split lines, specifying the amount and account for each
 1. Use the provided tools to ensure the split amounts match the total transaction amount
-1. Select "Save Split" to confirm
+1. Select "Update" to confirm
 
 <details>
 <summary>Tips for effective splitting</summary>

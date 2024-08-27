@@ -14,7 +14,7 @@ Connecting PayPal to Fiskl enhances your payment options, allowing you to accept
 
 ## Benefits
 
-- **Wide acceptance**: Tap into PayPal's large user base
+- **Global acceptance**: Tap into PayPal's large user base
 - **Easy setup**: Quick connection process
 - **Flexible payments**: Accept various payment methods through PayPal
 - **International transactions**: Easily receive payments from global clients
