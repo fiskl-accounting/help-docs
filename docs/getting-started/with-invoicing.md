@@ -150,13 +150,13 @@ To get you started with invoicing, we've put together a flexible series of guide
       <div className="card__body">
         <h3>Connect your bank</h3>
         <p>
-          Supercharge your invoicing with real-time bank data! Link your bank account to Fiskl and bring your financial picture to life. You'll easily breeze through invoice reconciliation, track payments instantly, and keep your books accurate without any hassle. It’s like giving your invoicing superpowers – quick, easy, and incredibly efficient!
+          Connecting your bank not only automates processes but also helps prevent mistakes. Fiskl uses Yodlee and Salt Edge to connect to thousands of banks.
         </p>
       </div>
     </div>
   </a>
 
-  <a href="Journies/setting-up-your-taxes.md">
+  <a href="/docs/Settings-Configurations/tax-settings">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -166,7 +166,7 @@ To get you started with invoicing, we've put together a flexible series of guide
       <div className="card__body">
         <h3>Set up your taxes</h3>
         <p>
-          Stay tax-smart from day one! Setting up your taxes now means hassle-free invoicing and accurate accounting later. Whether it’s VAT or sales tax, Fiskl has you covered. Get your tax setup right early on, and you’ll thank yourself come tax season. It’s the secret sauce for keeping your finances in check and your business running smoothly!
+          If you need to add any taxes, including sales tax or VAT, understanding and setting up taxes in Fiskl is essential.
         </p>
       </div>
     </div>
