@@ -118,7 +118,7 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
   <CardContainer>
 
     <div className="card-grid invoicing-cards">
-  <a href="Journies/setting-up-your-taxes.md">
+  <a href="setting-up-your-taxes.md">
     <div className="container_card">
       <div className="card__header">
         <div>Team Management</div>
@@ -134,7 +134,7 @@ Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_categ
     </div>
   </a>
 
-  <a href="Journies/invite-your-team-members.md">
+  <a href="/docs/Tutorials/account/invite-team-members">
     <div className="container_card">
       <div className="card__header">
         <div>Team Management</div>
