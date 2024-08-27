@@ -1,0 +1,9 @@
+---
+title: Multi Journal
+description: A feature that allows for the creation of complex journal entries involving multiple accounts and currencies simultaneously
+---
+
+**## Multi Journal (Definition)**
+In accounting software and particularly in Fiskl, a Multi Journal is an advanced feature that facilitates the creation of complex journal entries involving multiple accounts and potentially multiple currencies in a single transaction.
+
+The Multi Journal functionality expands upon traditional single-account journal entries by allowing users to record financial transactions that affect multiple accounts simultaneously. While standard journal entries in Fiskl are typically associated with specific accounts (such as recording a sales transaction directly in the Cash & Cash Equivalents Bank account under Assets), the Multi Journal provides a dedicated interface for more complex accounting scenarios. This feature is particularly useful for accountants and financial professionals who need to make comprehensive adjustments, record complex transactions, or manage entries that impact various aspects of the financial structure concurrently. The Multi Journal in Fiskl also supports multi-currency transactions, enabling businesses to accurately record and track financial activities across different currencies within a single entry. This capability is essential for organizations operating in global markets or dealing with international transactions. By offering this level of flexibility and comprehensiveness, the Multi Journal feature enhances the accuracy of financial records, streamlines the process of recording complex transactions, and provides a more holistic view of intricate financial operations within the accounting system.
