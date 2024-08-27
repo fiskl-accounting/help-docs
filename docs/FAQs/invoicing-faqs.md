@@ -75,9 +75,9 @@ You change the invoice currency by selecting the language abbreviation below the
 ### Can I customize my invoice language
 
 :::note[Answer]
-Yes you can clone a language and customize some or all of the values
+Yes you can clone a language and customize some or all of the values.
 
-1. You c set a default currency on you [Invoice and Quote Language](../Settings-Configurations/invoice-and-quote-settings#custom-language-cloning) settings
+You c set a default currency on you [Invoice and Quote Language](../Settings-Configurations/invoice-and-quote-settings#custom-language-cloning) settings
 :::
 
 ---
