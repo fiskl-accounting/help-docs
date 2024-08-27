@@ -67,8 +67,11 @@ Amounts owed to a company that are unlikely to be paid by the customers or debto
 ### [Balance Sheet](./terms/balance-sheet)
 A financial statement that provides a snapshot of a company's financial position at a specific point in time.
 
-### [Balloon Payment](./terms/balloon-payment)
-A large, lump-sum payment made at the end of a loan term, often representing a significant portion of the loan's principal.
+### [Bank Connection](./terms/bank-connection)
+A bank connection in Fiskl is a secure link between your bank account and the Fiskl platform, enabling automatic import of bank transactions into your ledger accounts.
+
+### [Bank Transfer](./terms/bank-transfer)
+A bank transfer in Fiskl refers to the movement of money between bank accounts owned by the same business, which needs to be recorded as an internal transfer for accurate financial tracking.
 
 ### [Bankfeed](./terms/bankfeed)
 A secure, automatic connection between a company's bank account and its accounting software.
@@ -78,6 +81,9 @@ The systematic recording, organizing, and tracking of financial transactions in 
 
 ### [Bootstrapping](./terms/bootstrapping)
 The process of starting and growing a business using only personal finances or the company's generated revenue.
+
+### [Base Currency](./terms/base-currency)
+In Fiskl, the base currency refers to the primary currency used for accounting purposes, also known as the company currency.
 
 ## C
 
@@ -114,14 +120,8 @@ The total amount of accessible cash kept by a company.
 ### [Cash vs Accrual](./terms/cash-vs-accrual)
 Detailed overview of Cash vs Accrual
 
-### [CGT - Capital Gains Tax](./terms/cgt-capital-gains-tax)
-A tax on the profit when you sell an asset that has increased in value.
-
 ### [Chart of Accounts](./terms/chart-of-accounts)
 A financial organizational tool that provides a complete listing of every account in an accounting system.
-
-### [Cloud Migration](./terms/cloud-migration)
-The process of moving digital business operations into the cloud.
 
 ### [Cost of Goods Sold](./terms/cost-of-goods-sold)
 The direct costs attributable to the production of the goods sold by a company.
@@ -131,9 +131,6 @@ An accounting entry that either decreases assets or increases liabilities and eq
 
 ### [Credit Entries](./terms/credit-entries)
 Accounting entries that increase liabilities, income, and equity, or decrease assets and expenses.
-
-### [Crowdfunding](./terms/crowdfunding)
-The use of small amounts of capital from a large number of individuals to finance a new business venture.
 
 ### [CSV File](./terms/csv-file)
 A comma-separated values file which allows data to be saved in a tabular format.
@@ -160,12 +157,6 @@ The process of organizing information according to preset specifications.
 
 ### [Data Import](./terms/data-import)
 The process of retrieving data from an external source and inputting it into a system.
-
-### [Data Integrity](./terms/data-integrity)
-The maintenance and assurance of data accuracy and consistency over its entire life-cycle.
-
-### [Data Mapping](./terms/data-mapping)
-The process of creating data element mappings between two distinct data models.
 
 ### [Data Migration](./terms/data-migration)
 The process of transferring data between storage types, formats, or computer systems.
@@ -234,9 +225,6 @@ A one-year period that companies and governments use for financial reporting and
 ### [Fixed Assets](./terms/fixed-assets)
 Long-term tangible pieces of property that a firm owns and uses in its operations to generate income.
 
-### [Fixed Expense](./terms/fixed-expense)
-A cost that does not change with an increase or decrease in the amount of goods or services produced or sold.
-
 ### [Forecasting](./terms/forecasting)
 The process of making predictions of the future based on past and present data.
 
@@ -292,13 +280,13 @@ A record of financial transactions in order by date.
 
 ## L
 
-### [Legacy System](./terms/legacy-system)
-An old method, technology, computer system, or application program that continues to be used, typically because it still functions for the users' needs.
-
 ### [Liabilities](./terms/liabilities)
 A company's financial debts or obligations that arise during the course of its business operations.
 
 ### [Liability Account](./terms/liability-account)
+An account on a company's balance sheet that represents a company's financial debt or obligations.
+
+### [Line Item](./terms/line-item)
 An account on a company's balance sheet that represents a company's financial debt or obligations.
 
 ### [Liquidate](./terms/liquidate)
@@ -357,12 +345,6 @@ The owner's investment in the business minus the owner's draws or withdrawals fr
 
 ## P
 
-### [Payroll](./terms/payroll)
-The total amount of wages and salaries paid by a company to its employees.
-
-### [Payslip](./terms/payslip)
-A document given to an employee that shows their total wages earned for a set period and any deductions taken out.
-
 ### [Petty Cash](./terms/petty-cash)
 A small amount of cash kept on hand to pay for minor expenses.
 
@@ -383,6 +365,9 @@ A financial document that summarizes the revenues, costs, and expenses incurred 
 ### [Receipt](./terms/receipt)
 A written acknowledgment that something of value has been transferred from one party to another.
 
+### [Reconciling](./terms/reconciling)
+The process of comparing and matching financial records to ensure accuracy.
+
 ### [Retained Earnings](./terms/retained-earnings)
 The portion of a company's profit that is held or retained from the net income at the end of a reporting period and saved for future use as shareholder's equity.
 
@@ -399,12 +384,6 @@ A situation where the inflation rate is high, the economic growth rate slows, an
 
 ### [Statement of Cash Flows](./terms/statement-of-cash-flows)
 A financial statement that provides aggregate data regarding all cash inflows and outflows a company receives.
-
-### [Stock](./terms/stock)
-A type of security that signifies ownership in a corporation and represents a claim on part of the corporation's assets and earnings.
-
-### [Stocktaking](./terms/stocktaking)
-The physical verification of the quantities and condition of items held in an inventory or warehouse.
 
 ## T
 
