@@ -10,7 +10,7 @@ Welcome to the Fiskl Glossary. This comprehensive resource provides definitions 
 
 ## Alphabetical Index
 
-- [A](#a.md) | [B](#b.md) | [C](#c.md) | [D](#d.md) | [E](#e.md) | [F](#f.md) | [G](#g.md) | [H](#h.md) | [I](#i.md) | [J](#j.md) | [L](#l.md) | [M](#m.md) | [N](#n.md) | [O](#o.md) | [P](#p.md) | [R](#r.md) | [S](#s.md) | [T](#t.md) | [V](#v.md) | [W](#w.md) | [X](#x.md) 
+- [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [X](#x) 
 
 ## A
 
@@ -258,7 +258,7 @@ Money that an individual or business receives in exchange for providing a good o
 ### [Income Statement](terms/income-statement.md)
 A financial statement that reports a company's financial performance over a specific accounting period.
 
-### [Income Tax (Business.md)](terms/income-tax-business.md)
+### [Income Tax (Business)](terms/income-tax-business.md)
 A tax levied by governments on the income of businesses.
 
 ### [Insolvency](terms/insolvency.md)
@@ -305,6 +305,9 @@ The difference between a product or service's selling price and its cost of prod
 
 ### [Multi Currency](terms/multi-currency.md)
 The ability to manage and report financial transactions in multiple currencies
+
+### [Multi Journal](terms/multi-journal.md)
+A feature that allows for the creation of complex journal entries involving multiple accounts and currencies simultaneously
 
 ## N
 
@@ -379,11 +382,8 @@ Return on Investment, a performance measure used to evaluate the efficiency or p
 
 ## S
 
-### [Stagflation](terms/stagflation.md)
-A situation where the inflation rate is high, the economic growth rate slows, and unemployment remains steadily high.
-
-### [Statement of Cash Flows](terms/statement-of-cash-flows.md)
-A financial statement that provides aggregate data regarding all cash inflows and outflows a company receives.
+### [Statement of Accounts](terms/statement-of-accounts.md)
+A comprehensive financial document that summarizes all transactions between a business and its customer or supplier over a specific period
 
 ## T
 
@@ -393,13 +393,14 @@ Assets that have a physical form and can be seen, touched, and measured.
 ### [Third-Party Provider](terms/third-party-provider.md)
 An entity that provides a product or service to a company or its customers on behalf of the company.
 
+### [Transaction by Account Report](terms/transaction-by-account-report.md)
+A financial report that categorizes and presents accounting transactions grouped by their respective accounts
+
 ### [Trial Balance](terms/trial-balance.md)
 A bookkeeping worksheet in which the balances of all ledgers are compiled into debit and credit columns.
 
 ## V
 
-### [Variable Expense](terms/variable-expense.md)
-A cost that changes in proportion to the level of business activity.
 
 ## W
 
