@@ -88,45 +88,20 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Fiskl',
           items: [
             {
-              label: 'Getting started',
-              to: '/docs/Getting-Started/overview',
-            },
-            {
-              label: 'Core features',
-              to: '/docs/category/core-features',
+              label: 'Fiskl website',
+              to: 'https://fiskl.com/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Fiskl Dashboard',
           items: [
             {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/fiskl-limited/',
-            },
-            {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/FisklApp/',
-            },
-            {
-              label: 'Youtube',
-              href: 'https://www.youtube.com/channel/UCL1LEvSYp2uIo5sAg68ZKRw',
-            },
-            {
-              label: 'TikTok',
-              href: 'https://www.tiktok.com/@fiskl_accounting',
-            },
-          ],
-        },
-        {
-          title: 'Guides',
-          items: [
-            {
-              label: 'Accounting',
-              href: 'https://github.com/fiskl-accounting/help-docs',
+              label: 'Register',
+              href: 'https://my.fiskl.com/registration',
             },
           ],
         },
