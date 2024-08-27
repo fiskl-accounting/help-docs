@@ -10,8 +10,6 @@ tags:
   - User Management
 ---
 
-# Team Management in Fiskl
-
 Effective team collaboration is crucial for managing your business finances. Fiskl allows you to add team members with different roles and permissions, making it easy to share the workload while maintaining control over sensitive information.
 
 ## User Roles and Permissions
@@ -19,20 +17,25 @@ Effective team collaboration is crucial for managing your business finances. Fis
 Fiskl offers four user roles, each with specific permissions:
 
 ### Owner
-- Full access to the Fiskl account
+
+- Full access to the Fiskl account and all users
 - Only user who can access subscription and billing information
+- Full accounting access
 
 ### Admin
-- Full access to the Fiskl account
+
+- Full access to the Fiskl account and all users
 - Cannot access subscription and billing information
+- Full accounting access
 
 ### Billing User
+
 - Create and send invoices and quotes
 - Create items (expenses, mileage, and time)
-- View all items entered by any user
-- Add or edit the client list
+- View only their own items
 
 ### User
+
 - Create items (expenses, mileage, and time)
 - View only their own items
 
@@ -96,11 +99,3 @@ If you encounter issues while managing your team:
 3. If a user can't access certain features, verify their assigned role and permissions
 
 For persistent issues, contact Fiskl support for assistance.
-
-## Related Resources
-
-- [Setting Up Your Fiskl Account](link-to-account-setup-guide)
-- [Understanding Fiskl's Security Features](link-to-security-guide)
-- [Best Practices for Financial Collaboration](link-to-collaboration-guide)
-
-By effectively managing your team in Fiskl, you can streamline your workflow, ensure proper access control to your financial data, and maintain the security of your business information.
