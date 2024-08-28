@@ -11,7 +11,7 @@ tags:
 
 # Accounting FAQs
 
-## General Accounting Questions
+## General accounting questions
 
 ### Is Fiskl a double-entry accounting system?
 
@@ -63,7 +63,7 @@ To manage an invoice overpayment:
    - Select the refund transaction in the bank account
    - Assign the "Overpayments received" category
 
-This process ensures the Overpayments received account reflects a net zero balance.
+This process ensures the overpayments received account reflects a net zero balance.
 
 ### How do I record bad debts in Fiskl?
 
@@ -72,11 +72,11 @@ To record bad debts:
 1. Mark the invoice as paid using the Cash on Hand account
 2. In the Cash on Hand account:
    - Create an OUT entry
-   - Select the Bad Debts Expenses account
+   - Select the Bad Debts expenses account
 
 This process will:
 - Zero out your Cash on Hand account balance
-- Show Bad Debts Expenses in your Profit and Loss statement
+- Show Bad Debts expenses in your Profit and Loss statement
 - Close the Accounts Receivable (AR) invoice status
 - Remove the AR balance
 
