@@ -20,23 +20,20 @@ A professional who manages and interprets financial records.
 ### [Accounting](terms/accounting.md)
 The process of recording, classifying, and summarizing financial transactions.
 
-### [Accounting cycle](terms/accounting-cycle.md)
+### [Accounting Cycle](terms/accounting-cycle.md)
 The process of recording and processing all financial transactions of a company, from when the transaction occurs to its representation on the financial statements.
 
 ### [Accounting Period](terms/accounting-period.md)
 A specific time frame for which financial statements are prepared and financial performance is assessed.
 
-### [Accounts payable](terms/accounts-payable.md)
+### [Accounts Payable](terms/accounts-payable.md)
 Money owed by a company to its creditors for goods or services purchased on credit.
 
-### [Accounts receivable](terms/accounts-receivable.md)
+### [Accounts Receivable](terms/accounts-receivable.md)
 Money owed to a company by its debtors for goods or services provided on credit.
 
-### [Accrual accounting](terms/accrual-accounting.md)
+### [Accrual Accounting](terms/accrual-accounting.md)
 A method of accounting where revenues and expenses are recorded when they are earned or incurred, regardless of when cash is exchanged.
-
-### [Accrual Basis Accounting](terms/accrual-basis-accounting.md)
-An accounting method that records economic events regardless of when cash transactions occur.
 
 ### [Accruals](terms/accruals.md)
 Expenses or revenues that have been incurred or earned but not yet recorded in the accounts.
@@ -68,10 +65,10 @@ Amounts owed to a company that are unlikely to be paid by the customers or debto
 A financial statement that provides a snapshot of a company's financial position at a specific point in time.
 
 ### [Bank Connection](terms/bank-connection.md)
-A bank connection in Fiskl is a secure link between your bank account and the Fiskl platform, enabling automatic import of bank transactions into your ledger accounts.
+A secure link between your bank account and the Fiskl platform, enabling automatic import of bank transactions into your ledger accounts.
 
 ### [Bank Transfer](terms/bank-transfer.md)
-A bank transfer in Fiskl refers to the movement of money between bank accounts owned by the same business, which needs to be recorded as an internal transfer for accurate financial tracking.
+The movement of money between bank accounts owned by the same business, which needs to be recorded as an internal transfer for accurate financial tracking.
 
 ### [Bankfeed](terms/bankfeed.md)
 A secure, automatic connection between a company's bank account and its accounting software.
@@ -83,7 +80,7 @@ The systematic recording, organizing, and tracking of financial transactions in 
 The process of starting and growing a business using only personal finances or the company's generated revenue.
 
 ### [Base Currency](terms/base-currency.md)
-In Fiskl, the base currency refers to the primary currency used for accounting purposes, also known as the company currency.
+The primary currency used for accounting purposes, also known as the company currency.
 
 ## C
 
@@ -98,9 +95,6 @@ Money in the form of currency or currency equivalents that can be accessed quick
 
 ### [Cash Accounting](terms/cash-accounting.md)
 A method of bookkeeping that records financial events based on cash flows and cash position.
-
-### [Cash Basis Accounting](terms/cash-basis-accounting.md)
-An accounting method where revenue is only recorded when cash is received, and expenses are recorded when cash is paid out.
 
 ### [Cash Equivalents](terms/cash-equivalents.md)
 Short-term, highly liquid investments that are readily convertible to known amounts of cash.
@@ -118,7 +112,7 @@ A method of accounting where income and expenses are recorded when cash is actua
 The total amount of accessible cash kept by a company.
 
 ### [Cash vs Accrual](terms/cash-vs-accrual.md)
-Detailed overview of Cash vs Accrual
+Detailed overview of Cash vs Accrual accounting methods.
 
 ### [Chart of Accounts](terms/chart-of-accounts.md)
 A financial organizational tool that provides a complete listing of every account in an accounting system.
@@ -143,32 +137,14 @@ A company's debts or obligations that are due within one year or within a normal
 
 ## D
 
-### [Data Backup](terms/data-backup.md)
-The process of copying data to protect against loss in case of equipment failure or catastrophe.
-
 ### [Data Export](terms/data-export.md)
 The process of extracting data from a system for use elsewhere.
-
-### [Data Field](terms/data-field.md)
-A place where you can store data in a database or spreadsheet.
-
-### [Data Formatting](terms/data-formatting.md)
-The process of organizing information according to preset specifications.
 
 ### [Data Import](terms/data-import.md)
 The process of retrieving data from an external source and inputting it into a system.
 
-### [Data Migration](terms/data-migration.md)
-The process of transferring data between storage types, formats, or computer systems.
-
 ### [Data Privacy](terms/data-privacy.md)
 The aspect of information technology that deals with the ability an organization has to determine what data in a computer system can be shared with third parties.
-
-### [Data Record](terms/data-record.md)
-A collection of related data items treated as a unit.
-
-### [Data Restore](terms/data-restore.md)
-The process of copying backup data from secondary storage and restoring it to its original location or a new location.
 
 ### [Data Security](terms/data-security.md)
 The practice of protecting digital information from unauthorized access, corruption, or theft throughout its entire lifecycle.
@@ -196,11 +172,8 @@ A system of bookkeeping where every entry to an account requires a corresponding
 
 ## E
 
-### [Encumbered Asset](terms/encumbered-asset.md)
-An asset that is owned by one entity but subject to a legal claim by another.
-
-### [EOFY](terms/eofy.md)
-End of Financial Year, the completion of a one-year accounting period.
+### [End of Financial Year (EOFY)](terms/eofy.md)
+The completion of a one-year accounting period.
 
 ### [Equity](terms/equity.md)
 The value of an ownership interest in property, including shareholders' equity in a business.
@@ -209,9 +182,6 @@ The value of an ownership interest in property, including shareholders' equity i
 The costs incurred in running a business, such as wages, rent, and utilities.
 
 ## F
-
-### [FBT – Fringe Benefit Tax](terms/fbt-fringe-benefit-tax.md)
-A tax applied to most non-cash benefits that employers provide to their employees.
 
 ### [Financial Statements](terms/financial-statements.md)
 Written records that convey the business activities and the financial performance of a company.
@@ -256,7 +226,7 @@ The top row in a spreadsheet or table that typically contains labels for each co
 Money that an individual or business receives in exchange for providing a good or service or through investing capital.
 
 ### [Income Statement](terms/income-statement.md)
-A financial statement that reports a company's financial performance over a specific accounting period. Also known a [Profit and Loss (P&L)](#profit-and-loss-statement-pl)
+A financial statement that reports a company's financial performance over a specific accounting period. Also known as a [Profit and Loss (P&L)](#profit-and-loss-statement-pl).
 
 ### [Income Tax (Business)](terms/income-tax-business.md)
 A tax levied by governments on the income of businesses.
@@ -287,13 +257,10 @@ A company's financial debts or obligations that arise during the course of its b
 An account on a company's balance sheet that represents a company's financial debt or obligations.
 
 ### [Line Item](terms/line-item.md)
-An account on a company's balance sheet that represents a company's financial debt or obligations.
+A specific entry in an accounting record, financial statement, or other documentation.
 
 ### [Liquidate](terms/liquidate.md)
 To convert assets into cash or cash equivalents by selling them on the open market.
-
-### [Liquidity](terms/liquidity.md)
-The degree to which an asset or security can be quickly bought or sold in the market without affecting the asset's price.
 
 ### [Long-Term Liabilities](terms/long-term-liabilities.md)
 Financial obligations of a company that are due more than one year in the future.
@@ -304,10 +271,10 @@ Financial obligations of a company that are due more than one year in the future
 The difference between a product or service's selling price and its cost of production or the ratio between a company's revenues and expenses.
 
 ### [Multi Currency](terms/multi-currency.md)
-The ability to manage and report financial transactions in multiple currencies
+The ability to manage and report financial transactions in multiple currencies.
 
 ### [Multi Journal](terms/multi-journal.md)
-A feature that allows for the creation of complex journal entries involving multiple accounts and currencies simultaneously
+A feature that allows for the creation of complex journal entries involving multiple accounts and currencies simultaneously.
 
 ## N
 
@@ -315,7 +282,7 @@ A feature that allows for the creation of complex journal entries involving mult
 The amount remaining after all deductions have been made.
 
 ### [Net Income](terms/net-income.md)
-A company's total earnings (or profit.md); calculated by subtracting total expenses from total revenue.
+A company's total earnings (or profit); calculated by subtracting total expenses from total revenue.
 
 ### [Net Profit](terms/net-profit.md)
 The amount of money a business earns after accounting for all expenses, taxes and costs.
@@ -358,7 +325,7 @@ Expenses paid in advance and recorded as assets before they are used or consumed
 The financial benefit realized when the amount of revenue gained from a business activity exceeds the expenses, costs, and taxes needed to sustain the activity.
 
 ### [Profit and Loss Statement (P&L)](terms/profit-and-loss-statement.md)
-A financial document that summarizes the revenues, costs, and expenses incurred during a specific period of time. Also known as an [Income Statement](#income-statement)
+A financial document that summarizes the revenues, costs, and expenses incurred during a specific period of time. Also known as an [Income Statement](#income-statement).
 
 ## R
 
@@ -380,7 +347,7 @@ Return on Investment, a performance measure used to evaluate the efficiency or p
 ## S
 
 ### [Statement of Accounts](terms/statement-of-accounts.md)
-A comprehensive financial document that summarizes all transactions between a business and its customer or supplier over a specific period
+A comprehensive financial document that summarizes all transactions between a business and its customer or supplier over a specific period.
 
 ## T
 
@@ -391,7 +358,7 @@ Assets that have a physical form and can be seen, touched, and measured.
 An entity that provides a product or service to a company or its customers on behalf of the company.
 
 ### [Transaction by Account Report](terms/transaction-by-account-report.md)
-A financial report that categorizes and presents accounting transactions grouped by their respective accounts
+A financial report that categorizes and presents accounting transactions grouped by their respective accounts.
 
 ### [Trial Balance](terms/trial-balance.md)
 A bookkeeping worksheet in which the balances of all ledgers are compiled into debit and credit columns.
