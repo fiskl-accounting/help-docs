@@ -1,0 +1,4 @@
+position: 1 # float position is supported
+label: 'Terms'
+collapsible: true 
+collapsed: true 
