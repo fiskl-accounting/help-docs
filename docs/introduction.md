@@ -1,7 +1,6 @@
 ---
 title: Welcome to Fiskl Help
 sidebar_position: 1
-slug: /
 description: Your guide to Fiskl's powerful accounting and invoicing platform
 ---
 import Welcome from '@site/src/components/Introduction';
