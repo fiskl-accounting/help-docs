@@ -256,7 +256,7 @@ The top row in a spreadsheet or table that typically contains labels for each co
 Money that an individual or business receives in exchange for providing a good or service or through investing capital.
 
 ### [Income Statement](terms/income-statement.md)
-A financial statement that reports a company's financial performance over a specific accounting period.
+A financial statement that reports a company's financial performance over a specific accounting period. Also known a [Profit and Loss (P&L)](#profit-and-loss-statement-pl)
 
 ### [Income Tax (Business)](terms/income-tax-business.md)
 A tax levied by governments on the income of businesses.
@@ -357,11 +357,8 @@ Expenses paid in advance and recorded as assets before they are used or consumed
 ### [Profit](terms/profit.md)
 The financial benefit realized when the amount of revenue gained from a business activity exceeds the expenses, costs, and taxes needed to sustain the activity.
 
-### [Profit and Loss](terms/profit-and-loss.md)
-A financial statement that summarizes the revenues, costs, and expenses incurred during a specified period.
-
-### [Profit and Loss Statement](terms/profit-and-loss-statement.md)
-A financial document that summarizes the revenues, costs, and expenses incurred during a specific period of time.
+### [Profit and Loss Statement (P&L)](terms/profit-and-loss-statement.md)
+A financial document that summarizes the revenues, costs, and expenses incurred during a specific period of time. Also known as an [Income Statement](#income-statement)
 
 ## R
 
@@ -400,7 +397,6 @@ A financial report that categorizes and presents accounting transactions grouped
 A bookkeeping worksheet in which the balances of all ledgers are compiled into debit and credit columns.
 
 ## V
-
 
 ## W
 
