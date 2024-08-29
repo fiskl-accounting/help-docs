@@ -17,6 +17,40 @@ import TabItem from '@theme/TabItem';
 
 Importing your banking transactions into Fiskl helps you keep your financial records up-to-date and accurate. This tutorial will guide you through the process of manually importing your bank transactions.
 
+<details>
+
+  <summary>TL;DR - Watch how to create ledger accounts for importing</summary>
+
+  <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/clzbevkqd005ml70ca9vev2dz/tour
+"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
+<details>
+
+  <summary>TL;DR - Watch how import CSV</summary>
+
+  <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/clzbiqgz100bbjp0cscukwq0l/tour
+"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
 ## Overview
 
 While Fiskl offers automatic bank connections for easy transaction imports, there are situations where you might need to import transactions manually. This tutorial covers:
@@ -156,11 +190,11 @@ Before importing transactions, you need to create the appropriate ledger account
 
 If you encounter problems during the import process, try these solutions:
 
-1. **Amount parsing errors**: Open the CSV in a spreadsheet application and format the amount column to use two decimal places (e.g., 1000.00).
+1. **Amount parsing errors**: Open the CSV in a spreadsheet application and format the amount column to use two decimal places (e.g., 1000.00). Export as CSV and try again.
 
-2. **Date parsing errors**: Try different date formats in Fiskl, or reformat the date column in your spreadsheet application before importing.
+2. **Date parsing errors**: Try different date formats in Fiskl, or reformat the date column in your spreadsheet application before importing.  Export as CSV and try again.
 
-3. **Missing transactions**: Set the date filter to "All" to ensure transactions aren't being filtered out. If using the "Advanced" option with a unique column, check for duplicate IDs.
+3. **Missing transactions**: If you do not see any transactions after importing it may be that your filters are excluding them. Set the date filter to "All" to ensure transactions aren't being filtered out. 
 
 4. **Other errors**: Contact Fiskl support for further assistance.
 

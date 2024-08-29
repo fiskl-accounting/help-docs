@@ -76,9 +76,6 @@ A secure, automatic connection between a company's bank account and its accounti
 ### [Bookkeeping](terms/bookkeeping.md)
 The systematic recording, organizing, and tracking of financial transactions in a business.
 
-### [Bootstrapping](terms/bootstrapping.md)
-The process of starting and growing a business using only personal finances or the company's generated revenue.
-
 ### [Base Currency](terms/base-currency.md)
 The primary currency used for accounting purposes, also known as the company currency.
 
@@ -364,6 +361,9 @@ A financial report that categorizes and presents accounting transactions grouped
 A bookkeeping worksheet in which the balances of all ledgers are compiled into debit and credit columns.
 
 ## V
+
+### [Vendor](terms/vendor.md)
+A key entity in accounting responsible for supplying goods or services to a business, crucial for managing expenses and financial transactions.
 
 ## W
 
