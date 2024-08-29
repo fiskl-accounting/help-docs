@@ -39,11 +39,11 @@ The Manage taxes screen consists of three main sections:
 In this section, you can:
 
 - View a list of all your taxes and their assigned tax numbers
-- Add new taxes and assign them to a Tax ID
+- Add new taxes and assign them to a `Tax ID`
 - Designate taxes as either Sales or Non-Sales taxes
 - Assign multiple taxes to a single Tax ID
 
-The currency of the tax is determined by the associated Tax ID.
+The currency of the tax is determined by the associated `Tax ID`.
 
 For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
 
@@ -108,7 +108,7 @@ Final price of the item: $100 + $15.47 = $115.47
 
 ### 3. Tax ID/VAT numbers
 
-In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each Tax ID is associated with:
+In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each ``Tax ID`` is associated with:
 
 - Country
 - Currency

@@ -158,7 +158,7 @@ Before importing transactions, you need to create the appropriate ledger account
 3. Provide the following information:
    - **Name**: Choose a descriptive name (can be changed later)
    - **Currency**: Must match the bank account currency
-   - **Account type**: Select "Bank Account"
+   - **Account type**: Select `Bank Account`
 4. Save the new account.
 
 ### Creating a credit card ledger account

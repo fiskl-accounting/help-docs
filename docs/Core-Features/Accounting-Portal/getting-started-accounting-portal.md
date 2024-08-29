@@ -53,7 +53,7 @@ To access the Accounting Portal:
 
 You can manage your personal settings and email address from the top right menu:
 
-1. Click on "Account settings" in the top right corner
+1. Click on `Account Settings` in the top right corner
 2. Update your personal information, including your email address
 3. Save your changes
 

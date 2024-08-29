@@ -14,7 +14,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 Your bank
 
-  1. Select Banking from the left menu
+  1. Select `Banking` from the left menu
   2. Choose your bank
   3. Follow the on screen instructions
   4. Click Connect bank to add more banks.

@@ -66,10 +66,10 @@ This separation helps in analyzing the profitability of different business activ
 View your Accounts Receivable transactions in many ways:
 
 1. Go to `Accounting > Transactions` from the left menu and choose `Accounts Receivable`
-1. Go to `Accounting > Chart of Accounts` from the left menu and choose `Accounts Receivable`
+1. Go to ``Accounting` > `Chart of Accounts`` from the left menu and choose `Accounts Receivable`
 1. In your accounting reports
-    1. Go to `Accounting > Reports` from the left menu and choose `Balance Sheet` and select the detailed option.
-    1. Go to `Accounting > Reports` from the left menu and choose `Transactions by Account`.
+    1. Go to `Accounting` > `Reports` from the left menu and choose `Balance Sheet` and select the detailed option.
+    1. Go to `Accounting` > `Reports` from the left menu and choose `Transactions by Account`.
     1. Go to `Accounting > Reports` from the left menu and choose `Trial Balance`.
 
 ## Understanding AR transaction types

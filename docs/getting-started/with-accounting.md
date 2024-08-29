@@ -35,7 +35,7 @@ Learn more about [Company settings](../Settings-Configurations/accounting-settin
 
 *Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
 
-1. Select Accounting > Chart of Accounts via the left menu
+1. Select `Accounting` > `Chart of Accounts` via the left menu
 1. Customize your accounts if needed
 1. Create, archive, and add descriptions to accounts
 
@@ -50,7 +50,7 @@ Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accoun
 
 *Your [Banking](https://my.fiskl.com/banking)*
 
-1. Select Banking via the left menu
+1. Select `Banking` via the left menu
 1. Choose from the following options:
    - [Yodlee](../Integrations/Bank-Connections/connect-yodlee) (Banking aggregator)
    - [Salt Edge](../Integrations/Bank-Connections/connect-saltedge) (Banking aggregator)
@@ -85,13 +85,13 @@ Learn more about [Bank Integrations](/docs/category/integrations).
 
 *Your [Chart of Accounts](https://my.fiskl.com/accounting/chart)*
 
-1. Select Accounting > Chart of Accounts via the left menu
-1. Select Assets > Cash & Cash Equivalents
-1. Choose "Cash on Hand" or "Bank Account"
+1. Select `Accounting` > `Chart of Accounts` via the left menu
+1. Select `Assets` > `Cash & Cash Equivalents`
+1. Choose `Cash on Hand` or `Bank Account`
 1. Select OUT to create a new credit or IN for a debit
 1. Enter an amount, name, and description, then save
 1. You have now created a journal entry
-1. View it in your "Reports"
+1. View it in your `Reports`
 
 <!-- Learn more about [Journal Entries](../Core-Features/Accounting/Journal-Entries/journal-entries) -->
 
@@ -105,8 +105,8 @@ Learn more about [Bank Integrations](/docs/category/integrations).
 
 *Your [Accounting Reports](https://my.fiskl.com/accounting/reports)*
 
-1. Select Accounting > Reports via the left menu
-1. Select Profit & Loss
+1. Select `Accounting` > `Reports` via the left menu
+1. Select `Profit & Loss`
 1. Toggle between Summary and Detail views
 1. Explore other available reports
 

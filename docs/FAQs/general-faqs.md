@@ -60,16 +60,16 @@ The format of the dates and numbers are decided by using the Region and Language
 To change your account email:
 
 1. Go to `User Settings`
-1. Go to Account settings
+1. Go to `Account Settings`
 1. Here you can change your email, password or remove Google Authorization
 
 ### How do I set up another company?
 
 Fiskl operates on a one company per account basis, but there are flexible options to manage multiple business identities within the platform.
 
-- Multiple Templates and Brands: You can customize Multiple Templates and Brands within a single account to cater to different business needs. This feature allows you to maintain distinct branding and documentation for each entity under the same account.
-- Account Switching: On Android and iOS, you can easily switch between different accounts without the need to sign in again. This feature simplifies managing multiple companies from a single device.
-- Accountant Portal: If you manage multiple companies or clients, consider using the Accountant Portal for streamlined access and management across various accounts.
+- **Multiple Templates and Brands:** You can customize Multiple Templates and Brands within a single account to cater to different business needs. This feature allows you to maintain distinct branding and documentation for each entity under the same account.
+- **Account Switching:** On Android and iOS, you can easily switch between different accounts without the need to sign in again. This feature simplifies managing multiple companies from a single device.
+- **Accountant Portal:** If you manage multiple companies or clients, consider using the Accountant Portal for streamlined access and management across various accounts.
 
 These options offer flexibility and convenience, ensuring you can manage multiple business operations efficiently within the Fiskl platform.
 

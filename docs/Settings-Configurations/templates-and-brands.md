@@ -70,7 +70,7 @@ Not all fonts support languages like Chinese, Cyrillic, or Arabic when generatin
 ### Display options
 Toggle visibility for:
 - Company ID
-- Tax ID (must be enabled in tax settings)
+- `Tax ID` (must be enabled in tax settings)
 - FX rates for multi-currency line items
 - Units
 - Quantity

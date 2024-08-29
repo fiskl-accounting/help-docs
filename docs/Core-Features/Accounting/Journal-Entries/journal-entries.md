@@ -91,7 +91,7 @@ For making adjustments or for a more accountant familiar feel you can use the [M
 
 
 :::info[tip]
-When adding or viewing a transaction we add a `CR` or `DR` under the category which has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** "Bank Account" and **Debits** "Cost of Goods Sold")
+When adding or viewing a transaction we add a `CR` or `DR` under the category which has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** `Bank Account` and **Debits** "Cost of Goods Sold")
 :::
 
 ## Viewing journal entries
