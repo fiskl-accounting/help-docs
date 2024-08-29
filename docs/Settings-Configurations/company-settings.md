@@ -7,13 +7,13 @@ tags:
  - Company settings
 ---
 
-The Company settings page allows you to manage your basic company information in Fiskl. This information is used across various features to ensure accurate reporting and invoicing.
+The `Company Settings` page allows you to manage your basic company information in Fiskl. This information is used across various features to ensure accurate reporting and invoicing.
 
 Access Company settings using the `gear icon` on the top left menu or visit the [Company settings page](https://my.fiskl.com/company-settings) on the web dashboard.
 
 ## General
 
-Most values in Company settings can be overridden by a brand in [Templates and brands](./templates-and-brands).
+Most values in `Company Settings` can be overridden by a brand in [Templates and brands](./templates-and-brands).
 
 - **Company name**: Your official name for invoices, quotes, and reports
 - **Industry**: Helps Fiskl provide relevant features and reports

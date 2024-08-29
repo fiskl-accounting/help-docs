@@ -7,9 +7,9 @@ tags:
  - Accounting settings
 ---
 
-The Accounting settings page allows you to configure your accounting preferences and standard accounts in Fiskl. These settings ensure accurate financial reporting and streamline your bookkeeping process.
+The `Accounting Settings` page allows you to configure your accounting preferences and standard accounts in Fiskl. These settings ensure accurate financial reporting and streamline your bookkeeping process.
 
-Access Accounting settings using the `gear icon` on the top left menu or visit the [Accounting settings page](https://my.fiskl.com/accounting-settings) on the web dashboard.
+Access `Accounting Settings` using the `gear icon` on the top left menu or visit the [Accounting settings page](https://my.fiskl.com/accounting-settings) on the web dashboard.
 
 ## Accounting settings
 

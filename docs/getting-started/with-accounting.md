@@ -19,7 +19,7 @@ To get you started with accounting, we've put together a flexible series of guid
 
 *Your [Accounting settings](https://my.fiskl.com/accounting-settings)*
 
-1. Select Accounting settings via the left menu gear icon
+1. Select `Accounting Settings` via the left menu gear icon
 1. Set your fiscal year end date
 1. Choose accrual or cash accounting method
 1. Review default income accounts

@@ -20,7 +20,7 @@ Clients are essential for managing your business interactions in Fiskl. They are
 
 Before creating clients, it's helpful to have:
 
-1. Your company details set up in Company settings
+1. Your company details set up in ```Company Settings```
 2. A clear understanding of your client's billing requirements (e.g., currency preferences, tax information)
 3. Any specific time rates for clients who are billed hourly
 

@@ -45,32 +45,33 @@ Yes, provided you own the domain and can add the necessary CNAME records. [Custo
 
 You can manage team members from your left menu [Team Members Tutorial](/docs/Tutorials/Account/invite-team-members)
 
-Permission levels:
-
-- Admin: Full access to all features including accounting and visibility on all team members' items. Excludes the ability to add/change payment gateway integrations and close account.
-- Accountant: Your accountant can produce reports, see your Chart of Accounts, transactions and manage all your business finances.
-- User: Access to Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting, invoicing and business data.
-- Billing user: Access to Invoicing, Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting and business data.
+Learn more [Team Management](../Settings-Configurations/user-management)
 
 ### How can I change the date format, e.g., from UK, 31/1/24 to US, 01/31/24?
 
-To change the date format:
+The format of the dates and numbers are decided by using the Region and Language set in your [User Settings Preferences](https://my.fiskl.com/user-settings/preferences)
 
-1. Go to User settings
-1. Select "Preferences"
-1. Here you can change the time, date and number settings
+1. Go to `User Settings` > top right menu
+1. Select `Preferences`
+1. Here you can change the `Region` and `Language`
 
 ### How do I change the email for my Fiskl account?
 
 To change your account email:
 
-1. Go to User settings
+1. Go to `User Settings`
 1. Go to Account settings
 1. Here you can change your email, password or remove Google Authorization
 
 ### How do I set up another company?
 
-[Answer to be provided]
+Fiskl operates on a one company per account basis, but there are flexible options to manage multiple business identities within the platform.
+
+- Multiple Templates and Brands: You can customize Multiple Templates and Brands within a single account to cater to different business needs. This feature allows you to maintain distinct branding and documentation for each entity under the same account.
+- Account Switching: On Android and iOS, you can easily switch between different accounts without the need to sign in again. This feature simplifies managing multiple companies from a single device.
+- Accountant Portal: If you manage multiple companies or clients, consider using the Accountant Portal for streamlined access and management across various accounts.
+
+These options offer flexibility and convenience, ensuring you can manage multiple business operations efficiently within the Fiskl platform.
 
 ## Need more help?
 
