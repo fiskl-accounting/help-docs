@@ -39,6 +39,10 @@ const config: Config = {
         theme: {
           customCss: 'src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-1M7RZGZYSS',
+          anonymizeIP: true,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -48,8 +52,12 @@ const config: Config = {
       ({
         hashed: true,
       }),
-    ]
+    ],
   ],
+
+  trailingSlash: false,  // Set this globally for your site
+
+
   themeConfig: {
     tableOfContents: {
       minHeadingLevel: 4,
@@ -106,8 +114,23 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Fiskl Ltd. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Fiskl Limited. Fiskl Limited is registered in England and Wales (No. 09330290). All rights reserved.`,
     },
+    metadata: [
+      { name: 'description', content: 'Explore our Fiskl Help Center for expert support on managing your business finances, accounting, and more' },
+      { name: 'keywords', content: 'Multi currency accounting, Double entry accounting, Invoicing' },
+      { property: 'og:title', content: 'Fiskl Help Center - Fiskl Support - KB - Tutorials - Getting Started' },
+      { property: 'og:description', content: 'Fiskl help documentation' },
+      { property: 'og:type', content: 'article' },
+      { property: 'og:image', content: 'https://help.fiskl.com/img/fiskl_help_center_img.png' },  // Full URL recommended
+      { property: 'og:image:width', content: '1200' },
+      { property: 'og:image:height', content: '630' },
+      { property: 'og:site_name', content: 'Fiskl — Intelligent Finance & Accounting Manager for Small Businesses' },
+      { property: 'og:url', content: 'https://help.fiskl.com/' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:site', content: '@FisklApp' },
+      { name: 'twitter:creator', content: '@FisklApp' },
+    ],
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
