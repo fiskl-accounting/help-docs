@@ -20,7 +20,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Banking Tutorials',
-          items: ['Tutorials/Banking/how-to-import-bank', 'Tutorials/Banking/how-to-connect-salt-edge'],
+          items: ['Tutorials/Banking/how-to-import-bank.md', '/docs/Tutorials/banking/how-to-connect-salt-edge'],
         }
       ],
     },
