@@ -43,7 +43,7 @@ Yes, provided you own the domain and can add the necessary CNAME records. [Custo
 
 ### How do I invite a team member, and what access permissions are available?
 
-You can manage team members from your left menu [Team Members Tutorial](/docs/Tutorials/account/invite-team-members)
+You can manage team members from your left menu [Team Members Tutorial](/docs/Tutorials/Account/invite-team-members)
 
 Permission levels:
 

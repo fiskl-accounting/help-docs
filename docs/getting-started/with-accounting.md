@@ -69,7 +69,7 @@ Learn more about [Bank integrations](/docs/category/integrations)
 :::tip
 Before manually importing your bank data, you’ll need to create the ledger accounts where the data will be imported.
 
-Follow our tutorial on [Creating Bank Ledger Accounts](/docs/tutorials/banking/how-to-import-bank/#creating-bank--credit-card-ledger-accounts).
+Follow our tutorial on [Creating Bank Ledger Accounts](/docs/tutorials/Banking/how-to-import-bank/#creating-bank--credit-card-ledger-accounts).
 :::
 
 Whenever possible, connect your bank for automatic data import.

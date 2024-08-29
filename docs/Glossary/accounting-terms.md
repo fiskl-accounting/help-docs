@@ -114,6 +114,9 @@ Detailed overview of Cash vs Accrual accounting methods.
 ### [Chart of Accounts](terms/chart-of-accounts.md)
 A financial organizational tool that provides a complete listing of every account in an accounting system.
 
+### [Client](terms/client.md)
+Also known as a customer, a key entity purchasing goods or services, essential for managing invoices, quotes, and related financial transactions.
+
 ### [Cost of Goods Sold](terms/cost-of-goods-sold.md)
 The direct costs attributable to the production of the goods sold by a company.
 
@@ -294,6 +297,9 @@ Financial obligations that are due after a period of at least one year from the 
 Assets that are not essential to the ongoing operations of a business but may still generate income or provide a return on investment.
 
 ## O
+
+### [OFX](terms/ofx.md)
+A standardized file format for the electronic exchange of financial data, used to import bank statements and synchronize accounting records.
 
 ### [Opening Balance](terms/opening-balance.md)
 The amount in an account at the beginning of an accounting period.

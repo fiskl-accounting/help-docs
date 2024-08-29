@@ -33,7 +33,7 @@ To import older transactions, you'll need to use manual import:
 
 1. Export the transactions from your bank
 2. Format the data according to Fiskl's requirements
-3. Use the [Manual Import Bank Transactions](../Tutorials/banking/how-to-import-bank) feature
+3. Use the [Manual Import Bank Transactions](../Tutorials/Banking/how-to-import-bank) feature
 
 ### Does Fiskl add extra charges to payments processed through added payment gateways?
 
