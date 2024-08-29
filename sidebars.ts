@@ -15,12 +15,12 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'General Tutorials',
-          items: ['Tutorials/Account/invite-team-members'],
+          items: ['Tutorials/account/invite-team-members'],
         },
         {
           type: 'category',
           label: 'Banking Tutorials',
-          items: ['Tutorials/Banking/how-to-import-bank', 'Tutorials/Banking/how-to-connect-salt-edge'],
+          items: ['Tutorials/banking/how-to-import-bank', 'Tutorials/banking/how-to-connect-salt-edge'],
         }
       ],
     },
