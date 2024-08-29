@@ -95,7 +95,7 @@ When possible, use OFX format for the smoothest import experience.
 Follow these general steps to import your bank transactions:
 
 1. Export your banking data from your bank's website or app.
-2. Create a ledger account to import your bank transactions into if you haven't already (see [Creating Bank & Credit Card Ledger Accounts](/docs/tutorials/Banking/how-to-import-bank/#creating-bank--credit-card-ledger-accounts)).
+2. Create a ledger account to import your bank transactions into if you haven't already (see [Creating Bank & Credit Card Ledger Accounts](../../Tutorials/Banking/how-to-import-bank#creating-a-credit-card-ledger-account)).
 3. Select the import function in Fiskl.
 4. Choose your exported file.
 5. For CSV imports, map the fields as prompted.
