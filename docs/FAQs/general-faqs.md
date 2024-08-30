@@ -73,6 +73,35 @@ Fiskl operates on a one company per account basis, but there are flexible option
 
 These options offer flexibility and convenience, ensuring you can manage multiple business operations efficiently within the Fiskl platform.
 
+### How do I download my Fiskl receipts for subscription?
+
+<details>
+
+  <summary>TL;DR - Download your fiskl receipts</summary>
+
+  <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/cm0gszmls0007mj0cf15hzy32/tour
+"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
+To download your receipts in `Subscription & Billing`
+
+1. Navigate to the left menu and select `Subscription & Billing`
+1. From the tabs at the top select `History`
+1. Use the date range filter to find your receipt
+1. Click on the details to download 
+
+
+
+
 ## Need more help?
 
 If you couldn't find the answer you're looking for, please [contact our support team](mailto:support@fiskl.com). We're here to help!
