@@ -2,7 +2,7 @@
 title: Multi currency
 description: 🎉 Exciting Multi-Currency Accounting Updates!!
 slug: multi-currency-release
-date: 2024-04-06
+date: 2023-08-20
 authors: shawn
 tags: [Accounting, Invoicing, Multi-currency]
 hide_table_of_contents: false
