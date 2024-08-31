@@ -278,7 +278,7 @@ To help you get started, we've created steps for [Invoicing](#invoicing), [Accou
       </div>
       <div className="card__body">
         <h2>Next Steps</h2>
-        <p>Explore advanced features, best practices, and upcoming opportunities for accountants using the Fiskl platform.</p>
+           <p>Explore advanced features, best practices, and upcoming opportunities for accountants on the platform.</p>
       </div>
     </div>
   </a>
