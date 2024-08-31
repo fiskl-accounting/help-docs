@@ -114,7 +114,7 @@ In this section, you can manage your `Tax IDs` (also referred to as Tax Agency n
 - Currency
 - Specific taxes
 
-Each `Tax Number` is linked to a corresponding `Liability` Ledger Account with a matching name. All transactions for that Tax Number will be recorded as journal entries in this Ledger Account. When you create a new Tax Number, a corresponding Ledger Account will automatically be created in the `Chart of Accounts`. If you rename a Tax Number, the corresponding Ledger Account will also be renamed.
+Each `Tax Number` is linked to a corresponding `Liability` Ledger Account with a matching name. All transactions involving taxes associated with that Tax Number will be automatically recorded as journal entries in this Ledger Account. When you create a new Tax Number, a corresponding Ledger Account will automatically be created in the `Chart of Accounts`. If you rename a Tax Number, the corresponding Ledger Account will also be renamed.
 
 ## Setting up taxes
 
