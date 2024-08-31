@@ -58,7 +58,7 @@ Share your insights or dig deeper into your data by exporting to Google Sheets o
 
 ## Getting Started
 
-Ready to explore this powerful new feature? Head to `Accounting > Reports` in your Fiskl dashboard and select "Transactions by Account". Customize your report, and unlock new insights into your business finances today!
+Ready to explore this powerful new feature? Head to `Accounting > Reports` in your Fiskl dashboard and select `Transactions by Account`. Customize your report, and unlock new insights into your business finances today!
 
 We can't wait to hear how the Transactions by Account report enhances your financial management. As always, we're here to support you every step of the way. Happy reporting!
 

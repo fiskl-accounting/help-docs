@@ -90,9 +90,9 @@ If you're based in Belgium:
 - You can switch between payment gateways when creating a new invoice
 - To remove a payment gateway, select the small "x" at the top of each gateway in the Integrations menu
 
-## Disconnecting
+## Disconnecting Stripe form Fiskl
 
-There are two ways to disconnect:
+There are two ways to disconnect Stripe from Fiskl:
 
 1. In Stripe, see [Disconnect your Stripe from a third-party platform](https://support.stripe.com/questions/disconnect-your-stripe-account-from-a-connected-third-party-platform)
 2. In Fiskl, go to the `Integrations` page and select the X on the connected Stripe card

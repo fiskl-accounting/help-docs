@@ -89,9 +89,9 @@ For international payments, visit the [GoCardless international payments](https:
 Use the [GoCardless calculator](https://gocardless.com/pricing/) to understand the fee structure. Pay attention to invoices over $2000 as an additional fee is added.
 :::
 
-## Disconnecting
+## Disconnecting GoCardless for Fiskl
 
-There are two ways to disconnect:
+There are two ways to disconnect GoCardless from Fiskl:
 
 1. In Fiskl, go to the `Integrations` page and select the X on the connected GoCardless card
 1. You can also disconnect Fiskl from within GoCardless

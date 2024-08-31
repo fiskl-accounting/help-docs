@@ -97,10 +97,14 @@ To download your receipts in `Subscription & Billing`
 1. Navigate to the left menu and select `Subscription & Billing`
 1. From the tabs at the top select `History`
 1. Use the date range filter to find your receipt
-1. Click on the details to download 
+1. Click on the details to download
 
+### Can I cancel my subscription, or is the process difficult like with other companies?
 
+You are in full control. You can upgrade, downgrade, cancel your subscription, or delete your account directly from your dashboard.
 
+- [How can I cancel my subscription but keep all my data?](../Plans-Billing/cancel-subscription.md)
+- [How can I delete my account and all my data?](../Plans-Billing/delete-account.md)
 
 ## Need more help?
 
