@@ -11,7 +11,8 @@ tags:
   - Accountant
 ---
 
-To get you started we have created steps for [Invoicing](#invoicing), [Accounting](#accounting) and if you are an [Accountant](#accountant). You can run through the steps that are relevant to you an each have quick video walkthroughs.
+To help you get started, we've created steps for [Invoicing](#invoicing), [Accounting](#accounting), and [Accountants](#accountant). You can go through the steps relevant to you, each of which includes a quick video walkthrough.
+
 
 ## Invoicing
 
