@@ -108,11 +108,13 @@ Final price of the item: $100 + $15.47 = $115.47
 
 ### 3. Tax ID/VAT numbers
 
-In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each ``Tax ID`` is associated with:
+In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each `Tax ID` is associated with:
 
 - Country
 - Currency
 - Specific taxes
+
+When you create a new tax number, a corresponding `Liability` account in the `Chart of Accounts` will be created.
 
 ## Setting up taxes
 
