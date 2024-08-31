@@ -106,15 +106,15 @@ Total taxes: $5.00 (GST) + $10.47 (QST) = $15.47
 Final price of the item: $100 + $15.47 = $115.47
 </details>
 
-### 3. Tax ID/VAT numbers
+### 3. Tax ID/VAT Numbers
 
-In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each `Tax ID` is associated with:
+In this section, you can manage your `Tax IDs` (also referred to as Tax Agency numbers or Tax Number). Each `Tax ID` is associated with:
 
 - Country
 - Currency
 - Specific taxes
 
-When you create a new tax number, a corresponding `Liability` account in the `Chart of Accounts` will be created.
+Each `Tax Number` is linked to a corresponding `Liability` Ledger Account with a matching name. All transactions for that Tax Number will be recorded as journal entries in this Ledger Account. When you create a new Tax Number, a corresponding Ledger Account will automatically be created in the `Chart of Accounts`. If you rename a Tax Number, the corresponding Ledger Account will also be renamed.
 
 ## Setting up taxes
 
