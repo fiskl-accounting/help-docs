@@ -11,6 +11,10 @@ The Tax settings page allows you to set up and manage your sales taxes, non-sale
 
 Access Tax settings using the `gear icon` on the top left menu or visit the [Manage taxes page](https://my.fiskl.com/manage-taxes) on the web dashboard.
 
+:::note
+When you create a new Tax Number / Tax ID a new Ledger Account is automatically created in the `Chart of Accounts`
+:::
+
 <details>
 
   <summary>TL;DR - Watch a walkthrough of the Tax Settings</summary>

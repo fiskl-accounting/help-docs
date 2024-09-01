@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /docs/category/style-guides
+Disallow: /assets/files/_category_*
