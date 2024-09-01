@@ -26,7 +26,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/fiskl-accounting/help-docs/tree/master',
+          // editUrl: 'https://github.com/fiskl-accounting/help-docs/tree/master',
         },
         blog: {
           showReadingTime: true,
