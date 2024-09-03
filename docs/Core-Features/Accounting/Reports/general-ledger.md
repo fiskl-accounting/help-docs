@@ -1,5 +1,5 @@
 ---
-title: General Ledger Report
+title: General Ledger
 sidebar_position: 5
 description: Understanding and using the General Ledger report in Fiskl
 toc_min_heading_level: 2
