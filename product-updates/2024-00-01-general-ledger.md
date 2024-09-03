@@ -2,7 +2,7 @@
 title: General Ledger Report
 description: 🎉 Exciting New Feature - Comprehensive Multi-Currency General Ledger Reporting!
 slug: general-ledger-report
-date: 2024-00-01
+date: 2024-09-01
 authors: monica
 tags: [Accounting, Reports, Multi-currency]
 hide_table_of_contents: false
