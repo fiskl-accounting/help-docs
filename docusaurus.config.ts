@@ -10,7 +10,7 @@ const config: Config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
   favicon: 'img/favicon/favicon-32x32.png',
-  url: 'https://help.fiskl.com',
+  url: 'https://fiskl-help.netlify.app',
   baseUrl: '/',
   organizationName: 'fiskl', // Usually your GitHub org/user name.
   projectName: 'fiskl-docs', // Usually your repo name.
