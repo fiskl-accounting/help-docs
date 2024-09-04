@@ -47,10 +47,10 @@ You can manage team members from your left menu [Team Members Tutorial](/docs/Tu
 
 Permission levels:
 
-- Admin: Full access to all features including accounting and visibility on all team members' items. Excludes the ability to add/change payment gateway integrations and close account.
-- Accountant: Your accountant can produce reports, see your Chart of Accounts, transactions and manage all your business finances.
-- User: Access to Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting, invoicing and business data.
-- Billing user: Access to Invoicing, Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting and business data.
+- Admin: Full access to all features including accounting and visibility on all team members' items. Excludes the ability to add/change payment gateway integrations and close account
+- Accountant: Your accountant can produce reports, see your Chart of Accounts, transactions and manage all your business finances
+- User: Access to Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting, invoicing and business data
+- Billing user: Access to Invoicing, Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting and business data
 
 ### How can I change the date format, e.g., from UK, 31/1/24 to US, 01/31/24?
 
