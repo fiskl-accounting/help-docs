@@ -2,6 +2,7 @@
 title: Chart of Accounts
 sidebar_position: 2
 description: Understanding and managing your Chart of Accounts
+slug: /core-features/accounting/chart-of-accounts
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

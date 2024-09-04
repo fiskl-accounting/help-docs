@@ -2,6 +2,7 @@
 title: Balance Sheet
 sidebar_position: 4
 description: Understanding and using the Balance Sheet report in Fiskl
+slug: /core-features/accounting/reports/balance-sheet
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

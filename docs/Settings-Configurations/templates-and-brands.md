@@ -2,6 +2,7 @@
 title: Templates and Brands
 sidebar_position: 6
 description: Configure your invoice, quote, and email templates and brands
+slug: /settings/templates-and-brands
 tags:
   - Settings
   - Templates

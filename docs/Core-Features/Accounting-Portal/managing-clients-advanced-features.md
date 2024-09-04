@@ -2,6 +2,7 @@
 title: Managing Clients in the Portal
 sidebar_position: 2
 description: Learn how to manage clients and use advanced features in the Fiskl Accounting Portal
+slug: /core-features/accounting-portal/managing-clients
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

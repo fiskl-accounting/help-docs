@@ -2,6 +2,7 @@
 title: Tax Settings
 sidebar_position: 6
 description: Configure your tax settings
+slug: /settings/tax-settings
 tags:
  - Settings
  - Tax settings

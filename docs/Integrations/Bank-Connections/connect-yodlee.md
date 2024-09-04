@@ -2,6 +2,7 @@
 title: Connect with Yodlee
 sidebar_position: 2
 description: Securely connect your bank accounts to Fiskl using Yodlee
+slug: /integrations/bank/connection/yodlee
 tags:
  - Integrations
  - Banking

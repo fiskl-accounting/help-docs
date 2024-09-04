@@ -2,6 +2,7 @@
 title: PayPal
 sidebar_position: 6
 description: Streamline your online payments by connecting PayPal
+slug: /integrations/payment/paypal
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -2,6 +2,7 @@
 title: GoCardless
 sidebar_position: 4
 description: Streamline your payment collection by connecting GoCardless to Fiskl
+slug: /integrations/payment/gocardless
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

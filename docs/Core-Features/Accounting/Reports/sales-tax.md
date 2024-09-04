@@ -2,6 +2,7 @@
 title: Sales Tax Report
 sidebar_position: 5
 description: Understanding and using Sales Tax Report
+slug: /core-features/accounting/reports/sales-tax
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

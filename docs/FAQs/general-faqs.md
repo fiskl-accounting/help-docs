@@ -2,6 +2,7 @@
 title: General FAQs
 sidebar_position: 2
 description: Frequently asked questions about Fiskl's general features and security
+slug: /faq/general-faqs
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

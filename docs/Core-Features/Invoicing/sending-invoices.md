@@ -2,6 +2,7 @@
 title: Sending Invoices
 sidebar_position: 4
 description: How to send invoices
+slug: /core-features/invoicing/sending-invoices
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

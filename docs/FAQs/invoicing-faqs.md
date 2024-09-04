@@ -2,6 +2,7 @@
 title: Invoicing FAQs
 sidebar_position: 6
 description: Frequently asked questions about Fiskl's invoicing features
+slug: /faq/invoicing-faqs
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
