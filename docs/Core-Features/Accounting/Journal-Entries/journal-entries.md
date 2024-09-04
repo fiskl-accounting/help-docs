@@ -2,6 +2,7 @@
 title: Understanding Journal Entries
 sidebar_position: 3
 description: Understanding and managing journal entries
+slug: /accounting/core-features/journal-entries/understanding-journal-entries
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

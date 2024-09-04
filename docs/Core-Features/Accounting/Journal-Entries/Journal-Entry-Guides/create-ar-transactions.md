@@ -2,6 +2,7 @@
 title: Working with Accounts Receivable
 sidebar_position: 12
 description: Create Accounts Receivable (AR) transactions
+slug: /accounting/core-features/journal-entries/guides/accounts-receivable-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

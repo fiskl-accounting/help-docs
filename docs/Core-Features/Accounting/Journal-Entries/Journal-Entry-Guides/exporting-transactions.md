@@ -2,6 +2,7 @@
 title: Filtering and Exporting Journal Entries
 sidebar_position: 16
 description: Filter and export your transactions
+slug: /accounting/core-features/journal-entries/guides/exporting-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

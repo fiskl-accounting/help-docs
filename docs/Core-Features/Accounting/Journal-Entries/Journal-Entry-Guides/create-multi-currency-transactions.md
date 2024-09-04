@@ -2,6 +2,7 @@
 title: Managing Multi-Currency Transactions
 sidebar_position: 8
 description: Create and manage multi-currency transactions
+slug: /accounting/core-features/journal-entries/guides/multi-currency-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
