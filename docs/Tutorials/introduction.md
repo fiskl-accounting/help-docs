@@ -1,6 +1,7 @@
 ---
 id: introduction
 title: Introduction to Tutorials
+slug: /tutorials/introduction
 sidebar_label: Introduction
 ---
 
