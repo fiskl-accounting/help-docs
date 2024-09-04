@@ -2,6 +2,7 @@
 title: Matching and Splitting Transactions
 sidebar_position: 6
 description: Learn how to match and split transactions for accurate accounting
+slug: /accounting/core-features/journal-entries/guides/match-and-split-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

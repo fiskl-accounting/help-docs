@@ -2,6 +2,7 @@
 title: Working with Accounts Payable
 sidebar_position: 10
 description: Understanding and managing Accounts Payable (AP) transactions
+slug: /accounting/core-features/journal-entries/guides/accounts-payable-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

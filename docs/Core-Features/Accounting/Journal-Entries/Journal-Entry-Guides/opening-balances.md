@@ -2,6 +2,7 @@
 title: Creating Opening Balances
 sidebar_position: 2
 description: Understanding and managing opening balances in Fiskl
+slug: /accounting/core-features/journal-entries/guides/opening-balances
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -2,6 +2,7 @@
 title: Handling Internal Transfers
 sidebar_position: 14
 description: Create and manage internal transfer transactions between your accounts
+slug: /accounting/core-features/journal-entries/guides/internal-transfers
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -97,7 +98,7 @@ To transfer money between accounts with the same currency:
 
 </details>  
 
-1. From the left menu, go to `Accounting > Chart of Accounts`.
+1. From the left menu, go to ``Accounting` > `Chart of Accounts``.
 1. Select the account you want to transfer money to or from.
 1. Select the `Match` link on the transaction.
 1. Select `Internal transfer`.

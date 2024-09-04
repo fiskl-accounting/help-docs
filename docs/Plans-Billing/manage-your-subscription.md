@@ -42,7 +42,7 @@ Downgrades take effect at the end of your current billing period. You can cancel
 Use the date range filter to view your billing history. You can open invoices and download PDF versions using the print function.
 
 :::info[tip]
-If your tax number is set in Company settings, it will appear on the invoice.
+If your tax number is set in `Company Settings`, it will appear on the invoice.
 :::
 
 ## User changes

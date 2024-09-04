@@ -11,6 +11,10 @@ The Tax settings page allows you to set up and manage your sales taxes, non-sale
 
 Access Tax settings using the `gear icon` on the top left menu or visit the [Manage taxes page](https://my.fiskl.com/manage-taxes) on the web dashboard.
 
+:::note
+When you create a new Tax Number / Tax ID a new Ledger Account is automatically created in the `Chart of Accounts`
+:::
+
 <details>
 
   <summary>TL;DR - Watch a walkthrough of the Tax Settings</summary>
@@ -39,11 +43,11 @@ The Manage taxes screen consists of three main sections:
 In this section, you can:
 
 - View a list of all your taxes and their assigned tax numbers
-- Add new taxes and assign them to a Tax ID
+- Add new taxes and assign them to a `Tax ID`
 - Designate taxes as either Sales or Non-Sales taxes
 - Assign multiple taxes to a single Tax ID
 
-The currency of the tax is determined by the associated Tax ID.
+The currency of the tax is determined by the associated `Tax ID`.
 
 For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
 
@@ -106,13 +110,15 @@ Total taxes: $5.00 (GST) + $10.47 (QST) = $15.47
 Final price of the item: $100 + $15.47 = $115.47
 </details>
 
-### 3. Tax ID/VAT numbers
+### 3. Tax ID/VAT Numbers
 
-In this section, you can manage your Tax IDs (also referred to as Tax Agency numbers). Each Tax ID is associated with:
+In this section, you can manage your `Tax IDs` (also referred to as Tax Agency numbers or Tax Number). Each `Tax ID` is associated with:
 
 - Country
 - Currency
 - Specific taxes
+
+Each `Tax Number` is linked to a corresponding `Liability` Ledger Account with a matching name. All transactions involving taxes associated with that Tax Number will be automatically recorded as journal entries in this Ledger Account. When you create a new Tax Number, a corresponding Ledger Account will automatically be created in the `Chart of Accounts`. If you rename a Tax Number, the corresponding Ledger Account will also be renamed.
 
 ## Setting up taxes
 

@@ -2,6 +2,7 @@
 title: Understanding Journal Entries
 sidebar_position: 3
 description: Understanding and managing journal entries
+slug: /accounting/core-features/journal-entries/understanding-journal-entries
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -73,11 +74,11 @@ While Fiskl automates much of the process there are many reason why you would ne
 
  Alternatively, if there was an expense created in Fiskl you would match this expense from `Assets > Cash & Cash Equivalents > Cash on Hand`.
 
-For making adjustments or for a more accountant familiar feel you can use the [Multi journal entry](multi-journal-entries) which also supports multi-currency.
+For making adjustments or for a more accountant familiar feel you can use the [Multi journal entry](./multi-journal-entries.md) which also supports multi-currency.
 
  **Journal entry guides**
 
- - Learn more about [multi journal entries](multi-journal-entries)
+ - Learn more about [multi journal entries](./multi-journal-entries.md)
   - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
@@ -91,16 +92,16 @@ For making adjustments or for a more accountant familiar feel you can use the [M
 
 
 :::info[tip]
-When adding or viewing a transaction we add a `CR` or `DR` under the category which has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** "Bank Account" and **Debits** "Cost of Goods Sold")
+When adding or viewing a transaction we add a `CR` or `DR` under the category which has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** `Bank Account` and **Debits** "Cost of Goods Sold")
 :::
 
 ## Viewing journal entries
 
 You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making adjustments.
 
-For a bigger picture on your transactions you can use the [Transactions by Account](../Reports/transactions-by-account) report.
+For a bigger picture on your transactions you can use the [Transactions by Account](../Reports/transactions-by-account.md) report.
 
-Depending on your reason you can use the reports like [Balance Sheet](../Reports/balance-sheet) or [Profit and Loss (P&L)](../Reports/profit-and-loss).
+Depending on your reason you can use the reports like [Balance Sheet](../Reports/balance-sheet.md) or [Profit and Loss (P&L)](../Reports/profit-and-loss.md).
 
 :::info[tip]
 Setting the reports to **detailed** allows you to drill down to transaction level.
@@ -118,11 +119,11 @@ Remember, Fiskl's accounting reports draw directly from these journal entries, s
 
 Now that you understand the basics of journal entries in Fiskl, you might want to explore:
 
-  - Setting up your Chart of Accounts [CoA](../chart-of-accounts) transaction
+  - Setting up your Chart of Accounts [CoA](../chart-of-accounts.md) transaction
   - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create an Accounts Receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create an Accounts Payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create an opening balance](Journal-Entry-Guides/create-manual-transactions.md)
-  - Learn more about [multi journal entries](multi-journal-entries)
+  - Learn more about [multi journal entries](./multi-journal-entries.md)

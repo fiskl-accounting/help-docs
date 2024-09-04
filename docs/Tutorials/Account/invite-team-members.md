@@ -8,11 +8,10 @@ tags:
   - Getting Started
 ---
 
-# How to Invite and Manage Team Members in Fiskl
-
-## Introduction
 
 Effective team collaboration is crucial for managing your business finances. Fiskl makes it easy to invite team members and control their access to your financial data. This tutorial will guide you through the process of inviting new team members and managing existing ones.
+
+For more detailed information see [Team Management](../../Settings-Configurations/user-management.md)
 
 ## Prerequisites
 
@@ -48,7 +47,7 @@ Fiskl offers different roles to ensure proper access control:
 
 - **Owner:** Full access, including subscription and billing information
 - **Admin:** Full access, excluding subscription and billing information
-- **Billing user:** Can create invoices, quotes, and items; view all items; manage client list
+- **Billing user:** Can create and view their own items (invoices, quotes, expenses, mileage, time)
 - **User:** Can create and view their own items (expenses, mileage, time)
 
 :::info
@@ -75,15 +74,5 @@ You can easily manage your team members' roles and access:
   1. Deactivate the user first
   2. Click the delete button that appears next to their name
 
-## Conclusion
-
-By following this tutorial, you've learned how to invite new team members, assign roles, and manage existing team members in Fiskl. Effective team management in Fiskl can streamline your workflow and ensure proper access control to your financial data.
-
-Remember to regularly review your team members' roles and access levels to maintain the security of your financial information.
-
-## Next Steps
-
-- Learn how to [set up custom permissions](link-to-custom-permissions-tutorial) for specific team members
-- Explore [best practices for team collaboration](link-to-collaboration-best-practices) in Fiskl
 
 If you have any questions or need further assistance, don't hesitate to contact our support team.

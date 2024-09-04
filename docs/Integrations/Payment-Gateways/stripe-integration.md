@@ -2,13 +2,28 @@
 title: Stripe
 sidebar_position: 2
 description: Streamline your online payments by connecting Stripe
+toc_min_heading_level: 2
+toc_max_heading_level: 4
 tags:
-  - Integrations
-  - Payment gateways
-  - Stripe
+ - Integrations
+ - Payment gateways
+ - Stripe
 ---
 
+# Connecting Stripe to Fiskl
+
 Connecting Stripe to Fiskl transforms how you process online payments for your business. This integration allows you to accept credit, debit, and various other payment methods quickly and securely.
+
+Learn more about [Stripe](https://stripe.com/).
+
+<details>
+
+  <summary>TL;DR - Watch a detailed video on the Stripe integration </summary>
+
+  <div style={{ position: 'relative', paddingBottom: '40%', height: 0, width: '100%' }}>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pt4kY-msSAY?si=P9mh4ODD3c0aq1Rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</details>
 
 ## Benefits
 
@@ -21,30 +36,28 @@ Connecting Stripe to Fiskl transforms how you process online payments for your b
 
 You can either connect a new Stripe account or link an existing one.
 
-### Create a new Stripe account
+### Creating a new Stripe account
 
 1. Select Integrations from the left menu
 2. Choose "Connect to Stripe"
 3. Enter your email address
-4. Create a password
-5. Provide your mobile number for verification
-6. Enter your business location and type
-7. Provide personal details (name, address, email, phone)
-8. Enter business details (VAT number, website, product description)
-9. Add your bank details
+4. Follow the instructions in Stripe
 
-### Connect an existing Stripe account
+Once you've completed creating your new account, you may have to wait until all your KYC is verified and your account is approved. You can see the status of your account in your Stripe dashboard or in the Fiskl integration page.
+
+### Connecting an existing Stripe account
 
 1. Select Integrations from the left menu
 2. Choose "Connect to Stripe"
-3. Enter your Stripe account email
-4. Enter your password
+3. Sign in
+4. Select the account you want to give Fiskl access to
+5. You will be redirected back to Fiskl
 
 ## Using Stripe payments
 
 Once connected, Stripe will appear as a payment method on your invoices.
 
-:::info[tip]
+:::info
 Connected payment gateways are automatically selected for every invoice. You can change this in Invoice & quote settings.
 :::
 
@@ -77,6 +90,9 @@ If you're based in Belgium:
 - You can switch between payment gateways when creating a new invoice
 - To remove a payment gateway, select the small "x" at the top of each gateway in the Integrations menu
 
-For more information on creating and sending invoices, refer to the "Sending invoices" article in this guide.
+## Disconnecting Stripe form Fiskl
 
-Remember: Keeping your Stripe connection up-to-date ensures smooth payment processing and accurate financial data in Fiskl.
+There are two ways to disconnect Stripe from Fiskl:
+
+1. In Stripe, see [Disconnect your Stripe from a third-party platform](https://support.stripe.com/questions/disconnect-your-stripe-account-from-a-connected-third-party-platform)
+2. In Fiskl, go to the `Integrations` page and select the X on the connected Stripe card

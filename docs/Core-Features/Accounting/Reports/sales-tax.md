@@ -20,7 +20,7 @@ The Sales Tax Report in Fiskl provides a comprehensive overview of your company'
 ## Accessing the Sales Tax Report
 
 1. Select "Accounting" from the left menu
-2. Click on "Reports"
+2. Click on `Reports`
 3. Locate the Sales Tax Report in the list of automated reports
 
 ## Understanding how the Sales Tax report works

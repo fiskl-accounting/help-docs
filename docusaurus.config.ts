@@ -10,7 +10,7 @@ const config: Config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
   favicon: 'img/favicon/favicon-32x32.png',
-  url: 'https://help.fiskl.com',
+  url: 'https://fiskl-help.netlify.app',
   baseUrl: '/',
   organizationName: 'fiskl', // Usually your GitHub org/user name.
   projectName: 'fiskl-docs', // Usually your repo name.
@@ -26,7 +26,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/fiskl-accounting/help-docs/tree/master',
+          // editUrl: 'https://github.com/fiskl-accounting/help-docs/tree/master',
         },
         blog: {
           showReadingTime: true,
@@ -39,6 +39,10 @@ const config: Config = {
         theme: {
           customCss: 'src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-1M7RZGZYSS',
+          anonymizeIP: true,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -48,8 +52,12 @@ const config: Config = {
       ({
         hashed: true,
       }),
-    ]
+    ],
   ],
+
+  trailingSlash: false,  // Set this globally for your site
+
+
   themeConfig: {
     tableOfContents: {
       minHeadingLevel: 4,
@@ -68,7 +76,7 @@ const config: Config = {
           sidebarId: 'docsSidebar',
           position: 'left',
           label: 'Docs',
-          to: '/docs/'
+          to: '/docs/introduction'
         },
         {
           type: 'docSidebar',
@@ -106,8 +114,23 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Fiskl Ltd. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Fiskl Limited. Fiskl Limited is registered in England and Wales (No. 09330290). All rights reserved.`,
     },
+    metadata: [
+      { name: 'description', content: 'Master multi-currency accounting and invoicing with Fiskl\'s Help Center. Get expert support for streamlined business finances and double-entry bookkeeping. Start optimizing your financial management today!' },
+      { name: 'keywords', content: 'Fiskl accounting software, Multi-currency bookkeeping, Double-entry accounting system, Small business invoicing, Financial management tools, Online help center, Business finance support, Accounting tutorials, Invoicing best practices, International business accounting' },
+      { property: 'og:title', content: 'Fiskl Help Center: Expert Accounting & Invoicing Support' },
+      { property: 'og:description', content: 'Master your business finances with Fiskl\'s in-depth tutorials, FAQs, and step-by-step guides. Get expert support for accounting and invoicing today!' },
+      { property: 'og:type', content: 'article' },
+      { property: 'og:image', content: 'https://help.fiskl.com/img/fiskl_help_center_img.png' },  // Full URL recommended
+      { property: 'og:image:width', content: '1200' },
+      { property: 'og:image:height', content: '630' },
+      { property: 'og:site_name', content: 'Fiskl: Smart Finance for Small Business' },
+      { property: 'og:url', content: 'https://help.fiskl.com/' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:site', content: '@FisklApp' },
+      { name: 'twitter:creator', content: '@FisklApp' },
+    ],
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

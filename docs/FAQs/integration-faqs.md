@@ -9,6 +9,8 @@ tags:
 
 ---
 
+## Banking Integrations
+
 ### Is it safe to put my bank credentials in my Fiskl account?
 
 Fiskl never has direct access to your banking details when you connect your bank. We use trusted third-party services for bank connections:
@@ -33,11 +35,32 @@ To import older transactions, you'll need to use manual import:
 
 1. Export the transactions from your bank
 2. Format the data according to Fiskl's requirements
-3. Use the [Manual Import Bank Transactions](../Tutorials/banking/how-to-import-bank) feature
+3. Use the [Manual Import Bank Transactions](../Tutorials/Banking/how-to-import-bank) feature
 
 ### Does Fiskl add extra charges to payments processed through added payment gateways?
 
 If you are on the Solo, Pro, or Prime plans, Fiskl does not add any additional fees to transactions processed through integrated payment gateways. You'll only pay the standard fees charged by the payment gateway itself.
+
+## Payment Integrations
+
+### Can I connect Stripe to Fiskl?
+
+Yes, you can connect Stripe to Fiskl for two key purposes:
+
+1. **Payments**: You can create invoices with Stripe as the payment method, allowing you to accept payments from around the world seamlessly integrated with Fiskl. For more information, see [Stripe Payments in Fiskl](../Integrations/Payment-Gateways/stripe-integration.md).
+2. **Banking**: By connecting Stripe in Fiskl Banking, you can automate the management of every transaction, fee, refund, and more across one or multiple Stripe accounts, potentially saving you days of work each month. For more information, see [Stripe Banking Integration in Fiskl](../Integrations/Bank-Connections/connect-stripe.md).
+
+### Can I connect GoCardless to Fiskl for payments and direct debit?
+
+Yes, you can connect GoCardless to Fiskl and start accepting direct debit payments:
+
+GoCardless allows you to create direct debit mandates directly within Fiskl for your invoice payments. Imagine never having an overdue payment again! Once your customer makes the first payment, all subsequent variable payments will be automatically collected on the due date of future invoices. 
+
+For more information, see [GoCardless Payments in Fiskl](../Integrations/Payment-Gateways/gocardless-integration.md).
+
+### Does Fiskl support recurring invoices
+
+Yes, we have advanced [Recurring Invoices in Fiskl](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md)
 
 ## Need more help?
 

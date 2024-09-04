@@ -20,7 +20,7 @@ Fiskl offers a range of invoicing options, from basic to sophisticated. This gui
 
 While you can set up everything as you create your first invoice, it's helpful to have the following in place:
 
-1. Complete your company settings, ensuring your address is correct
+1. Complete your `Company Settings`, ensuring your address is correct
 2. Create a client
 3. Set up a payment method (either an integrated payment gateway like Stripe or a manual payment method)
 
@@ -47,14 +47,14 @@ Let's examine each part of the invoice for a comprehensive understanding:
 
 ### Company information
 
-The invoice pulls the following details from your Company settings:
+The invoice pulls the following details from your `Company Settings`:
 
 1. Company name
 2. Company address
 3. Company ID or Registration number
 
 :::info[tip]
-You can customize your address layout in Company settings to change how it appears on invoices and quotes.
+You can customize your address layout in `Company Settings` to change how it appears on invoices and quotes.
 :::
 
 ### Client details

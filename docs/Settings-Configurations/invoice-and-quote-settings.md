@@ -69,16 +69,27 @@ Customize your quote preferences:
 ## Email settings
 
 ### Custom domain
-Set up a whitelisted email domain for sending invoices:
+
+Set up a whitelisted email domain for sending invoices in your [Dashboard Invoice & Quote Settings](https://my.fiskl.com/invoice-settings):
 
 1. Provide your email
-2. Set up required CNAME records (instructions provided via email)
-3. Verify your domain
+2. Set up required CNAME records (instructions provided via email to this email)
+3. Wait for your domain to be verified
 
 :::info[caution]
-Ensure your domain has proper DMARC and SPF records set up for the best email deliverability. Failure to have these may result in email providers like Gmail or Yahoo Mail not delivering your messages.
+Ensure your domain has proper DMARC and SPF records set up for the best email deliverability. Failure to have these may result in email providers like Gmail or Yahoo Mail rejecting your emails.
 
-Removing the CNAME records after verification will also prevent your emails from being delivered.
+You can verify your settings are correct using tools like these:
+
+[DMARC Checker](https://dnschecker.org/dmarc-record-validation.php)
+
+
+[SPF Checker](https://dnschecker.org/spf-record-validation.php)
+
+:::
+
+:::info[WARNING]
+Removing the CNAME records in your DNS after verification will prevent your emails from being delivered.
 :::
 
 ### BCC for all emails

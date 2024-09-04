@@ -1,9 +1,9 @@
 .backgroundContainer {
   position: fixed;
-  top: 0;
+  top: 1;
   left: 0;
   right: 0;
-  height: 100vh;
+  height: 160vh;
   background-image: url('/img/fiskl_wave-blue-blue-gradient.svg');
   background-size: cover;
   background-position: top center;

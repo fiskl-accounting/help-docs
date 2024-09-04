@@ -3,10 +3,13 @@ title: Capital Cost
 
 description: Understanding capital costs in business finance
 ---
+
 ## Capital Cost (Definition)
+
 Capital cost refers to the total cost needed to bring a project to a commercially operable status.
 
 Key aspects of capital costs include:
+
 1. Includes all expenses incurred to acquire long-term assets
 2. Often involves significant upfront investments
 3. Can include costs for land, buildings, equipment, and infrastructure

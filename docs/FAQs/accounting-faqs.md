@@ -27,7 +27,7 @@ Yes, you can customize your Chart of Accounts to fit your business needs. Here's
 2. Click the plus button next to the account you want to add a category to
 3. Enter the new category details
 
-For more details, see [Managing your Chart of Accounts](../Core-Features/Accounting/chart-of-accounts).
+For more details, see [Managing your Chart of Accounts](../Core-Features/Accounting/chart-of-accounts.md).
 
 ### How do I delete an account from my Chart of Accounts?
 
@@ -36,11 +36,14 @@ To remove an account:
 1. Go to Chart of Accounts
 2. Click "Archive" next to the account you want to remove
 
-Note:
+:::note
+
 - If the account has no transactions, it will be deleted
 - Accounts with transactions will be moved to the Archived folder
 - Archived accounts remain active in accounting, and their transactions still count towards your company accounts
 - Archived accounts are not available in the account selector
+
+:::
 
 ## Transactions and Payments
 

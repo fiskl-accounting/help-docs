@@ -43,34 +43,68 @@ Yes, provided you own the domain and can add the necessary CNAME records. [Custo
 
 ### How do I invite a team member, and what access permissions are available?
 
-You can manage team members from your left menu [Team Members Tutorial](/docs/Tutorials/account/invite-team-members)
+You can manage team members from your left menu [Team Members Tutorial](/docs/Tutorials/Account/invite-team-members)
 
-Permission levels:
-
-- Admin: Full access to all features including accounting and visibility on all team members' items. Excludes the ability to add/change payment gateway integrations and close account
-- Accountant: Your accountant can produce reports, see your Chart of Accounts, transactions and manage all your business finances
-- User: Access to Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting, invoicing and business data
-- Billing user: Access to Invoicing, Expense, Time & Mileage. Visibility only on items they created. Excludes all accounting and business data
+Learn more [Team Management](../Settings-Configurations/user-management)
 
 ### How can I change the date format, e.g., from UK, 31/1/24 to US, 01/31/24?
 
-To change the date format:
+The format of the dates and numbers are decided by using the Region and Language set in your [User Settings Preferences](https://my.fiskl.com/user-settings/preferences)
 
-1. Go to User settings
-1. Select "Preferences"
-1. Here you can change the time, date and number settings
+1. Go to `User Settings` > top right menu
+1. Select `Preferences`
+1. Here you can change the `Region` and `Language`
 
 ### How do I change the email for my Fiskl account?
 
 To change your account email:
 
-1. Go to User settings
-1. Go to Account settings
+1. Go to `User Settings`
+1. Go to `Account Settings`
 1. Here you can change your email, password or remove Google Authorization
 
 ### How do I set up another company?
 
-[Answer to be provided]
+Fiskl operates on a one company per account basis, but there are flexible options to manage multiple business identities within the platform.
+
+- **Multiple Templates and Brands:** You can customize Multiple Templates and Brands within a single account to cater to different business needs. This feature allows you to maintain distinct branding and documentation for each entity under the same account.
+- **Account Switching:** On Android and iOS, you can easily switch between different accounts without the need to sign in again. This feature simplifies managing multiple companies from a single device.
+- **Accountant Portal:** If you manage multiple companies or clients, consider using the Accountant Portal for streamlined access and management across various accounts.
+
+These options offer flexibility and convenience, ensuring you can manage multiple business operations efficiently within the Fiskl platform.
+
+### How do I download my Fiskl receipts for subscription?
+
+<details>
+
+  <summary>TL;DR - Download your fiskl receipts</summary>
+
+  <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/cm0gszmls0007mj0cf15hzy32/tour
+"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
+To download your receipts in `Subscription & Billing`
+
+1. Navigate to the left menu and select `Subscription & Billing`
+1. From the tabs at the top select `History`
+1. Use the date range filter to find your receipt
+1. Click on the details to download
+
+### Can I cancel my subscription, or is the process difficult like with other companies?
+
+You are in full control. You can upgrade, downgrade, cancel your subscription, or delete your account directly from your dashboard.
+
+- [How can I cancel my subscription but keep all my data?](../Plans-Billing/cancel-subscription.md)
+- [How can I delete my account and all my data?](../Plans-Billing/delete-account.md)
 
 ## Need more help?
 
