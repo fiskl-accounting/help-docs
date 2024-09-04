@@ -1,7 +1,8 @@
 ---
 title: Cash vs Accrual accounting
 sidebar_position: 10
-description: Understanding Cash and Accrual accounting methods
+description: "Compare cash and accrual accounting methods in Fiskl: Choose the best approach for your business's financial reporting."
+keywords: ["cash accounting", "accrual accounting", "methods comparison"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

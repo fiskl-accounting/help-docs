@@ -1,7 +1,8 @@
 ---
 title: Chart of Accounts
 sidebar_position: 2
-description: Understanding and managing your Chart of Accounts
+description: "Organize your finances effectively with Fiskl's Chart of Accounts feature: Learn to structure your accounts for clearer insights."
+keywords: ["chart of accounts", "financial organization", "Fiskl feature"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

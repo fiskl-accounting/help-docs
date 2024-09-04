@@ -98,13 +98,13 @@ To transfer money between accounts with the same currency:
 
 </details>  
 
-1. From the left menu, go to ``Accounting` > `Chart of Accounts``.
-1. Select the account you want to transfer money to or from.
-1. Select the `Match` link on the transaction.
-1. Select `Internal transfer`.
+1. From the left menu, go to ``Accounting` > `Chart of Accounts``
+1. Select the account you want to transfer money to or from
+1. Select the `Match` link on the transaction
+1. Select `Internal transfer`
 1. You will be presented with potential matches:
-    1. Choose the matching transaction.
-    1. Select "Update" to save the internal transfer match.
+    1. Choose the matching transaction
+    1. Select "Update" to save the internal transfer match
 
 Your internal transfer will appear in both the sending and receiving accounts.
 

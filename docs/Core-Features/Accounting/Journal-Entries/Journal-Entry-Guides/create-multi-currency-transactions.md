@@ -30,7 +30,7 @@ Recording transactions in their original currency is crucial for several reasons
 
 Imagine you're on a business trip abroad and pay for a hotel with your USD bank card. The hotel bill is €1500, but your bank statement shows a charge of $1,789.35.
 
-In Fiskl, you can record this transaction in euros (€1500) while still tracking the USD amount ($1,789.35). This approach maintains the accuracy of your records and helps you monitor exchange rate impacts on your expenses.
+In Fiskl, you can record this transaction in Euros (€1500) while still tracking the USD amount ($1,789.35). This approach maintains the accuracy of your records and helps you monitor exchange rate impacts on your expenses.
 </details>
 
 ## Recording multi-currency transactions in Fiskl

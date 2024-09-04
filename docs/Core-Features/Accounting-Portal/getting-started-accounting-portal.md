@@ -1,7 +1,8 @@
 ---
 title: Getting Started with the Accounting Portal
 sidebar_position: 1
-description: Learn how to set up and use your Fiskl Accounting Portal
+description: "Master Fiskl's Accounting Portal: A comprehensive guide for efficient financial management and smoother operations."
+keywords: ["Accounting Portal", "setup guide", "account management"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

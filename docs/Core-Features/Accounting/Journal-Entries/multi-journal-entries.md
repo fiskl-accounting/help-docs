@@ -12,7 +12,7 @@ tags:
   - Financial reports
 ---
 
-Multi Journal entries in Fiskl allow you to create multiple debit and credit entries across different accounts and currencies in a single transaction. This powerful feature is particularly useful for accountants and businesses dealing with complex, multi-currency transactions.
+Multi journal entries in Fiskl allow you to create multiple debit and credit entries across different accounts and currencies in a single transaction. This powerful feature is particularly useful for accountants and businesses dealing with complex, multi-currency transactions.
 
 <details>
 <summary>Why are multi journal entries important?</summary>

@@ -44,7 +44,7 @@ Use text filters to search for specific vendors, invoice numbers, or transaction
 
 Exporting your transactions allows you to analyze your data in other applications. Fiskl offers three export options:
 
-1. Google sheets
+1. Google Sheets
 2. Excel format
 3. CSV format
 

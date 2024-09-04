@@ -49,7 +49,7 @@ Fiskl supports several types of journal entries to cover all your accounting nee
 
 ## Creating and managing journal entries
 
-While Fiskl automates much of the process there are many reason why you would need to manually create and edit journal entries.
+While Fiskl automates much of the process there are many reasons why you would need to manually create and edit journal entries.
 
 <Tabs>
   <TabItem value="businessOwner" label="Business owner" default>
