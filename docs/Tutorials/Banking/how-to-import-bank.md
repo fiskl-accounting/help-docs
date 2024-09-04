@@ -2,6 +2,7 @@
 title: How to import bank transactions
 sidebar_position: 3
 description: Learn how to manually import your banking transactions into Fiskl
+slug: /tutorials/banking/import
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

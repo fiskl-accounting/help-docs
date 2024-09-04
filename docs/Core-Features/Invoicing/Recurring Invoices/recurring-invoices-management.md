@@ -2,6 +2,7 @@
 title: Managing Recurring Invoices
 sidebar_position: 5
 description: How to manage your recurring invoices
+slug: /core-features/invoicing/recurring-invoices/recurring-invoices-management
 tags:
  - Invoice
  - Recurring invoices

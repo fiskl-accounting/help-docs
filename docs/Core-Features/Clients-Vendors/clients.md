@@ -2,6 +2,7 @@
 title: Managing Clients
 sidebar_position: 4
 description: Creating and editing clients
+slug: /core-features/clients/managing-clients
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

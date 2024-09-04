@@ -2,6 +2,7 @@
 title: Team Management
 sidebar_position: 15
 description: Managing users and permissions in Fiskl
+slug: /settings/user-management
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

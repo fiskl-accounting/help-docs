@@ -2,6 +2,7 @@
 title: Invoice and Quote Settings
 sidebar_position: 10
 description: Configure your invoice and quote preferences
+slug: /settings/invoice-quote-settings
 tags:
  - Settings
  - Invoice and quote settings

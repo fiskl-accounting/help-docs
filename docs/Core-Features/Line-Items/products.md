@@ -2,6 +2,7 @@
 title: Managing Products
 sidebar_position: 2
 description: Managing and using products
+slug: /core-features/line-items/managing-products
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

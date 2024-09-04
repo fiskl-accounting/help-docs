@@ -2,6 +2,7 @@
 title: Delete Account
 sidebar_position: 10
 description: How to permanently delete your Fiskl account
+slug: /billing/account-delete
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

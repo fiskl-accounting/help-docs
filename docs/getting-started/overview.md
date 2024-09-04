@@ -2,6 +2,7 @@
 title: Getting started
 sidebar_position: 1
 description: Steps to getting you started
+slug: /getting-started/overview
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

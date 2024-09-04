@@ -1,6 +1,6 @@
 --- 
 title: Accounting Cycle 
-description: Overview of the accounting cycle and its stages 
+description: Overview of the accounting cycle and its stages
 --- 
 
 ## Accounting Cycle (Definition)

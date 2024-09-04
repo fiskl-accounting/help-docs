@@ -2,6 +2,7 @@
 title: How to connect your bank using Salt Edge
 sidebar_position: 6
 description: Learn how to securely connect your bank to Fiskl using Salt Edge
+slug: /tutorials/banking/connect-saltedge
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

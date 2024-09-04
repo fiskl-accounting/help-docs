@@ -2,6 +2,7 @@
 title: Fiskl Glossary
 sidebar_position: 1
 description: Comprehensive glossary of terms used in the Fiskl accounting platform
+slug: /glossary/fiskl-terms
 toc_min_heading_level: 2
 toc_max_heading_level: 3
 ---

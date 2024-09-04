@@ -2,6 +2,7 @@
 title: Creating Quotes
 sidebar_position: 2
 description: How to create quotes
+slug: /core-features/quotes/creating-quotes
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

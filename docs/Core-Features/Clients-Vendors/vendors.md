@@ -2,6 +2,7 @@
 title: Managing Vendors
 sidebar_position: 4
 description: Creating and managing vendors
+slug: /core-features/vendors/managing-vendors
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

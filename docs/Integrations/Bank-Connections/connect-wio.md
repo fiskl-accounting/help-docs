@@ -2,6 +2,7 @@
 title: Connect WIO Bank
 sidebar_position: 6
 description: Streamline your financial management by connecting your WIO Bank account to Fiskl
+slug: /integrations/bank/connection/wio
 tags:
  - Integrations
  - Banking

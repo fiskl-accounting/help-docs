@@ -2,6 +2,7 @@
 title: How to Invite and Manage Team Members in Fiskl
 sidebar_position: 8
 description: A step-by-step guide to inviting and managing your team members in Fiskl
+slug: /tutorials/account/invite-team-members
 tags:
   - Tutorial
   - Team Management

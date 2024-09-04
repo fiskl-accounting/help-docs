@@ -2,6 +2,7 @@
 title: Accountant Management
 sidebar_position: 30
 description: Invite and manage your accountant in Fiskl
+slug: /settings/account-management
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

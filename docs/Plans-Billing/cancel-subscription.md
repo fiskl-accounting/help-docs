@@ -2,6 +2,7 @@
 title: Cancel Subscription
 sidebar_position: 8
 description: How to cancel your Fiskl subscription
+slug: /billing/cancel-subscription
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -2,6 +2,7 @@
 title: Accounting FAQs
 sidebar_position: 4
 description: Frequently asked questions about Fiskl's accounting features
+slug: /faq/accounting-faqs
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

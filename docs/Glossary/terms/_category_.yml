@@ -1,4 +1,4 @@
 position: 1 # float position is supported
-label: 'Terms'
+label: 'Definitions'
 collapsible: true 
 collapsed: true 

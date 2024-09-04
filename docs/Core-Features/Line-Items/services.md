@@ -2,6 +2,7 @@
 title: Managing Services
 sidebar_position: 4
 description: Managing and using services
+slug: /core-features/line-items/managing-services
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

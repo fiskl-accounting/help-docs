@@ -2,6 +2,7 @@
 title: Invoice Basics
 sidebar_position: 3
 description: Getting started with invoice basics
+slug: /getting-started/invoicing
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -2,6 +2,7 @@
 title: Stripe
 sidebar_position: 2
 description: Streamline your online payments by connecting Stripe
+slug: /integrations/payment/stripe
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

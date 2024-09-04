@@ -2,6 +2,7 @@
 title: Manage Your Subscription
 sidebar_position: 7
 description: Control your Fiskl plan and billing information
+slug: /billing/manage-subscription
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

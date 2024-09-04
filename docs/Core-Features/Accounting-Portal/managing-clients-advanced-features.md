@@ -3,6 +3,7 @@ title: Managing Clients in the Portal
 sidebar_position: 2
 description: Leverage Fiskl's advanced client management tools to enhance customer relationships and streamline billing processes.
 keywords: ["client management", "advanced features", "Accounting Portal"]
+slug: /core-features/accounting-portal/managing-clients
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

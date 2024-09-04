@@ -2,6 +2,7 @@
 title: Company Settings
 sidebar_position: 2
 description: Manage your basic company information
+slug: /settings/company-settings
 tags:
  - Settings
  - Company settings

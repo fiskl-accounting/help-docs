@@ -2,6 +2,7 @@
 title: Choose Your Fiskl Plan
 sidebar_position: 2
 description: Choose the right Fiskl plan for your business
+slug: /billing/subscription-plans
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

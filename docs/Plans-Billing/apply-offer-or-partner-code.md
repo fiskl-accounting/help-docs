@@ -2,6 +2,7 @@
 title: Apply Discount Codes
 sidebar_position: 4
 description: How to apply offer or partner codes
+slug: /billing/subscription-offer-codes
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
