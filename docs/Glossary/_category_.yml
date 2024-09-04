@@ -1,5 +1,4 @@
-position: 14 # float position is supported
+position: 14 
 label: 'Glossary'
-collapsible: true # make the category collapsible
-customProps:
-  description: This description can be used in the swizzled DocCard
+collapsible: true
+collapsed: true
