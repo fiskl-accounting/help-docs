@@ -1,8 +1,8 @@
 ---
 title: How to import bank transactions
 sidebar_position: 3
-description: Learn how to manually import your banking transactions into Fiskl
-slug: /tutorials/banking/import
+description: Maintain accurate financial records in Fiskl. Import bank transactions manually or automatically for up-to-date business insights.
+keywords: ["Import bank transactions Fiskl", "manual transaction import Fiskl", "financial records Fiskl", "bank data Fiskl", "accurate accounting Fiskl"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -195,7 +195,7 @@ If you encounter problems during the import process, try these solutions:
 
 2. **Date parsing errors**: Try different date formats in Fiskl, or reformat the date column in your spreadsheet application before importing.  Export as CSV and try again.
 
-3. **Missing transactions**: If you do not see any transactions after importing it may be that your filters are excluding them. Set the date filter to "All" to ensure transactions aren't being filtered out. 
+3. **Missing transactions**: If you do not see any transactions after importing it may be that your filters are excluding them. Set the date filter to "All" to ensure transactions aren't being filtered out.
 
 4. **Other errors**: Contact Fiskl support for further assistance.
 

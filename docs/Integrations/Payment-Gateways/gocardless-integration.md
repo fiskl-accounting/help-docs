@@ -1,8 +1,8 @@
 ---
 title: GoCardless
 sidebar_position: 4
-description: Streamline your payment collection by connecting GoCardless to Fiskl
-slug: /integrations/payment/gocardless
+description: Simplify recurring payments with Fiskl-GoCardless integration. Automate direct debits for smoother billing and improved cash flow.
+keywords: ["GoCardless integration Fiskl", "direct debit payments", "automated billing", "payment processing"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -81,7 +81,7 @@ Yes, GoCardless supports multiple currencies including GBP, EUR, USD, SEK, DKK, 
 
 ### What are the fees?
 
-See GoCardless' detailed up-to-date information on [GoCardless pricing](https://gocardless.com/pricing/). 
+See GoCardless' detailed up-to-date information on [GoCardless pricing](https://gocardless.com/pricing/).
 Note: Unlike other platforms, Fiskl does **not** add any additional fees.
 
 For international payments, visit the [GoCardless international payments](https://gocardless.com/international-payments) page.

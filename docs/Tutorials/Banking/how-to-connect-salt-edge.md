@@ -1,8 +1,8 @@
 ---
 title: How to connect your bank using Salt Edge
 sidebar_position: 6
-description: Learn how to securely connect your bank to Fiskl using Salt Edge
-slug: /tutorials/banking/connect-saltedge
+description: "Enhance financial management with Fiskl-Salt Edge integration: Enable seamless bank connections for automatic transaction imports."
+keywords: ["Connect Salt Edge Fiskl", "bank integration Fiskl", "automatic transaction imports", "financial management Fiskl", "seamless banking Fiskl"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

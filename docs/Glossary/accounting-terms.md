@@ -1,8 +1,8 @@
 ---
 title: Fiskl Glossary
 sidebar_position: 1
-description: Comprehensive glossary of terms used in the Fiskl accounting platform
-slug: /glossary/fiskl-terms
+description: Navigate financial terminology confidently with Fiskl's comprehensive accounting glossary. Enhance your financial literacy effortlessly.
+keywords: ["Multi-currency transactions Fiskl", "international finance", "currency management", "global business accounting", "Fiskl features"]
 toc_min_heading_level: 2
 toc_max_heading_level: 3
 ---
@@ -11,7 +11,7 @@ Welcome to the Fiskl Glossary. This comprehensive resource provides definitions 
 
 ## Alphabetical Index
 
-- [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [X](#x) 
+- [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [X](#x)
 
 ## A
 

@@ -1,8 +1,8 @@
 ---
 title: Managing Products
 sidebar_position: 2
-description: Managing and using products
-slug: /core-features/line-items/managing-products
+description: Streamline inventory management with Fiskl. Track products, update pricing, and integrate seamlessly with sales and invoicing.
+keywords: ["Product management Fiskl", "inventory tracking", "product pricing", "sales integration"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Company Settings
 sidebar_position: 2
-description: Manage your basic company information
-slug: /settings/company-settings
+description: Configure your Fiskl company profile for a professional presentation. Update contact information, branding, and business preferences easily.
+keywords: ["Company settings Fiskl", "business configuration", "branding", "contact information", "business settings"]
 tags:
  - Settings
  - Company settings

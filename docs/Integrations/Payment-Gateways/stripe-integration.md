@@ -1,8 +1,8 @@
 ---
 title: Stripe
 sidebar_position: 2
-description: Streamline your online payments by connecting Stripe
-slug: /integrations/payment/stripe
+description: Optimize payment processing with Fiskl-Stripe integration. Automate invoicing and simplify financial transactions effortlessly.
+keywords: ["Stripe integration Fiskl", "payment processing", "invoicing automation", "small business payments", "Fiskl features"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

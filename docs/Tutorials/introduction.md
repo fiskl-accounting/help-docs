@@ -1,8 +1,9 @@
 ---
 id: introduction
 title: Introduction to Tutorials
-slug: /tutorials/introduction
 sidebar_label: Introduction
+description: Master Fiskl's core features with our comprehensive tutorial. Efficiently manage your business finances from day one.
+keywords: ["Introduction to Fiskl", "Fiskl tutorial", "business finance management", "core features Fiskl", "accounting software guide"]
 ---
 
 

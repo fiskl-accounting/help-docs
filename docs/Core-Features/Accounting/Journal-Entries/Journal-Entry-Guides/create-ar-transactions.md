@@ -1,7 +1,8 @@
 ---
 title: Working with Accounts Receivable
 sidebar_position: 12
-description: Create Accounts Receivable (AR) transactions
+description: "Efficiently manage Accounts Receivable with Fiskl: Track incoming payments, improve cash flow, and maintain healthy customer relationships."
+keywords: ["Create AR transactions Fiskl", "Accounts Receivable", "payment tracking", "cash flow management"]
 slug: /accounting/core-features/journal-entries/guides/accounts-receivable-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4

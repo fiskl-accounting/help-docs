@@ -1,8 +1,8 @@
 ---
 title: Connect Stripe
 sidebar_position: 1
-description: Streamline your financial management by connecting your Stripe account to Fiskl
-slug: /integrations/bank/connection/stripe
+description: "Simplify banking and automated transactions using the Fiskl-Stripe integration: Enjoy seamless accounting and improved cash flow management."
+keywords: ["Stripe integration Fiskl", "payment processing", "invoicing software", "small business payments", "banking", "Fiskl tools"]
 tags:
  - Integrations
  - Banking

@@ -1,8 +1,8 @@
 ---
 title: Accountant Management
 sidebar_position: 30
-description: Invite and manage your accountant in Fiskl
-slug: /settings/account-management
+description: Optimize accounting collaboration with Fiskl's accountant access management. Control permissions and streamline financial processes.
+keywords: ["Accountant management Fiskl", "access control", "collaboration tools", "accounting permissions"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -84,4 +84,3 @@ If you encounter issues while managing your accountant access:
 3. Ensure your accountant has created a Fiskl account if they don't already have one
 
 For persistent issues, contact Fiskl support for assistance.
-

@@ -1,8 +1,8 @@
 ---
 title: Integration FAQs
 sidebar_position: 8
-description: Integration FAQs
-slug: /faq/integration-faqs
+description: Boost operational efficiency by learning how to integrate Fiskl with other tools and services. Streamline your business processes.
+keywords: ["Integration FAQs Fiskl", "tool integration", "business efficiency", "software integration"]
 toc_min_heading_level: 2
 toc_max_heading_level: 6
 tags:
@@ -55,7 +55,7 @@ Yes, you can connect Stripe to Fiskl for two key purposes:
 
 Yes, you can connect GoCardless to Fiskl and start accepting direct debit payments:
 
-GoCardless allows you to create direct debit mandates directly within Fiskl for your invoice payments. Imagine never having an overdue payment again! Once your customer makes the first payment, all subsequent variable payments will be automatically collected on the due date of future invoices. 
+GoCardless allows you to create direct debit mandates directly within Fiskl for your invoice payments. Imagine never having an overdue payment again! Once your customer makes the first payment, all subsequent variable payments will be automatically collected on the due date of future invoices.
 
 For more information, see [GoCardless Payments in Fiskl](../Integrations/Payment-Gateways/gocardless-integration.md).
 

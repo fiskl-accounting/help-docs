@@ -1,8 +1,8 @@
 ---
 title: Sales Tax Report
 sidebar_position: 5
-description: Understanding and using Sales Tax Report
-slug: /core-features/accounting/reports/sales-tax
+description: "Manage sales tax effortlessly with Fiskl: Ensure compliance, accuracy in tax filings, and streamline your financial reporting."
+keywords: ["Sales tax Fiskl", "tax management software", "compliance", "tax reporting"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

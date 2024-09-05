@@ -1,8 +1,8 @@
 ---
 title: How to Invite and Manage Team Members in Fiskl
 sidebar_position: 8
-description: A step-by-step guide to inviting and managing your team members in Fiskl
-slug: /tutorials/account/invite-team-members
+description: Streamline team collaboration in Fiskl. Easily invite and onboard team members for efficient financial task management.
+keywords: ["Invite team members Fiskl", "onboarding Fiskl", "team collaboration Fiskl", "account invitations Fiskl", "collaborative accounting Fiskl"]
 tags:
   - Tutorial
   - Team Management
@@ -59,19 +59,19 @@ Sensitive financial information is only accessible to owners and admins.
 
 You can easily manage your team members' roles and access:
 
-- **Change roles:** 
+- **Change roles:**
   1. Click on a member's current role
   2. Select a new role from the dropdown menu
 
-- **Deactivate a user:** 
+- **Deactivate a user:**
   1. Locate the user in the team member list
   2. Switch the toggle next to their name to the off position
 
-- **Reactivate a user:** 
+- **Reactivate a user:**
   1. Find the deactivated user in the list
   2. Switch the toggle back to the on position
 
-- **Delete a member:** 
+- **Delete a member:**
   1. Deactivate the user first
   2. Click the delete button that appears next to their name
 

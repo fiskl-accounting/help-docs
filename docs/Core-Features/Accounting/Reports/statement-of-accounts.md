@@ -1,8 +1,8 @@
 ---
 title: Statement of Accounts
 sidebar_position: 7
-description: Understanding and using the Statement of Accounts report in Fiskl
-slug: /core-features/accounting/reports/statement-of-accounts
+description: Access detailed Statements of Accounts in Fiskl for comprehensive transaction summaries between your business and customers.
+keywords: ["Statement of accounts Fiskl", "financial transactions", "accounting reports", "business finance"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

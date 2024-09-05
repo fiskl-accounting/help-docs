@@ -1,7 +1,8 @@
 ---
 title: Understanding Journal Entries
 sidebar_position: 3
-description: Understanding and managing journal entries
+description: Master the art of creating and managing journal entries in Fiskl to ensure accurate and detailed financial records.
+keywords: ["journal entries", "transaction management", "Fiskl accounting"]
 slug: /accounting/core-features/journal-entries/understanding-journal-entries
 toc_min_heading_level: 2
 toc_max_heading_level: 4

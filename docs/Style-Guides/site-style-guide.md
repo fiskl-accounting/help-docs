@@ -1,7 +1,8 @@
 ---
 title: Site style guide
 sidebar_position: 6
-description: Style guide structuring help documentation
+description: Ensure visual consistency across Fiskl with our comprehensive site style guide. Apply design principles for a cohesive user experience.
+keywords: ["Site style guide Fiskl", "design consistency Fiskl", "visual branding Fiskl", "UI guidelines Fiskl", "platform design Fiskl"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

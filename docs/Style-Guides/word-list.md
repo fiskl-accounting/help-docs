@@ -1,7 +1,8 @@
 ---
 title: Word list
 sidebar_position: 2
-description: Guide on acceptable words and when to use them
+description: Standardize terminology across Fiskl communications with our word list. Ensure consistent and clear messaging in all documentation.
+keywords: ["Word list Fiskl", "terminology guide Fiskl", "communication standards Fiskl", "consistent language Fiskl", "documentation Fiskl"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
@@ -54,7 +55,7 @@ Use "can" instead of "allowed to" or "enabled." Use "can't" instead of "cannot" 
 
 ### Chart of Accounts
 Lowercase. Use lowercase unless referring to a specific product or branded feature (e.g., "Fiskl Chart of Accounts") or ("You can customize your Chart of Accounts to better match your business needs.") or ("To access the Fiskl Chart of Accounts, navigate to the accounting section.")
- 
+
 ### click
 Use "select" instead—not everyone uses a mouse. Provide clear context for where a CTA will take the customer.
 
@@ -75,7 +76,7 @@ People who use Fiskl are our customers. You can also use "customer" when talking
 Use "data" or "information" when discussing privacy or sensitive topics. "Info" is okay in less formal contexts.
 
 ### default
-Avoid using "default" in customer-facing copy due to negative associations. Use alternatives like "Initial", "Chosen", "Standard" and "Recommended" 
+Avoid using "default" in customer-facing copy due to negative associations. Use alternatives like "Initial", "Chosen", "Standard" and "Recommended"
 
 ## E
 
@@ -106,7 +107,7 @@ Use caution with this word. Set accurate customer expectations. Don't capitalize
 ## G
 
 ### gear icon
-Use gear icon to refer to settings access point using the icon. 
+Use gear icon to refer to settings access point using the icon.
 
 ### guarantee
 Only use if approved by your legal partner. It implies a promise and may have legal implications.
@@ -173,7 +174,7 @@ Use right menu when referring to the user menu in Fiskl
 ## S
 
 ### Screen
-Use screen when referring specifically to UI elements on Mobile devices. For a neutral context use "view" 
+Use screen when referring specifically to UI elements on Mobile devices. For a neutral context use "view"
 
 ### select
 Use for clickable or tappable items.

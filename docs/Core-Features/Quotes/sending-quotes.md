@@ -1,8 +1,8 @@
 ---
 title: Sending Quotes
 sidebar_position: 2
-description: How to send quotes
-slug: /core-features/quotes/sending-quotes
+description: Impress potential clients with Fiskl's professional quote sending feature. Deliver clear, customized proposals effortlessly.
+keywords: ["Sending quotes Fiskl", "professional proposals", "customizable quotes", "sales software"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Templates and Brands
 sidebar_position: 6
-description: Configure your invoice, quote, and email templates and brands
-slug: /settings/templates-and-brands
+description: Maintain brand consistency with Fiskl's template management. Create and edit templates for documents and branding elements effortlessly.
+keywords: ["Templates Fiskl", "brand management", "document templates", "customize branding", "professional templates"]
 tags:
   - Settings
   - Templates

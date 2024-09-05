@@ -1,7 +1,8 @@
 ---
 title: Content style guide
 sidebar_position: 1
-description: Style guide for writing help documentation
+description: Maintain consistent communication with Fiskl's content style guidelines. Enhance clarity and professionalism across all platforms.
+keywords: ["Content style guide Fiskl", "communication guidelines Fiskl", "style consistency Fiskl", "content creation Fiskl", "Fiskl documentation standards"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

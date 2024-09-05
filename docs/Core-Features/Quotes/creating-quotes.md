@@ -1,8 +1,8 @@
 ---
 title: Creating Quotes
 sidebar_position: 2
-description: How to create quotes
-slug: /core-features/quotes/creating-quotes
+description: Create professional, branded quotes with Fiskl's customizable templates. Impress clients and win more business opportunities.
+keywords: ["Quote creation Fiskl", "professional quotes", "customizable templates", "business branding", "sales software"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

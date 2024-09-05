@@ -1,8 +1,8 @@
 ---
 title: Getting started
 sidebar_position: 1
-description: Steps to getting you started
-slug: /getting-started/overview
+description: "Discover Fiskl's core features: Streamline accounting, invoicing, and financial management for your growing business."
+keywords: ["Fiskl overview", "core features", "accounting software", "invoicing tools", "financial management", "business finance"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

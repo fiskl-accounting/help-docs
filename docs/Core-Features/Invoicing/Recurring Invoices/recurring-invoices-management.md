@@ -1,8 +1,8 @@
 ---
 title: Managing Recurring Invoices
 sidebar_position: 5
-description: How to manage your recurring invoices
-slug: /core-features/invoicing/recurring-invoices/recurring-invoices-management
+description: Optimize cash flow with Fiskl's recurring invoice management. Monitor, adjust, and ensure accurate ongoing billing effortlessly.
+keywords: ["Manage recurring invoices Fiskl", "subscription billing", "cash flow management", "automated invoicing"]
 tags:
  - Invoice
  - Recurring invoices

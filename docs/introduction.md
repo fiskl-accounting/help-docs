@@ -1,7 +1,7 @@
 ---
 title: Welcome to Fiskl Help
 sidebar_position: 1
-description: Your guide to Fiskl's powerful accounting and invoicing platform
+description: Customize Fiskl invoices and quotes to reflect your brand. Ensure professional, consistent business communications effortlessly.
 ---
 import Welcome from '@site/src/components/Introduction';
 

@@ -1,8 +1,8 @@
 ---
 title: Recording Time
 sidebar_position: 6
-description: Time tracking and billing
-slug: /core-features/line-items/recording-time
+description: Optimize service-based billing with Fiskl's time tracking. Ensure accurate invoicing and efficient management of billable hours.
+keywords: ["Time tracking Fiskl", "billable hours", "invoicing software", "time management", "service businesses"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

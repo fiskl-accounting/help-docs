@@ -1,8 +1,8 @@
 ---
 title: Managing Vendors
 sidebar_position: 4
-description: Creating and managing vendors
-slug: /core-features/vendors/managing-vendors
+description: "Optimize vendor relationships with Fiskl: Efficiently track purchases, manage payments, and streamline vendor interactions."
+keywords: ["Vendor management Fiskl", "purchase tracking", "payment processing", "vendor relations"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

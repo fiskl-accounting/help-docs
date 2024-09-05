@@ -1,8 +1,8 @@
 ---
 title: Getting started as an accountant
 sidebar_position: 6
-description: Getting started as an accountant
-slug: /getting-started/accountant
+description: "Empower your accounting practice with Fiskl's specialized tools: Client account management, invoicing, and financial reporting."
+keywords: ["Fiskl for accountants", "client management", "invoicing tools", "financial reporting"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

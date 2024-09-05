@@ -1,7 +1,8 @@
 ---
 title: Handling Internal Transfers
 sidebar_position: 14
-description: Create and manage internal transfer transactions between your accounts
+description: "Simplify internal fund transfers with Fiskl: Track movement between accounts and maintain organized financial records seamlessly."
+keywords: ["Internal transfer transactions Fiskl", "fund transfers", "account management", "financial tracking"]
 slug: /accounting/core-features/journal-entries/guides/internal-transfers
 toc_min_heading_level: 2
 toc_max_heading_level: 4

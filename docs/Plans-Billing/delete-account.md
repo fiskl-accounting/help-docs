@@ -1,8 +1,8 @@
 ---
 title: Delete Account
 sidebar_position: 10
-description: How to permanently delete your Fiskl account
-slug: /billing/account-delete
+description: Securely delete your Fiskl account with our step-by-step guide. Ensure all data is erased and necessary actions are completed.
+keywords: ["Delete Fiskl account", "permanent account deletion", "data security", "account closure", "user management"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -2,7 +2,8 @@
 title: User Preferences
 
 sidebar_position: 10
-description: Configure your personal preferences and account settings
+description: "Personalize your Fiskl experience: Adjust notifications, device language preferences, and account security settings to suit your needs."
+keywords: ["User settings Fiskl", "personal preferences", "account security", "notification settings", "device language options"]
 slug: /settings/user-settings
 tags:
  - Settings

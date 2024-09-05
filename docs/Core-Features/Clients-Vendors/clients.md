@@ -1,8 +1,8 @@
 ---
 title: Managing Clients
 sidebar_position: 4
-description: Creating and editing clients
-slug: /core-features/clients/managing-clients
+description: "Enhance customer relationships with Fiskl's client management tools: Track interactions, streamline invoicing, and boost satisfaction."
+keywords: ["Client management Fiskl", "customer relationships", "invoicing software", "client tracking"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

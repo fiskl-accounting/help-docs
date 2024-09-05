@@ -1,8 +1,8 @@
 ---
 title: Logging Mileage
 sidebar_position: 8
-description: Mileage tracking and billing
-slug: /core-features/line-items/logging-mileage
+description: Maximize tax deductions with Fiskl's mileage tracking feature. Accurately record and report business travel expenses effortlessly.
+keywords: ["Mileage tracking Fiskl", "business travel", "tax deductions", "mileage reports", "travel expense management"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

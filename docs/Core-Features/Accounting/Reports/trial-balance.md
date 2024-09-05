@@ -1,8 +1,8 @@
 ---
 title: Trial Balance Report
 sidebar_position: 6
-description: Understanding and using the Trial Balance report in Fiskl
-slug: /core-features/accounting/reports/trial-balance
+description: Verify account accuracy and prepare for reporting with Fiskl's effortless trial balance generation feature.
+keywords: ["Trial balance Fiskl", "account accuracy", "financial reporting", "small business accounting"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

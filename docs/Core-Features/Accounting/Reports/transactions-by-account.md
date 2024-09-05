@@ -1,8 +1,8 @@
 ---
 title: Transactions by Account
 sidebar_position: 4
-description: Understanding and using the Transactions by Account report in Fiskl
-slug: /core-features/accounting/reports/transaction-by-account
+description: Gain detailed financial insights with Fiskl's account-based transaction tracking. Maintain organized records for informed decision-making.
+keywords: ["Transactions by account Fiskl", "financial tracking", "account management", "accounting software"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

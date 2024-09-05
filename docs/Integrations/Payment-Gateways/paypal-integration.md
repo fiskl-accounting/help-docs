@@ -1,8 +1,8 @@
 ---
 title: PayPal
 sidebar_position: 6
-description: Streamline your online payments by connecting PayPal
-slug: /integrations/payment/paypal
+description: Expand payment options with Fiskl-PayPal integration. Offer customers convenient payment methods and streamline your invoicing.
+keywords: ["PayPal integration Fiskl", "payment processing", "customer payments", "invoicing software"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

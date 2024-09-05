@@ -1,8 +1,8 @@
 ---
 title: Accounting FAQs
 sidebar_position: 4
-description: Frequently asked questions about Fiskl's accounting features
-slug: /faq/accounting-faqs
+description: Navigate financial management confidently with Fiskl's accounting FAQs. Find quick answers to common questions and optimize your processes.
+keywords: ["Accounting FAQs Fiskl", "financial management", "small business accounting", "common questions"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

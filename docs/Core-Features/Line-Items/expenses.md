@@ -1,8 +1,8 @@
 ---
 title: Tracking Expenses
 sidebar_position: 5
-description: Managing and tracking expenses
-slug: /core-features/line-items/tracking-expenses
+description: Simplify expense tracking and reporting with Fiskl. Maintain accurate financial records and gain insights into business spending.
+keywords: ["Expense tracking Fiskl", "business expenses", "financial reporting", "expense management"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Invoice and Quote Settings
 sidebar_position: 10
-description: Configure your invoice and quote preferences
-slug: /settings/invoice-quote-settings
+description: Create consistent, professional business communications with Fiskl's customizable invoice and quote templates. Reflect your brand effectively.
+keywords: ["Invoice settings Fiskl", "customize quotes", "branding invoices", "professional invoicing Fiskl", "quote templates"]
 tags:
  - Settings
  - Invoice and quote settings

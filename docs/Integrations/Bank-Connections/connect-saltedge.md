@@ -1,8 +1,8 @@
 ---
 title: Connect with Salt Edge
 sidebar_position: 4
-description: Securely connect your bank accounts to Fiskl using Salt Edge
-slug: /integrations/bank/connection/saltedge
+description: "Streamline financial management with Fiskl-Salt Edge integration: Enable automatic transaction imports for accurate, real-time insights."
+keywords: ["Salt Edge integration Fiskl", "bank connections", "transaction imports", "financial management", "Fiskl tools"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

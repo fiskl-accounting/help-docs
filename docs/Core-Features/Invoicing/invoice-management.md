@@ -1,8 +1,8 @@
 ---
 title: Invoice Management
 sidebar_position: 3
-description: Managing your invoices after creation
-slug: /core-features/invoicing/managing-invoices
+description: "Streamline your billing process with Fiskl's invoice management: From creation to payment tracking, improve your cash flow management."
+keywords: ["Invoice management Fiskl", "billing software", "payment tracking", "cash flow management"]
 tags:
  - Invoice
  - Client
