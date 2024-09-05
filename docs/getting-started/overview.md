@@ -222,7 +222,7 @@ To help you get started, we've created steps for [Invoicing](#invoicing), [Accou
     </div>
   </a>
 
-  <a href="/docs/Getting-Started/with-accounting#whats-next">
+  <a href="/docs/getting-started/accountant#whats-next">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -242,7 +242,7 @@ To help you get started, we've created steps for [Invoicing](#invoicing), [Accou
 
 <CardContainer>
 <div className="card-grid accountant-cards">
-  <a href="/docs/Getting-Started/as-an-accountant#register-on-the-accounting-portal">
+  <a href="docs/getting-started/accountant#register-on-the-accounting-portal">
     <div className="container_card">
       <div className="card__header">
         <div>Accountant</div>
@@ -256,7 +256,7 @@ To help you get started, we've created steps for [Invoicing](#invoicing), [Accou
     </div>
   </a>
 
-  <a href="/docs/Getting-Started/as-an-accountant#reach-out-to-the-fiskl-team">
+  <a href="docs/getting-started/accountant#register-on-the-accounting-portal">
     <div className="container_card">
       <div className="card__header">
         <div>Accountant</div>

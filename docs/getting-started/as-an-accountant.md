@@ -25,7 +25,8 @@ To get you started as an accountant, we've put together a flexible series of gui
 1. You will have to confirm your email before proceeding
 1. Invite clients to use Fiskl
 
-Learn more about [Accounting portal](../Core-Features/Accounting-Portal/getting-started-accounting-portal)
+Learn more about [Accounting portal](../Core-Features/Accounting-Portal/getting-started-accounting-portal.md)
+
 </LayoutPair>
 
 ---
@@ -39,5 +40,5 @@ Reach out to the Fiskl team to get referral codes and agree billing so that you 
 ## What's next
 
 :::info[Explore Fiskl Accounting]
-**Learn more about Fiskl Accounting**: Discover how Fiskl simplifies accounting for businesses with comprehensive financial management tools. From automated bank feeds and customizable charts of accounts to real-time financial reporting, Fiskl has you covered. With multi-currency support and intuitive tax handling, our platform adapts to diverse business needs. Get familiar with our user-friendly interface to better serve your clients. [See the accounting core features](../category/accounting)
+**Learn more about Fiskl Accounting**: Discover how Fiskl simplifies accounting for businesses with comprehensive financial management tools. From automated bank feeds and customizable charts of accounts to real-time financial reporting, Fiskl has you covered. With multi-currency support and intuitive tax handling, our platform adapts to diverse business needs. Get familiar with our user-friendly interface to better serve your clients. [See the accounting core features](/docs/category/core-features)
 :::

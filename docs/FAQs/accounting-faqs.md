@@ -18,7 +18,7 @@ tags:
 
 Yes, Fiskl is a double-entry, multi-currency accounting platform. This ensures accurate and balanced financial records for your business.
 
-For more information, see our [Accounting Core Features](/docs/category/accounting).
+For more information, see our [Accounting Core Features](/docs/category/core-features).
 
 ### Can I customize my Chart of Accounts in Fiskl?
 

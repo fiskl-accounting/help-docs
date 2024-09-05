@@ -16,8 +16,6 @@ import Mermaid from '@theme/Mermaid';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Chart of Accounts
-
 ## What is a Chart of Accounts?
 
 A Chart of Accounts (CoA) is a fundamental tool for organizing your business finances. It acts as a roadmap, helping you categorize transactions and group similar accounts for reporting and analysis.

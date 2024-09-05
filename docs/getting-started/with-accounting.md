@@ -40,7 +40,8 @@ Learn more about [Company settings](../Settings-Configurations/accounting-settin
 1. Customize your accounts if needed
 1. Create, archive, and add descriptions to accounts
 
-Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accounts)
+Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accounts.md)
+
 </LayoutPair>
 
 ---
