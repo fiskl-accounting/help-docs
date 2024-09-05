@@ -1,6 +1,5 @@
-
 ---
-title: Fiskl Accounting: Modern, Multi-Currency Financial Management
+title: A Modern, Multi-Currency Financial Management
 sidebar_position: 2
 description: "Discover Fiskl's intuitive, automated accounting platform designed for non-accountants. Manage your finances effortlessly with real-time, multi-currency support."
 toc_min_heading_level: 2
@@ -70,6 +69,6 @@ With Fiskl, you can take charge of your daily financial management, freeing up y
 
 Whether you're a small business owner handling your own finances or an accountant managing multiple clients, Fiskl's accounting platform provides the tools and flexibility you need to succeed in today's fast-paced, multi-currency business environment.
 
-Explore our accounting features to discover how Fiskl can transform your financial management and drive your business forward.
+Explore our help guide and discover how Fiskl can transform your financial management.
 
 Need help? Our support team is always ready to assist you. Contact us at [support@fiskl.com](mailto:support@fiskl.com).
