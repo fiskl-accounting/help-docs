@@ -20,22 +20,34 @@ Only users with the Admin or Owner role can see all four tabs.
 
 In this tab, you can upgrade or downgrade your subscription.
 
-### Upgrading
+### Upgrading Your Plan
 
-1. Choose to upgrade to the next plan if you are on Free, Solo, or Pro
-2. Review the pricing (free or discounted introductory offers will be maintained)
-3. Select "Upgrade to [Plan Name]"
-4. Confirm your upgrade
+You can upgrade your plan at any time if you're currently on the Free, Solo, or Pro plan. When upgrading, you'll be charged a pro-rata amount, and your new plan will take effect immediately.
 
-### Downgrading
+To upgrade your plan:
 
-1. Choose to downgrade to the previous plan if you are on Solo or Pro
-2. Review the pricing
-3. Select "Downgrade" on the plan column
-4. Confirm your downgrade
+1. Navigate to the pricing page and select the plan you wish to upgrade to.
+1. Review the pricing details. (Note: Any free or discounted introductory offers will be honored.)
+1. Click "Upgrade to [chosen plan]".
+1. Confirm your selection to complete the upgrade process.
 
-:::info
-Downgrades take effect at the end of your current billing period. You can cancel a scheduled downgrade by selecting "Revert downgrade" on the plan you chose to downgrade to.
+Your account will be instantly upgraded, and you'll have immediate access to the new features.
+
+### Downgrading Your Plan
+
+If you're currently on the Solo or Pro plan, you can downgrade to a lower-tier plan at any time.
+
+To downgrade your plan:
+
+1. Go to the pricing page and locate your current plan.
+1. Find the plan you wish to downgrade to (the previous tier).
+1. Click "Downgrade" in the column of your desired plan.
+1. Review the changes and confirm your downgrade.
+
+Please note: Your downgrade will take effect at the end of your current billing cycle. You'll continue to have access to your current plan's features until then.
+
+:::tip
+Before downgrading, review the features of each plan to ensure the lower-tier plan meets your business needs. Your downgrade will only take effect at the end of your current billing period. You can cancel the scheduled downgrade at any time before then.
 :::
 
 ## History
