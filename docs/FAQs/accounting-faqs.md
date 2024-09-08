@@ -79,6 +79,7 @@ To record bad debts:
    - Select the Bad Debts expenses account
 
 This process will:
+
 - Zero out your Cash on Hand account balance
 - Show Bad Debts expenses in your Profit and Loss statement
 - Close the Accounts Receivable (AR) invoice status
@@ -92,6 +93,27 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 - Assign custom categories to Products, Services, Time, and Mileage
 
 We're continually improving Fiskl, so stay tuned for future updates!
+
+### Why can't I add an expense directly to an Expense Ledger Account?
+
+In Fiskl, you can only add expense transactions through [Money Accounts](/docs/Tutorials/Banking/how-to-import-bank#understanding-money-accounts-in-fiskl). Here's how it works:
+
+1. Record the transaction in the appropriate Money Account:
+   - For bank payments: `Assets > Cash & Cash Equivalence > [Your Bank Name]`
+   - For credit card payments: `Liabilities > Credit Card > [Your Credit Card Name]`
+
+2. Categorize the transaction within the Money Account:
+   - Assign the correct expense category (e.g., "Travel Expense")
+
+Example:
+
+If you paid for an airline ticket using your Chase bank account:
+
+1. Find the transaction in `Assets > Cash & Cash Equivalence > Chase Bank`
+1. Categorize it as "Travel Expense" within the Chase Bank ledger
+
+This method ensures accurate tracking of both your expenses and the accounts they're paid from.
+
 
 ## Reporting
 
