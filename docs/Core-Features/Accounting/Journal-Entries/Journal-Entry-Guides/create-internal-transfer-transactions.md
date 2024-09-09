@@ -89,7 +89,7 @@ To transfer money between accounts with the same currency:
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-    src="https://demo.fiskl.com/share/cm0texfqy001rjy0c7qocb35i/tour"
+    src="https://demo.fiskl.com/e/cm0texfqy001rjy0c7qocb35i/tour"
     allowFullScreen
     webkitallowfullscreen="true"
     mozallowfullscreen="true"
@@ -119,7 +119,7 @@ Transfers between accounts with different currencies follow the same process as 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-    src="https://demo.fiskl.com/share/cm0tfoyiw00eilf0c1wkkhhe0/tour"
+    src="https://demo.fiskl.com/e/cm0tfoyiw00eilf0c1wkkhhe0/tour"
     allowFullScreen
     webkitallowfullscreen="true"
     mozallowfullscreen="true"

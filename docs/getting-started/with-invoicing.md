@@ -34,7 +34,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Complete your invoice settings
 
-<LayoutPair imageUrl="https://demo.fiskl.com/share/cm0rynvqs002lmc0cpkgu0dwo/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm0rynvqs002lmc0cpkgu0dwo/tour">
 
   [Invoice settings](https://my.fiskl.com/invoice-settings)
 
@@ -107,7 +107,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Setting up your taxes
 
-<LayoutPair imageUrl="https://demo.fiskl.com/share/cm0qqxc0l004sl90cwm6djnbn/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm0qqxc0l004sl90cwm6djnbn/tour">
 
   [Tax settings](https://my.fiskl.com/manage-taxes)
 
