@@ -65,4 +65,4 @@ Yes, we have advanced [Recurring Invoices in Fiskl](../Core-Features/Invoicing/R
 
 ## Need more help?
 
-If you couldn't find the answer you're looking for, please [contact our support team](mailto:support@fiskl.com). We're here to help!
+If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

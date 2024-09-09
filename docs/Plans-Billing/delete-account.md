@@ -10,11 +10,11 @@ tags:
  - Plans
 ---
 
-You can permanently delete your Fiskl account at any time from within the Fiskl Dashboard.
+You can permanently delete your Fiskl account at any time from within the Fiskl dashboard.
 
 ## How to delete your account
 
-If you would like to permanently delete your account and all related data, you can do so from the Fiskl dashboard:
+If you would like to permanently close your account and all related data, you can do so from the Fiskl dashboard:
 
 1. From the right menu, select `User Settings`
 1. Choose the `Account Settings` tab
