@@ -53,7 +53,7 @@ Follow the steps in the "Create invoices" section to complete your invoice templ
 :::info
 For auto-send invoices, Fiskl will:
 
-- Automatically send the invoice and mark it as "Sent"
+- Automatically send the invoice by email and mark it as "Sent"
 - Email you the day before the invoice is scheduled to be sent
 
 For manual-send invoices, Fiskl will:

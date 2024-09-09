@@ -40,8 +40,18 @@ Fiskl offers four user roles, each with specific permissions:
 - Create items (expenses, mileage, and time)
 - View only their own items
 
+### Accountant
+- Produce reports
+- See your Chart of Accounts
+- See your Transactions
+- Manage all your business finances
+
 :::info
 Sensitive financial information, such as accounting details and key business metrics on the Fiskl dashboard, is only accessible to owners and admins.
+:::
+
+:::info
+Adding accountants to your Fiskl account is included in all Fiskl plans.
 :::
 
 ## Managing Team Members

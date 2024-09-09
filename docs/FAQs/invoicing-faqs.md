@@ -78,4 +78,4 @@ While there's no dedicated receipt feature, you can resend a paid invoice with a
 
 ## Need more help?
 
-If you couldn't find the answer you're looking for, please [contact our support team](mailto:support@fiskl.com). We're here to help!
+If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

@@ -109,4 +109,4 @@ You are in full control. You can upgrade, downgrade, cancel your subscription, o
 
 ## Need more help?
 
-If you couldn't find the answer you're looking for, please [contact our support team](mailto:support@fiskl.com). We're here to help!
+If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

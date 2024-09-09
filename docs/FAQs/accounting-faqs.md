@@ -112,4 +112,4 @@ To generate this report:
 
 ## Still have questions?
 
-If you couldn't find the answer you're looking for, please don't hesitate to [contact our support team](mailto:support@fiskl.com). We're here to help!
+If you couldn't find the answer you're looking for, please don't hesitate to [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!
