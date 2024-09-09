@@ -30,12 +30,12 @@ Transaction matching in Fiskl allows you to reconcile recorded financial activit
 ## How to match transactions
 
 <details>
-  <summary>Take an interactive video walkthrough of matching a transaction</summary>
+  <summary>Take an interactive video walkthrough of how to match an accounting transaction</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-    src="https://demo.fiskl.com/e/clzpkqjph0004ma0ctp98bvv4/tour"
+    src="https://demo.fiskl.com/share/cm0tm275x00all50cpp3xqp37/tour"
     allowFullScreen
     webkitallowfullscreen="true"
     mozallowfullscreen="true"
@@ -115,12 +115,12 @@ Gain insights into the cost breakdown of attending professional events
 
 <details>
 
-  <summary>Take an interactive video walkthrough of splitting a transaction to multiple accounts</summary>
+  <summary>Take an interactive video walkthrough of how to split a transaction across multiple accounts</summary>
 
     <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
     <iframe
     style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-    src="https://demo.fiskl.com/e/clzpnz1xi000kmm0c4cdtmwbv/tour"
+    src="https://demo.fiskl.com/share/cm0san1ul000sle0c9u0mxjrz/tour"
     allowFullScreen
     webkitallowfullscreen="true"
     mozallowfullscreen="true"

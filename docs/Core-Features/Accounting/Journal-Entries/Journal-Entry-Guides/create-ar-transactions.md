@@ -62,7 +62,6 @@ This separation helps in analyzing the profitability of different business activ
 
 </details>
 
-
 ## Viewing AR transactions
 
 View your Accounts Receivable transactions in many ways:
@@ -95,7 +94,7 @@ It's not possible to manually match your invoice AR transactions as this is done
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe
 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-src="https://demo.fiskl.com/e/clzr4hbwb00mcjr0cbpv6zex9/tour"
+src="https://demo.fiskl.com/share/cm0tqaxvh007ejv0cvo0mwavc/tour"
 allowFullScreen
 webkitallowfullscreen="true"
 mozallowfullscreen="true"
