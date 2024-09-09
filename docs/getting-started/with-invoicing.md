@@ -17,9 +17,9 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Complete your company profile
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzslzx7e000ojs0c77egmpf2/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm0uxw7kx0018mi0chns4t653/tour">
 
-  *Your [Company settings](https://demo.fiskl.com/e/cm0uxw7kx0018mi0chns4t653/tour)*
+  *Your [Company settings](https://my.fiskl.com/company-settings)*
 
   1. Select `Company Settings` via the left menu gear icon
   1. Ensure company name, email, and registration number are completed
