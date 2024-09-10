@@ -72,7 +72,7 @@ Your new AP transaction will now appear in the Accounts Payable list and the cor
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe
 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-src="https://demo.fiskl.com/e/clzqu40870001mr0cwgr8jqhe/tour"
+src="https://demo.fiskl.com/e/cm0wgvisu0001l20cj12y07xb/tour"
 allowFullScreen
 webkitallowfullscreen="true"
 mozallowfullscreen="true"

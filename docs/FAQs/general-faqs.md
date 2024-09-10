@@ -83,8 +83,7 @@ These options offer flexibility and convenience, ensuring you can manage multipl
   <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe
 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-src="https://demo.fiskl.com/e/cm0gszmls0007mj0cf15hzy32/tour
-"
+src="https://demo.fiskl.com/e/cm0wiaw260025me0cume8ts42/tour"
 allowFullScreen
 webkitallowfullscreen="true"
 mozallowfullscreen="true"

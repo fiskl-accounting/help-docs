@@ -51,7 +51,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Style your invoice
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzuy4p0a006tlb0cgamuga8e/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm0tlb1ud005ul50ci95817tk/tour">
 
   [Invoice templates](https://my.fiskl.com/templates)
 
@@ -91,7 +91,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Add a manual payment
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzv3xetg0028l20c5lje6kqd/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm0wf67ti00qild0cnhw88em9/tour">
 
   [Invoice settings](https://my.fiskl.com/invoice-settings)
 
@@ -123,7 +123,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ### Create your first invoice
 
-<LayoutPair imageUrl="https://demo.fiskl.com/e/clzv57bcg0003l90ctpanaj1x/tour">
+<LayoutPair imageUrl="https://demo.fiskl.com/e/cm0wfvu4u00qkld0cqtctbx3v/tour">
 
   [New invoice](https://my.fiskl.com/invoices/new)
 
