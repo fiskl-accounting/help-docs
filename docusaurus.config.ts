@@ -47,6 +47,7 @@ const config: Config = {
     ],
   ],
   plugins: [
+    'docusaurus-plugin-hotjar',
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       ({
@@ -59,6 +60,9 @@ const config: Config = {
 
 
   themeConfig: {
+    hotjar: {
+      applicationId: 5094557,
+    },
     tableOfContents: {
       minHeadingLevel: 4,
       maxHeadingLevel: 5,
