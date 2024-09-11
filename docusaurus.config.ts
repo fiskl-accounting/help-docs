@@ -61,7 +61,7 @@ const config: Config = {
 
   themeConfig: {
     hotjar: {
-      applicationId: 5094557,
+      applicationId: 5130878,
     },
     tableOfContents: {
       minHeadingLevel: 4,
