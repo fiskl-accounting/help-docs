@@ -5,6 +5,7 @@ description: Maintain accurate financial records in Fiskl. Import bank transacti
 keywords: ["Import bank transactions Fiskl", "manual transaction import Fiskl", "financial records Fiskl", "bank data Fiskl", "accurate accounting Fiskl"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /tutorials/banking/how-to-import-bank-transactions
 tags:
   - Tutorials
   - Banking

@@ -3,6 +3,9 @@ title: How to record expenses
 sidebar_position: 1
 description: Learn how to record expenses in Fiskl using accounting or expenses and reconciling.
 keywords: ["Record Expenses in Fiskl", "expense management in Fiskl", "reconciling expenses in Fiskl"]
+toc_min_heading_level: 2
+toc_max_heading_level: 4
+slug: /tutorials/accounting/how-to-record-expenses
 tags:
  - Tutorial
  - Expenses

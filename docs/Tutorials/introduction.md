@@ -4,6 +4,9 @@ title: Introduction to Tutorials
 sidebar_label: Introduction
 description: Master Fiskl's core features with our comprehensive tutorial. Efficiently manage your business finances from day one.
 keywords: ["Introduction to Fiskl", "Fiskl tutorial", "business finance management", "core features Fiskl", "accounting software guide"]
+toc_min_heading_level: 2
+toc_max_heading_level: 4
+slug: /tutorials/introduction
 ---
 
 

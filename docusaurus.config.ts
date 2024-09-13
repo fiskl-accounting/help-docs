@@ -87,7 +87,7 @@ const config: Config = {
           sidebarId: 'tutorialsSidebar', 
           position: 'left',
           label: 'Tutorials',
-          to: '/docs/tutorials/' // Point to the root folder of Tutorials
+          to: '/docs/tutorials/introduction'
         },
         {to: '/product-updates', label: 'What\'s New', position: 'left'}, 
         {

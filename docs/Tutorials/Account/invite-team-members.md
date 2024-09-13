@@ -1,8 +1,11 @@
 ---
 title: How to Invite and Manage Team Members in Fiskl
-sidebar_position: 8
+sidebar_position: 1
 description: Streamline team collaboration in Fiskl. Easily invite and onboard team members for efficient financial task management.
 keywords: ["Invite team members Fiskl", "onboarding Fiskl", "team collaboration Fiskl", "account invitations Fiskl", "collaborative accounting Fiskl"]
+toc_min_heading_level: 2
+toc_max_heading_level: 4
+slug: /tutorials/account/invite-team-members
 tags:
   - Tutorial
   - Team management
