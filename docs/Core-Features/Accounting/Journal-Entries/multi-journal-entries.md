@@ -38,7 +38,7 @@ Understanding the main features of Multi Journal entries can help you leverage t
 
 ## Creating a Multi Journal entry
 
-To create a new Multi Journal entry:
+To create a new multi journal entry:
 
 1. Select the plus icon next to "Multi Journal" in the left menu
 1. Add a name for your entry and adjust the date if necessary
@@ -56,7 +56,7 @@ Use the "Difference" feature to quickly balance your entry. Select on the differ
 
 ### Working with multiple currencies
 
-Fiskl's Multi Journal feature excels in handling multi-currency transactions:
+Fiskl's multi journal feature excels in handling multi-currency transactions:
 
 1. Select accounts in different currencies as needed
 1. Enter amounts in the original currency

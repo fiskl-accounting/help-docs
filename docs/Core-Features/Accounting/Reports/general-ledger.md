@@ -11,7 +11,7 @@ tags:
   - Multi-currency
 ---
 
-The General Ledger Report in Fiskl provides a comprehensive view of all financial transactions within your organization, offering powerful grouping and filtering options. This report is especially valuable for businesses managing multiple currencies, providing detailed insights with unparalleled flexibility in transaction analysis.
+The General Ledger report in Fiskl provides a comprehensive view of all financial transactions within your organization, offering powerful grouping and filtering options. This report is especially valuable for businesses managing multiple currencies, providing detailed insights with unparalleled flexibility in transaction analysis.
 
 <details>
 <summary>Why is the General Ledger report important?</summary>
@@ -23,7 +23,7 @@ The General Ledger report is essential because it:
 - Allows for in-depth financial analysis and reconciliation
 </details>
 
-## Key features of the General Ledger Report
+## Key features of the General Ledger report
 
 This report stands out for its comprehensive multi-currency support and flexible grouping options:
 
@@ -32,9 +32,9 @@ This report stands out for its comprehensive multi-currency support and flexible
 - **Exchange rate information**: Includes FX rates for easy currency conversion tracking
 - **Flexible grouping options**: Group transactions by Ledger Account, Transaction Type, Date, Year, Quarter, or Month
 
-## Generating a General Ledger Report in Fiskl
+## Generating a General Ledger report in Fiskl
 
-To create and customize your General Ledger Report:
+To create and customize your General Ledger report:
 
 1. Go to `Accounting > Reports` from the left menu and select "General Ledger"
 2. Use the account selector to choose all accounts or specific ones
@@ -121,7 +121,7 @@ Available columns for customization include:
 Customizing your columns can significantly streamline your report, especially when dealing with specific multi-currency scenarios or focusing on particular transaction details.
 :::
 
-## Exporting your General Ledger Report
+## Exporting your General Ledger report
 
 Fiskl makes it easy to share and further analyze your report:
 

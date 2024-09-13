@@ -16,7 +16,7 @@ Access Invoice and quote settings using the `gear icon` on the top left menu or 
 
 Fiskl supports over 60 languages for invoices, quotes, emails, and customer-facing screens, including payment schedules and payment interfaces.
 
-- **Primary language**: Choose the language for all new invoices and quotes. You can change this for individual invoices as needed.
+- **Primary language**: Choose the language for all new invoices and quotes. You can change this for individual invoices as needed
 
 ### Custom language cloning
 
@@ -55,17 +55,17 @@ These payment methods will appear on invoices and payment pages, with convenient
 
 Configure your invoice preferences:
 
-- **Payment terms**: Set the number of days between the invoice date and due date (default: 7 days).
-- **Auto-select payment gateways**: Toggle to automatically select all available payment methods compatible with the invoice's country, currency, and amount.
-- **Invoice notes**: Add notes to appear on all invoices. Basic HTML styling is supported.
+- **Payment terms**: Set the number of days between the invoice date and due date (default: 7 days)
+- **Auto-select payment gateways**: Toggle to automatically select all available payment methods compatible with the invoice's country, currency, and amount
+- **Invoice notes**: Add notes to appear on all invoices. Basic HTML styling is supported
 
 ## Quote settings
 
 Customize your quote preferences:
 
-- **Terms and conditions**: Add standard terms and conditions for your quotes. Basic HTML styling is supported.
-- **Quote notes**: Include additional notes for your quotes. HTML styling can be used.
-- **Quote validity period**: Set the number of days a quote remains valid (default: 7 days).
+- **Terms and conditions**: Add standard terms and conditions for your quotes. Basic HTML styling is supported
+- **Quote notes**: Include additional notes for your quotes. HTML styling can be used
+- **Quote validity period**: Set the number of days a quote remains valid (default: 7 days)
 
 ## Email settings
 

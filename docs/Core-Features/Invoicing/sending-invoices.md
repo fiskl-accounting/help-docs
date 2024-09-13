@@ -64,6 +64,11 @@ Custom emails provide you with special templates to give you control over the to
 To send emails from your own domain, you can whitelist it in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
 :::
 
+:::info[tip]
+To receive a copy of all your invoice emails, set your default bcc email in Invoice and quote settings.
+:::
+
+
 ### Share Link
 
 Share links provide flexibility in how you send invoices. The generated link is the same one used in the "Pay Now" button of emailed invoices. It directs your client to a secure page where they can preview the invoice and make a payment. You can send this link via your own email client, messaging apps, or any other communication method you prefer.

@@ -9,7 +9,7 @@ tags:
   - Accounting
   - Reports
   - Invoicing
-  - Client Management
+  - Client management
 ---
 
 The Statement of Accounts report in Fiskl provides a comprehensive summary of financial transactions between your business and your customers. This versatile report can be generated from multiple locations within Fiskl.
@@ -28,7 +28,7 @@ The Statement of Accounts report is essential because it:
 
 </details>
 
-## Key components of the Statement of Accounts Report
+## Key components of the Statement of Accounts report
 
 Understanding the main elements of your Statement of Accounts can help you better manage your client relationships and cash flow:
 
@@ -41,7 +41,7 @@ Understanding the main elements of your Statement of Accounts can help you bette
 Fiskl's Statement of Accounts report uniquely breaks down the Opening and Closing balance into individual currency amounts if you deal with your client in multiple currency payments. It also separates each section into their respective currency amounts (e.g., Invoices in USD, Invoices in EUR).
 :::
 
-## Generating a Statement of Accounts Report in Fiskl
+## Generating a Statement of Accounts report in Fiskl
 
 You can create a Statement of Accounts report from three different locations in Fiskl:
 
@@ -87,7 +87,7 @@ To provide additional context or messages for your client:
 2. Add your comments or explanations
 3. These notes will be included when you export or print the report
 
-## Sharing your Statement of Accounts Report
+## Sharing your Statement of Accounts report
 
 Fiskl makes it easy to share the Statement of Accounts with your clients:
 

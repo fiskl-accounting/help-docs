@@ -24,7 +24,7 @@ Fiskl is an intuitive double-entry accounting system built with the business own
 <summary>Learn more about the journal entry capabilities</summary>
 
 1. **Multi-currency support**: Full multi-currency support. cross-currency matching, splitting and internal transfers, multi-currency Chart of Accounts and full multi-currency reporting
-1. **Automatic creation**: Most journal entries are created automatically when you record transactions like sales, purchases, or bank transfers. Accounts receivables are automatically managed for invoices and payments. Banking feeds and imports automatically generate their respective journal entries
+1. **Automatic creation**: Most journal entries are created automatically when you record transactions like sales, purchases, or bank transfers. Accounts Receivables are automatically managed for invoices and payments. Banking feeds and imports automatically generate their respective journal entries
 1. **Real-time**: All reports and balances are generated in real-time. There is no possibility of stale data in your financial reports or balances
 1. **Fully featured on mobile**: You can view and manage journal entries from both the web interface and mobile app
 1. **Accounting methods**: You can switch between cash and accrual without any effect to the underlying data due to our real time approach

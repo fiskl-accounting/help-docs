@@ -5,8 +5,8 @@ description: Streamline team collaboration in Fiskl. Easily invite and onboard t
 keywords: ["Invite team members Fiskl", "onboarding Fiskl", "team collaboration Fiskl", "account invitations Fiskl", "collaborative accounting Fiskl"]
 tags:
   - Tutorial
-  - Team Management
-  - Getting Started
+  - Team management
+  - Getting started
 ---
 
 
@@ -19,9 +19,9 @@ For more detailed information see [Team Management](../../Settings-Configuration
 - A Fiskl account with owner or admin privileges
 - Team members' email addresses
 
-## Steps to Invite and Manage Team Members
+## Steps to invite and manage team members
 
-### 1. Access Team Member Management
+### 1. Access team member management
 
 1. Log in to your Fiskl account
 2. Select "Team Members" from the left menu
@@ -31,7 +31,7 @@ For more detailed information see [Team Management](../../Settings-Configuration
    - Invite new member
    - Invite accountant
 
-### 2. Invite a New Team Member
+### 2. Invite a new team member
 
 1. Click the "Invite new member" card
 2. Enter the team member's information:
@@ -42,7 +42,7 @@ For more detailed information see [Team Management](../../Settings-Configuration
 
 The new member will appear in your list with a "Pending" status until they accept the invitation.
 
-### 3. Understand Team Member Roles
+### 3. Understand team member roles
 
 Fiskl offers different roles to ensure proper access control:
 
@@ -55,7 +55,7 @@ Fiskl offers different roles to ensure proper access control:
 Sensitive financial information is only accessible to owners and admins.
 :::
 
-### 4. Manage Existing Team Members
+### 4. Manage existing team members
 
 You can easily manage your team members' roles and access:
 

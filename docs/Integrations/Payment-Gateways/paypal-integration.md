@@ -36,7 +36,7 @@ If you don't have a PayPal account, visit [PayPal's website](https://www.paypal.
 Once connected, PayPal will appear as a payment method on your invoices.
 
 :::info
-Connected payment gateways are automatically selected for every invoice. You can change this in Invoice & Quote settings.
+Connected payment gateways are automatically selected for every invoice. You can change this in Invoice & quote settings.
 :::
 
 TODO - UPDATE this to the new guide

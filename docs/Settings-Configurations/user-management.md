@@ -13,7 +13,7 @@ tags:
 
 Effective team collaboration is crucial for managing your business finances. Fiskl allows you to add team members with different roles and permissions, making it easy to share the workload while maintaining control over sensitive information.
 
-## User Roles and Permissions
+## User roles and permissions
 
 Fiskl offers four user roles, each with specific permissions:
 
@@ -40,13 +40,23 @@ Fiskl offers four user roles, each with specific permissions:
 - Create items (expenses, mileage, and time)
 - View only their own items
 
+### Accountant
+- Produce reports
+- See your Chart of Accounts
+- See your Transactions
+- Manage all your business finances
+
 :::info
 Sensitive financial information, such as accounting details and key business metrics on the Fiskl dashboard, is only accessible to owners and admins.
 :::
 
-## Managing Team Members
+:::info
+Adding accountants to your Fiskl account is included in all Fiskl plans.
+:::
 
-### Inviting a New Team Member
+## Managing team members
+
+### Inviting a new team member
 
 1. From the left menu, select "Team members"
 2. Click on "Invite new member"
@@ -58,33 +68,33 @@ Sensitive financial information, such as accounting details and key business met
 
 The new member will appear in your list with a "Pending" status until they accept the invitation and log into Fiskl.
 
-### Changing User Roles
+### Changing user roles
 
 1. Go to the Team Members page
 2. Find the team member in the list
 3. Click on their current role
-4. Select the new role from the dropdown menu
+4. Select the new role from the drop-down menu
 
 The user's access levels will automatically be updated.
 
-### Deactivating a User
+### Deactivating a user
 
 1. Locate the user in the team member list
 2. Switch the toggle next to their name to the off position
 
 The user will remain on the list but will be inactive until reactivated.
 
-### Reactivating a User
+### Reactivating a user
 
 1. Find the deactivated user in the list
 2. Switch the toggle back to the on position
 
-### Deleting a Team Member
+### Deleting a team member
 
 1. Deactivate the user first
 2. Click the delete button that appears next to their name
 
-## Best Practices for Team Management
+## Best practices for team management
 
 1. Regularly review team member roles and permissions
 2. Assign the least privileged role necessary for each team member's responsibilities

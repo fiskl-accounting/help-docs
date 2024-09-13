@@ -27,11 +27,11 @@ Draft invoices don't have a shared link available.
 
 ## Sent invoices
 
-Once an invoice is sent, you can view its history, track payments, manage payment methods, and add or remove attachments.
+Once an invoice is sent, you can view its history, track payments, manage payment methods, and add or remove attachments. If you didn't set your overdue reminders when you sent the invoice, you can open the overdue invoice, edit the email as you see fit, and press resend. The overdue status will automatically appear in your customers email title.
 
 ## Editing invoices
 
-You can only edit invoices in "Draft" status directly. To edit a sent invoice, set it to draft mode or select the pen icon, make your changes, then save.
+You can only edit invoices in "Draft" status directly. To edit a sent invoice, set it to draft mode or select the pen icon, make your changes, then save. You can remove or add payment/gateways methods when editing a sent invoice.
 
 :::info[caution]
 Editing a sent invoice temporarily disables existing payments. These are usually restored when you save, unless you change invoice dates so that payment dates are before the invoice date. This can potentially trigger overdue reminders.

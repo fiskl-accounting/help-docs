@@ -49,7 +49,7 @@ Understanding the main sections of your P&L report can help you better analyze y
 Pay close attention to your Gross Profit and Operating Profit. These figures can help you identify if you need to increase prices, reduce costs, or improve operational efficiency.
 :::
 
-## Generating a Profit and Loss Report
+## Generating a Profit and Loss report
 
 To create and customize your P&L report:
 
@@ -87,7 +87,7 @@ Learn more about the differences between [Cash vs Accrual accounting](../../../G
 
 </details>
 
-## Analyzing your Profit and Loss Report
+## Analyzing your Profit and Loss report
 
 To get the most out of your P&L report:
 
@@ -101,7 +101,7 @@ To get the most out of your P&L report:
 Click on any total in the detailed view to drill down to all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing your Profit and Loss Report
+## Exporting and sharing your Profit and Loss report
 
 Fiskl makes it easy to share your P&L report:
 

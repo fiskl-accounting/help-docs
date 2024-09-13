@@ -35,7 +35,7 @@ While the Trial Balance is a key internal accounting tool, it differs from other
 
 Think of the Trial Balance as a behind-the-scenes check that helps create accurate Balance Sheets and P&L reports
 
-## Key components of the Trial Balance Report
+## Key components of the Trial Balance report
 
 Understanding the main elements of your Trial Balance can help you better analyze your business's financial records:
 
@@ -49,7 +49,7 @@ Understanding the main elements of your Trial Balance can help you better analyz
 If the total debits don't equal the total credits, there's an error in your bookkeeping that needs to be identified and corrected.
 :::
 
-## Generating a Trial Balance Report in Fiskl
+## Generating a Trial Balance report in Fiskl
 
 To create and customize your Trial Balance report in Fiskl:
 
@@ -75,7 +75,7 @@ Learn more about the differences between [Cash vs Accrual accounting](../../../G
 
 </details>
 
-## Analyzing your Trial Balance Report
+## Analyzing your Trial Balance report
 
 To get the most out of your Trial Balance report:
 
@@ -89,7 +89,7 @@ To get the most out of your Trial Balance report:
 Click on any amount in the report to see a list of related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing your Trial Balance Report
+## Exporting and sharing your Trial Balance report
 
 Fiskl makes it easy to share your Trial Balance report:
 

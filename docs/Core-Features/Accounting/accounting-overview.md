@@ -1,5 +1,5 @@
 ---
-title: Fiskl, A Modern, Multi-Currency Financial Management Platform 
+title: Fiskl, A Modern, Multi-Currency Financial Management Platform
 sidebar_position: 2
 description: "Discover Fiskl's intuitive, automated accounting platform designed for non-accountants. Manage your finances effortlessly with real-time, multi-currency support."
 toc_min_heading_level: 2
@@ -22,15 +22,15 @@ Fiskl turns traditional posting to accounts on it's head with every transaction 
 
 Uncategorized transactions will be displayed in red in your [Accounting Reports](/docs/category/reports).
 
-### Easy Account and Category Management
+### Easy account and category management
 
 Take control of your finances with our customizable [Chart of Accounts](./chart-of-accounts.md):
 
 - Tailor your accounts to align perfectly with your business structure and needs
 - Add new accounts or edit existing ones in any language
-- Seamlessly manage your chart of accounts from both mobile and web interfaces
+- Seamlessly manage your Chart of Accounts from both mobile and web interfaces
 
-### Automated Transaction Management
+### Automated transaction management
 
 Say goodbye to manual data entry and hello to smart, automated bookkeeping:
 
@@ -38,7 +38,7 @@ Say goodbye to manual data entry and hello to smart, automated bookkeeping:
 - Easily match and split transactions across multiple accounts and multiple currencies
 - Add additional information including attachments to keep your records detailed and audit-ready
 
-## Real-Time Multi-Currency Support
+## Real-time multi-currency support
 
 In today's global business environment, multi-currency support is crucial. Fiskl offers:
 
@@ -46,27 +46,27 @@ In today's global business environment, multi-currency support is crucial. Fiskl
 - Automatic exchange rate calculations and adjustments
 - Comprehensive multi-currency reporting, including detailed Transactions by Account reports
 
-## Financial Reports at Your Fingertips
+## Financial reports at your fingertips
 
 Access powerful financial insights without the need for an accountant:
 
-- Generate ready-made [financial reports](/docs/category/reports). for your year-end with just a few clicks
+- Generate ready-made [financial reports](/docs/category/reports) for your year-end with just a few clicks
 - Utilize drill-down capabilities for in-depth analysis
 - Benefit from embedded currency management in all reports
 - Produce daily, monthly, quarterly, or yearly reports with ease
 - Export reports to `Excel`, directly to `Google Sheets` or `PDF`
 
-## Modern Accounting for Today's Business
+## Modern accounting for today's business
 
 Fiskl's accounting platform is designed to meet the needs of modern, global businesses:
 
-- **Cloud-Based**: Access your financial data securely from anywhere, at any time
-- **User-Friendly Interface**: Navigate complex accounting tasks with our intuitive design
+- **Cloud-based**: Access your financial data securely from anywhere, at any time
+- **User-friendly interface**: Navigate complex accounting tasks with our intuitive design
 - **Automation**: Reduce errors and save time with smart automation features
 - **Scalability**: Our platform grows with your business, ensuring you never outgrow your accounting software
 - **Integration**: Seamlessly connect with other Fiskl features for comprehensive business management
 
-## Empower Your Business and Your Accountant
+## Empower your business and your accountant
 
 With Fiskl, you can take charge of your daily financial management, freeing up your accountant to focus on strategic advice:
 

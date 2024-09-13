@@ -50,7 +50,7 @@ You can also record manual AR that record payments expected in the future.
 You can enter an AR transaction in any currency and can also split the transaction into multiple accounts.
 
 <details>
-<summary>Real world example of an Accounts Receivable with splits in non-base Currency</summary>
+<summary>Real world example of an Accounts Receivable with splits in non-base currency</summary>
 
 You are invited to speak at a conference abroad and are being paid in a currency different from your base currency.
 

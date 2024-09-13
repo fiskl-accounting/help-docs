@@ -92,7 +92,7 @@ Quotes include two dates:
 2. Valid until: Date until which the quote is valid
 
 :::info
-The initial number of days a quote is valid for can be set in Invoice and Quote settings. You can also change the valid until to extend or shorten the validity.
+The initial number of days a quote is valid for can be set in Invoice and quote settings. You can also change the valid until to extend or shorten the validity.
 :::
 
 ### Quote status
