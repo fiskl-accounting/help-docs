@@ -9,7 +9,7 @@ tags:
  - Stripe
 ---
 
-Connecting your Stripe account to Fiskl Banking streamlines your financial management, making it a huge time-saver for all users. This integration simplifies the traditionally complex process of reconciling Stripe payouts, reducing errors and saving you valuable time. For those handling multi-currency transactions, it’s essential for accurate reconciliation.
+Connecting your Stripe account to Fiskl Banking streamlines your financial management, making it a huge time-saver for all users. This integration simplifies the traditionally complex process of reconciling Stripe pay-outs, reducing errors and saving you valuable time. For those handling multi-currency transactions, it’s essential for accurate reconciliation.
 
 ## How it works
 
@@ -33,10 +33,10 @@ This process eliminates the need to reconcile hundreds of individual transaction
   - Transactions initiated outside Fiskl
   - Issuing card transactions
   - Fees, refunds, charges, and chargebacks
-- **Automatic account creation**: Creates new balance accounts in Fiskl when new pay-out accounts are added in Stripe.
-- **Multiple account support**: Connect and manage multiple Stripe accounts.
-- **Cross-platform functionality**: Works seamlessly across iOS, Android, and Web.
-- **Permission-based access**: Control who can view and manage Stripe transactions.
+- **Automatic account creation**: Creates new balance accounts in Fiskl when new pay-out accounts are added in Stripe
+- **Multiple account support**: Connect and manage multiple Stripe accounts
+- **Cross-platform functionality**: Works seamlessly across iOS, Android, and Web
+- **Permission-based access**: Control who can view and manage Stripe transactions
 
 ## Connecting your Stripe account
 

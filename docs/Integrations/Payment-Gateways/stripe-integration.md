@@ -30,7 +30,7 @@ Learn more about [Stripe](https://stripe.com/).
 
 - **Quick setup**: Start accepting payments in minutes
 - **Multiple payment methods**: Support for credit cards, debit cards, and more
-- **Fast payouts**: Ensure you get paid quickly
+- **Fast pay-outs**: Ensure you get paid quickly
 - **Additional payment options**: Includes GooglePay, ApplePay, iDEAL, and Bancontact
 
 ## Connecting Stripe to Fiskl
@@ -91,7 +91,7 @@ If you're based in Belgium:
 - You can switch between payment gateways when creating a new invoice
 - To remove a payment gateway, select the small "x" at the top of each gateway in the Integrations menu
 
-## Disconnecting Stripe form Fiskl
+## Disconnecting Stripe from Fiskl
 
 There are two ways to disconnect Stripe from Fiskl:
 

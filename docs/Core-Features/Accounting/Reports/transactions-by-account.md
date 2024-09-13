@@ -23,7 +23,7 @@ The Transactions by Account report is essential because it:
 - Allows for in-depth analysis of account activity over time
 </details>
 
-## Key features of the Transactions by Account Report
+## Key features of the Transactions by Account report
 
 This report stands out for its comprehensive multi-currency support:
 
@@ -31,9 +31,9 @@ This report stands out for its comprehensive multi-currency support:
 - **Detailed transaction breakdown**: View gross amount, net amount, and tax amount for each transaction (per respective currency)
 - **Exchange rate information**: Includes FX rates for easy currency conversion tracking
 
-## Generating a Transactions by Account Report in Fiskl
+## Generating a Transactions by Account report in Fiskl
 
-To create and customize your Transactions by Account Report:
+To create and customize your Transactions by Account report:
 
 1. Go to `Accounting > Reports` from the left menu and select "Transactions by Account"
 2. Use the account selector to choose all accounts or specific ones
@@ -108,9 +108,9 @@ Available columns for customization include:
 - Type
 - Client/Vendor
 - Description
-- Gross Amount (Original Currency)
-- Net Amount (Original Currency)
-- Tax Amount (Original Currency)
+- Gross Amount (Original currency)
+- Net Amount (Original currency)
+- Tax Amount (Original currency)
 - FX rate
 
 </details>
@@ -120,7 +120,7 @@ Customizing your columns can significantly streamline your report, especially wh
 :::
 
 
-## Exporting your Transactions by Account Report
+## Exporting your Transactions by Account report
 
 Fiskl makes it easy to share and further analyze your report:
 

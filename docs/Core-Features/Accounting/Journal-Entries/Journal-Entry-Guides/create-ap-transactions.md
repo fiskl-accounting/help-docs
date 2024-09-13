@@ -34,7 +34,7 @@ If the balance in your Accounts Payable account is zero, it means you currently 
 To record a new Accounts Payable transaction:
 
 <details>
-<summary>Take an interactive walkthrough of creating an accounts payable transaction</summary>
+<summary>Take an interactive walkthrough of creating an Accounts Payable transaction</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe

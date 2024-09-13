@@ -20,20 +20,20 @@ Only users with the Admin or Owner role can see all four tabs.
 
 In this tab, you can upgrade or downgrade your subscription.
 
-### Upgrading Your Plan
+### Upgrading your plan
 
 You can upgrade your plan at any time if you're currently on the Free, Solo, or Pro plan. When upgrading, you'll be charged a pro-rata amount, and your new plan will take effect immediately.
 
 To upgrade your plan:
 
-1. Navigate to the pricing page and select the plan you wish to upgrade to.
-1. Review the pricing details. (Note: Any free or discounted introductory offers will be honored.)
-1. Click "Upgrade to [chosen plan]".
-1. Confirm your selection to complete the upgrade process.
+1. Navigate to the pricing page and select the plan you wish to upgrade to
+1. Review the pricing details (Note: Any free or discounted introductory offers will be honored.)
+1. Click "Upgrade to [chosen plan]"
+1. Confirm your selection to complete the upgrade process
 
 Your account will be instantly upgraded, and you'll have immediate access to the new features.
 
-### Downgrading Your Plan
+### Downgrading your plan
 
 If you're currently on the Solo or Pro plan, you can downgrade to a lower-tier plan at any time.
 
@@ -70,8 +70,8 @@ This tab displays your current plan and the card you're using for subscription p
 
 The left card shows your current plan, price, any discounts, and the next billing date. The top right of the card has either an "X" or a round arrow icon:
 
-- "X": Cancels your subscription at the end of the current period. You'll revert to the free plan with limited features.
-- Round arrow icon: Appears if you've cancelled but are still in the current billing period. Selecting this will revert the cancellation.
+- "X": Cancels your subscription at the end of the current period. You'll revert to the free plan with limited features
+- Round arrow icon: Appears if you've cancelled but are still in the current billing period. Selecting this will revert the cancellation
 
 ### Saved card
 

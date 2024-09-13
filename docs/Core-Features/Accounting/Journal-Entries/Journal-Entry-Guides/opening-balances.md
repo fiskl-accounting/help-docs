@@ -12,14 +12,14 @@ tags:
  - Financial Reports
 ---
 
-# Opening Balances in Fiskl
+# Opening balances in Fiskl
 
 ## What are Opening Balances?
 
 An opening balance is the initial amount in an account at the start of a financial period. It's the starting point for recording all financial activities during that period, such as sales, purchases, expenses, and payments.
 
 <details>
-<summary>See why Opening Balances are needed</summary>
+<summary>See why opening balances are needed</summary>
 
 - Ensuring balances are correct
 - Starting a new accounting period

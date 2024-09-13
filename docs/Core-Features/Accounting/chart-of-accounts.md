@@ -75,7 +75,7 @@ Equity can decrease due to:
 
 - Losses
 - Dividend payments
-- Share repurchases
+- Share re-purchases
 
 ### Income
 

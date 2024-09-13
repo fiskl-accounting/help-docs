@@ -109,7 +109,7 @@ These options allow you to:
 
 We're continually improving the Accounting Portal. Here are some features on our roadmap:
 
-- **Team & Permissions**: Manage access levels for your team members
+- **Team & permissions**: Manage access levels for your team members
 - **Referral section with billing**: Easily track and manage your referrals and associated billing
 - **Client signup**: Streamlined process to sign up new clients directly through the portal
 

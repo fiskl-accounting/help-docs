@@ -104,9 +104,9 @@ These reports will typically show amounts in your base currency but may offer op
 
 When dealing with multi-currency transactions, it's important to be aware of how exchange rate fluctuations can impact your financial statements:
 
-1. **Realized gains/losses**: These occur when you actually convert money from one currency to another, such as when receiving a foreign currency payment into your base currency bank account.
+1. **Realized gains/losses**: These occur when you actually convert money from one currency to another, such as when receiving a foreign currency payment into your base currency bank account
 
-2. **Unrealized gains/losses**: These are potential gains or losses on outstanding foreign currency balances due to exchange rate changes. They're typically calculated at the end of a reporting period.
+2. **Unrealized gains/losses**: These are potential gains or losses on outstanding foreign currency balances due to exchange rate changes. They're typically calculated at the end of a reporting period
 
 Fiskl helps manage these by:
 - Automatically calculating exchange rates at the time of transaction

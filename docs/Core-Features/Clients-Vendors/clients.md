@@ -81,7 +81,7 @@ Explore the options available in the client list to streamline your client manag
 ### Direct Debit mandates
 
 Fiskl supports setting up Direct Debit mandates for automatic payments using [GoCardless.](../../Integrations/Payment-Gateways/gocardless-integration.md)
-In the client list you will be able to see the status of the Direct Debit mandate.
+In the client list you will be able to see the status of their Direct Debit mandate.
 
 #### Direct Debit mandate flow
 

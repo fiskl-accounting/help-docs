@@ -34,7 +34,7 @@ allowtransparency="true"
 
 Salt Edge is a financial data aggregator that securely connects your bank account to Fiskl. It's the primary provider for banks in Europe, Asia, and the Middle East, supporting OpenBanking standards and offering wide coverage.
 
-## Benefits of Using Salt Edge
+## Benefits of using Salt Edge
 
 - Wide coverage of banks in Europe, Asia, and the Middle East
 - Support for OpenBanking standards
@@ -48,7 +48,7 @@ Before starting the connection process, it's a good idea to check if your bank i
 1. Visit the [Salt Edge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
 2. Search for your bank or browse by country
 
-## Step-by-Step guide to connecting your bank
+## Step-by-step guide to connecting your bank
 
 Follow these steps to connect your bank account using Salt Edge:
 

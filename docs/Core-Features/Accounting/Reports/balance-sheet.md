@@ -33,7 +33,7 @@ While both the Balance Sheet and the Profit and Loss (P&L) report are vital fina
 
 Think of the Balance Sheet as a photograph of your financial status at a specific moment, while the P&L is more like a video of your business's financial journey over time.
 
-## Key components of the Balance Sheet Report
+## Key components of the Balance Sheet report
 
 Understanding the main sections of your Balance Sheet can help you better analyze your business's financial health:
 
@@ -54,7 +54,7 @@ Understanding the main sections of your Balance Sheet can help you better analyz
 Pay close attention to your Current Assets and Current Liabilities. The relationship between these figures (known as the Current Ratio) can help you assess your business's short-term financial health.
 :::
 
-## Generating a Balance Sheet Report in Fiskl
+## Generating a Balance Sheet report in Fiskl
 
 To create and customize your Balance Sheet report in Fiskl:
 
@@ -106,7 +106,7 @@ To get the most out of your Balance Sheet report:
 Click on any total in the detailed view to see all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing your Balance Sheet Report
+## Exporting and sharing your Balance Sheet report
 
 Fiskl makes it easy to share your Balance Sheet report:
 

@@ -81,7 +81,7 @@ The share link directs clients to a secure quotes view page. Messaging apps prov
 Consider your client's preferences when choosing between email and messaging apps for quote delivery.
 :::
 
-## Best practices for sending Quotes
+## Best practices for sending quotes
 
 - Double-check all quote details before sending
 - Use custom emails for a personalized touch with regular clients

@@ -1,5 +1,5 @@
 ---
-title: Recording Manual Transactions
+title: Recording manual transactions
 sidebar_position: 4
 description: Record manual transactions in Fiskl with precision. Ensure all financial activities are accurately documented for comprehensive reporting.
 keywords: ["Create manual transactions Fiskl", "financial documentation", "account accuracy", "manual entries"]

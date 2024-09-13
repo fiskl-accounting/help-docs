@@ -40,5 +40,5 @@ Reach out to the Fiskl team to get referral codes and agree billing so that you 
 ## What's next
 
 :::info[Explore Fiskl Accounting]
-**Learn more about Fiskl Accounting**: Discover how Fiskl simplifies accounting for businesses with comprehensive financial management tools. From automated bank feeds and customizable charts of accounts to real-time financial reporting, Fiskl has you covered. With multi-currency support and intuitive tax handling, our platform adapts to diverse business needs. Get familiar with our user-friendly interface to better serve your clients. [See the accounting core features](/docs/category/core-features)
+**Learn more about Fiskl Accounting**: Discover how Fiskl simplifies accounting for businesses with comprehensive financial management tools. From automated bank feeds and customizable Charts of Accounts to real-time financial reporting, Fiskl has you covered. With multi-currency support and intuitive tax handling, our platform adapts to diverse business needs. Get familiar with our user-friendly interface to better serve your clients. [See the accounting core features](/docs/category/core-features)
 :::

@@ -65,7 +65,7 @@ To send emails from your own domain, you can whitelist it in [Invoice & quote se
 :::
 
 :::info[tip]
-To receive a copy of all your invoice emails, set your default bcc email in Invoice and Quote settings.
+To receive a copy of all your invoice emails, set your default bcc email in Invoice and quote settings.
 :::
 
 

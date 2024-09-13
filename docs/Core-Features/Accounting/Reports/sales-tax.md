@@ -14,15 +14,15 @@ tags:
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Sales Tax Report
+# Sales Tax report
 
-The Sales Tax Report in Fiskl provides a comprehensive overview of your company's sales tax activities and liabilities. This report is crucial for calculating and reporting the sales tax owed to tax authorities, ensuring compliance, and supporting informed financial decisions.
+The Sales Tax report in Fiskl provides a comprehensive overview of your company's sales tax activities and liabilities. This report is crucial for calculating and reporting the sales tax owed to tax authorities, ensuring compliance, and supporting informed financial decisions.
 
-## Accessing the Sales Tax Report
+## Accessing the Sales Tax report
 
 1. Select "Accounting" from the left menu
 2. Click on `Reports`
-3. Locate the Sales Tax Report in the list of automated reports
+3. Locate the Sales Tax report in the list of automated reports
 
 ## Understanding how the Sales Tax report works
 
@@ -37,7 +37,7 @@ The report is generated per [Tax Number](../../../Settings-Configurations/tax-se
 
 ### Choose view type
 
-Toggle between Summary and Detailed views using the Summary/Details switch
+Toggle between summary and detailed views using the Summary/Details switch
 
 :::tip
 Your applied filters are cached, allowing you to return to the same filtered report on subsequent visits. You can change these filters at any time.
