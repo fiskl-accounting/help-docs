@@ -84,12 +84,12 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialsSidebar', // Changed to match tutorialSidebar.ts
+          sidebarId: 'tutorialsSidebar', 
           position: 'left',
           label: 'Tutorials',
-          to: '/docs/tutorials/introduction' // Changed to match the correct path
+          to: '/docs/tutorials/' // Point to the root folder of Tutorials
         },
-        {to: '/product-updates', label: 'What\'s New', position: 'left'}, // Ensure the Blog link is here
+        {to: '/product-updates', label: 'What\'s New', position: 'left'}, 
         {
           type: 'search',
           position: 'right',
