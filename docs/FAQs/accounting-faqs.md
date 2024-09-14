@@ -60,14 +60,14 @@ To manage an invoice overpayment:
    - In the bank account where you received the payment, click on the transaction
    - Select "Match"
    - Choose the invoice and add a line for the difference (overpayment)
-   - Assign the category "Overpayments received"
+   - Assign the category "Overpayment received"
 
 3. Refund the client:
    - Pay your client back from the bank account
    - Select the refund transaction in the bank account
-   - Assign the "Overpayments received" category
+   - Assign the "Overpayment received" category
 
-This process ensures the overpayments received account reflects a net zero balance.
+This process ensures the overpayment received account reflects a net zero balance.
 
 ### How do I record bad debts in Fiskl?
 
@@ -94,7 +94,7 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 
 We're continually improving Fiskl, so stay tuned for future updates!
 
-### Why are my Expenses not showing up on my home dashboard or Profit and Loss report (P&L)?
+### Why aren't all my recorded expenses reflected in my accounting reports?
 
 Expenses in Fiskl can be in two states:
 

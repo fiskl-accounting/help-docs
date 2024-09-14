@@ -44,7 +44,10 @@ Steps:
    - Credit card accounts: `Liabilities > Credit Card > [Your Credit Card Name]`
    - Cash accounts: `Assets > Cash & Cash Equivalence > Cash on Hand`
 2. Find the transaction
-3. Categorize the transaction as an expense
+3. Categorize the transaction:
+   - Assign it to a single expense category, or
+   - Split the transaction into multiple categories (e.g., split a hotel bill into "Travel Accommodation" and "Meals and Entertainment"), or
+   - Match the transaction to an existing standalone expense
 4. Add supporting information (optional):
    - Attach documents
    - Add notes, client information, or vendor details
@@ -60,6 +63,7 @@ Use this method when you want to:
 **Important**: Standalone expenses are placeholders and don't count towards your accounting until reconciled.
 
 Steps:
+
 1. Record the expense:
    - Enter expense details
    - Attach supporting documents
@@ -72,7 +76,9 @@ Steps:
 
 1. Standalone expenses don't affect your accounting until reconciled.
 2. Direct accounting entries immediately impact your financial reports.
-3. You can turn standalone expenses into billable items by assigning a client or adding them to an invoice.
-4. Team members with limited permissions can create standalone expenses for admin review.
+3. You can split transactions across multiple expense categories for more accurate reporting.
+4. Matching transactions to existing standalone expenses helps reconcile your books.
+5. You can turn standalone expenses into billable items by assigning a client or adding them to an invoice.
+6. Team members with limited permissions can create standalone expenses for admin review.
 
-By understanding these methods, you can choose the best approach for your specific situation and ensure accurate expense tracking in Fiskl.
+By understanding these methods and options, you can choose the best approach for your specific situation and ensure accurate expense tracking in Fiskl.
