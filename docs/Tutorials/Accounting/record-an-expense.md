@@ -1,7 +1,7 @@
 ---
-title: How to record expenses
+title: How to Record Expenses
 sidebar_position: 1
-description: Learn how to record expenses in Fiskl using accounting or expenses and reconciling.
+description: Learn how to record and reconcile expenses in Fiskl for accurate accounting.
 keywords: ["Record Expenses in Fiskl", "expense management in Fiskl", "reconciling expenses in Fiskl"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
@@ -16,14 +16,12 @@ tags:
 
 Effective expense management is crucial for your business accounting. This tutorial walks you through two methods of recording and managing your expenses in Fiskl.
 
-For more detailed information, see [Understanding Journal Entries](/docs/accounting/core-features/journal-entries/understanding-journal-entries).
-
 <details>
-<summary>TL;DR - Watch a walkthrough on recording expenses</summary>
+<summary>Watch a video walkthrough on recording expenses</summary>
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
 <iframe
 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
-src="https://demo.fiskl.com/e/cm0thr3ut0001js0cixw215a1/tour"
+src="https://demo.fiskl.com/e/cm0z16zok003j0cm95sg44i2x/tour"
 allowFullScreen
 webkitallowfullscreen="true"
 mozallowfullscreen="true"
@@ -32,57 +30,49 @@ allowtransparency="true"
 </div>
 </details>
 
-## Method 1: Record Expense and Reconcile in Accounting
+## Two Methods of Recording Expenses
+
+### Method 1: Direct Accounting Entry
+
+Use this method when:
+- You're working directly with your bank, credit card, or cash transactions
+- You want the expense to immediately reflect in your accounting
+
+Steps:
+1. Navigate to the appropriate account in your Chart of Accounts:
+   - Bank accounts: `Assets > Cash & Cash Equivalence > [Your Bank Name]`
+   - Credit card accounts: `Liabilities > Credit Card > [Your Credit Card Name]`
+   - Cash accounts: `Assets > Cash & Cash Equivalence > Cash on Hand`
+2. Find the transaction
+3. Categorize the transaction as an expense
+4. Add supporting information (optional):
+   - Attach documents
+   - Add notes, client information, or vendor details
+
+### Method 2: Standalone Expenses (Record Now, Reconcile Later)
 
 Use this method when you want to:
-
-- Capture detailed expense information (e.g., restaurant receipts with attendees and reasons)
-- Use OCR to extract relevant details
+- Capture detailed expense information quickly (e.g., restaurant receipts with attendees and reasons)
+- Use OCR to extract relevant details from receipts
 - Allow team members to record expenses for later reconciliation by an admin
+- Create billable expenses to add to client invoices
 
-Important: Adding an expense this way is just a placeholder. It doesn't count towards accounting until you reconcile it.
+**Important**: Standalone expenses are placeholders and don't count towards your accounting until reconciled.
 
-Steps to record and reconcile an expense:
-
+Steps:
 1. Record the expense:
    - Enter expense details
    - Attach supporting documents
    - Use OCR to extract information (if available)
-
 2. Reconcile the expense:
    - Find the corresponding transaction in your Bank, Credit Card, or Cash account
    - Use the match functionality to link the recorded expense with the transaction
 
-## Method 2: Pure Accounting
+## Key Points to Remember
 
-In most cases, you only need to record your expenses in your [Chart of Accounts](../../Core-Features/Accounting/chart-of-accounts.md). The goal is to work primarily from your [Money Accounts](/docs/Tutorials/Banking/how-to-import-bank#understanding-money-accounts-in-fiskl), which are the accounts where money flows into and out of your company.
+1. Standalone expenses don't affect your accounting until reconciled.
+2. Direct accounting entries immediately impact your financial reports.
+3. You can turn standalone expenses into billable items by assigning a client or adding them to an invoice.
+4. Team members with limited permissions can create standalone expenses for admin review.
 
-Here's how to record expenses using this method:
-
-1. Identify the appropriate Money Account:
-   - Bank accounts: `Assets > Cash & Cash Equivalence > [Your Bank Name]`
-   - Credit card accounts: `Liabilities > Credit Card > [Your Credit Card Name]`
-   - Cash accounts: `Assets > Cash & Cash Equivalence > Cash on Hand`
-
-1. Find the transaction in the selected Money Account
-
-1. Categorize the transaction:
-   - Assign the correct expense category (e.g., "Travel Expense")
-
-1. Add supporting information (optional):
-   - Attach documents (images, files)
-   - Record detailed notes
-   - Add client and vendor information
-   - Include receipt numbers
-
-Example:
-If you paid for an airline ticket using your Chase bank account:
-
-1. Navigate to `Assets > Cash & Cash Equivalence > Chase Bank`
-1. Locate the transaction for the airline ticket
-1. Categorize it as "Travel Expense"
-1. Attach the receipt and add any relevant notes
-
-Remember: Reconciliation is crucial to ensure the expense is properly accounted for in your financial records.
-
-By following these methods, you can effectively manage and record your expenses in Fiskl, ensuring accurate and up-to-date financial records for your business.
+By understanding these methods, you can choose the best approach for your specific situation and ensure accurate expense tracking in Fiskl.

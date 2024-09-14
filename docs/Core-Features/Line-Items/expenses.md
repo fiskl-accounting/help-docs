@@ -10,82 +10,71 @@ tags:
  - Line item
 ---
 
-Expenses in Fiskl represent costs incurred in running your business. They play a crucial role in financial management, offering flexibility in how they're created, tracked, and utilized within the platform.
+Expenses in Fiskl represent costs incurred in running your business. Understanding how they work is crucial for effective financial management.
 
-## Understanding expenses in Fiskl
+## Two Types of Expenses in Fiskl
 
-Unlike products or services, expenses in Fiskl are standalone line items. They have unique properties that allow for versatile use across different aspects of your financial management.
+### 1. Standalone Expenses
 
-Key features of expenses:
+These are expenses recorded independently of your accounting transactions.
 
-- Can be created independently or through accounting transactions*
-- Attachable to invoices for client billing
-- Capable of storing multiple images (e.g., receipts)
-- Can be matched and reconciled in accounting
-- Can be added via Fiskl mobile applications using OCR
+Key features:
 
-:::info[note]
-Expenses added in ledger accounts as accounting transactions only create an expense item in `Purchases > Expenses` if they are assigned a client.
-:::
+- Can be created via web dashboard or mobile app (with OCR)
+- Don't impact accounting until reconciled
+- Can be attached to invoices for client billing
+- Useful for quick capture, team expense submissions, and billable expenses
 
-## Creating expenses
+### 2. Direct Accounting Expenses
 
-You can create expenses in several ways:
+These are expenses recorded directly in your ledger accounts.
 
-1. **Web dashboard**: Manually enter expense details
-1. **Mobile app**: Use OCR (Optical Character Recognition) to extract information from receipts
-1. **Accounting transactions**: Categorize a transaction as an expense during reconciliation
+Key features:
 
-:::info[tip]
-Use the mobile app's OCR feature to quickly capture and record expenses while on the go.
-:::
+- Immediately reflected in your accounting
 
-## Expense components
+- Created when categorizing transactions in bank, credit card, or cash accounts
+- Can be assigned to clients for billing
 
-An expense in Fiskl typically includes:
+## Components of an Expense
 
-1. **Amount**: The cost of the expense
-2. **Category**: The type of expense (e.g., Travel, Office Supplies)
-3. **Date**: When the expense occurred
-4. **Description**: Details about the expense
-5. **Images**: Attached receipts or other relevant documents
-6. **Client**: If the expense is billable (optional)
-7. **Vendor**: The provider of the good or service (optional)
+Both types of expenses typically include:
 
-## Billable expenses
+1. Amount
+1. Category
+1. Date
+1. Description
+1. Images (e.g., receipts)
+1. Client (optional, for billable expenses)
+1. Vendor (optional)
 
-Expenses become billable in two ways:
+## Billable Expenses
 
-1. Assign a client when creating the expense
-2. Add the expense to an invoice (it automatically becomes billable to that invoice's client)
+Expenses become billable when:
 
-:::info
-Once an expense is added to an invoice, it's no longer available to add to other invoices.
-:::
+1. You assign a client when creating the expense
+1. You add the expense to an invoice
 
-## Expenses in accounting
+Once an expense is added to an invoice, it can't be used on other invoices.
 
-Expenses play a dual role in Fiskl's accounting features:
+## Best Practices for Expense Management
 
-1. **Standalone expenses**: Created independently and later reconciled
-2. **Transaction-based expenses**: Categorized directly from bank transactions
+1. Choose the right method:
+   - Use standalone expenses for quick capture or team submissions
+   - Use direct accounting for immediate financial impact
+1. Consistently categorize expenses
+1. Record expenses promptly
+1. Provide detailed descriptions
+1. Attach clear, legible receipt images
+1. Regularly reconcile standalone expenses
 
-You can attach images, assign clients and vendors, and add details to both types of expenses during the reconciliation process.
+## Reconciling Standalone Expenses
 
-## When to use standalone expenses
+To include standalone expenses in your accounting:
 
-Standalone expenses are particularly useful in these scenarios:
+1. Find the corresponding transaction in your bank, credit card, or cash account
+1. Use the match functionality to link the standalone expense with the transaction
 
-1. **On-the-go capture**: Quickly record expenses with your mobile device, adding details like meeting attendees or purpose
-2. **Team member submissions**: Allow team members with limited permissions to submit expenses for later reconciliation
-3. **Client billing**: Create billable expenses to attach to client invoices
-
-## Best practices for expenses
-
-1. **Consistent categorization**: Use clear, consistent categories for easy reporting and analysis
-2. **Timely recording**: Record expenses as soon as possible to ensure accuracy
-3. **Detailed descriptions**: Include relevant information in the description field for future reference
-4. **Image quality**: Ensure attached receipt images are clear and legible
-5. **Regular reconciliation**: Regularly match and reconcile expenses with your accounting transactions
+This process ensures all your expenses are accurately reflected in your financial reports.
 
 Remember, effective expense management in Fiskl contributes to accurate financial reporting, smoother client billing, and better overall financial health for your business.

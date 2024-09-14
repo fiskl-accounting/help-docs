@@ -94,6 +94,21 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 
 We're continually improving Fiskl, so stay tuned for future updates!
 
+### Why are my Expenses not showing up on my home dashboard or Profit and Loss report (P&L)?
+
+Expenses in Fiskl can be in two states:
+
+1. **Standalone Expenses**: These are expenses you've recorded but haven't yet reconciled with your accounting. They don't appear in your dashboard or reports.
+
+2. **Reconciled Expenses**: These are expenses that have been matched with transactions in your accounting and will appear in your dashboard and reports.
+
+To ensure your expenses are included in your accounting:
+
+- If you've recorded a standalone expense, you need to reconcile it with a transaction in your bank, credit card, or cash account.
+- If you're adding expenses directly to your ledger accounts, they will automatically be included in your accounting.
+
+For a detailed explanation of how to record and reconcile expenses, please see our [How to Record Expenses tutorial](/docs/tutorials/accounting/how-to-record-expenses).
+
 ### Why can't I add an expense directly to an Expense Ledger Account?
 
 In Fiskl, you can only add expense transactions through [Money Accounts](/docs/Tutorials/Banking/how-to-import-bank#understanding-money-accounts-in-fiskl). Here's how it works:
@@ -113,7 +128,6 @@ If you paid for an airline ticket using your Chase bank account:
 1. Categorize it as "Travel Expense" within the Chase Bank ledger
 
 This method ensures accurate tracking of both your expenses and the accounts they're paid from.
-
 
 ## Reporting
 
