@@ -14,7 +14,7 @@ tags:
 
 Fiskl empowers you to create localized `Invoices` and `Quotes`, including emails and customer payment pages, in 56 languages. Recognizing that one size doesn't fit all, we've also provided the flexibility to clone and customize languages to suit your specific needs.
 
-## Quick Guide: Clone and Customize a Language
+## Quick guide: Clone and customize a language
 
 <details>
 <summary>Watch a quick video tutorial</summary>
@@ -30,37 +30,37 @@ allowtransparency="true"
 </div>
 </details>
 
-## Change Your Default Language
+## Change your default language
 
-1. Navigate to `Invoice & Quote Settings > Language Settings`.
-2. Select your preferred default language from the dropdown menu.
-3. Save your changes.
+1. Navigate to `Invoice & Quote Settings > Language Settings`
+2. Select your preferred default language from the dropdown menu
+3. Save your changes
 
-All future invoices and quotes will use this language by default. However, you can still override this setting and choose any language when creating individual invoices or quotes.
+All future invoices and quotes will use this language by default. However, you can still over-ride this setting and choose any language when creating individual invoices or quotes.
 
 :::tip
 Changing the default language affects not only invoices but also payment/preview pages and invoice-related emails (e.g., overdue notices, partial payment confirmations, and deposit requests).
 :::
 
-## Customizing a Language
+## Customizing a language
 
 Fiskl's language customization feature allows you to tailor the terminology to your specific business needs or regional preferences. Here's how to do it:
 
 1. **Clone an existing language:**
-   - Select the language you want to customize as a base.
-   - Choose "New Language" to create a clone.
+   - Select the language you want to customize as a base
+   - Choose "New Language" to create a clone
 
 2. **Edit the cloned language:**
-   - Once you have your new language, you can modify any of the mapped translations.
+   - Once you have your new language, you can modify any of the mapped translations
 
 3. **Save your custom language:**
-   - After making your desired changes, save your new custom language.
+   - After making your desired changes, save your new custom language
 
-### Use Cases for Language Customization
+### Use cases for language customization
 
-- **Dialectal variations:** Adjust terms to match regional dialects or local preferences.
-- **Industry-specific terminology:** Change "Client" to "Customer," "Patient," or "Student" to align with your business type.
-- **Brand voice:** Tailor the language to match your company's unique tone and style.
+- **Dialectal variations:** Adjust terms to match regional dialects or local preferences
+- **Industry-specific terminology:** Change "Client" to "Customer," "Patient," or "Student" to align with your business type
+- **Brand voice:** Tailor the language to match your company's unique tone and style
 
 :::caution
 Some mappings include placeholders where values are substituted when generating documents. For example: `Payment ({{1}} of {{2}})`
@@ -68,12 +68,12 @@ Some mappings include placeholders where values are substituted when generating 
 When editing these values, ensure you retain the placeholders (e.g., `{{1}}`, `{{2}}`). Otherwise, your documents may not generate correctly.
 :::
 
-## Best Practices for Language Customization
+## Best practices for language customization
 
-1. **Consistency:** Maintain consistent terminology across all customized fields.
-2. **Clarity:** Ensure your customized terms are clear and unambiguous.
-3. **Testing:** After customization, generate test invoices to verify all changes appear correctly.
-4. **Documentation:** Keep a record of your customized terms for future reference.
+1. **Consistency:** Maintain consistent terminology across all customized fields
+2. **Clarity:** Ensure your customized terms are clear and unambiguous
+3. **Testing:** After customization, generate test invoices to verify all changes appear correctly
+4. **Documentation:** Keep a record of your customized terms for future reference
 
 ## FAQs
 
@@ -88,9 +88,9 @@ A: Yes, you can always select the original, non-customized language when creatin
 
 **Q: How can I ensure my customizations don't affect existing invoices?**
 A: To preserve the language on existing invoices while making changes:
-1. Clone the language you want to modify.
-2. Make your customizations to the cloned version.
-3. Use the new custom language for future invoices.
+1. Clone the language you want to modify
+2. Make your customizations to the cloned version
+3. Use the new custom language for future invoices
 
 This way, your existing invoices will retain their original language, while new invoices will use your updated custom language.
 
