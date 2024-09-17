@@ -11,8 +11,6 @@ tags:
   - Accounting
 ---
 
-# Accounting FAQs
-
 ## General accounting questions
 
 ### Is Fiskl a double-entry accounting system?
@@ -57,13 +55,13 @@ To manage an invoice overpayment:
    - Go to Chart of Accounts
    - Under "Other current assets", create a new account called "Overpayment received"
 
-2. Record the overpayment:
+1. Record the overpayment:
    - In the bank account where you received the payment, click on the transaction
    - Select "Match"
    - Choose the invoice and add a line for the difference (overpayment)
    - Assign the category "Overpayment received"
 
-3. Refund the client:
+1. Refund the client:
    - Pay your client back from the bank account
    - Select the refund transaction in the bank account
    - Assign the "Overpayment received" category
@@ -75,7 +73,7 @@ This process ensures the overpayment received account reflects a net zero balanc
 To record bad debts:
 
 1. Mark the invoice as paid using the Cash on Hand account
-2. In the Cash on Hand account:
+1. In the Cash on Hand account:
    - Create an OUT entry
    - Select the Bad Debts expenses account
 
@@ -95,13 +93,13 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 
 We're continually improving Fiskl, so stay tuned for future updates!
 
-### Why aren't all my recorded expenses reflected in my accounting reports?
+### Why aren't all my expenses reflected in my accounting reports?
 
 Expenses in Fiskl can be in two states:
 
 1. **Standalone Expenses**: These are expenses you've recorded but haven't yet reconciled with your accounting. They don't appear in your dashboard or reports.
 
-2. **Reconciled Expenses**: These are expenses that have been matched with transactions in your accounting and will appear in your dashboard and reports.
+1. **Reconciled Expenses**: These are expenses that have been matched with transactions in your accounting and will appear in your dashboard and reports.
 
 To ensure your expenses are included in your accounting:
 
@@ -109,6 +107,12 @@ To ensure your expenses are included in your accounting:
 - If you're adding expenses directly to your ledger accounts, they will automatically be included in your accounting.
 
 For a detailed explanation of how to record and reconcile expenses, please see our [How to Record Expenses tutorial](/docs/tutorials/accounting/how-to-record-expenses).
+
+### Why do I not see my expenses in my P&L report or dashboard?
+
+Expenses added via the `Expense` section will not automatically appear in your [P&L](../Core-Features/Accounting/Reports/profit-and-loss.md) or any reports or on the dashboard until they are reconciled. The Expenses are a section to capture the Expense to be reconciled with an accounting transaction or billed to a client as part of an expense. 
+
+To learn more about how to record and reconcile expenses, please see our [How to Record Expenses tutorial](/docs/tutorials/accounting/how-to-record-expenses).
 
 ### Why can't I add an expense directly to an Expense Ledger Account?
 
@@ -118,7 +122,7 @@ In Fiskl, you can only add expense transactions through [Money Accounts](/docs/T
    - For bank payments: `Assets > Cash & Cash Equivalence > [Your Bank Name]`
    - For credit card payments: `Liabilities > Credit Card > [Your Credit Card Name]`
 
-2. Categorize the transaction within the Money Account:
+1. Categorize the transaction within the Money Account:
    - Assign the correct expense category (e.g., "Travel Expense")
 
 Example:
@@ -143,9 +147,9 @@ Yes, you can generate a [Statement of Accounts](../Core-Features/Accounting/Repo
 To generate this report:
 
 1. Go to Reports
-2. Select "Statement of Accounts"
-3. Choose the client and date range
-4. Generate and send the report
+1. Select "Statement of Accounts"
+1. Choose the client and date range
+1. Generate and send the report
 
 ## Still have questions?
 
