@@ -5,6 +5,7 @@ description: "Optimize your business with Fiskl's AI-driven financial insights: 
 keywords: ["AI financial insights Fiskl", "automated accounting", "business optimization", "AI accounting software"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /docs/core-features/fi
 tags:
   - AI
   - Fi
