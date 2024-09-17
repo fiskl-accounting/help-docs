@@ -5,6 +5,7 @@ description: "Enhance customer relationships with Fiskl's client management tool
 keywords: ["Client management Fiskl", "customer relationships", "invoicing software", "client tracking"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/clients
 tags:
   - Vendor
   - Invoice

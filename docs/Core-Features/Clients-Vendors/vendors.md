@@ -5,6 +5,7 @@ description: "Optimize vendor relationships with Fiskl: Efficiently track purcha
 keywords: ["Vendor management Fiskl", "purchase tracking", "payment processing", "vendor relations"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/vendors
 tags:
   - Vendor
   - Expense

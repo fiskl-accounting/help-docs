@@ -3,6 +3,7 @@ title: Invoicing FAQs
 sidebar_position: 6
 description: Resolve invoicing queries quickly with Fiskl's comprehensive FAQs. Ensure smooth billing processes and improve cash flow management.
 keywords: ["Invoicing FAQs Fiskl", "billing support", "invoicing queries", "small business invoicing"]
+slug: /faq/invoicing
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -5,6 +5,7 @@ description: Verify account accuracy and prepare for reporting with Fiskl's effo
 keywords: ["Trial balance Fiskl", "account accuracy", "financial reporting", "small business accounting"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/accounting/reports/trial-balance
 tags:
   - Accounting
   - Reports
@@ -17,10 +18,12 @@ The Trial Balance report is a crucial accounting tool that lists all the account
 <summary>Why is the Trial Balance report important?</summary>
 
 The Trial Balance report is essential because it:
+
 - Helps identify accounting errors and discrepancies
 - Serves as a foundation for preparing financial statements
 - Provides a quick overview of all account balances
 - Assists in detecting unusual account balances or trends
+
 </details>
 
 ## Trial Balance vs. Other Financial Reports
@@ -40,10 +43,10 @@ Think of the Trial Balance as a behind-the-scenes check that helps create accura
 Understanding the main elements of your Trial Balance can help you better analyze your business's financial records:
 
 1. **Account names**: A list of all accounts in your general ledger.
-2. **Account numbers**: The unique identifier for each account.
-3. **Debit column**: Shows the debit balance for each account.
-4. **Credit column**: Shows the credit balance for each account.
-5. **Total**: The sum of all debits and credits, which should be equal.
+1. **Account numbers**: The unique identifier for each account.
+1. **Debit column**: Shows the debit balance for each account.
+1. **Credit column**: Shows the credit balance for each account.
+1. **Total**: The sum of all debits and credits, which should be equal.
 
 :::tip
 If the total debits don't equal the total credits, there's an error in your bookkeeping that needs to be identified and corrected.
@@ -54,8 +57,8 @@ If the total debits don't equal the total credits, there's an error in your book
 To create and customize your Trial Balance report in Fiskl:
 
 1. Go to `Accounting > Reports` from the left menu and select "Trial Balance"
-2. Choose your desired date using the date selector
-3. Customize your report using the available options:
+1. Choose your desired date using the date selector
+1. Customize your report using the available options:
    - Switch between Cash and Accrual accounting methods
    - Hide empty accounts
    - Divide large numbers by 1000 for easier reading
@@ -80,10 +83,10 @@ Learn more about the differences between [Cash vs Accrual accounting](../../../G
 To get the most out of your Trial Balance report:
 
 1. **Check for balance**: Ensure that the total debits equal the total credits
-2. **Review account balances**: Look for any unusual or unexpected balances
-3. **Compare to previous periods**: Identify significant changes in account balances over time
-4. **Use as a basis for financial statements**: The Trial Balance serves as a starting point for creating your Balance Sheet and P&L report
-5. **Investigate discrepancies**: If you notice any errors or imbalances, trace them back to the original transactions
+1. **Review account balances**: Look for any unusual or unexpected balances
+1. **Compare to previous periods**: Identify significant changes in account balances over time
+1. **Use as a basis for financial statements**: The Trial Balance serves as a starting point for creating your Balance Sheet and P&L report
+1. **Investigate discrepancies**: If you notice any errors or imbalances, trace them back to the original transactions
 
 :::note
 Click on any amount in the report to see a list of related transactions, helping you investigate specific entries.
@@ -97,7 +100,7 @@ Fiskl makes it easy to share your Trial Balance report:
    - Click the export button at the top right of the screen
    - Choose between Google Sheets or Excel format
 
-2. **Create a PDF**:
+1. **Create a PDF**:
    - Click the print button at the top right of the screen
    - Save as PDF or print a physical copy
 
@@ -108,8 +111,8 @@ All exported reports include a date and time stamp, as well as the selected acco
 To provide context or explanations for your financial data:
 
 1. Click on the note icon at the top right of your screen
-2. Add your comments or explanations
-3. These notes will be included when you export or print the report
+1. Add your comments or explanations
+1. These notes will be included when you export or print the report
 
 ## Examples
 

@@ -3,7 +3,7 @@ title: Multi Journal Entries
 sidebar_position: 5
 description: Simplify complex financial recording with Fiskl's multi-journal entries. Ensure comprehensive and accurate accounting records.
 keywords: ["Multi-journal entries Fiskl", "complex transactions", "financial management", "accounting software"]
-slug: /accounting/core-features/journal-entries/understanding-multi-journal-entries
+slug: /core-features/accounting/journal-entries/understanding-multi-journal-entries
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -3,6 +3,7 @@ title: Accounting Settings
 sidebar_position: 4
 description: Customize Fiskl's accounting settings to match your business needs. Configure taxes and reporting preferences for optimal performance.
 keywords: ["Accounting settings Fiskl", "tax settings", "reporting preferences", "customize", "business accounting software"]
+slug: /settings/accounting-settings
 tags:
  - Settings
  - Accounting settings

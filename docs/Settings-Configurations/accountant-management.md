@@ -3,6 +3,7 @@ title: Accountant Management
 sidebar_position: 30
 description: Optimize accounting collaboration with Fiskl's accountant access management. Control permissions and streamline financial processes.
 keywords: ["Accountant management Fiskl", "access control", "collaboration tools", "accounting permissions"]
+slug: /settings/accountant-management
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

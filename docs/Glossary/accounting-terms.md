@@ -3,6 +3,7 @@ title: Fiskl Glossary
 sidebar_position: 1
 description: Navigate financial terminology confidently with Fiskl's comprehensive accounting glossary. Enhance your financial literacy effortlessly.
 keywords: ["Multi-currency transactions Fiskl", "international finance", "currency management", "global business accounting", "Fiskl features"]
+slug: /glossary
 toc_min_heading_level: 2
 toc_max_heading_level: 3
 ---

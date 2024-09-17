@@ -3,6 +3,7 @@ title: Balance Sheet
 sidebar_position: 4
 description: Generate detailed balance sheets with Fiskl for clear insights into your financial position and informed strategic decision-making.
 keywords: ["Balance sheet Fiskl", "financial position", "Fiskl reports", "accounting software"]
+slug: /core-features/accounting/reports/balance-sheet
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -3,6 +3,7 @@ title: Apply Discount Codes
 sidebar_position: 4
 description: Maximize savings on your Fiskl subscription. Easily apply discount offers or partner codes while managing finances efficiently.
 keywords: ["Apply offer code Fiskl", "partner code", "subscription discount", "manage subscription", "savings"]
+slug: /billing/applying-offer-code
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

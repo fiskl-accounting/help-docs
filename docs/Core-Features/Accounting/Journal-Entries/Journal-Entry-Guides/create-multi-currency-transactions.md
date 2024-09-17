@@ -3,7 +3,7 @@ title: Managing Multi-Currency Transactions
 sidebar_position: 8
 description: Handle international finances effortlessly with Fiskl's multi-currency transaction feature. Ensure accuracy in global business operations.
 keywords: ["Multi-currency transactions Fiskl", "international finance", "currency management", "global business accounting", "Fiskl features"]
-slug: /accounting/core-features/journal-entries/guides/multi-currency-transactions
+slug: /core-features/accounting/journal-entries/guides/multi-currency-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

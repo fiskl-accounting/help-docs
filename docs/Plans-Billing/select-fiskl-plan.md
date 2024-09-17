@@ -3,6 +3,7 @@ title: Choose Your Fiskl Plan
 sidebar_position: 2
 description: Choose the ideal Fiskl plan for your business. Compare features, pricing, and benefits tailored to your unique needs.
 keywords: ["Select Fiskl plan", "subscription plan comparison", "pricing", "business accounting plans", "features"]
+slug: /billing/selecting-plans
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -3,6 +3,7 @@ title: Update Billing Information
 sidebar_position: 8
 description: Ensure uninterrupted Fiskl service by easily updating your credit card information and billing address. Maintain accurate records effortlessly.
 keywords: ["Update credit card Fiskl", "billing address", "payment details", "account updates", "subscription management"]
+slug: /billing/update-card
 tags:
   - Billing
   - Plans

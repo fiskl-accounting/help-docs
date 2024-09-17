@@ -3,6 +3,7 @@ title: Templates and Brands
 sidebar_position: 6
 description: Maintain brand consistency with Fiskl's template management. Create and edit templates for documents and branding elements effortlessly.
 keywords: ["Templates Fiskl", "brand management", "document templates", "customize branding", "professional templates"]
+slug: /settings/template-brand-settings
 tags:
   - Settings
   - Templates

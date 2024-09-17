@@ -5,6 +5,7 @@ description: "Manage sales tax effortlessly with Fiskl: Ensure compliance, accur
 keywords: ["Sales tax Fiskl", "tax management software", "compliance", "tax reporting"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/accounting/reports/sales-tax
 tags:
  - Accounting
  - Reports

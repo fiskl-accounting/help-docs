@@ -3,6 +3,7 @@ title: Integration FAQs
 sidebar_position: 8
 description: Boost operational efficiency by learning how to integrate Fiskl with other tools and services. Streamline your business processes.
 keywords: ["Integration FAQs Fiskl", "tool integration", "business efficiency", "software integration"]
+slug: /faq/integration
 toc_min_heading_level: 2
 toc_max_heading_level: 6
 tags:

@@ -3,6 +3,7 @@ title: Connect Stripe
 sidebar_position: 1
 description: "Simplify banking and automated transactions using the Fiskl-Stripe integration: Enjoy seamless accounting and improved cash flow management."
 keywords: ["Stripe integration Fiskl", "payment processing", "invoicing software", "small business payments", "banking", "Fiskl tools"]
+slug: /integrations/banking/connecting-stripe
 tags:
  - Integrations
  - Banking

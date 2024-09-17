@@ -5,6 +5,7 @@ description: Create comprehensive Profit and Loss statements in Fiskl to track b
 keywords: ["Profit and loss Fiskl", "business performance tracking", "P&L statement", "financial reporting"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/accounting/reports/profit-and-loss
 tags:
   - Accounting
   - Reports

@@ -3,6 +3,7 @@ title: GoCardless
 sidebar_position: 4
 description: Simplify recurring payments with Fiskl-GoCardless integration. Automate direct debits for smoother billing and improved cash flow.
 keywords: ["GoCardless integration Fiskl", "direct debit payments", "automated billing", "payment processing"]
+slug: /integrations/payments/gocardless
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

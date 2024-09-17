@@ -3,6 +3,7 @@ title: Connect WIO Bank
 sidebar_position: 6
 description: Automate bank transactions with Fiskl-Wio integration. Streamline financial tracking for more efficient business operations.
 keywords: ["Wio integration Fiskl", "bank transactions", "financial tracking", "automated banking", "Fiskl features"]
+slug: /integrations/banking/connecting-wio
 tags:
  - Integrations
  - Banking

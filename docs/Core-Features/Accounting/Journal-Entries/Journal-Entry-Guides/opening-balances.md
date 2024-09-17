@@ -3,7 +3,7 @@ title: Creating Opening Balances
 sidebar_position: 2
 description: Set up opening balances in Fiskl accurately. Establish a clear financial starting point for precise accounting and reporting.
 keywords: ["Opening balances Fiskl", "financial setup", "accounting accuracy", "starting balances"]
-slug: /accounting/core-features/journal-entries/guides/opening-balances
+slug: /core-features/accounting/journal-entries/guides/opening-balances
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

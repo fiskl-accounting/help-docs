@@ -3,7 +3,7 @@ title: Working with Accounts Payable
 sidebar_position: 10
 description: "Streamline your Accounts Payable process with Fiskl: Track liabilities, manage cash flow, and optimize payment schedules effortlessly."
 keywords: ["Create AP transactions Fiskl", "Accounts Payable", "liability tracking", "financial management"]
-slug: /accounting/core-features/journal-entries/guides/accounts-payable-transactions
+slug: /core-features/accounting/journal-entries/guides/accounts-payable-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

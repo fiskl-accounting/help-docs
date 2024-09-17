@@ -5,6 +5,7 @@ description: Access detailed Statements of Accounts in Fiskl for comprehensive t
 keywords: ["Statement of accounts Fiskl", "financial transactions", "accounting reports", "business finance"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/accounting/reports/statement-of-accounts
 tags:
   - Accounting
   - Reports

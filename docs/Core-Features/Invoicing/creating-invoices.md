@@ -3,6 +3,7 @@ title: Creating Invoices
 sidebar_position: 2
 description: Create professional, branded invoices quickly with Fiskl's customizable templates. Elevate your business image effortlessly.
 keywords: ["Invoice creation Fiskl", "professional invoicing", "customizable templates", "billing software", "business branding"]
+slug: /core-features/invoicing/creating-invoices
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

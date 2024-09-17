@@ -3,6 +3,7 @@ title: Accounting Essentials
 sidebar_position: 5
 description: "Master your accounting processes with Fiskl: From expense tracking to financial reporting, take control of your business finances."
 keywords: ["Fiskl accounting", "expense tracking", "financial reports", "accounting software", "small business finance"]
+slug: /getting-started/accounting
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

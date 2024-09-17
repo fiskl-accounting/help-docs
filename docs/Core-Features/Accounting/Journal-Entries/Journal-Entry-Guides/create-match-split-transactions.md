@@ -3,7 +3,7 @@ title: Matching and Splitting Transactions
 sidebar_position: 6
 description: "Master complex transaction management in Fiskl: Learn to match and split entries for detailed and accurate financial records."
 keywords: ["Match and split transactions Fiskl", "complex transactions", "financial accuracy", "Fiskl tools"]
-slug: /accounting/core-features/journal-entries/guides/match-and-split-transactions
+slug: /core-features/accounting/journal-entries/guides/match-and-split-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -3,6 +3,7 @@ title: Invoice Basics
 sidebar_position: 3
 description: "Transform your invoicing process with Fiskl: Create, manage, and send professional invoices effortlessly to improve cash flow."
 keywords: ["Fiskl invoicing", "create invoices", "manage invoices", "billing software", "small business invoicing"]
+slug: /getting-started/invoicing
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

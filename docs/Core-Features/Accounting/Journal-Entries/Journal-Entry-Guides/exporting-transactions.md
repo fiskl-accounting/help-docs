@@ -3,7 +3,7 @@ title: Filtering and Exporting Journal Entries
 sidebar_position: 16
 description: Export Fiskl financial transactions for in-depth reporting and analysis. Turn your business data into actionable insights.
 keywords: ["Exporting transactions Fiskl", "financial reporting", "data export", "business analysis"]
-slug: /accounting/core-features/journal-entries/guides/exporting-transactions
+slug: /core-features/accounting/journal-entries/guides/exporting-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

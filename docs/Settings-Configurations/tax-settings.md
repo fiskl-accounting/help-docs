@@ -3,6 +3,7 @@ title: Tax Settings
 sidebar_position: 6
 description: Ensure tax compliance with Fiskl's tax rate management. Set up and maintain accurate rates for all financial transactions.
 keywords: ["Tax settings Fiskl", "manage taxes", "compliance", "tax rates", "financial accuracy"]
+slug: /settings/tax-settings
 tags:
  - Settings
  - Tax settings

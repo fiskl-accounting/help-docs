@@ -3,6 +3,7 @@ title: Manage Your Subscription
 sidebar_position: 7
 description: Tailor your Fiskl subscription to your evolving business needs. Easily update plans, manage billing, and view subscription history.
 keywords: ["Manage Fiskl subscription", "update subscription plan", "billing details", "subscription history"]
+slug: /billing/subscription-management
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -5,6 +5,7 @@ description: Gain detailed financial insights with Fiskl's account-based transac
 keywords: ["Transactions by account Fiskl", "financial tracking", "account management", "accounting software"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
+slug: /core-features/accounting/reports/transactions-by-account
 tags:
   - Accounting
   - Reports

@@ -3,6 +3,7 @@ title: Quote Management
 sidebar_position: 2
 description: "Streamline your sales process with Fiskl's quote management: From creation to invoice conversion, close deals more efficiently."
 keywords: ["Quote management Fiskl", "sales process", "convert quotes to invoices", "business software"]
+slug: /core-features/quotes/quote-management
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

@@ -3,6 +3,7 @@ title: Cancel Subscription
 sidebar_position: 8
 description: Smoothly transition from Fiskl with our detailed subscription cancellation guide. Ensure secure handling of your business data.
 keywords: ["Cancel Fiskl subscription", "subscription management", "secure data", "termination guide", "billing"]
+slug: /billing/subscription-cancel
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:

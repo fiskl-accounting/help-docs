@@ -3,6 +3,7 @@ title: Team Management
 sidebar_position: 15
 description: Enhance team collaboration in Fiskl with secure user management. Control access and assign roles for efficient workflow.
 keywords: ["User management Fiskl", "access control", "user roles", "team collaboration", "secure access"]
+slug: /settings/user-management
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 tags:
