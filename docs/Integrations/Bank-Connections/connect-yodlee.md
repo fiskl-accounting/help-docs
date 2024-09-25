@@ -3,7 +3,7 @@ title: Connect with Yodlee
 sidebar_position: 2
 description: Ensure accurate financial records with Fiskl-Yodlee integration. Sync real-time bank data for comprehensive financial management.
 keywords: ["Yodlee integration Fiskl", "real-time bank data", "financial records", "banking software"]
-slug: /integrations/banking/connecting-wio
+slug: /integrations/banking/connecting-yodlee
 tags:
  - Integrations
  - Banking

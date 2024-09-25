@@ -23,6 +23,7 @@ You can change the invoice currency by selecting the currency abbreviation next 
  <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0b8rv8k0001l30cz0nurfac/tour/" useExpander={false}>
 
 #### Within the invoice
+
 1. Create or edit an invoice
 2. Select your client
 3. Choose the currency (Currency abbreviation next to the **Total**)
