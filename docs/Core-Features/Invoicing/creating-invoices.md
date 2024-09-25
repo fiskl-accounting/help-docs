@@ -28,7 +28,9 @@ While you can set up everything as you create your first invoice, it's helpful t
 
 ## Creating a basic invoice
 
-Try our interactive demo to create a basic invoice:
+<details>
+
+    <summary>Try our interactive demo to create a basic invoice</summary>
 
 <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
   <iframe
@@ -40,6 +42,8 @@ Try our interactive demo to create a basic invoice:
     allowtransparency="true"
   ></iframe>
 </div>
+
+</details>
 
 ## Invoice components in detail
 
