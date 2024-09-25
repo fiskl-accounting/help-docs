@@ -27,7 +27,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   1. Check and adjust the invoice address format if necessary
   1. Add and size your logo
 
-  Learn more about [Company settings](../Settings-Configurations/company-settings)
+  Learn more about [Company settings](/docs/settings/company-settings)
 
 </LayoutPair>
 
@@ -62,7 +62,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   4. Style your invoice with colors, fonts, and display options
   5. Add attachments to include with each invoice
 
-  Learn more about [Templates & brands](../Settings-Configurations/templates-and-brands)
+  Learn more about [Templates & brands](/docs/settings/template-brand-settings)
 
 </LayoutPair>
 
@@ -84,7 +84,7 @@ To get you started with invoicing, we've put together a flexible series of guide
     - iDeal (Netherlands)
     - Bancontact (Belgium)
 
-  Learn more about [Payment integrations](../Integrations/Payment-Gateways/_category_.json)
+  Learn more about [Payment integrations](/docs/category/payment-gateways)
 
 </LayoutPair>
 

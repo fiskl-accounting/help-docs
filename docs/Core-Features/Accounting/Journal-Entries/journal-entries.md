@@ -59,12 +59,12 @@ While Fiskl automates much of the process there are many reasons why you would n
 
    **Journal entry guides**
 
-  - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create an Accounts Receivable](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create an Accounts Payable](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create an Opening Balance](Journal-Entry-Guides/create-manual-transactions.md)
+  - See how to [create a manual](/docs/core-features/accounting/journal-entries/guides/manual-transactions) transaction
+  - See how to [create a split](/docs/core-features/accounting/journal-entries/guides/match-and-split-transactions) transaction
+  - See how to [create a matched](/docs/core-features/accounting/journal-entries/guides/multi-currency-transactions) transaction
+  - See how to [create an Accounts Receivable](/docs/core-features/accounting/journal-entries/guides/accounts-receivable-transactions) transaction
+  - See how to [create an Accounts Payable](/docs/core-features/accounting/journal-entries/guides/accounts-payable-transactions) transaction
+  - See how to [create an Opening Balance](/docs/core-features/accounting/journal-entries/guides/opening-balances)
 
   </TabItem>
     <TabItem value="accountant" label="Accountant" default>

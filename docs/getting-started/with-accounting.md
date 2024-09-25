@@ -26,7 +26,7 @@ To get you started with accounting, we've put together a flexible series of guid
 1. Choose accrual or cash accounting method
 1. Review default income accounts
 
-Learn more about [Company settings](../Settings-Configurations/accounting-settings.md)
+Learn more about [Accounting settings](/docs/settings/accounting-settings)
 </LayoutPair>
 
 ---
