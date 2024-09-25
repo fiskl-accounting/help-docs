@@ -123,7 +123,7 @@ Now that you understand the basics of journal entries in Fiskl, you might want t
   - Setting up your Chart of Accounts [CoA](../chart-of-accounts.md) transaction
   - See how to [create a manual](Journal-Entry-Guides/create-manual-transactions.md) transaction
   - See how to [create a split](Journal-Entry-Guides/create-manual-transactions.md) transaction
-  - See how to [create a matched](Journal-Entry-Guides/create-manual-transactions.md) transaction
+  - See how to [create a matched](Journal-Entry-Guides/create-match-split-transactions.md) transaction
   - See how to [create an Accounts Receivable](Journal-Entry-Guides/create-ar-transactions.md) transaction
   - See how to [create an Accounts Payable](Journal-Entry-Guides/create-ap-transactions.md) transaction
   - See how to [create an opening balance](/docs/core-features/accounting/journal-entries/guides/opening-balances)
