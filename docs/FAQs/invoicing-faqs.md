@@ -74,6 +74,10 @@ Yes, use [Recurring Invoices](../Core-Features/Invoicing/Recurring%20Invoices/cr
 
 Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](../Core-Features/Invoicing/invoice-management).
 
+### How can I show my VAT or Tax number on my invoice?
+
+Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](../Core-Features/Invoicing/invoice-management).
+
 ### Can I create a receipt?
 
 While there's no dedicated receipt feature, you can resend a paid invoice with a custom message. The customer will see the invoice marked as paid, the payment date, and can download the PDF. This is typically sufficient as a receipt of payment.

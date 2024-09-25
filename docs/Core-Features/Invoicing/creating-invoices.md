@@ -149,9 +149,16 @@ Create line items directly on the invoice or in advance. Types include:
 
 Products and Services are templates, while Expenses, Time & Mileage become billable when added to an invoice.
 
-### Taxes
+### Tax & VAT
 
-Apply single, multiple, or compound taxes at the line item level. Taxes are calculated per item and displayed on the invoice.
+Apply single, multiple, or compound taxes at the line item level. [Taxes](.././../Settings-Configurations/tax-settings.md) are calculated per item and displayed on the invoice.
+
+#### Display Your Tax Number on the Invoice
+
+Your TAX/VAT number will be automatically added to the invoice if you include a line item with tax. However, there are several reasons why your tax number may not be displaying:
+
+1. The checkbox for displaying the tax number on your `Tax Number` settings is not checked.
+1. In your `Templates & Brands`, the checkbox to hide the tax number has been checked.
 
 ### Discounts and deposits
 
