@@ -153,6 +153,10 @@ Products and Services are templates, while Expenses, Time & Mileage become billa
 
 Apply single, multiple, or compound taxes at the line item level. [Taxes](.././../Settings-Configurations/tax-settings.md) are calculated per item and displayed on the invoice.
 
+:::info[tip]
+Toggle between tax-inclusive and tax-exclusive pricing using the tax +/- button.
+:::
+
 #### Display Your Tax Number on the Invoice
 
 Your TAX/VAT number will be automatically added to the invoice if you include a line item with tax. However, there are several reasons why your tax number may not be displaying:

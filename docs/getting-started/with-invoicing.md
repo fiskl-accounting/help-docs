@@ -44,7 +44,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   3. Review the pre-set payment terms (days)
   4. Add notes to appear on every invoice
 
-  Learn more about [Invoice settings](../Settings-Configurations/invoice-and-quote-settings)
+  Learn more about [Invoice settings](/docs/settings/invoice-quote-settings)
 
 </LayoutPair>
 
@@ -100,7 +100,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   2. Add a manual payment method
   3. Add name, customer notes, and payment details
 
-  Learn more about [Manual payment methods](../Settings-Configurations/invoice-and-quote-settings#payment-methods)
+  Learn more about [Manual payment methods](/docs/settings/invoice-quote-settings#payment-methods)
 
 </LayoutPair>
 
