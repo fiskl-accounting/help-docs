@@ -55,10 +55,10 @@ Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accoun
 
 1. Select `Banking` via the left menu
 1. Choose from the following options:
-   - [Yodlee](../Integrations/Bank-Connections/connect-yodlee) (Banking aggregator)
-   - [Salt Edge](../Integrations/Bank-Connections/connect-saltedge) (Banking aggregator)
-   - [Stripe](../Integrations/Bank-Connections/connect-stripe)
-   - [WIO](../Integrations/Bank-Connections/connect-wio)
+   - [Yodlee](/docs/integrations/banking/connecting-yodlee) (Banking aggregator)
+   - [Salt Edge](/docs/integrations/banking/connecting-saltedge) (Banking aggregator)
+   - [Stripe](/docs/integrations/banking/connecting-stripe)
+   - [WIO](/docs/integrations/banking/connecting-wio)
 
 Learn more about [Bank integrations](/docs/category/integrations)
 </LayoutPair>
@@ -113,7 +113,7 @@ Learn more about [Bank Integrations](/docs/category/integrations).
 1. Toggle between Summary and Detail views
 1. Explore other available reports
 
-Learn more about [Accounting Reports](../Core-Features/Accounting/Reports/_category_.json)
+Learn more about [Accounting Reports](/docs/category/reports)
 </LayoutPair>
 
 ### What's next
