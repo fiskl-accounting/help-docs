@@ -56,19 +56,19 @@ You can change the invoice language by selecting the language abbreviation below
 
 ### Can I customize my invoice language?
 
-Yes, you can clone and customize languages. Go to [Invoice and Quote Language](../Settings-Configurations/invoice-and-quote-settings#custom-language-cloning) settings, clone a language, and modify the values as needed.
+Yes, you can clone and customize languages. Go to [Invoice and Quote Language](../Settings-Configurations/invoice-and-quote-settings.md#custom-language-cloning) settings, clone a language, and modify the values as needed.
 
 ### If I update my template, will it affect invoices already created?
 
-Yes, updating a template affects all invoices using that template, including previous ones. To avoid this, create a new template and set it as default for future invoices. Learn more about [Templates & Brands](../Settings-Configurations/templates-and-brands).
+Yes, updating a template affects all invoices using that template, including previous ones. To avoid this, create a new template and set it as default for future invoices. Learn more about [Templates & Brands](../Settings-Configurations/templates-and-brands.md).
 
 ### How do I edit invoices which have payments attached?
 
-Change the invoice status to "Draft" or use the edit icon. Payments will be temporarily disabled but usually auto-restore on save. If not, you can manually restore them. See [Invoicing Management](../Core-Features/Invoicing/invoice-management) for details.
+Change the invoice status to "Draft" or use the edit icon. Payments will be temporarily disabled but usually auto-restore on save. If not, you can manually restore them. See [Invoicing Management](../Core-Features/Invoicing/invoice-management.md) for details.
 
 ### Can I set my invoice to be automatically sent each month?
 
-Yes, use [Recurring Invoices](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices). This feature allows you to set up invoices to be sent automatically at specified intervals, such as monthly or quarterly.
+Yes, use [Recurring Invoices](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md). This feature allows you to set up invoices to be sent automatically at specified intervals, such as monthly or quarterly.
 
 ### Can I change the invoice number?
 

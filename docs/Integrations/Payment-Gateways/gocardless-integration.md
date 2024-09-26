@@ -12,8 +12,6 @@ tags:
   - GoCardless
 ---
 
-## Connecting GoCardless to Fiskl
-
 Connecting GoCardless to Fiskl transforms how you collect payments, especially for businesses with recurring client invoices. This integration simplifies the process of setting up automated payments via Direct Debit, improving your cash flow and reducing late payments.
 
 Learn more about [GoCardless](https://gocardless.com/) and their [Fees](#what-are-the-fees).
@@ -25,9 +23,9 @@ Learn more about [GoCardless](https://gocardless.com/) and their [Fees](#what-ar
 - **Improved cash flow**: Reduce late payments with automated collection
 - **Currency flexibility**: Collect in your customer's currency and settle in your own
 
-#### GoCardless is particularly suited for:
+### GoCardless is particularly suited for?
 
-- Regular payments (e.g., subscriptions, recurring services, payment schedules) and integrates well with [Fiskl Recurring Invoices](../../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices)
+- Regular payments (e.g., subscriptions, recurring services, payment schedules) and integrates well with [Fiskl Recurring Invoices](../../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md)
 - Customers with ongoing relationships
 - Service invoicing (e.g., consultancy, professional services)
 

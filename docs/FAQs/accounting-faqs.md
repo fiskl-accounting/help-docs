@@ -116,7 +116,7 @@ To learn more about how to record and reconcile expenses, please see our [How to
 
 ### Why can't I add an expense directly to an Expense Ledger Account?
 
-In Fiskl, you can only add expense transactions through [Money Accounts](/docs/Tutorials/Banking/how-to-import-bank#understanding-money-accounts-in-fiskl). Here's how it works:
+In Fiskl, you can only add expense transactions through [Money Accounts](/docs/Tutorials/Banking/how-to-import-bank.md#understanding-money-accounts-in-fiskl). Here's how it works:
 
 1. Record the transaction in the appropriate Money Account:
    - For bank payments: `Assets > Cash & Cash Equivalence > [Your Bank Name]`

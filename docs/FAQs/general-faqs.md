@@ -27,7 +27,7 @@ For tax reasons you have to use a card local to your region.
 
 ### I have an offer code, how do I apply it?
 
-The easiest way to apply an offer is at the time of registration via the provided URL but there are other methods detailed in [Offer Codes](../Plans-Billing/apply-offer-or-partner-code)
+The easiest way to apply an offer is at the time of registration via the provided URL but there are other methods detailed in [Offer Codes](../Plans-Billing/apply-offer-or-partner-code.md)
 
 ### Can I migrate my data into Fiskl?
 
@@ -41,13 +41,13 @@ Our APIs are available only to partners on a contractual basis. If you have a pr
 
 ### How can I set up a custom domain so that all emails to my clients are sent from my email account?
 
-Yes, provided you own the domain and can add the necessary CNAME records. [Custom Domain](../Settings-Configurations/invoice-and-quote-settings#custom-domain)
+Yes, provided you own the domain and can add the necessary CNAME records. [Custom Domain](../Settings-Configurations/invoice-and-quote-settings.md#custom-domain)
 
 ### How do I invite a team member, and what access permissions are available?
 
 You can manage team members from your left menu [Team Members Tutorial](/docs/Tutorials/Account/invite-team-members)
 
-Learn more [Team Management](../Settings-Configurations/user-management)
+Learn more [Team Management](../Settings-Configurations/user-management.md)
 
 ### How can I change the date format, e.g., from UK, 31/1/24 to US, 01/31/24?
 

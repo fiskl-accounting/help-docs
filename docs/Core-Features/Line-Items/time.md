@@ -85,7 +85,7 @@ For certain professions, like legal, Fiskl offers the option to automatically ro
 
 ## Custom name templates
 
-You can configure a custom name template in [Company settings](../../Settings-Configurations/company-settings#time-name-template)
+You can configure a custom time name template in [Company settings](/docs/settings/company-settings#time-name-template)
 
 ## Best practices for time tracking
 

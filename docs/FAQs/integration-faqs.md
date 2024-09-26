@@ -17,19 +17,19 @@ tags:
 
 Fiskl never has direct access to your banking details when you connect your bank. We use trusted third-party services for bank connections:
 
-- [Salt Edge](../Integrations/Bank-Connections/connect-saltedge)
-- [Yodlee](../Integrations/Bank-Connections/connect-yodlee)
-- [WIO Bank](../Integrations/Bank-Connections/connect-wio) (via OpenBanking)
+- [Salt Edge](../Integrations/Bank-Connections/connect-saltedge.md)
+- [Yodlee](../Integrations/Bank-Connections/connect-yodlee.md)
+- [WIO Bank](../Integrations/Bank-Connections/connect-wio.md) (via OpenBanking)
 
 These services manage the connection securely, and Fiskl only receives read-only transaction data.
 
 ### How secure is the site where I enter my bank credentials?
 
-[Salt Edge](../Integrations/Bank-Connections/connect-saltedge) and [Yodlee](../Integrations/Bank-Connections/connect-yodlee) are world leaders in bank connectivity. They use advanced security measures to protect your information. Fiskl only receives read-only transaction data and has no access to your banking credentials.
+[Salt Edge](../Integrations/Bank-Connections/connect-saltedge.md) and [Yodlee](../Integrations/Bank-Connections/connect-yodlee.md) are world leaders in bank connectivity. They use advanced security measures to protect your information. Fiskl only receives read-only transaction data and has no access to your banking credentials.
 
 ### Can the Pro account link with Revolut bank?
 
-Yes, you can connect your Revolut account via [Salt Edge](../Integrations/Bank-Connections/connect-saltedge).
+Yes, you can connect your Revolut account via [Salt Edge](../Integrations/Bank-Connections/connect-saltedge.md).
 
 ### How can I import transactions that are more than one year old?
 
@@ -37,7 +37,7 @@ To import older transactions, you'll need to use manual import:
 
 1. Export the transactions from your bank
 2. Format the data according to Fiskl's requirements
-3. Use the [Manual Import Bank Transactions](../Tutorials/Banking/how-to-import-bank) feature
+3. Use the [Manual Import Bank Transactions](../Tutorials/Banking/how-to-import-bank.md) feature
 
 ### Does Fiskl add extra charges to payments processed through added payment gateways?
 

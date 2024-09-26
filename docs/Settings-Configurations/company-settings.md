@@ -15,7 +15,7 @@ Access Company settings using the `gear icon` on the top left menu or visit the 
 
 ## General
 
-Most values in `Company Settings` can be overridden by a brand in [Templates and brands](./templates-and-brands).
+Most values in `Company Settings` can be overridden by a brand in [Templates and brands](../Settings-Configurations/templates-and-brands.md).
 
 - **Company name**: Your official name for invoices, quotes, and reports
 - **Industry**: Helps Fiskl provide relevant features and reports
