@@ -141,11 +141,11 @@ Changes to templates affect all invoices using that template.
 
 Create line items directly on the invoice or in advance. Types include:
 
-- [Products](../../Core-Features/Line-Items/products)
-- [Services](../../Core-Features/Line-Items/services)
-- [Expenses](../../Core-Features/Line-Items/expenses)
-- [Mileage](../../Core-Features/Line-Items/mileage)
-- [Time](../../Core-Features/Line-Items/time)
+- [Products](../../Core-Features/Line-Items/products.md)
+- [Services](../../Core-Features/Line-Items/services.md)
+- [Expenses](../../Core-Features/Line-Items/expenses.md)
+- [Mileage](../../Core-Features/Line-Items/mileage.md)
+- [Time](../../Core-Features/Line-Items/time.md)
 
 Products and Services are templates, while Expenses, Time & Mileage become billable when added to an invoice.
 

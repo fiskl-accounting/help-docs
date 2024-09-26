@@ -53,7 +53,7 @@ Businesses often use internal transfers for:
 
 ## How Fiskl helps with internal transfers
 
-Fiskl provides tools to easily record your internal transfers, ensuring your accounting records accurately reflect the movement of funds between your accounts. In the case of [WIO Bank](../../../../Integrations/Bank-Connections/connect-wio.md), we do these automatically.
+Fiskl provides tools to easily record your internal transfers, ensuring your accounting records accurately reflect the movement of funds between your accounts. In the case of [WIO Bank](/docs/integrations/banking/connecting-wio), we do these automatically.
 
 ## Types of internal transfers in Fiskl
 

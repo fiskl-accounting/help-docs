@@ -27,7 +27,7 @@ The Sales Tax report in Fiskl provides a comprehensive overview of your company'
 
 ## Understanding how the Sales Tax report works
 
-The report is generated per [Tax Number](../../../Settings-Configurations/tax-settings#3-tax-idvat-numbers), also known as your Tax Agency. The report will be in the currency of that Tax Number, but you can choose to display your base currency conversion alongside it. You generate the report per tax period, and it will include your opening and closing balances."
+The report is generated per [Tax Number](/docs/settings/tax-settings#3-tax-idvat-numbers), also known as your Tax Agency. The report will be in the currency of that Tax Number, but you can choose to display your base currency conversion alongside it. You generate the report per tax period, and it will include your opening and closing balances."
 
 ## Configuring your report
 
