@@ -1,8 +1,8 @@
 ---
-title: Fi - Your AI Assistant
+title: Fi - Your AI Advisor
 sidebar_position: 2
 description: "Optimize your business with Fiskl's AI-driven financial insights: Automate accounting processes and get multilingual support for data-driven decision-making."
-keywords: ["AI financial insights Fiskl", "automated accounting", "business optimization", "AI accounting software", "multilingual AI assistant"]
+keywords: ["AI financial insights Fiskl", "automated accounting", "business optimization", "AI accounting software", "multilingual AI advisor"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 slug: /core-features/fi
@@ -12,9 +12,9 @@ tags:
   - Multilingual
 ---
 
-## Fi - Your AI Assistant
+## Fi - Your AI Advisor
 
-Fi is your AI-powered assistant in Fiskl, designed to help you navigate the platform, understand accounting concepts, and optimize your small business operations. With extensive knowledge of Fiskl's features and accounting principles, Fi provides quick, accurate answers to your questions in multiple languages.
+Fi is your AI-powered advisor in Fiskl, designed to help you navigate the platform, understand accounting concepts, and optimize your small business operations. With extensive knowledge of Fiskl's features and accounting principles, Fi provides quick, accurate answers to your questions in multiple languages.
 
 ## How Fi Can Help You
 
@@ -56,7 +56,7 @@ While Fi is a powerful tool, it's important to understand its current limitation
 - Questions unrelated to Fiskl, accounting, or small business management are outside Fi's scope
 
 :::info
-We're continuously working to expand Fi's capabilities to provide you with even more value in the future. Fi is a core part of Fiskl's long-term strategy, and we envision it evolving into an even more comprehensive assistant that could potentially interact with your account data, among other exciting possibilities. Stay tuned for updates as we progress on this journey.
+We're continuously working to expand Fi's capabilities to provide you with even more value in the future. Fi is a core part of Fiskl's long-term strategy, and we envision it evolving into an even more comprehensive advisor that could potentially interact with your account data, among other exciting possibilities. Stay tuned for updates as we progress on this journey.
 :::
 
 ## Tips for Effective Communication with Fi
