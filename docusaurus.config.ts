@@ -96,14 +96,14 @@ const config: Config = {
         },
         {
           label: 'Sign in',
-          position: 'left',
+          position: 'right',
           href: 'https://my.fiskl.com/login',
           target: '_blank', 
           rel: 'noopener noreferrer',
         },
         {
           label: 'Start for free',
-          position: 'left',
+          position: 'right',
           href: 'https://my.fiskl.com/registration',
           target: '_blank', // Open in new tab
           rel: 'noopener noreferrer', 
