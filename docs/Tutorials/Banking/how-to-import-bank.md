@@ -203,5 +203,5 @@ If you encounter problems during the import process, try these solutions:
 Remember, as a business owner, your role is to ensure that all transactions from your bank are accurately reflected in your Fiskl ledger accounts. Fiskl then uses this data to generate accurate accounting reports based on the rules for each account type.
 
 :::tip
-While manual imports are useful in certain situations, consider using Fiskl's [automatic bank connections](../../Integrations/Bank-Connections/_category_.json) for more efficient transaction management.
+While manual imports are useful in certain situations, consider using Fiskl's [automatic bank connections](/docs/category/bank-connections) for more efficient transaction management.
 :::

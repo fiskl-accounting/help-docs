@@ -142,7 +142,7 @@ To get you started with invoicing, we've put together a flexible series of guide
   <CardContainer>
 
 <div className="card-grid invoicing-cards">
-  <a href="with-accounting#connect-your-bank">
+  <a href="/docs/getting-started/accounting#connect-your-bank">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>
@@ -158,7 +158,7 @@ To get you started with invoicing, we've put together a flexible series of guide
     </div>
   </a>
 
-  <a href="/docs/Settings-Configurations/tax-settings">
+  <a href="/docs/settings/tax-settings">
     <div className="container_card">
       <div className="card__header">
         <div>Accounting</div>

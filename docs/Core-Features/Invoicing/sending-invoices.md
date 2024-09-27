@@ -41,7 +41,7 @@ Standard emails are HTML-formatted and provided by Fiskl. They offer the followi
 
 #### Custom emails
 
-Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios, such as:
+Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and Brands](/docs/settings/template-brand-settings#custom-emails) for various scenarios, such as:
 
 - Overdue reminders
 - Deposit requests

@@ -121,7 +121,7 @@ Learn more about [Accounting Reports](/docs/category/reports)
   <CardContainer>
 
     <div className="card-grid invoicing-cards">
-  <a href="/docs/Settings-Configurations/accountant-management">
+  <a href="/docs/settings/accountant-management">
     <div className="container_card">
       <div className="card__header">
         <div>Team Management</div>
@@ -137,7 +137,7 @@ Learn more about [Accounting Reports](/docs/category/reports)
     </div>
   </a>
 
-  <a href="/docs/Settings-Configurations/user-management">
+  <a href="/docs/settings/user-management">
     <div className="container_card">
       <div className="card__header">
         <div>Team Management</div>

@@ -94,30 +94,31 @@ const config: Config = {
           type: 'search',
           position: 'right',
         },
+        {
+          label: 'Sign in',
+          position: 'left',
+          href: 'https://my.fiskl.com/login',
+          target: '_blank', 
+          rel: 'noopener noreferrer',
+        },
+        {
+          label: 'Start for free',
+          position: 'left',
+          href: 'https://my.fiskl.com/registration',
+          target: '_blank', // Open in new tab
+          rel: 'noopener noreferrer', 
+        },
+        {
+          label: 'Website',
+          position: 'right',
+          href: 'https://fiskl.com',
+          target: '_blank', // Open in new tab
+          rel: 'noopener noreferrer',
+        },
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Fiskl',
-          items: [
-            {
-              label: 'Fiskl website',
-              to: 'https://fiskl.com/',
-            },
-          ],
-        },
-        {
-          title: 'Fiskl Dashboard',
-          items: [
-            {
-              label: 'Register',
-              href: 'https://my.fiskl.com/registration',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} Fiskl Limited. Fiskl Limited is registered in England and Wales (No. 09330290). All rights reserved.`,
     },
     metadata: [

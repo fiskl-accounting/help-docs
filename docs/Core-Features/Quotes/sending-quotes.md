@@ -35,7 +35,7 @@ HTML-formatted emails provided by Fiskl that:
 
 #### Custom emails
 
-Create unique, company-specific messages in [Templates and brands](../../Settings-Configurations/templates-and-brands#custom-emails) for various scenarios.
+Create unique, company-specific messages in [Templates and Brands](/docs/settings/template-brand-settings#custom-emails) for various scenarios.
 
 <details>
 
