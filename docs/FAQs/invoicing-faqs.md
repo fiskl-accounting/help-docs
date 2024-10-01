@@ -92,11 +92,7 @@ Yes, when creating an invoice. The new format becomes the default, and if it end
 
 ### Can I show my VAT or Tax number on my invoices?
 
-<<<<<<< HEAD
-Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](/docs/core-features/invoicing/invoice-management).
-=======
 Yes, to display your VAT or Tax number on an invoice, go to [Manage Taxes], create a new Tax/VAT number, and check the box next to "Display Tax number/ID in invoice." After saving, add the relevant sales tax, and your tax number will automatically appear on invoices where taxes are applied.
->>>>>>> christina
 
 ### Can I create a receipt?
 
