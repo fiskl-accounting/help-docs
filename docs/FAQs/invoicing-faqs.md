@@ -94,6 +94,20 @@ Yes, when creating an invoice. The new format becomes the default, and if it end
 
 Yes, to display your VAT or Tax number on an invoice, go to [Manage Taxes], create a new Tax/VAT number, and check the box next to "Display Tax number/ID in invoice." After saving, add the relevant sales tax, and your tax number will automatically appear on invoices where taxes are applied.
 
+<details>
+<summary>Watch a video walkthrough on how to display your Tax/VAT number on invoices</summary>
+<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/e/cm1j638zo008mjx0capreqcz8/tour"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
 ### Can I create a receipt?
 
 While there's no dedicated receipt feature, you can resend a paid invoice with a custom message. The customer will see the invoice marked as paid, the payment date, and can download the PDF. This is typically sufficient as a receipt of payment.
