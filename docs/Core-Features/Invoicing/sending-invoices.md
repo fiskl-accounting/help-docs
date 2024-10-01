@@ -62,30 +62,35 @@ Custom emails provide you with special templates to give you control over the to
 </details>
 
 :::info[tip]
-To send emails from your own domain, you can whitelist it in [Invoice & quote settings](../../Settings-Configurations/invoice-and-quote-settings).
+To send emails from your own domain, you can whitelist it in [Invoice & quote settings](/docs/settings/invoice-quote-settings).
 :::
 
 :::info[tip]
 To receive a copy of all your invoice emails, set your default bcc email in Invoice and quote settings.
 :::
 
-
 ### Share Link
 
-Share links provide flexibility in how you send invoices. The generated link is the same one used in the "Pay Now" button of emailed invoices. It directs your client to a secure page where they can preview the invoice and make a payment. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
+Share links offer a versatile way to send invoices without relying on email. This method generates the same link used in the "Pay Now" button of emailed invoices, directing your client to a secure page for invoice preview and payment.
 
-<details>
+Key benefits:
+- Send invoices through any communication channel
+- Use your preferred email client or messaging apps
+- Accommodate clients who prefer non-email communication
 
-<summary>See all the steps to sending an invoice via share link</summary>
+**Steps to send an invoice via share link**
 
-1. Click "Generate share link" in the invoice review screen
-2. Copy the generated link
-3. Paste the link into your preferred messaging app
-
-</details>
+1. Open the invoice review screen
+1. Click "Generate share link"
+1. Copy the generated link
+1. Paste the link into your preferred messaging app or communication method
 
 :::info
-Generating a share link automatically marks the invoice as "Sent".
+Generating a share link automatically marks the invoice as "Sent" in the system.
+:::
+
+:::tip
+On Android and iOS devices, you can send your invoice directly through any messaging platform. This process generates and sends the link via your chosen message service.
 :::
 
 ### Send via Messaging App

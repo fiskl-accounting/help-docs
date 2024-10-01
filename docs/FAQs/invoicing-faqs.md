@@ -70,6 +70,21 @@ Change the invoice status to "Draft" or use the edit icon. Payments will be temp
 
 Yes, use [Recurring Invoices](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md). This feature allows you to set up invoices to be sent automatically at specified intervals, such as monthly or quarterly.
 
+### Can I send an invoice or quote without emailing it?
+
+Yes, you can use the share link function to send invoices or quotes without using email. Here's a brief overview:
+
+1. Generate a share link for your invoice or quote.
+1. This link leads to the invoice page where your customer can view and pay.
+1. Send this link through any method you prefer, or choose not to send it immediately.
+
+Key points to remember:
+
+- Generating a link marks the invoice as "sent" in the system.
+- On Android and iOS devices, you can send your invoice via any messaging platform.
+
+For a detailed guide on using share links, including step-by-step instructions, see our [Invoice Share Link documentation](/docs/core-features/invoicing/sending-invoices#share-link).
+
 ### Can I change the invoice number?
 
 Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](../Core-Features/Invoicing/invoice-management).
