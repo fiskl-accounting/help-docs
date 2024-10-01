@@ -130,10 +130,10 @@ To get you started with invoicing, we've put together a flexible series of guide
 
   1. Open `Sales` from the left menu, choose `Invoices`
   2. Click the plus button
-  3. Add a [client](../Core-Features/Clients-Vendors/clients.md) and [line items](../Core-Features/Line-Items/_category_.json)
+  3. Add a [client](../Core-Features/Clients-Vendors/clients.md) and [line items](/docs/category/line-items)
   4. Save and review
 
-  Learn more about [Creating invoices](../Core-Features/Invoicing/creating-invoices)
+  Learn more about [Creating invoices](/docs/core-features/invoicing/creating-invoices)
 
 </LayoutPair>
 

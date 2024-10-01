@@ -27,7 +27,7 @@ Yes, you can customize your Chart of Accounts to fit your business needs. Here's
 2. Click the plus button next to the account you want to add a category to
 3. Enter the new category details
 
-For more details, see [Managing your Chart of Accounts](../Core-Features/Accounting/chart-of-accounts.md).
+For more details, see [Managing your Chart of Accounts](/docs/core-features/accounting/chart-of-accounts).
 
 ### How do I delete an account from my Chart of Accounts?
 
@@ -110,7 +110,7 @@ For a detailed explanation of how to record and reconcile expenses, please see o
 
 ### Why do I not see my expenses in my P&L report or dashboard?
 
-Expenses added via the `Expense` section will not automatically appear in your [P&L](../Core-Features/Accounting/Reports/profit-and-loss.md) or any reports or on the dashboard until they are reconciled. The Expenses are a section to capture the Expense to be reconciled with an accounting transaction or billed to a client as part of an expense.
+Expenses added via the `Expense` section will not automatically appear in your [P&L](/docs/core-features/accounting/reports/profit-and-loss) or any reports or on the dashboard until they are reconciled. The Expenses are a section to capture the Expense to be reconciled with an accounting transaction or billed to a client as part of an expense.
 
 To learn more about how to record and reconcile expenses, please see our [How to Record Expenses tutorial](/docs/tutorials/accounting/how-to-record-expenses).
 
@@ -150,7 +150,7 @@ We're prioritizing accuracy and plan to reintroduce bulk categorization graduall
 
 ### Can I send statements to my clients showing outstanding invoices and payments?
 
-Yes, you can generate a [Statement of Accounts](../Core-Features/Accounting/Reports/statement-of-accounts) report. This report provides a comprehensive view of your client's account, including:
+Yes, you can generate a [Statement of Accounts](/docs/core-features/accounting/reports/statement-of-accounts) report. This report provides a comprehensive view of your client's account, including:
 
 - Outstanding invoices
 - Payments received

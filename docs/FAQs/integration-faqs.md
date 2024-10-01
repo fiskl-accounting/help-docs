@@ -25,11 +25,11 @@ These services manage the connection securely, and Fiskl only receives read-only
 
 ### How secure is the site where I enter my bank credentials?
 
-[Salt Edge](../Integrations/Bank-Connections/connect-saltedge.md) and [Yodlee](../Integrations/Bank-Connections/connect-yodlee.md) are world leaders in bank connectivity. They use advanced security measures to protect your information. Fiskl only receives read-only transaction data and has no access to your banking credentials.
+[Salt Edge](/docs/integrations/banking/connecting-saltedge) and [Yodlee](/docs/integrations/banking/connecting-yodlee) are world leaders in bank connectivity. They use advanced security measures to protect your information. Fiskl only receives read-only transaction data and has no access to your banking credentials.
 
 ### Can the Pro account link with Revolut bank?
 
-Yes, you can connect your Revolut account via [Salt Edge](../Integrations/Bank-Connections/connect-saltedge.md).
+Yes, you can connect your Revolut account via [Salt Edge](/docs/integrations/banking/connecting-saltedge).
 
 ### How can I import transactions that are more than one year old?
 
@@ -37,7 +37,7 @@ To import older transactions, you'll need to use manual import:
 
 1. Export the transactions from your bank
 2. Format the data according to Fiskl's requirements
-3. Use the [Manual Import Bank Transactions](../Tutorials/Banking/how-to-import-bank.md) feature
+3. Use the [Manual Import Bank Transactions](/docs/tutorials/banking/how-to-import-bank-transactions) feature
 
 ### Does Fiskl add extra charges to payments processed through added payment gateways?
 

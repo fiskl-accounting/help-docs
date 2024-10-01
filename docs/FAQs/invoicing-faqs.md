@@ -30,7 +30,7 @@ You can change the invoice currency by selecting the currency abbreviation next 
 4. Select the currency you want
 
 #### Client default
-1. You can set a default currency on your [Client](../Core-Features/Clients-Vendors/clients) profile
+1. You can set a default currency on your [Client](/docs/core-features/clients) profile
 2. Selecting a client with a different currency will automatically change your invoice currency
  </LayoutPair>
 </details>
@@ -56,19 +56,19 @@ You can change the invoice language by selecting the language abbreviation below
 
 ### Can I customize my invoice language?
 
-Yes, you can clone and customize languages. Go to [Invoice and Quote Language](../Settings-Configurations/invoice-and-quote-settings.md#custom-language-cloning) settings, clone a language, and modify the values as needed.
+Yes, you can clone and customize languages. Go to [Invoice and Quote Language](/docs/settings/invoice-quote-settings#custom-language-cloning) settings, clone a language, and modify the values as needed.
 
 ### If I update my template, will it affect invoices already created?
 
-Yes, updating a template affects all invoices using that template, including previous ones. To avoid this, create a new template and set it as default for future invoices. Learn more about [Templates & Brands](../Settings-Configurations/templates-and-brands.md).
+Yes, updating a template affects all invoices using that template, including previous ones. To avoid this, create a new template and set it as default for future invoices. Learn more about [Templates & Brands](/docs/settings/template-brand-settings).
 
 ### How do I edit invoices which have payments attached?
 
-Change the invoice status to "Draft" or use the edit icon. Payments will be temporarily disabled but usually auto-restore on save. If not, you can manually restore them. See [Invoicing Management](../Core-Features/Invoicing/invoice-management.md) for details.
+Change the invoice status to "Draft" or use the edit icon. Payments will be temporarily disabled but usually auto-restore on save. If not, you can manually restore them. See [Invoicing Management](/docs/core-features/invoicing/invoice-management) for details.
 
 ### Can I set my invoice to be automatically sent each month?
 
-Yes, use [Recurring Invoices](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md). This feature allows you to set up invoices to be sent automatically at specified intervals, such as monthly or quarterly.
+Yes, use [Recurring Invoices](/docs/core-features/invoicing/recurring/creating-recurring-invoices). This feature allows you to set up invoices to be sent automatically at specified intervals, such as monthly or quarterly.
 
 ### Can I send an invoice or quote without emailing it?
 
@@ -87,11 +87,11 @@ For a detailed guide on using share links, including step-by-step instructions, 
 
 ### Can I change the invoice number?
 
-Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](../Core-Features/Invoicing/invoice-management).
+Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](/docs/core-features/invoicing/invoice-management).
 
 ### How can I show my VAT or Tax number on my invoice?
 
-Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](../Core-Features/Invoicing/invoice-management).
+Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](/docs/core-features/invoicing/invoice-management).
 
 ### Can I create a receipt?
 
