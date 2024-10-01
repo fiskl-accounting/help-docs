@@ -62,6 +62,7 @@ Yes, you can clone and customize languages. Go to [Invoice and Quote Language](/
 
 Yes, updating a template affects all invoices using that template, including previous ones. To avoid this, create a new template and set it as default for future invoices. Learn more about [Templates & Brands](/docs/settings/template-brand-settings).
 
+
 ### How do I edit invoices which have payments attached?
 
 Change the invoice status to "Draft" or use the edit icon. Payments will be temporarily disabled but usually auto-restore on save. If not, you can manually restore them. See [Invoicing Management](/docs/core-features/invoicing/invoice-management) for details.
@@ -89,9 +90,13 @@ For a detailed guide on using share links, including step-by-step instructions, 
 
 Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](/docs/core-features/invoicing/invoice-management).
 
-### How can I show my VAT or Tax number on my invoice?
+### Can I show my VAT or Tax number on my invoices?
 
+<<<<<<< HEAD
 Yes, when creating an invoice. The new format becomes the default, and if it ends in a digit, it will increment automatically. For more control, see [Invoicing Management](/docs/core-features/invoicing/invoice-management).
+=======
+Yes, to display your VAT or Tax number on an invoice, go to [Manage Taxes], create a new Tax/VAT number, and check the box next to "Display Tax number/ID in invoice." After saving, add the relevant sales tax, and your tax number will automatically appear on invoices where taxes are applied.
+>>>>>>> christina
 
 ### Can I create a receipt?
 

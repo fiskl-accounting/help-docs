@@ -75,6 +75,18 @@ When added to an invoice, the service becomes a line item with additional fields
 Changes made to a service line item on an invoice do not affect the original service template.
 :::
 
+## Using Services in Recurring Invoices
+
+For recurring invoices, you can create a template for re-usable or recurring products/Services:
+1.	Go to Products and Services and click on [New Product or Service]
+2.	Toggle the [Template] option to ON
+3.	Click on [Name] to display the placeholder fields
+4.	Select the necessary placeholders. In this example, we’ll create a service for a 1-year gardening contract for "JP Photographers", expires 30/09/2025. The date calculations are based from today’s  date of 01/10/24.
+5.	Enter the text: “1-year gardening contract for,” then select [Client],
+6.	Type “expires,” then for 30 September 2025, select [Day-1] then [Month-1] (September) and [Year+1] (2025). Add [/] between the figures.
+7.	The service will display as: "1-year gardening contract for [client_name], expires [day+1Y-1D]/[month+1Y-1D]/[year+1Y-1D]
+8.	Once this is added to your invoice, the client's name and the expiry date will automatically be populated in the invoice line item
+
 ## Managing Services
 
 Regularly review and update your services to ensure accuracy in pricing, descriptions, and associated accounts. This practice helps maintain the integrity of your invoicing and financial reporting.

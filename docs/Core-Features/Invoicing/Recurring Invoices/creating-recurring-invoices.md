@@ -41,6 +41,13 @@ Fiskl will remember your recurring settings for future recurring invoice templat
 
 Follow the steps in the "Create invoices" section to complete your invoice template, then select "Save and review".
 
+:::info
+For recurring products/services, create a template in Products and Services with placeholders that auto-fill when added to a recurring invoice
+- e.g., 1-year gardening contract for "JP Photographers", expires 30/09/2025
+- Go to Products/Services, turn [template toggle] on and add a name
+- Select relevant placeholders, e.g., 1-year gardening contract for [client_name] expires [day+1Y]/[month+1Y]/[year+1Y]
+:::
+
 ## Starting Your Recurring Invoice
 
 1. On the sending screen, review and edit:
