@@ -14,7 +14,7 @@ tags:
 
 Time tracking in Fiskl allows you to record and bill for the time spent on client projects or tasks. This feature is crucial for service-based businesses and professionals who bill by the hour.
 
-## Understanding time in Fiskl
+## Understanding Time in Fiskl
 
 In Fiskl, time entries are standalone line items that represent periods of work. They can be created independently and later added to invoices for client billing.
 
@@ -26,7 +26,7 @@ Key features of time tracking:
 - Available on both web dashboard and mobile app
 - Custom name templates
 
-## Time entry methods
+## Time Entry Methods
 
 Fiskl offers three ways to track time:
 
@@ -45,7 +45,7 @@ Fiskl offers three ways to track time:
 Use the timer feature for real-time tracking to ensure accurate billing and productivity analysis.
 :::
 
-## Time entry components
+## Time Entry Components
 
 A time entry in Fiskl typically includes:
 
@@ -66,7 +66,7 @@ Time entries can be marked as billable or non-billable:
 When you add a time entry to an invoice, it automatically becomes billable to that invoice's client.
 :::
 
-## Time tracking on mobile
+## Time Tracking on Mobile
 
 The Fiskl mobile app allows you to track time on the go, offering all the features available on the web dashboard:
 
@@ -76,18 +76,18 @@ The Fiskl mobile app allows you to track time on the go, offering all the featur
 
 This ensures you can accurately track your time regardless of where you're working.
 
-## Rounding time
+## Rounding Time
 
 For certain professions, like legal, Fiskl offers the option to automatically round up time entries:
 
 - Round pre-sets include `3`, `5`, `10`, `15` and `30` minutes
 - Helps standardize billing practices
 
-## Custom name templates
+## Custom Name Templates
 
 You can configure a custom time name template in [Company settings](/docs/settings/company-settings#time-name-template)
 
-## Best practices for time tracking
+## Best Practices for Time Tracking
 
 1. **Be consistent**: Develop a habit of tracking time regularly for accurate billing and productivity analysis
 2. **Use descriptive entries**: Provide clear descriptions for each time entry to justify billing and help with future reference

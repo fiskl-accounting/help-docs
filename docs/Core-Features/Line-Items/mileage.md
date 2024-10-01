@@ -14,7 +14,7 @@ tags:
 
 Mileage tracking in Fiskl allows you to record and bill for business-related travel. This feature is essential for professionals who need to track vehicle usage for client billing or tax purposes.
 
-## Understanding mileage in Fiskl
+## Understanding Mileage in Fiskl
 
 In Fiskl, mileage entries are standalone line items that represent distance traveled for business purposes. They can be created independently and later added to invoices for client billing.
 
@@ -25,7 +25,7 @@ Key features of mileage tracking:
 - Available on both web dashboard and mobile app
 - Option to attach images (e.g., odometer readings)
 
-## Mileage entry methods
+## Mileage Entry Methods
 
 Fiskl offers three ways to track mileage:
 
@@ -46,7 +46,7 @@ Fiskl offers three ways to track mileage:
 Use the Google Maps integration for accurate distance calculations.
 :::
 
-## Mileage entry components
+## Mileage Entry Components
 
 A mileage entry in Fiskl typically includes:
 
@@ -57,7 +57,7 @@ A mileage entry in Fiskl typically includes:
 5. **Client**: The client for whom the travel was done (for billable mileage)
 6. **Images**: Optional attachments (e.g., odometer readings)
 
-## Billable vs. non-billable mileage
+## Billable vs. Non-Billable Mileage
 
 Mileage entries can be marked as billable or non-billable:
 
@@ -68,7 +68,7 @@ Mileage entries can be marked as billable or non-billable:
 When you add a mileage entry to an invoice, it automatically becomes billable to that invoice's client.
 :::
 
-## Mileage tracking on mobile
+## Mileage Tracking on Mobile
 
 The Fiskl mobile app allows you to track mileage on the go, offering all the features available on the web dashboard:
 
@@ -79,7 +79,7 @@ The Fiskl mobile app allows you to track mileage on the go, offering all the fea
 
 This ensures you can accurately track your mileage regardless of where you're traveling.
 
-## Best practices for mileage tracking
+## Best Practices for Mileage Tracking
 
 1. **Be consistent**: Develop a habit of recording mileage immediately after trips for accuracy
 2. **Use descriptive entries**: Provide clear descriptions for each mileage entry to justify billing and help with tax reporting

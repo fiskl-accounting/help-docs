@@ -34,7 +34,7 @@ allowtransparency="true"
 </details>
 
 
-## Getting started
+## Getting Started
 
 ### Registering on the Accounting Portal
 
@@ -49,9 +49,9 @@ The Accounting Portal is a complimentary free service provided by Fiskl.
 To access the Accounting Portal:
 - Log directly into your dedicated portal account at [Accounting Portal Login](https://my.fiskl.com/portal/login)
 
-## Managing your account
+## Managing your Account
 
-### Personal settings and email address
+### Personal Settings and Email Address
 
 You can manage your personal settings and email address from the top right menu:
 
@@ -61,6 +61,6 @@ You can manage your personal settings and email address from the top right menu:
 
 Remember to keep your contact information up-to-date to ensure you receive important notifications and invitations.
 
-## Need help?
+## Need Help?
 
 If you have any questions or need assistance with the Accounting Portal, please don't hesitate to reach out to our support team at support@fiskl.com.

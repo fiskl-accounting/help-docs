@@ -24,7 +24,7 @@ Fiskl turns traditional posting to accounts on it's head with every transaction 
 
 Uncategorized transactions will be displayed in red in your [Accounting Reports](/docs/category/reports).
 
-### Easy account and category management
+### Easy Account and Category Management
 
 Take control of your finances with our customizable [Chart of Accounts](./chart-of-accounts.md):
 
@@ -32,7 +32,7 @@ Take control of your finances with our customizable [Chart of Accounts](./chart-
 - Add new accounts or edit existing ones in any language
 - Seamlessly manage your Chart of Accounts from both mobile and web interfaces
 
-### Automated transaction management
+### Automated Transaction Management
 
 Say goodbye to manual data entry and hello to smart, automated bookkeeping:
 
@@ -40,7 +40,7 @@ Say goodbye to manual data entry and hello to smart, automated bookkeeping:
 - Easily match and split transactions across multiple accounts and multiple currencies
 - Add additional information including attachments to keep your records detailed and audit-ready
 
-## Real-time multi-currency support
+## Real-time Multi-Currency Support
 
 In today's global business environment, multi-currency support is crucial. Fiskl offers:
 
@@ -48,7 +48,7 @@ In today's global business environment, multi-currency support is crucial. Fiskl
 - Automatic exchange rate calculations and adjustments
 - Comprehensive multi-currency reporting, including detailed Transactions by Account reports
 
-## Financial reports at your fingertips
+## Financial Reports at your Fingertips
 
 Access powerful financial insights without the need for an accountant:
 
@@ -58,7 +58,7 @@ Access powerful financial insights without the need for an accountant:
 - Produce daily, monthly, quarterly, or yearly reports with ease
 - Export reports to `Excel`, directly to `Google Sheets` or `PDF`
 
-## Modern accounting for today's business
+## Modern Accounting for Today's Business
 
 Fiskl's accounting platform is designed to meet the needs of modern, global businesses:
 
@@ -68,7 +68,7 @@ Fiskl's accounting platform is designed to meet the needs of modern, global busi
 - **Scalability**: Our platform grows with your business, ensuring you never outgrow your accounting software
 - **Integration**: Seamlessly connect with other Fiskl features for comprehensive business management
 
-## Empower your business and your accountant
+## Empower Your Business and Your Accountant
 
 With Fiskl, you can take charge of your daily financial management, freeing up your accountant to focus on strategic advice:
 

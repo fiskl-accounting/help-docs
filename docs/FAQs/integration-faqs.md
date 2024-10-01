@@ -64,6 +64,6 @@ For more information, see [GoCardless Payments in Fiskl](../Integrations/Payment
 
 Yes, we have advanced [Recurring Invoices in Fiskl](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md)
 
-## Need more help?
+## Need More Help?
 
 If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

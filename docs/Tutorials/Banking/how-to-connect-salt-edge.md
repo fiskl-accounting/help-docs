@@ -1,5 +1,5 @@
 ---
-title: How to connect your bank using Salt Edge
+title: How to Connect Your Bank Using Salt Edge
 sidebar_position: 6
 description: "Enhance financial management with Fiskl-Salt Edge integration: Enable seamless bank connections for automatic transaction imports."
 keywords: ["Connect Salt Edge Fiskl", "bank integration Fiskl", "automatic transaction imports", "financial management Fiskl", "seamless banking Fiskl"]
@@ -35,40 +35,40 @@ allowtransparency="true"
 
 Salt Edge is a financial data aggregator that securely connects your bank account to Fiskl. It's the primary provider for banks in Europe, Asia, and the Middle East, supporting OpenBanking standards and offering wide coverage.
 
-## Benefits of using Salt Edge
+## Benefits of Using Salt Edge
 
 - Wide coverage of banks in Europe, Asia, and the Middle East
 - Support for OpenBanking standards
 - Secure and efficient connection between your bank and Fiskl
 - Automated synchronization of your banking data
 
-## Before you begin
+## Before You Begin
 
 Before starting the connection process, it's a good idea to check if your bank is supported by Salt Edge:
 
 1. Visit the [Salt Edge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
 2. Search for your bank or browse by country
 
-## Step-by-step guide to connecting your bank
+## Step-by-step Guide to Connecting Your Bank
 
 Follow these steps to connect your bank account using Salt Edge:
 
-### Step 1: Access the banking section
+### Step 1: Access the Banking Section
 
 1. Log in to your Fiskl account
 2. In the left menu, select "Banking"
 
-### Step 2: Initiate the bank connection
+### Step 2: Initiate the Bank Connection
 
 1. Click the "Connect bank" button
 2. From the list of providers, select "Salt Edge"
 
-### Step 3: Find your bank
+### Step 3: Find Your Bank
 
 1. Use the search function to find your bank
 2. Alternatively, browse the list of available banks
 
-### Step 4: Connect your bank account
+### Step 4: Connect Your Bank Account
 
 1. Select your bank from the list
 2. You'll be redirected to your bank's unique connection flow
@@ -79,7 +79,7 @@ Follow these steps to connect your bank account using Salt Edge:
 The connection process should feel familiar if you've used online banking before. Each bank has its own specific steps, so follow the prompts carefully.
 :::
 
-### Step 5: Confirm the connection
+### Step 5: Confirm the Connection
 
 1. Once you've completed your bank's authentication process, you'll be redirected back to Fiskl
 2. Fiskl will automatically detect and connect your accounts
@@ -88,7 +88,7 @@ The connection process should feel familiar if you've used online banking before
 The initial connection may take a few minutes to complete as Fiskl syncs your transactions for the first time.
 :::
 
-## Maintaining your bank connection
+## Maintaining Your Bank Connection
 
 To ensure your financial data stays up-to-date in Fiskl:
 

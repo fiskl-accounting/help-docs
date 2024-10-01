@@ -13,13 +13,13 @@ The Invoice and quote settings page lets you customize how your invoices and quo
 
 Access Invoice and quote settings using the `gear icon` on the top left menu or visit the [Invoice and quote settings page](https://my.fiskl.com/invoice-settings) on the web dashboard.
 
-## Language settings
+## Language Settings
 
 Fiskl supports over 60 languages for invoices, quotes, emails, and customer-facing screens, including payment schedules and payment interfaces.
 
 - **Primary language**: Choose the language for all new invoices and quotes. You can change this for individual invoices as needed
 
-### Custom language cloning
+### Custom Language Cloning
 
 Customize existing language translations to suit your specific needs:
 
@@ -31,7 +31,7 @@ This feature is useful for:
 - Adapting languages like Spanish to specific regional dialects
 - Customizing terminology (e.g., changing "Client" to "Customer")
 
-## Payment methods
+## Payment Methods
 
 Configure manual payment methods to provide clear instructions for your customers. These are separate from integrated payment gateways.
 
@@ -52,7 +52,7 @@ Use basic HTML to style your instructions for better readability. For example:
 
 These payment methods will appear on invoices and payment pages, with convenient copy-to-clipboard functionality to assist your customers.
 
-## Invoice settings
+## Invoice Settings
 
 Configure your invoice preferences:
 
@@ -60,7 +60,7 @@ Configure your invoice preferences:
 - **Auto-select payment gateways**: Toggle to automatically select all available payment methods compatible with the invoice's country, currency, and amount
 - **Invoice notes**: Add notes to appear on all invoices. Basic HTML styling is supported
 
-## Quote settings
+## Quote Settings
 
 Customize your quote preferences:
 
@@ -68,9 +68,9 @@ Customize your quote preferences:
 - **Quote notes**: Include additional notes for your quotes. HTML styling can be used
 - **Quote validity period**: Set the number of days a quote remains valid (default: 7 days)
 
-## Email settings
+## Email Settings
 
-### Custom domain
+### Custom Domain
 
 Set up a whitelisted email domain for sending invoices in your [Dashboard Invoice & Quote Settings](https://my.fiskl.com/invoice-settings):
 
@@ -94,7 +94,7 @@ You can verify your settings are correct using tools like these:
 Removing the CNAME records in your DNS after verification will prevent your emails from being delivered.
 :::
 
-### BCC for all emails
+### BCC for All Emails
 Set a BCC email address for all system-sent emails. This is useful for:
 - Keeping a centralized record of all sent invoices and quotes
 - Team collaboration and oversight

@@ -15,17 +15,17 @@ import TOCInline from '@theme/TOCInline';
 
 After creating a quote in Fiskl, you have several options for sending it to your client. This guide will walk you through the process of sending quotes.
 
-## Before you start
+## Before You Start
 
 Ensure that you've created, saved, and reviewed the quote for accuracy before sending.
 
-## Sending options
+## Sending Options
 
-### Send by email
+### Send by Email
 
 Fiskl offers two email formats for sending quotes:
 
-#### Standard emails
+#### Standard Emails
 
 HTML-formatted emails provided by Fiskl that:
 
@@ -33,7 +33,7 @@ HTML-formatted emails provided by Fiskl that:
 - Can be customized with an email logo set in Templates and brands
 - Use your quote template's primary header color for branding consistency
 
-#### Custom emails
+#### Custom Emails
 
 Create unique, company-specific messages in [Templates and Brands](/docs/settings/template-brand-settings#custom-emails) for various scenarios.
 
@@ -49,7 +49,7 @@ Create unique, company-specific messages in [Templates and Brands](/docs/setting
 
 </details>
 
-### Share link
+### Share Link
 
 Share links provide flexibility in how you send quotes. The generated link is the same one used in the "View Quote" button of emailed quote. It directs your client to a secure page where they can preview the quote and accept it. You can send this link via your own email client, messaging apps, or any other communication method you prefer.
 
@@ -66,7 +66,7 @@ Share links provide flexibility in how you send quotes. The generated link is th
 Generating a share link automatically marks the quote as "Sent".
 :::
 
-### Send via messaging app
+### Send via Messaging App
 
 Sending quotes through messaging apps offers a casual yet trackable method of delivery:
 
@@ -82,7 +82,7 @@ The share link directs clients to a secure quotes view page. Messaging apps prov
 Consider your client's preferences when choosing between email and messaging apps for quote delivery.
 :::
 
-## Best practices for sending quotes
+## Best Practices for Sending Quotes
 
 - Double-check all quote details before sending
 - Use custom emails for a personalized touch with regular clients

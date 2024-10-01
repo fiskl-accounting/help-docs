@@ -14,7 +14,7 @@ tags:
 
 # Internal transfers
 
-## What are internal transfers?
+## What are Internal Transfers?
 
 Internal transfers involve moving money between your business accounts. There are two key aspects to understand:
 
@@ -23,7 +23,7 @@ Internal transfers involve moving money between your business accounts. There ar
 
 In Fiskl, we focus on helping you record internal transfers correctly to ensure your books reflect these important fund movements.
 
-## Why record internal transfers?
+## Why Record Internal Transfers?
 
 Properly recording internal transfers in your accounting system is crucial for:
 
@@ -51,18 +51,18 @@ Businesses often use internal transfers for:
 
 </details>
 
-## How Fiskl helps with internal transfers
+## How Fiskl Helps with Internal Transfers
 
 Fiskl provides tools to easily record your internal transfers, ensuring your accounting records accurately reflect the movement of funds between your accounts. In the case of [WIO Bank](/docs/integrations/banking/connecting-wio), we do these automatically.
 
-## Types of internal transfers in Fiskl
+## Types of Internal Transfers in Fiskl
 
 Fiskl categorizes internal transfers based on currency types:
 
 1. Transfers between accounts of the same currency
 1. Transfers between accounts with different currencies
 
-### Rules for internal transfer
+### Rules for Internal Transfer
 
 The following rules apply when Fiskl searches for transactions to match in an internal transfer:
 
@@ -77,9 +77,9 @@ If no match can be found for a transfer between accounts A to B, try changing ac
 This can occur if a movement of funds takes time to process. We may not think a transfer made on 1st December matches with another transaction on 15th November. But we will think that 15th November might match with 1st December.
 :::
 
-## Creating an internal transfer
+## Creating an Internal Transfer
 
-### Same currency transfer
+### Same Currency Transfer
 
 To transfer money between accounts with the same currency:
 
@@ -109,7 +109,7 @@ To transfer money between accounts with the same currency:
 
 Your internal transfer will appear in both the sending and receiving accounts.
 
-### Multi-currency transfer
+### Multi-Currency Transfer
 
 Transfers between accounts with different currencies follow the same process as [same currency transfers](#same-currency-transfer). The only difference is that the exchange rate the bank used for the transfer is shown on the matched transaction.
 

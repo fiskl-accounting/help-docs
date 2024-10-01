@@ -15,7 +15,7 @@ import LayoutPair from '@site/src/components/LayoutPair';
 
 To get you started with accounting, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
 
-### Complete your accounting settings
+### Complete Your Accounting Settings
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0pduug70053lf0c8p8jp3uv/tour">
 
@@ -31,7 +31,7 @@ Learn more about [Accounting settings](/docs/settings/accounting-settings)
 
 ---
 
-### Get to know your Chart of Accounts
+### Get to Know your Chart of Accounts
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0peq4b4007mmg0caxulk1ni/tour">
 
@@ -47,7 +47,7 @@ Learn more about [Chart of Accounts](../Core-Features/Accounting/chart-of-accoun
 
 ---
 
-### Connect your bank
+### Connect Your Bank
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm03lvxwt001rmb0cih22pqei/tour">
 
@@ -65,7 +65,7 @@ Learn more about [Bank integrations](/docs/category/integrations)
 
 ---
 
-### Import your bank data
+### Import Your Bank Data
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0qspfzc0001l40cgfes0rx8/tour">
 
@@ -82,7 +82,7 @@ Learn more about [Bank Integrations](/docs/category/integrations).
 
 ---
 
-### Create a journal entry
+### Create a Journal Entry
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0qttgnp0001k30cl3aun7xj/tour">
 
@@ -102,7 +102,7 @@ Learn more about [Bank Integrations](/docs/category/integrations).
 
 ---
 
-### View your reports
+### View Your Reports
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0qvc72d0003jn0ckvjmqfl0/tour">
 
@@ -116,7 +116,7 @@ Learn more about [Bank Integrations](/docs/category/integrations).
 Learn more about [Accounting Reports](/docs/category/reports)
 </LayoutPair>
 
-### What's next
+### What's Next
 
   <CardContainer>
 

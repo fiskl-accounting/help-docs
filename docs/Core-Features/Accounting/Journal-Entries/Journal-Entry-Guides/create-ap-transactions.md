@@ -12,14 +12,14 @@ tags:
  - Accounts Payable
 ---
 
-Accounts Payable (AP) is a key component in accrual accounting.
+Accounts Payable (AP) is a Key Component in Accrual Accounting.
 
 AP is a record of what your business owes to suppliers or vendors. It includes goods or services you've bought on credit but haven't paid for yet. In Fiskl, the AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This way, you can easily see how much you need to pay without any surprises.
 
 <details>
 <summary>Why is managing Accounts Payable important?</summary>
 
-Proper AP management helps you:
+Proper AP anagement helps you:
 - Track your short-term obligations
 - Accurately report your financial position
 </details>
@@ -29,7 +29,7 @@ If the balance in your Accounts Payable account is zero, it means you currently 
 :::
 
 
-## Creating an AP transaction
+## Creating an AP Transaction
 
 To record a new Accounts Payable transaction:
 
@@ -64,7 +64,7 @@ allowtransparency="true"
 
 Your new AP transaction will now appear in the Accounts Payable list and the corresponding expense account.
 
-## Matching AP transactions with payments
+## Matching AP Transactions with Payments
 
 <details>
 <summary>Take an interactive walkthrough of matching an accounts payable transaction</summary>
@@ -91,7 +91,7 @@ When you pay an AP transaction, you need to match it with the payment in your ba
 
 In the Accounts Payable section, you will find two transactions associated with this transaction. The initial transaction logs the future expense, while the subsequent transaction records its payment. Consequently, the outstanding balance for this payable is zeroed out. These updates are reflected in the account transactions and are visible on your Balance Sheet, Transactions by Account and Trial Balance reports.
 
-## Working with foreign currency AP transactions
+## Working with Foreign Currency AP Transactions
 
 Fiskl supports AP transactions in multiple currencies:
 
@@ -106,7 +106,7 @@ For payments covering multiple foreign currency invoices:
 1. Use the "Auto-adjust FX rate" option to proportionally adjust exchange rates if needed
 1. Click "Create" to finalize the matched transaction
 
-## Splitting AP transactions
+## Splitting AP Transactions
 
 You can split a single AP transaction across multiple categories, currencies, or vendors:
 

@@ -1,5 +1,5 @@
 ---
-title: Recording manual transactions
+title: Recording Manual Transactions
 sidebar_position: 4
 description: Record manual transactions in Fiskl with precision. Ensure all financial activities are accurately documented for comprehensive reporting.
 keywords: ["Create manual transactions Fiskl", "financial documentation", "account accuracy", "manual entries"]
@@ -14,7 +14,7 @@ tags:
 ---
 This guide will show you how to create a manual `journal entry` also referred to as an `account transaction`.
 
-## Common reasons for creating manual transactions
+## Common Reasons for Creating Manual Transactions
 
 Businesses are complex and not everything is automated. Here are just two examples of why you would create a manual transaction:
 
@@ -34,7 +34,7 @@ Businesses are complex and not everything is automated. Here are just two exampl
 
 </details>
 
-### Guided walk through
+### Guided Walk Through
 
 <details>
 <summary>Take an interactive walkthrough on how to create a manual journal entry</summary>
@@ -75,7 +75,7 @@ allowtransparency="true"
 
 Your transaction will appear in your account and your balance will change. The transaction will also be saved in the selected category account.
 
-### Multi-currency transactions
+### Multi-Currency Transactions
 
 Fiskl offers two ways to record foreign currency transactions:
 

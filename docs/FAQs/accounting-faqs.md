@@ -11,7 +11,7 @@ tags:
   - Accounting
 ---
 
-## General accounting questions
+## General Accounting Questions
 
 ### Is Fiskl a double-entry accounting system?
 
@@ -110,7 +110,7 @@ For a detailed explanation of how to record and reconcile expenses, please see o
 
 ### Why do I not see my expenses in my P&L report or dashboard?
 
-Expenses added via the `Expense` section will not automatically appear in your [P&L](../Core-Features/Accounting/Reports/profit-and-loss.md) or any reports or on the dashboard until they are reconciled. The Expenses are a section to capture the Expense to be reconciled with an accounting transaction or billed to a client as part of an expense. 
+Expenses added via the `Expense` section will not automatically appear in your [P&L](../Core-Features/Accounting/Reports/profit-and-loss.md) or any reports or on the dashboard until they are reconciled. The Expenses are a section to capture the Expense to be reconciled with an accounting transaction or billed to a client as part of an expense.
 
 To learn more about how to record and reconcile expenses, please see our [How to Record Expenses tutorial](/docs/tutorials/accounting/how-to-record-expenses).
 
@@ -151,6 +151,6 @@ To generate this report:
 1. Choose the client and date range
 1. Generate and send the report
 
-## Still have questions?
+## Still Have Questions?
 
 If you couldn't find the answer you're looking for, please don't hesitate to [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

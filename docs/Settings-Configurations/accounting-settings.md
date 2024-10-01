@@ -13,7 +13,7 @@ The `Accounting Settings` page allows you to configure your accounting preferenc
 
 Access `Accounting Settings` using the `gear icon` on the top left menu or visit the [Accounting settings page](https://my.fiskl.com/accounting-settings) on the web dashboard.
 
-## Accounting settings
+## Accounting Settings
 
 - **Company currency**: Displays your base currency. This cannot be changed after account creation
 
@@ -38,7 +38,7 @@ Changing your accounting method can significantly impact your financial reports.
 This flexibility allows you to adapt your accounting view as your business needs evolve, without the need for data migration or reorganization
 :::
 
-## Standard income accounts
+## Standard Income Accounts
 
 Set standard ledger accounts for various income types to automate your bookkeeping:
 

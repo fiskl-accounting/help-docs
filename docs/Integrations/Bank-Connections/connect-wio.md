@@ -12,7 +12,7 @@ tags:
 
 Connecting your WIO Bank account to Fiskl Banking transforms your financial management, especially for businesses using multiple currencies. This integration simplifies the traditionally complex process of reconciling transfers between accounts, saving you time and reducing errors.
 
-## How it works
+## How it Works
 
 When you connect WIO Bank to Fiskl Banking:
 
@@ -35,7 +35,7 @@ This process eliminates the need to manually reconcile transfers between account
 - **OpenBanking integration**: Ensures secure and efficient data sharing
 - **Multiple account support**: Connect and manage multiple WIO bank accounts
 
-## Connecting your WIO bank account
+## Connecting Your WIO Bank Account
 
 1. Go to Banking in the left menu
 2. Select "WIO Bank" from the available options
@@ -50,7 +50,7 @@ This process eliminates the need to manually reconcile transfers between account
 You can connect multiple WIO bank accounts by repeating this process for each account.
 :::
 
-## Managing connected accounts
+## Managing Connected Accounts
 
 After connecting your WIO bank account(s):
 
@@ -59,11 +59,11 @@ After connecting your WIO bank account(s):
    - Select the edit button on the account card
    - Modify the account name for easier identification
 
-## Automatic transaction categorization
+## Automatic Transaction Categorization
 
 Fiskl automatically categorizes your WIO transactions to streamline your bookkeeping process. For more details on how this works, refer to the "Your bank transactions" section in our guide.
 
-## Maintaining your connection
+## Maintaining Your Connection
 
 - Regularly check your WIO bank connection to ensure it remains active
 - Be aware of the consent duration you set and renew access when necessary

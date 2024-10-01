@@ -18,7 +18,7 @@ import Mermaid from '@theme/Mermaid';
 
 Fiskl offers a range of invoicing options, from basic to sophisticated. This guide will walk you through creating a basic invoice and then explore each component in detail for more advanced features.
 
-## Before you start
+## Before You Start
 
 While you can set up everything as you create your first invoice, it's helpful to have the following in place:
 
@@ -26,7 +26,7 @@ While you can set up everything as you create your first invoice, it's helpful t
 2. Create a client
 3. Set up a payment method (either an integrated payment gateway like Stripe or a manual payment method)
 
-## Creating a basic invoice
+## Creating a Basic Invoice
 
 <details>
 
@@ -45,13 +45,13 @@ While you can set up everything as you create your first invoice, it's helpful t
 
 </details>
 
-## Invoice components in detail
+## Invoice Components in Detail
 
 Let's examine each part of the invoice for a comprehensive understanding:
 
 <TOCInline toc={toc} />
 
-### Company information
+### Company Information
 
 The invoice pulls the following details from your `Company Settings`:
 
@@ -63,7 +63,7 @@ The invoice pulls the following details from your `Company Settings`:
 You can customize your address layout in `Company Settings` to change how it appears on invoices and quotes.
 :::
 
-### Client details
+### Client Details
 
 A client is required for invoice creation. You can add a client in advance or while creating the invoice. The invoice uses:
 
@@ -77,7 +77,7 @@ A client is required for invoice creation. You can add a client in advance or wh
 The client's Tax/VAT Registration number is shown if set in the client profile.
 :::
 
-### Invoice number
+### Invoice Number
 
 The initial format is INV-0001, incrementing with each new invoice.
 
@@ -94,7 +94,7 @@ To change the format, simply edit the invoice number when creating a new invoice
 
 </details>
 
-### Invoice dates
+### Invoice Dates
 
 Invoices include three dates:
 
@@ -106,7 +106,7 @@ Invoices include three dates:
 The standard due date is set to 7 days after the invoice date. You can adjust this in Invoice & quote settings.
 :::
 
-### Invoice status
+### Invoice Status
 
 Invoices follow this status flow:
 
@@ -137,7 +137,7 @@ Customize invoice appearance using themes, colors, and fonts in your template se
 Changes to templates affect all invoices using that template.
 :::
 
-### Line items
+### Line Items
 
 Create line items directly on the invoice or in advance. Types include:
 
@@ -164,7 +164,7 @@ Your TAX/VAT number will be automatically added to the invoice if you include a 
 1. The checkbox for displaying the tax number on your `Tax Number` settings is not checked.
 1. In your `Templates & Brands`, the checkbox to hide the tax number has been checked.
 
-### Discounts and deposits
+### Discounts and Deposits
 
 Add invoice-level discounts or request deposits as either fixed amounts or percentages.
 
@@ -194,7 +194,7 @@ Choose from over 60 languages for invoices & quotes. This affects the invoice, s
 You can customize your languages in [Invoice and quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
 
 
-### Additional information
+### Additional Information
 
 Add extra details like PO Numbers to your invoice.
 
@@ -202,11 +202,11 @@ Add extra details like PO Numbers to your invoice.
 
 Include custom notes on each invoice or set default notes in Invoice & quote settings.
 
-### Payment terms
+### Payment Terms
 
 Set standard payment terms in Invoice & quote settings. The due date is calculated based on these terms.
 
-### Payment schedules
+### Payment Schedules
 
 Create payment plans for single invoices with 2 to 12 instalments, using either flat amounts or percentages.
 

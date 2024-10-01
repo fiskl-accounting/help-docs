@@ -16,7 +16,7 @@ import TabItem from '@theme/TabItem';
 
 Journal entries also referred to as `Account transactions` and are the foundation of your accounting system. Journal entries are the record of all financial transactions in your business. You can think of the [Chart of Accounts](../chart-of-accounts.md) as your folder structure and journal entries as the transactions within them.
 
-## How Fiskl handles journal entries
+## How Fiskl handles Journal Entries
 
 Fiskl is an intuitive double-entry accounting system built with the business owner in mind while ensuring accountants have a fully featured accounting platform to process their clients accounts.
 
@@ -31,7 +31,7 @@ Fiskl is an intuitive double-entry accounting system built with the business own
 
 </details>
 
-## Types of journal entries
+## Types of Journal Entries
 
 Fiskl supports several types of journal entries to cover all your accounting needs.
 
@@ -48,7 +48,7 @@ Fiskl supports several types of journal entries to cover all your accounting nee
 
 </details>
 
-## Creating and managing journal entries
+## Creating and Managing Journal Entries
 
 While Fiskl automates much of the process there are many reasons why you would need to manually create and edit journal entries.
 
@@ -96,7 +96,7 @@ For making adjustments or for a more accountant familiar feel you can use the [M
 When adding or viewing a transaction we add a `CR` or `DR` under the category which has a very useful tool tip explaining which account is being credited and which is being debited. (e.g., **Credits** `Bank Account` and **Debits** "Cost of Goods Sold")
 :::
 
-## Viewing journal entries
+## Viewing Journal Entries
 
 You can view your transactions in their individual accounts. This is useful if you are viewing them with the intent of making adjustments.
 
@@ -112,11 +112,11 @@ Setting the reports to **detailed** allows you to drill down to transaction leve
 Remember, Fiskl's accounting reports draw directly from these journal entries, so keeping them accurate ensures your reports are always up-to-date and reliable.
 :::
 
-## Cheat sheet
+## Cheat Sheet
 
 ![Debit Credit sheet](/img/acounting/account-table.png)
 
-## Next steps
+## Next Steps
 
 Now that you understand the basics of journal entries in Fiskl, you might want to explore:
 

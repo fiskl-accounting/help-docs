@@ -22,7 +22,7 @@ A Chart of Accounts (CoA) is a fundamental tool for organizing your business fin
 
 In Fiskl, you can view your Chart of Accounts filtered by account type or as a complete list.
 
-## Account types
+## Account Types
 
 Your Chart of Accounts is divided into five main account types:
 
@@ -97,7 +97,7 @@ Key points about expense accounts:
 - A debit increases expenses, while a credit decreases them
 - Expenses appear on your income statement and are subtracted from revenue to calculate net income
 
-## Managing your Chart of Accounts in Fiskl
+## Managing Your Chart of Accounts in Fiskl
 
 Fiskl provides a comprehensive selection of commonly used accounts. You can also add custom categories to match your specific business needs.
 
@@ -120,7 +120,7 @@ A properly maintained Chart of Accounts:
 
 </details>
 
-## Visualize the default Chart of Accounts
+## Visualize the Default Chart of Accounts
 
 <details>
 

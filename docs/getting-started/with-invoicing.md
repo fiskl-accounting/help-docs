@@ -16,7 +16,7 @@ import LayoutPair from '@site/src/components/LayoutPair';
 
 To get you started with invoicing, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
 
-### Complete your company profile
+### Complete Your Company Profile
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0uxw7kx0018mi0chns4t653/tour">
 
@@ -33,7 +33,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
-### Complete your invoice settings
+### Complete Your Invoice Settings
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0rynvqs002lmc0cpkgu0dwo/tour">
 
@@ -50,7 +50,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
-### Style your invoice
+### Style Your Invoice
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0tlb1ud005ul50ci95817tk/tour">
 
@@ -68,7 +68,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
-### Connect a payment gateway
+### Connect a Payment Gateway
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/clzv0z7060003le0czr4k4kz0/tour">
 
@@ -90,7 +90,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
-### Add a manual payment
+### Add a Manual Payment
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0wf67ti00qild0cnhw88em9/tour">
 
@@ -106,7 +106,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
-### Setting up your taxes
+### Setting Up Your Taxes
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0qqxc0l004sl90cwm6djnbn/tour">
 
@@ -122,7 +122,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 ---
 
-### Create your first invoice
+### Create Your First Invoice
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm0wfvu4u00qkld0cqtctbx3v/tour">
 
@@ -137,7 +137,7 @@ To get you started with invoicing, we've put together a flexible series of guide
 
 </LayoutPair>
 
-## What's next
+## What's Next
 
   <CardContainer>
 

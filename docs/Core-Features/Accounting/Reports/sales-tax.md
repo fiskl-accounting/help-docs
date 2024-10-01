@@ -15,28 +15,28 @@ tags:
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Sales Tax report
+# Sales Tax Report
 
 The Sales Tax report in Fiskl provides a comprehensive overview of your company's sales tax activities and liabilities. This report is crucial for calculating and reporting the sales tax owed to tax authorities, ensuring compliance, and supporting informed financial decisions.
 
-## Accessing the Sales Tax report
+## Accessing the Sales Tax Report
 
 1. Select "Accounting" from the left menu
 2. Click on `Reports`
 3. Locate the Sales Tax report in the list of automated reports
 
-## Understanding how the Sales Tax report works
+## Understanding how the Sales Tax Report works
 
 The report is generated per [Tax Number](/docs/settings/tax-settings#3-tax-idvat-numbers), also known as your Tax Agency. The report will be in the currency of that Tax Number, but you can choose to display your base currency conversion alongside it. You generate the report per tax period, and it will include your opening and closing balances."
 
-## Configuring your report
+## Configuring Your Report
 
-### Select tax and period
+### Select Tax and Period
 
 1. Choose the relevant `Tax` from the dropdown menu
 2. Select a period (e.g., last quarter)
 
-### Choose view type
+### Choose View Type
 
 Toggle between summary and detailed views using the Summary/Details switch
 
@@ -44,7 +44,7 @@ Toggle between summary and detailed views using the Summary/Details switch
 Your applied filters are cached, allowing you to return to the same filtered report on subsequent visits. You can change these filters at any time.
 :::
 
-## Understanding report views
+## Understanding Report Views
 
 <Tabs>
 
@@ -91,17 +91,17 @@ Your applied filters are cached, allowing you to return to the same filtered rep
 
 </Tabs>
 
-## Customizing your report
+## Customizing Your Report
 
 You can change the title, subtitle, and add notes to the report. These changes are transient and will be included in any exports and downloads but are not saved.
 
-## Exporting your report
+## Exporting Your Report
 
 1. Click the "Export" button at the top right of the screen
 1. Choose to export to Google Sheets or Excel
 1. The export will reflect your current view (Summary or Detailed) and any applied filters
 
-## Report components
+## Report Components
 
 <details>
 

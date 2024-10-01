@@ -13,14 +13,14 @@ tags:
 Yodlee bank integrations provide a secure way to connect your financial accounts to Fiskl, allowing for efficient and automated sharing of your banking data. This integration enhances your experience by providing comprehensive financial services within Fiskl.
 Yodlee is the primary provider for customers in the United States, Canada, and South Africa
 
-## Benefits of Yodlee integration
+## Benefits of Yodlee Integration
 
 - Secure connection between your bank and Fiskl
 - Automated synchronization of your banking data
 - Support for multiple bank accounts and institutions
 - Streamlined financial management within Fiskl
 
-## Connecting your bank account
+## Connecting Your Bank Account
 
 1. Go to "Banking" in the left menu
 2. Click on "Connect"
@@ -50,12 +50,12 @@ After connecting your bank:
 After the initial connection, it may take up to 12 hours for our banking data providers to fetch the initial transactions from your connected bank account.
 :::
 
-## Regional considerations
+## Regional Considerations
 
 - Yodlee is the primary provider for users in the United States, Canada, and South Africa
 - You can use both Yodlee and Salt Edge. If your bank or institution is not available try Salt Edge
 
-## Maintaining your connection
+## Maintaining Your Connection
 
 We recommend checking your bank connections at least every 30 days to re-authenticate and ensure uninterrupted service.
 

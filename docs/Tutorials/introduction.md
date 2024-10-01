@@ -12,11 +12,11 @@ slug: /tutorials/introduction
 
 Welcome to our tutorials section! Here, you'll find step-by-step guides to help you make the most of Fiskl's features and streamline your accounting processes.
 
-## Finding tutorials
+## Finding Tutorials
 
 You can easily browse our collection of tutorials using the left menu. We've organized them by topic to help you quickly find the information you need.
 
-## Can't find what you're looking for?
+## Can't Find WhatYyou're Looking For?
 
 If you don't see a tutorial for a specific task or feature, we'd love to hear from you! Send your tutorial request to support@fiskl.com, and our team will consider adding it to our library.
 

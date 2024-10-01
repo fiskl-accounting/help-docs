@@ -107,6 +107,6 @@ You are in full control. You can upgrade, downgrade, cancel your subscription, o
 - [How can I cancel my subscription but keep all my data?](../Plans-Billing/cancel-subscription.md)
 - [How can I delete my account and all my data?](../Plans-Billing/delete-account.md)
 
-## Need more help?
+## Need More Help?
 
 If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

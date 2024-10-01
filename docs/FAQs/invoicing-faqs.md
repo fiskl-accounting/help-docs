@@ -82,6 +82,6 @@ Yes, when creating an invoice. The new format becomes the default, and if it end
 
 While there's no dedicated receipt feature, you can resend a paid invoice with a custom message. The customer will see the invoice marked as paid, the payment date, and can download the PDF. This is typically sufficient as a receipt of payment.
 
-## Need more help?
+## Need More Help?
 
 If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

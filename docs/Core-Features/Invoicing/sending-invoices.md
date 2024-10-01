@@ -14,7 +14,7 @@ tags:
 
 Once you've created an invoice in Fiskl, you have several options for sending it to your client. This guide will walk you through the process of sending invoices and setting up automated reminders.
 
-## Before sending
+## Before Sending
 
 Ensure that:
 
@@ -23,15 +23,15 @@ Ensure that:
 
 For details on creating invoices, refer to the [Create invoices](./creating-invoices.md) section of this guide.
 
-## Sending options
+## Sending Options
 
 There are multiple methods to sending invoices.
 
-### Send by email
+### Send by Email
 
 Fiskl offers two types of email formats for sending invoices:
 
-#### Standard emails
+#### Standard Emails
 
 Standard emails are HTML-formatted and provided by Fiskl. They offer the following features:
 
@@ -39,7 +39,7 @@ Standard emails are HTML-formatted and provided by Fiskl. They offer the followi
 - Can be customized with a specific email logo set in Templates and brands
 - Use the primary header color from your invoice template for branding consistency
 
-#### Custom emails
+#### Custom Emails
 
 Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and Brands](/docs/settings/template-brand-settings#custom-emails) for various scenarios, such as:
 
@@ -88,7 +88,7 @@ Share links provide flexibility in how you send invoices. The generated link is 
 Generating a share link automatically marks the invoice as "Sent".
 :::
 
-### Send via messaging app
+### Send via Messaging App
 
 Sending invoices through messaging apps offers a casual yet trackable method of delivery:
 
@@ -104,7 +104,7 @@ The share link directs clients to a secure invoice preview and payment page. Mes
 Consider your client's preferences when choosing between email and messaging apps for invoice delivery.
 :::
 
-## Setting up automated reminders
+## Setting up Automated Reminders
 
 Fiskl can send automated reminders for overdue invoices:
 
@@ -112,7 +112,7 @@ Fiskl can send automated reminders for overdue invoices:
 2. Scroll down to "Overdue reminders"
 3. Select your preferred reminder schedule
 
-## Best practices for sending invoices
+## Best Practices for Sending Invoices
 
 - Always double-check the invoice details before sending
 - Use custom emails for a more personalized touch with regular clients

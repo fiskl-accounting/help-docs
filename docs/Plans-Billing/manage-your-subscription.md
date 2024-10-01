@@ -21,7 +21,7 @@ Only users with the Admin or Owner role can see all four tabs.
 
 In this tab, you can upgrade or downgrade your subscription.
 
-### Upgrading your plan
+### Upgrading Your Plan
 
 You can upgrade your plan at any time if you're currently on the Free, Solo, or Pro plan. When upgrading, you'll be charged a pro-rata amount, and your new plan will take effect immediately.
 
@@ -34,7 +34,7 @@ To upgrade your plan:
 
 Your account will be instantly upgraded, and you'll have immediate access to the new features.
 
-### Downgrading your plan
+### Downgrading Your Plan
 
 If you're currently on the Solo or Pro plan, you can downgrade to a lower-tier plan at any time.
 
@@ -59,7 +59,7 @@ Use the date range filter to view your billing history. You can open invoices an
 If your tax number is set in `Company Settings`, it will appear on the invoice.
 :::
 
-## User changes
+## User Changes
 
 This tab displays the history of users on your account. It shows when users joined and when they were removed from the team members page.
 
@@ -74,7 +74,7 @@ The left card shows your current plan, price, any discounts, and the next billin
 - "X": Cancels your subscription at the end of the current period. You'll revert to the free plan with limited features
 - Round arrow icon: Appears if you've cancelled but are still in the current billing period. Selecting this will revert the cancellation
 
-### Saved card
+### Saved Card
 
 Edit your card information here if it's expiring or you want to change payment methods.
 

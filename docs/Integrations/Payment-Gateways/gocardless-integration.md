@@ -16,14 +16,14 @@ Connecting GoCardless to Fiskl transforms how you collect payments, especially f
 
 Learn more about [GoCardless](https://gocardless.com/) and their [Fees](#what-are-the-fees).
 
-## Benefits and use cases
+## Benefits and Use Cases
 
 - **Automated payments**: Set up Direct Debits for recurring invoices or payment schedules
 - **International support**: Collect payments in over 30 countries and multiple currencies
 - **Improved cash flow**: Reduce late payments with automated collection
 - **Currency flexibility**: Collect in your customer's currency and settle in your own
 
-### GoCardless is particularly suited for?
+### GoCardless is Particularly Suited for?
 
 - Regular payments (e.g., subscriptions, recurring services, payment schedules) and integrates well with [Fiskl Recurring Invoices](../../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md)
 - Customers with ongoing relationships
@@ -34,7 +34,7 @@ It's less suitable for:
 - Transactions requiring instant clearing
 - High-value, one-off payments
 
-## How it works and payment types
+## How it Works and Payment Types
 
 When you connect GoCardless to Fiskl:
 
@@ -62,7 +62,7 @@ GoCardless offers two main payment types:
 1. Complete the GoCardless Account Activation form and create your account
 1. Wait for account approval (You'll be notified of any status changes)
 
-## Payment timings and limits
+## Payment Timings and Limits
 
 - Funds are typically paid out two working days after collection
 - Transaction limits vary by country (e.g., £5000 for UK, $5000 for US)

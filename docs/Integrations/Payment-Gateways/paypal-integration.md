@@ -32,7 +32,7 @@ Connecting PayPal to Fiskl enhances your payment options, allowing you to accept
 If you don't have a PayPal account, visit [PayPal's website](https://www.paypal.com) and select "Sign Up" to create one before connecting to Fiskl.
 :::
 
-## Using PayPal payments
+## Using PayPal Payments
 
 Once connected, PayPal will appear as a payment method on your invoices.
 

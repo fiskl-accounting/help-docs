@@ -13,11 +13,11 @@ tags:
 
 Products in Fiskl refer to tangible items that your business sells. Managing these items effectively is crucial for invoicing, cost management, and profitability analysis.
 
-## Understanding products in Fiskl
+## Understanding Products in Fiskl
 
 In Fiskl, products serve as templates for line items on your invoices. When you add a product to an invoice, it creates a copy of the product as a line item, allowing you to adjust quantities and other details specific to that sale.
 
-## Product components
+## Product Components
 
 Each product in Fiskl contains the following information:
 
@@ -29,7 +29,7 @@ Each product in Fiskl contains the following information:
 6. **Description**: Detailed description of the product
 7. **Attachments**: Option to upload multiple files (png, jpg, pdf)
 
-## Creating a product
+## Creating a Product
 
 To create a new product:
 
@@ -47,7 +47,7 @@ To create a new product:
 Be as detailed as possible in your product descriptions. This information can be valuable for both your team and your customers.
 :::
 
-## Using products in invoices
+## Using Products in Invoices
 
 Products can be added to invoices in three ways:
 
@@ -74,7 +74,7 @@ When added to an invoice, the product becomes a line item with additional fields
 Remember, changes made to a product line item on an invoice do not affect the original product template.
 :::
 
-## Managing products
+## Managing Products
 
 Regularly review and update your products to ensure accuracy in pricing, descriptions, and associated accounts. This practice helps maintain the integrity of your invoicing and financial reporting.
 
@@ -82,7 +82,7 @@ Regularly review and update your products to ensure accuracy in pricing, descrip
 Changes to the product will not affect any of its generated line items.
 :::
 
-## Best practices for products
+## Best Practices for Products
 
 1. **Consistent naming**: Use clear, consistent names for your products to make them easy to find and use
 2. **Regular updates**: Keep product information up-to-date, especially pricing and tax rates

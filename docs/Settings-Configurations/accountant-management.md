@@ -14,15 +14,15 @@ tags:
 
 Collaborating with your accountant is crucial for effective financial management. Fiskl allows you to invite and manage your accountant directly within the platform, streamlining your financial processes and ensuring compliance with relevant regulations.
 
-## Inviting your accountant
+## Inviting Your Accountant
 
-### Access accountant management
+### Access Accountant Management
 
 1. Log in to your Fiskl account
 2. Select "Team Members" from the left menu
 3. Look for the "Invite accountant" card at the top of the page
 
-### Send the invitation
+### Send the Invitation
 
 1. Click the "Invite accountant" card
 2. Enter your accountant's information:
@@ -36,7 +36,7 @@ Your accountant will appear in your team member list with a "Pending" status unt
 Inviting one or more accountants is free of charge and doesn't count against your team member limit.
 :::
 
-## Accountant access and permissions
+## Accountant Access and Permissions
 
 When your accountant accepts the invitation:
 
@@ -48,11 +48,11 @@ When your accountant accepts the invitation:
 Accountants have admin-level access, which includes viewing sensitive financial information. Ensure you're inviting a trusted professional.
 :::
 
-## Managing your accountant relationship
+## Managing Your Accountant Relationship
 
 Either you or your accountant can end the relationship at any time.
 
-### As the account owner
+### As the Account Owner
 
 To remove an accountant:
 
@@ -61,7 +61,7 @@ To remove an accountant:
 3. Switch the toggle next to their name to the off position to deactivate
 4. Click the delete button that appears to remove them completely
 
-### As the accountant
+### As the Accountant
 
 Accountants can remove themselves from your account through their own interface.
 
@@ -69,7 +69,7 @@ Accountants can remove themselves from your account through their own interface.
 Deactivating or removing an accountant does not delete any work they've done in your account. All financial data and records remain intact.
 :::
 
-## Best practices for working with your accountant in Fiskl
+## Best Practices for Working with Your Accountant in Fiskl
 
 1. Regularly review your accountant's activities in your account
 2. Communicate clearly about your financial goals and concerns

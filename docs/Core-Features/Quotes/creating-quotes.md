@@ -17,7 +17,7 @@ import Mermaid from '@theme/Mermaid';
 
 Fiskl offers flexible quoting options to help you provide detailed price estimates to your clients before finalizing a sale. This guide will walk you through creating a basic quote and then explore each component in detail for more advanced features.
 
-## Before you start
+## Before You Start
 
 While you can set up everything as you create your first quote, it's helpful to have the following in place:
 
@@ -25,7 +25,7 @@ While you can set up everything as you create your first quote, it's helpful to 
 2. Create a client
 3. Set up your products or services (optional)
 
-## Creating a basic quote
+## Creating a Basic Quote
 
 Follow these steps to create a basic quote:
 
@@ -36,13 +36,13 @@ Follow these steps to create a basic quote:
 5. Review and adjust details as needed
 6. Click "Save and review"
 
-## Quote components in detail
+## Quote Components in Detail
 
 Let's examine each part of the quote for a comprehensive understanding:
 
 <TOCInline toc={toc} />
 
-### Company information
+### Company Information
 
 The quote pulls the following details from your Company settings:
 
@@ -54,7 +54,7 @@ The quote pulls the following details from your Company settings:
 You can customize your address layout in Company settings to change how it appears on quotes and invoices.
 :::
 
-### Client details
+### Client Details
 
 A client is required for quote creation. You can add a client in advance or while creating the quote. The quote uses:
 
@@ -68,7 +68,7 @@ A client is required for quote creation. You can add a client in advance or whil
 The client's Tax/VAT Registration number is shown if set in the client profile.
 :::
 
-### Quote number
+### Quote Number
 
 The initial format is QUOTE-0001, incrementing with each new quote.
 
@@ -85,7 +85,7 @@ To change the format, simply edit the quote number when creating a new quote. Su
 
 </details>
 
-### Quote dates
+### Quote Dates
 
 Quotes include two dates:
 
@@ -96,7 +96,7 @@ Quotes include two dates:
 The initial number of days a quote is valid for can be set in Invoice and quote settings. You can also change the valid until to extend or shorten the validity.
 :::
 
-### Quote status
+### Quote Status
 
 Quotes follow this status flow:
 
@@ -124,7 +124,7 @@ Customize quote appearance using themes, colors, and fonts in [Templates and bra
 Changes to templates affect all quotes using that template. Consider creating a new template to not cause unwanted changes to previous quotes.
 :::
 
-### Line items
+### Line Items
 
 Create line items directly on the quote or in advance. Types include:
 
@@ -173,13 +173,13 @@ Choose from over 60 languages for quotes. This affects the quote, standard email
 
 You can customize your languages in [Invoice and Quote](../../Settings-Configurations/invoice-and-quote-settings.md) settings.
 
-### Terms and conditions
+### Terms and Conditions
 
 Include your terms and conditions on each quote or set default terms in Invoice and quote settings.
 
 Remember: Fiskl's quoting features are designed to be flexible and accommodate a wide range of business needs. Experiment with different options to find the setup that works best for your business.
 
-## Converting quotes to invoices
+## Converting Quotes to Invoices
 
 Once a quote is accepted, you can easily convert it to an invoice:
 

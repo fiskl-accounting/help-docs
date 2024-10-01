@@ -107,7 +107,7 @@ To get the most out of your Balance Sheet report:
 Click on any total in the detailed view to see all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing your Balance Sheet report
+## Exporting and Sharing your Balance Sheet Report
 
 Fiskl makes it easy to share your Balance Sheet report:
 
@@ -121,7 +121,7 @@ Fiskl makes it easy to share your Balance Sheet report:
 
 All exported reports include a date and time stamp, as well as the selected accounting method.
 
-## Adding notes to your report
+## Adding Notes to Your Report
 
 To provide context or explanations for your financial data:
 

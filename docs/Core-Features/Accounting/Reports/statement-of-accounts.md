@@ -29,7 +29,7 @@ The Statement of Accounts report is essential because it:
 
 </details>
 
-## Key components of the Statement of Accounts report
+## Key Components of the Statement of Accounts Report
 
 Understanding the main elements of your Statement of Accounts can help you better manage your client relationships and cash flow:
 
@@ -42,7 +42,7 @@ Understanding the main elements of your Statement of Accounts can help you bette
 Fiskl's Statement of Accounts report uniquely breaks down the Opening and Closing balance into individual currency amounts if you deal with your client in multiple currency payments. It also separates each section into their respective currency amounts (e.g., Invoices in USD, Invoices in EUR).
 :::
 
-## Generating a Statement of Accounts report in Fiskl
+## Generating a Statement of Accounts Report in Fiskl
 
 You can create a Statement of Accounts report from three different locations in Fiskl:
 
@@ -60,7 +60,7 @@ To generate and customize your Statement of Accounts report:
    - Include or exclude Accounts Receivable (AR) transactions
    - Add notes for your client
 
-### Customizing your report view
+### Customizing Your Report View
 
 Fiskl offers several options to tailor the report to your needs:
 
@@ -73,14 +73,14 @@ Fiskl offers several options to tailor the report to your needs:
 Invoices that have been fully or partially reconciled will display a special icon next to the invoice number.
 :::
 
-## Viewing your Statement of Accounts Report
+## Viewing Your Statement of Accounts Report
 
 There are two views for your statement of accounts report:
 
 1. **Fiskl dashboard view**: In this view, if you select the invoices or the AR transactions, you will navigate to the respective transactions
 2. **Customer view**: This is the view if you send the PDF report to your client. In this view, if they select an invoice, they are taken to the payment page flow where they can view the invoice and any payments made or outstanding, and download the invoice and receipts
 
-## Adding notes to your report
+## Adding Notes to your Report
 
 To provide additional context or messages for your client:
 
@@ -88,7 +88,7 @@ To provide additional context or messages for your client:
 2. Add your comments or explanations
 3. These notes will be included when you export or print the report
 
-## Sharing your Statement of Accounts report
+## Sharing your Statement of Accounts Report
 
 Fiskl makes it easy to share the Statement of Accounts with your clients:
 

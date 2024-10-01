@@ -36,11 +36,11 @@ When you create a new Tax Number / Tax ID a new Ledger Account is automatically 
 
 
 
-## Tax configuration
+## Tax Configuration
 
 The Manage taxes screen consists of three main sections:
 
-### 1. Single taxes
+### 1. Single Taxes
 
 In this section, you can:
 
@@ -53,7 +53,7 @@ The currency of the tax is determined by the associated `Tax ID`.
 
 For example when creating French VAT tax, you would apply for a French VAT number and assign the appropriate VAT rate to that EUR Tax ID.
 
-### 2. Tax groups
+### 2. Tax Groups
 
 Tax groups allow you to:
 
@@ -122,7 +122,7 @@ In this section, you can manage your `Tax IDs` (also referred to as Tax Agency n
 
 Each `Tax Number` is linked to a corresponding `Liability` Ledger Account with a matching name. All transactions involving taxes associated with that Tax Number will be automatically recorded as journal entries in this Ledger Account. When you create a new Tax Number, a corresponding Ledger Account will automatically be created in the `Chart of Accounts`. If you rename a Tax Number, the corresponding Ledger Account will also be renamed.
 
-## Setting up taxes
+## Setting up Taxes
 
 Follow these steps to set up your taxes:
 

@@ -38,7 +38,7 @@ Learn more about [Stripe](https://stripe.com/).
 
 You can either connect a new Stripe account or link an existing one.
 
-### Creating a new Stripe account
+### Creating a New Stripe Account
 
 1. Select Integrations from the left menu
 2. Choose "Connect to Stripe"
@@ -47,7 +47,7 @@ You can either connect a new Stripe account or link an existing one.
 
 Once you've completed creating your new account, you may have to wait until all your KYC is verified and your account is approved. You can see the status of your account in your Stripe dashboard or in the Fiskl integration page.
 
-### Connecting an existing Stripe account
+### Connecting an Existing Stripe Account
 
 1. Select Integrations from the left menu
 2. Choose "Connect to Stripe"
@@ -55,7 +55,7 @@ Once you've completed creating your new account, you may have to wait until all 
 4. Select the account you want to give Fiskl access to
 5. You will be redirected back to Fiskl
 
-## Using Stripe payments
+## Using Stripe Payments
 
 Once connected, Stripe will appear as a payment method on your invoices.
 
@@ -63,7 +63,7 @@ Once connected, Stripe will appear as a payment method on your invoices.
 Connected payment gateways are automatically selected for every invoice. You can change this in Invoice & quote settings.
 :::
 
-## Additional payment methods
+## Additional Payment Methods
 
 Stripe enables access to several other payment methods:
 
@@ -87,7 +87,7 @@ If you're based in Belgium:
 2. Go to Integrations and select "Enable Bancontact"
 3. Create invoices with Bancontact as a payment option
 
-## Managing payment gateways
+## Managing Payment Gateways
 
 - You can switch between payment gateways when creating a new invoice
 - To remove a payment gateway, select the small "x" at the top of each gateway in the Integrations menu

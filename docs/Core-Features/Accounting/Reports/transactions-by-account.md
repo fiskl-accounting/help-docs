@@ -24,7 +24,7 @@ The Transactions by Account report is essential because it:
 - Allows for in-depth analysis of account activity over time
 </details>
 
-## Key features of the Transactions by Account report
+## Key Features of the Transactions by Account Report
 
 This report stands out for its comprehensive multi-currency support:
 
@@ -32,7 +32,7 @@ This report stands out for its comprehensive multi-currency support:
 - **Detailed transaction breakdown**: View gross amount, net amount, and tax amount for each transaction (per respective currency)
 - **Exchange rate information**: Includes FX rates for easy currency conversion tracking
 
-## Generating a Transactions by Account report in Fiskl
+## Generating a Transactions by Account Report in Fiskl
 
 To create and customize your Transactions by Account report:
 
@@ -46,7 +46,7 @@ To create and customize your Transactions by Account report:
    - Hide empty accounts (those with no transactions in the selected period)
    - Show or hide opening and closing balances for each account
 
-### Customizing your report view
+### Customizing Your Report View
 
 Fiskl offers several options to tailor the report to your needs:
 
@@ -57,7 +57,7 @@ Fiskl offers several options to tailor the report to your needs:
 - **Empty account visibility**: Option to hide accounts with no activity in the selected period
 - **Balance display**: Show or hide opening and closing balances for each account
 
-## Understanding the report columns
+## Understanding the Report Columns
 
 The Transactions by Account report provides extensive information for each transaction:
 
@@ -90,7 +90,7 @@ The Transactions by Account report provides extensive information for each trans
 
 </details>
 
-## Customizing report columns
+## Customizing Report Columns
 
 Given the complexity and depth of information in the Transactions by Account report, Fiskl allows you to customize which columns are displayed. This feature helps you focus on the most relevant data for your needs and simplifies the report view.
 
@@ -121,7 +121,7 @@ Customizing your columns can significantly streamline your report, especially wh
 :::
 
 
-## Exporting your Transactions by Account report
+## Exporting your Transactions by Account Report
 
 Fiskl makes it easy to share and further analyze your report:
 

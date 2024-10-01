@@ -13,7 +13,7 @@ tags:
 
 You can cancel your subscription at any time from within the Fiskl Dashboard.
 
-## How to cancel your current subscription
+## How to Cancel Your Current Subscription
 
 If you would like to cancel your subscription but not delete your account, you can do this from the `Subscriptions & Billing` menu:
 

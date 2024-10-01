@@ -13,11 +13,11 @@ tags:
 
 Services in Fiskl refer to intangible offerings that your business provides to customers, such as consulting, repairs, or professional advice. Managing these services effectively is crucial for accurate income tracking, expense allocation, and compliant financial reporting.
 
-## Understanding services in Fiskl
+## Understanding Services in Fiskl
 
 In Fiskl, services function as templates for line items on your invoices. When you add a service to an invoice, it creates a copy of the service as a line item, allowing you to adjust quantities, rates, and other details specific to that transaction.
 
-## Service components
+## Service Components
 
 Each service in Fiskl contains the following information:
 
@@ -29,7 +29,7 @@ Each service in Fiskl contains the following information:
 5. **Description**: Detailed description of the service
 6. **Attachments**: Option to upload multiple files (png, jpg, pdf)
 
-## Creating a service
+## Creating a Service
 
 To create a new service:
 
@@ -48,7 +48,7 @@ To create a new service:
 Provide clear, detailed descriptions of your services. This information helps both your team and your clients understand the scope of the service offered.
 :::
 
-## Using services in invoices
+## Using Services in Invoices
 
 Services can be added to invoices in two ways:
 
@@ -75,7 +75,7 @@ When added to an invoice, the service becomes a line item with additional fields
 Changes made to a service line item on an invoice do not affect the original service template.
 :::
 
-## Managing services
+## Managing Services
 
 Regularly review and update your services to ensure accuracy in pricing, descriptions, and associated accounts. This practice helps maintain the integrity of your invoicing and financial reporting.
 
@@ -83,7 +83,7 @@ Regularly review and update your services to ensure accuracy in pricing, descrip
 Changes to the service will not affect any of its generated line items.
 :::
 
-## Best practices for services
+## Best Practices for Services
 
 1. **Clear naming**: Use descriptive names for your services to make them easy to identify and use
 2. **Regular updates**: Keep service information current, especially pricing and tax rates

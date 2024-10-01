@@ -34,7 +34,7 @@ While both the Profit and Loss report and the Balance Sheet are crucial financia
 
 Think of the P&L as a video of your business's financial journey over time, while the Balance Sheet is more like a photograph of your financial status at a specific moment.
 
-## Key components of the Profit and Loss report
+## Key Components of the Profit and Loss Report
 
 Understanding the main sections of your P&L report can help you better analyze your business's financial health:
 
@@ -50,7 +50,7 @@ Understanding the main sections of your P&L report can help you better analyze y
 Pay close attention to your Gross Profit and Operating Profit. These figures can help you identify if you need to increase prices, reduce costs, or improve operational efficiency.
 :::
 
-## Generating a Profit and Loss report
+## Generating a Profit and Loss Report
 
 To create and customize your P&L report:
 
@@ -64,7 +64,7 @@ To create and customize your P&L report:
    - Show or hide unrealized foreign exchange gains/losses
    - Toggle between summary and detailed views
 
-### Comparing periods
+### Comparing Periods
 
 Fiskl allows you to compare up to three different time periods:
 
@@ -74,7 +74,7 @@ Fiskl allows you to compare up to three different time periods:
 
 This feature helps you track your business's performance over time and identify trends or anomalies.
 
-### Cash vs. Accrual accounting
+### Cash vs. Accrual Accounting
 
 Fiskl offers both Cash and Accrual accounting methods for your P&L report:
 
@@ -88,7 +88,7 @@ Learn more about the differences between [Cash vs Accrual accounting](../../../G
 
 </details>
 
-## Analyzing your Profit and Loss report
+## Analyzing Your Profit and Loss Report
 
 To get the most out of your P&L report:
 
@@ -102,7 +102,7 @@ To get the most out of your P&L report:
 Click on any total in the detailed view to drill down to all related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing your Profit and Loss report
+## Exporting and Sharing Your Profit and Loss Report
 
 Fiskl makes it easy to share your P&L report:
 
@@ -118,7 +118,7 @@ Fiskl makes it easy to share your P&L report:
 
 All exported reports include a date and time stamp, as well as the selected accounting method.
 
-## Adding notes to your report
+## Adding Notes to Your Report
 
 To provide context or explanations for your financial data:
 

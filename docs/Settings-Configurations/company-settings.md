@@ -40,7 +40,7 @@ Type your company name or street to find your address and its preferred layout f
 You can edit the formatted part of the address to ensure it appears exactly as you want in your invoices, quotes, and reports.
 :::
 
-## Time name template
+## Time Name Template
 
 Create a template for all recorded time entries. A descriptive line item name can be useful when billing a client via an invoice.
 

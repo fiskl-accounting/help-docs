@@ -17,12 +17,12 @@ Access `User Settings` by clicking the `round icon` in the top right menu or vis
 
 ## Preferences
 
-### Mileage tracking
+### Mileage Tracking
 
 - Mileage rate: Set the standard rate for mileage calculations (e.g., 1.34 per mile)
 - Travel unit: Choose between miles (mi) or kilometers (km)
 
-### Time tracking
+### Time Tracking
 
 - Billing rate: Set your hourly rate (e.g., 100 per hour)
 - Billing unit: Currently, only hours (H) are supported
@@ -42,9 +42,9 @@ Correctly setting your region, language, and time zone ensures that dates, numbe
 
 ---
 
-## Account settings
+## Account Settings
 
-### General information
+### General Information
 
 - First name
 - Last name

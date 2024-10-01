@@ -38,7 +38,7 @@ While the Trial Balance is a key internal accounting tool, it differs from other
 
 Think of the Trial Balance as a behind-the-scenes check that helps create accurate Balance Sheets and P&L reports
 
-## Key components of the Trial Balance report
+## Key Components of the Trial Balance Report
 
 Understanding the main elements of your Trial Balance can help you better analyze your business's financial records:
 
@@ -52,7 +52,7 @@ Understanding the main elements of your Trial Balance can help you better analyz
 If the total debits don't equal the total credits, there's an error in your bookkeeping that needs to be identified and corrected.
 :::
 
-## Generating a Trial Balance report in Fiskl
+## Generating a Trial Balance Report in Fiskl
 
 To create and customize your Trial Balance report in Fiskl:
 
@@ -64,7 +64,7 @@ To create and customize your Trial Balance report in Fiskl:
    - Divide large numbers by 1000 for easier reading
    - Show or hide unrealized foreign exchange gains/losses
 
-### Cash vs. Accrual accounting
+### Cash vs. Accrual Accounting
 
 Fiskl offers both Cash and Accrual accounting methods for your Trial Balance report:
 
@@ -78,7 +78,7 @@ Learn more about the differences between [Cash vs Accrual accounting](../../../G
 
 </details>
 
-## Analyzing your Trial Balance report
+## Analyzing your Trial Balance Report
 
 To get the most out of your Trial Balance report:
 
@@ -92,7 +92,7 @@ To get the most out of your Trial Balance report:
 Click on any amount in the report to see a list of related transactions, helping you investigate specific entries.
 :::
 
-## Exporting and sharing your Trial Balance report
+## Exporting and Sharing your Trial Balance Report
 
 Fiskl makes it easy to share your Trial Balance report:
 
@@ -106,7 +106,7 @@ Fiskl makes it easy to share your Trial Balance report:
 
 All exported reports include a date and time stamp, as well as the selected accounting method.
 
-## Adding notes to your report
+## Adding Notes to Your Report
 
 To provide context or explanations for your financial data:
 

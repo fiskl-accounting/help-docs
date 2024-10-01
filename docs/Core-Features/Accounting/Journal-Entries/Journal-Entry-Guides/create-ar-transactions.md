@@ -30,11 +30,11 @@ Proper AR management helps you:
 If the balance in your Accounts Receivable account is zero, it means all your invoices have been paid, and you currently have no outstanding customer payments to collect.
 :::
 
-## How Fiskl handles AR transactions
+## How Fiskl Handles AR Transactions
 
 Account Receivable transactions are generated automatically for invoices and invoice payments but can also be added manually.
 
-### How Fiskl handles AR transactions for invoicing
+### How Fiskl Handles AR Transactions for Invoicing
 
 Fiskl simplifies the management of your Accounts Receivable for invoices and their payments:
 
@@ -43,7 +43,7 @@ Fiskl simplifies the management of your Accounts Receivable for invoices and the
 
 This automation ensures your AR is always up-to-date and accurately reflects your outstanding customer payments.
 
-### How Fiskl handles AR transactions manually
+### How Fiskl Handles AR Transactions Manually
 
 You can also record manual AR that record payments expected in the future.
 
@@ -62,7 +62,7 @@ This separation helps in analyzing the profitability of different business activ
 
 </details>
 
-## Viewing AR transactions
+## Viewing AR Transactions
 
 View your Accounts Receivable transactions in many ways:
 
@@ -73,14 +73,14 @@ View your Accounts Receivable transactions in many ways:
     1. Go to `Accounting` > `Reports` from the left menu and choose `Transactions by Account`.
     1. Go to `Accounting > Reports` from the left menu and choose `Trial Balance`.
 
-## Understanding AR transaction types
+## Understanding AR Transaction Types
 
 In your Accounts Receivable list, you'll see two main types of transactions:
 
 1. **In debit**: These are invoices you've sent to customers, increasing your AR balance
 2. **In credit**: These are payments received from customers, decreasing your AR balance
 
-## Matching AR transactions
+## Matching AR Transactions
 
 As with Accounts Payable you can also match your Accounts Receivable transactions.
 

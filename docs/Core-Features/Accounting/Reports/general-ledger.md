@@ -23,7 +23,7 @@ The General Ledger report is essential because it:
 - Allows for in-depth financial analysis and reconciliation
 </details>
 
-## Key features of the General Ledger report
+## Key Features of the General Ledger Report
 
 This report stands out for its comprehensive multi-currency support and flexible grouping options:
 
@@ -32,7 +32,7 @@ This report stands out for its comprehensive multi-currency support and flexible
 - **Exchange rate information**: Includes FX rates for easy currency conversion tracking
 - **Flexible grouping options**: Group transactions by Ledger Account, Transaction Type, Date, Year, Quarter, or Month
 
-## Generating a General Ledger report in Fiskl
+## Generating a General Ledger Report in Fiskl
 
 To create and customize your General Ledger report:
 
@@ -47,7 +47,7 @@ To create and customize your General Ledger report:
    - Hide empty accounts (those with no transactions in the selected period)
    - Show or hide opening and closing balances for each group
 
-### Customizing your report view
+### Customizing Your Report View
 
 Fiskl offers several options to tailor the report to your needs:
 
@@ -59,7 +59,7 @@ Fiskl offers several options to tailor the report to your needs:
 - **Empty account visibility**: Option to hide accounts with no activity in the selected period
 - **Balance display**: Show or hide opening and closing balances for each group
 
-## Understanding the report columns
+## Understanding the Report Columns
 
 The General Ledger report provides extensive information for each transaction:
 
@@ -91,7 +91,7 @@ The General Ledger report provides extensive information for each transaction:
 
 </details>
 
-## Customizing report columns
+## Customizing Report Columns
 
 Given the complexity and depth of information in the General Ledger report, Fiskl allows you to customize which columns are displayed. This feature helps you focus on the most relevant data for your needs and simplifies the report view.
 
@@ -121,7 +121,7 @@ Available columns for customization include:
 Customizing your columns can significantly streamline your report, especially when dealing with specific multi-currency scenarios or focusing on particular transaction details.
 :::
 
-## Exporting your General Ledger report
+## Exporting Your General Ledger Report
 
 Fiskl makes it easy to share and further analyze your report:
 

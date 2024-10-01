@@ -11,11 +11,11 @@ tags:
  - Stripe
 ---
 
-# Managing your invoice
+# Managing Your Invoice
 
 After creating an invoice, select it to open the preview screen. You'll see how your client will view the invoice on the left, and management options on the right.
 
-## Draft invoices
+## Draft Invoices
 
 For draft invoices, you can:
 
@@ -26,7 +26,7 @@ For draft invoices, you can:
 
 Draft invoices don't have a shared link available.
 
-## Sent invoices
+## Sent Invoices
 
 Once an invoice is sent, you can view its history, track payments, manage payment methods, and add or remove attachments. If you didn't set your overdue reminders when you sent the invoice, you can open the overdue invoice, edit the email as you see fit, and press resend. The overdue status will automatically appear in your customers email title.
 
@@ -38,10 +38,10 @@ You can only edit invoices in "Draft" status directly. To edit a sent invoice, s
 Editing a sent invoice temporarily disables existing payments. These are usually restored when you save, unless you change invoice dates so that payment dates are before the invoice date. This can potentially trigger overdue reminders.
 :::
 
-## Additional actions
+## Additional Actions
 
 You can print, duplicate, or delete invoices as needed. Deletion is available from the invoice list.
 
-## Best practices
+## Best Practices
 
 Regularly review your invoice statuses and double-check changes before saving edited invoices. Be cautious when changing dates on invoices with existing payments to maintain accurate records and ensure smooth transactions with your clients.

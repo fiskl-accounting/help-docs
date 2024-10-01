@@ -18,7 +18,7 @@ import Mermaid from '@theme/Mermaid';
 
 Clients are essential for managing your business interactions in Fiskl. They are used in invoices, quotes, and accounting transactions, helping you keep track of all financial activities. By adding and managing clients effectively, you ensure accurate and organized financial records, making your invoicing and quoting processes efficient and reliable.
 
-## Before you start
+## Before you Start
 
 Before creating clients, it's helpful to have:
 
@@ -26,9 +26,9 @@ Before creating clients, it's helpful to have:
 2. A clear understanding of your client's billing requirements (e.g., currency preferences, tax information)
 3. Any specific time rates for clients who are billed hourly
 
-## Managing clients
+## Managing Clients
 
-### Creating a new client
+### Creating a new Client
 
 Follow these steps to add a new client:
 
@@ -48,7 +48,7 @@ Review and adjust the custom format of the address as this is the exact layout t
 
 You can add a default currency and time rate which will be applied when creating invoices and time items.
 
-### Importing clients
+### Importing Clients
 
 To import multiple clients at once:
 
@@ -69,7 +69,7 @@ To import multiple clients at once:
 You can easily import your contact list using the Fiskl app in Android or iOS.
 :::
 
-### Viewing and managing your client List
+### Viewing and Managing Your Client List
 
 The client list provides a quick overview of your clients and their key information.
 From this list, you can perform common tasks like creating invoices, viewing client-specific details, and managing your client database.
@@ -79,12 +79,12 @@ Use the sorting and filtering options to find specific clients quickly, and acce
 Explore the options available in the client list to streamline your client management workflow.
 :::
 
-### Direct Debit mandates
+### Direct Debit Mandates
 
 Fiskl supports setting up Direct Debit mandates for automatic payments using [GoCardless.](../../Integrations/Payment-Gateways/gocardless-integration.md)
 In the client list you will be able to see the status of their Direct Debit mandate.
 
-#### Direct Debit mandate flow
+#### Direct Debit Mandate Flow
 
 ```mermaid
 graph TD
@@ -98,7 +98,7 @@ graph TD
   G --> |No| A
 ```
 
-# Best practices for client management
+# Best Practices for Client Management
 
 - Keep client information up to date, especially contact details and tax information
 - Use client-specific currencies and time rates for accurate invoicing

@@ -26,7 +26,7 @@ Multi journal entries are essential because they:
 - Offer flexibility for businesses operating in multiple currencies
 </details>
 
-## Key features of Multi Journal entries
+## Key Features of Multi Journal Entries
 
 Understanding the main features of Multi Journal entries can help you leverage this tool effectively:
 
@@ -36,7 +36,7 @@ Understanding the main features of Multi Journal entries can help you leverage t
 1. **Client and vendor association**: Link entries to specific clients or vendors for better tracking
 1. **Attachment support**: Add relevant documents to your journal entries for comprehensive record-keeping
 
-## Creating a Multi Journal entry
+## Creating a Multi Journal Entry
 
 To create a new multi journal entry:
 
@@ -54,7 +54,7 @@ To create a new multi journal entry:
 Use the "Difference" feature to quickly balance your entry. Select on the difference amount to automatically add a balancing line item.
 :::
 
-### Working with multiple currencies
+### Working with Multiple Currencies
 
 Fiskl's multi journal feature excels in handling multi-currency transactions:
 
@@ -64,7 +64,7 @@ Fiskl's multi journal feature excels in handling multi-currency transactions:
 1. Adjust exchange rates manually if needed
 1. Use the "Auto-adjust FX rate" feature to balance entries with minimal differences due to exchange rates
 
-## Viewing and managing Multi Journal entries
+## Viewing and Managing Multi Journal Entries
 
 After creating Multi Journal entries:
 
@@ -72,7 +72,7 @@ After creating Multi Journal entries:
 1. Entries are also displayed in their respective account ledgers
 1. Select any entry to view details or make edits
 
-### Additional actions
+### Additional Actions
 
 - **Duplicate an entry**: Open an existing entry and select "Duplicate" to create a copy with editable fields
 - **Delete entries**: Select one or more entries from the list and choose "Delete"
@@ -81,7 +81,7 @@ After creating Multi Journal entries:
 Deleting a Multi Journal entry will remove all associated transactions from their respective accounts.
 :::
 
-## Filtering and searching Multi Journal entries
+## Filtering and Searching Multi Journal Entries
 
 To find specific entries:
 

@@ -1,5 +1,5 @@
 ---
-title: How to import bank transactions
+title: How to Import Bank Transactions
 sidebar_position: 3
 description: Maintain accurate financial records in Fiskl. Import bank transactions manually or automatically for up-to-date business insights.
 keywords: ["Import bank transactions Fiskl", "manual transaction import Fiskl", "financial records Fiskl", "bank data Fiskl", "accurate accounting Fiskl"]
@@ -15,7 +15,7 @@ tags:
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# How to import bank transactions
+# How to Import Bank Transactions
 
 Importing your banking transactions into Fiskl helps you keep your financial records up-to-date and accurate. This tutorial will guide you through the process of manually importing your bank transactions.
 
@@ -63,7 +63,7 @@ While Fiskl offers automatic bank connections for easy transaction imports, ther
 4. Creating bank and credit card ledger accounts
 5. Troubleshooting common import issues
 
-## Understanding money accounts in Fiskl
+## Understanding Money Accounts in Fiskl
 
 Before we dive into importing transactions, let's clarify what we mean by "money accounts" in Fiskl:
 
@@ -71,7 +71,7 @@ Before we dive into importing transactions, let's clarify what we mean by "money
 - As a business owner, you'll conduct about 90% of your accounting activities in these money accounts.
 - These accounts are where you'll reconcile, edit, or add transactions most frequently.
 
-## File formats for importing transactions
+## File Formats for Importing Transactions
 
 Fiskl supports three file formats for importing bank transactions:
 
@@ -92,7 +92,7 @@ Fiskl supports three file formats for importing bank transactions:
 When possible, use OFX format for the smoothest import experience.
 :::
 
-## Importing bank transactions: Step-by-step guide
+## Importing Bank Transactions: Step-by-step Guide
 
 Follow these general steps to import your bank transactions:
 
@@ -110,7 +110,7 @@ Bank transactions require only three essential fields:
 3. Amount: Transaction amount
 :::
 
-### Importing CSV files
+### Importing CSV Files
 
 CSV imports require more attention due to their flexibility. Here's how to use the CSV import utility:
 
@@ -139,7 +139,7 @@ Click on the column in the preview to select it, instead of typing the column le
 
 </details>
 
-### Importing OFX and QIF files
+### Importing OFX and QIF Files
 
 OFX and QIF imports are generally simpler:
 
@@ -149,11 +149,11 @@ OFX and QIF imports are generally simpler:
 
 If you encounter issues with OFX imports, contact Fiskl support for assistance.
 
-## Creating bank & credit Card ledger accounts
+## Creating Bank & Credit Card Ledger Accounts
 
 Before importing transactions, you need to create the appropriate ledger account in Fiskl. Here's how:
 
-### Creating a bank ledger account
+### Creating a Bank Ledger Account
 
 1. Navigate to the [Chart of Accounts](https://my.fiskl.com/accounting/chart)
 2. Under Assets > Cash and Cash Equivalents, select the plus icon to add a new account
@@ -163,7 +163,7 @@ Before importing transactions, you need to create the appropriate ledger account
    - **Account type**: Select `Bank Account`
 4. Save the new account
 
-### Creating a credit card ledger account
+### Creating a Credit Card Ledger Account
 
 1. Navigate to the [Chart of Accounts](https://my.fiskl.com/accounting/chart)
 2. Under Liabilities > Credit Cards, select the plus icon to add a new account
@@ -188,7 +188,7 @@ Before importing transactions, you need to create the appropriate ledger account
 
 </details>
 
-## Troubleshooting common import issues
+## Troubleshooting Common Import Issues
 
 If you encounter problems during the import process, try these solutions:
 

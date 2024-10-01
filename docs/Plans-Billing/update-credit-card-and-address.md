@@ -11,7 +11,7 @@ tags:
 
 You can easily update your card and address details for your Fiskl subscription. Follow these steps to change your billing information:
 
-## Updating your billing information
+## Updating your Billing Information
 
 1. Select your `Subscriptions & Billing` of the left menu
 2. Choose the `Billing` tab

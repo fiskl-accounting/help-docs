@@ -15,14 +15,14 @@ Access your recurring invoice list by selecting Sales > Recurring invoices from 
 Invoices created by a recurring invoice schedule appear in both the regular invoice list and the recurring invoice list. They function like regular invoices, with the added ability to view all invoices from the same schedule.
 :::
 
-## Available actions
+## Available Actions
 
 - **Edit**: Modify your recurring invoice template or schedule
 - **Pause**: Temporarily stop future invoices from being created and sent
 - **End**: Stop all future invoices and delete the recurring template
 - **View related invoices**: See all invoices associated with the recurring template
 
-## Editing a recurring invoice
+## Editing a Recurring Invoice
 
 To edit a recurring invoice template or schedule:
 
@@ -36,7 +36,7 @@ To edit a recurring invoice template or schedule:
 You must restart the recurring invoice after editing. This applies whether you've changed the template, the schedule, or both.
 :::
 
-## Ending the recurring invoice
+## Ending the Recurring Invoice
 
 To end a recurring invoice:
 

@@ -1,5 +1,5 @@
 ---
-title: Getting started as an accountant
+title: Getting Started as an Accountant
 sidebar_position: 6
 description: "Empower your accounting practice with Fiskl's specialized tools: Client account management, invoicing, and financial reporting."
 keywords: ["Fiskl for accountants", "client management", "invoicing tools", "financial reporting"]
@@ -16,7 +16,7 @@ import LayoutPair from '@site/src/components/LayoutPair';
 
 To get you started as an accountant, we've put together a flexible series of guided steps. Feel free to choose the ones that best suit your needs.
 
-### Register on the accounting portal
+### Register on the Accounting Portal
 
 <LayoutPair imageUrl="https://demo.fiskl.com/e/cm026yto90045l00dvl9vxlho/tour">
 
@@ -32,13 +32,13 @@ Learn more about [Accounting portal](../Core-Features/Accounting-Portal/getting-
 
 ---
 
-### Reach out to the Fiskl team
+### Reach Out to the Fiskl Team
 
 Reach out to the Fiskl team to get referral codes and agree billing so that you can onboard your clients or invite them with codes. [support@fiskl.com](mailto:support@fiskl.com)
 
 ---
 
-## What's next
+## What's Next
 
 :::info[Explore Fiskl Accounting]
 **Learn more about Fiskl Accounting**: Discover how Fiskl simplifies accounting for businesses with comprehensive financial management tools. From automated bank feeds and customizable Charts of Accounts to real-time financial reporting, Fiskl has you covered. With multi-currency support and intuitive tax handling, our platform adapts to diverse business needs. Get familiar with our user-friendly interface to better serve your clients. [See the accounting core features](/docs/category/core-features)

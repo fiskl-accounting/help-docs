@@ -14,7 +14,7 @@ tags:
 
 Effective team collaboration is crucial for managing your business finances. Fiskl allows you to add team members with different roles and permissions, making it easy to share the workload while maintaining control over sensitive information.
 
-## User roles and permissions
+## User Roles and Permissions
 
 Fiskl offers four user roles, each with specific permissions:
 
@@ -55,9 +55,9 @@ Sensitive financial information, such as accounting details and key business met
 Adding accountants to your Fiskl account is included in all Fiskl plans.
 :::
 
-## Managing team members
+## Managing Team Members
 
-### Inviting a new team member
+### Inviting a New Team Member
 
 1. From the left menu, select "Team members"
 2. Click on "Invite new member"
@@ -69,7 +69,7 @@ Adding accountants to your Fiskl account is included in all Fiskl plans.
 
 The new member will appear in your list with a "Pending" status until they accept the invitation and log into Fiskl.
 
-### Changing user roles
+### Changing User Roles
 
 1. Go to the Team Members page
 2. Find the team member in the list
@@ -78,7 +78,7 @@ The new member will appear in your list with a "Pending" status until they accep
 
 The user's access levels will automatically be updated.
 
-### Deactivating a user
+### Deactivating a User
 
 1. Locate the user in the team member list
 2. Switch the toggle next to their name to the off position
@@ -90,12 +90,12 @@ The user will remain on the list but will be inactive until reactivated.
 1. Find the deactivated user in the list
 2. Switch the toggle back to the on position
 
-### Deleting a team member
+### Deleting a Team Member
 
 1. Deactivate the user first
 2. Click the delete button that appears next to their name
 
-## Best practices for team management
+## Best Practices for Team Management
 
 1. Regularly review team member roles and permissions
 2. Assign the least privileged role necessary for each team member's responsibilities

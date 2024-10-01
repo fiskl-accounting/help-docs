@@ -21,14 +21,14 @@ Salt Edge bank integrations provide a secure way to connect your financial accou
 - Secure and efficient connection between your bank and Fiskl.
 - Automated synchronization of your banking data.
 
-## Checking bank coverage
+## Checking Bank Coverage
 
 Before starting, you can check if your bank is supported by Salt Edge:
 
 1. Visit the [Salt Edge Bank Coverage](https://www.saltedge.com/products/account_information/coverage) page
 2. Search for your bank or browse by country
 
-## Connecting your bank account
+## Connecting Your Bank Account
 
 1. Go to "Banking" in the left menu
 2. Click "Connect bank"
@@ -57,7 +57,7 @@ After connecting your bank:
 The initial connection may take a while to refresh as it's synchronously pulling in your transactions
 :::
 
-## Maintaining your connection
+## Maintaining Your Connection
 
 - Regularly check your bank connections to ensure they remain active
 - Some banks may require periodic re-authentication for security purposes

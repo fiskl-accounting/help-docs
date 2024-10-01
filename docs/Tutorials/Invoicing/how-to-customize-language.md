@@ -14,7 +14,7 @@ tags:
 
 Fiskl empowers you to create localized `Invoices` and `Quotes`, including emails and customer payment pages, in 56 languages. Recognizing that one size doesn't fit all, we've also provided the flexibility to clone and customize languages to suit your specific needs.
 
-## Quick guide: Clone and customize a language
+## Quick Guide: Clone and Customize a Language
 
 <details>
 <summary>Watch a quick video tutorial</summary>
@@ -30,7 +30,7 @@ allowtransparency="true"
 </div>
 </details>
 
-## Change your default language
+## Change your Default Language
 
 1. Navigate to `Invoice & Quote Settings > Language Settings`
 2. Select your preferred default language from the dropdown menu
@@ -42,7 +42,7 @@ All future invoices and quotes will use this language by default. However, you c
 Changing the default language affects not only invoices but also payment/preview pages and invoice-related emails (e.g., overdue notices, partial payment confirmations, and deposit requests).
 :::
 
-## Customizing a language
+## Customizing a Language
 
 Fiskl's language customization feature allows you to tailor the terminology to your specific business needs or regional preferences. Here's how to do it:
 
@@ -56,7 +56,7 @@ Fiskl's language customization feature allows you to tailor the terminology to y
 3. **Save your custom language:**
    - After making your desired changes, save your new custom language
 
-### Use cases for language customization
+### Use Cases for Language Customization
 
 - **Dialectal variations:** Adjust terms to match regional dialects or local preferences
 - **Industry-specific terminology:** Change "Client" to "Customer," "Patient," or "Student" to align with your business type
@@ -68,7 +68,7 @@ Some mappings include placeholders where values are substituted when generating 
 When editing these values, ensure you retain the placeholders (e.g., `{{1}}`, `{{2}}`). Otherwise, your documents may not generate correctly.
 :::
 
-## Best practices for language customization
+## Best Practices for Language Customization
 
 1. **Consistency:** Maintain consistent terminology across all customized fields
 2. **Clarity:** Ensure your customized terms are clear and unambiguous

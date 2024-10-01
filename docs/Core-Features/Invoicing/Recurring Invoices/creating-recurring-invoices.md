@@ -15,12 +15,12 @@ Recurring invoices offer a practical solution for freelancers and small business
 
 Recurring invoices in Fiskl consist of a regular invoice which serves as a template and a schedule that controls when the invoice will be created and sent. It has some other nifty features like automatically including billing items for a client. (e.g., time booked during the week that is allocated to the same client can be automatically included.)
 
-## Creating a recurring invoice
+## Creating a Recurring Invoice
 
 1. Select Sales from the left menu
 2. Select the plus button next to Recurring invoices
 
-### Set up the schedule
+### Set up the Schedule
 
 1. Set the start date and choose the frequency
 2. For custom frequencies (e.g., every two weeks), select "Custom" and enter your preferences
@@ -37,11 +37,11 @@ Recurring invoices in Fiskl consist of a regular invoice which serves as a templ
 Fiskl will remember your recurring settings for future recurring invoice templates.
 :::
 
-### Create the invoice template
+### Create the Invoice Template
 
 Follow the steps in the "Create invoices" section to complete your invoice template, then select "Save and review".
 
-## Starting your recurring invoice
+## Starting Your Recurring Invoice
 
 1. On the sending screen, review and edit:
    - Schedule settings

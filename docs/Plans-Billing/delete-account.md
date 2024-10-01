@@ -13,7 +13,7 @@ tags:
 
 You can permanently delete your Fiskl account at any time from within the Fiskl dashboard.
 
-## How to delete your account
+## How to Delete Your Account
 
 If you would like to permanently close your account and all related data, you can do so from the Fiskl dashboard:
 
@@ -26,7 +26,7 @@ If you would like to permanently close your account and all related data, you ca
 Deleting your account will result in us disconnecting from banking and payment integrations and permanently deleting your account and all its data.
 :::
 
-## Can I cancel my subscription rather than delete it?
+## Can I Cancel my Subscription Rather than Delete it?
 
 Yes, you can cancel your subscription and stop paying with the option to restore it later. This is a great option if you need to take a break, for example, if you stop freelancing but may start again in the future.
 
