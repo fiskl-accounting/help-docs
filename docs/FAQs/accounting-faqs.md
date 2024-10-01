@@ -134,6 +134,18 @@ If you paid for an airline ticket using your Chase bank account:
 
 This method ensures accurate tracking of both your expenses and the accounts they're paid from.
 
+Can I bulk categorize my accounting transactions?
+Currently, we've temporarily disabled the bulk categorization feature. We're enhancing our system to ensure more accurate categorization, given the complex rules and conditions in accounting.
+
+While we work on improvements, you can use this alternative method:
+
+1. Categorize a single transaction
+1. Set required vendors and clients for that category
+1. The system will suggest similar matches for current and future transactions. The more you scroll through your current transactions, the more suggestions you will get
+1. You can then review and accept these suggestions in bulk
+
+We're prioritizing accuracy and plan to reintroduce bulk categorization gradually, starting with easier matches. We appreciate your patience as we work to provide you with a more reliable and efficient categorization process.
+
 ## Reporting
 
 ### Can I send statements to my clients showing outstanding invoices and payments?
