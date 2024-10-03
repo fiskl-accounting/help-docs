@@ -8,9 +8,7 @@
   --ifm-font-size-base: 16px; 
   --ifm-font-family-base: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   --ifm-font-family-monospace: 'Fira Code', Menlo, Monaco, Consolas, monospace;
-  .menu__link, .menu__list-item .menu__link {
-    font-size: 15px;
-  }
+  
 }
 
 body {
@@ -30,6 +28,14 @@ code, pre {
 
 .table-of-contents {
   font-size: 0.9rem;
+}
+
+ .menu__link {
+  font-size: 0.9rem !important; /* Override default */
+}
+
+ .menu__link:hover {
+  font-size: 0.95rem !important; /* Override default */
 }
 
 
