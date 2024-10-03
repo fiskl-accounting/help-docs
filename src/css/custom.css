@@ -8,12 +8,15 @@
   --ifm-font-size-base: 16px; 
   --ifm-font-family-base: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   --ifm-font-family-monospace: 'Fira Code', Menlo, Monaco, Consolas, monospace;
-
+  .menu__list-item .menu__link {
+    font-size: 0.95rem; /* Adjust this value to your desired font size */
+  }
 }
 
 body {
   font-size: var(--ifm-font-size-base);
   font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,6 +27,14 @@ h1, h2, h3, h4, h5, h6 {
 code, pre {
   font-family: 'Fira Code', monospace;
 }
+
+.table-of-contents {
+  font-size: 0.9rem;
+}
+
+
+
+
 
 
 /* You can override the default Infima variables here. */
