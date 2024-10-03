@@ -8,8 +8,8 @@
   --ifm-font-size-base: 16px; 
   --ifm-font-family-base: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   --ifm-font-family-monospace: 'Fira Code', Menlo, Monaco, Consolas, monospace;
-  .menu__list-item .menu__link {
-    font-size: 0.95rem; /* Adjust this value to your desired font size */
+  .menu__link, .menu__list-item .menu__link {
+    font-size: 15px;
   }
 }
 
