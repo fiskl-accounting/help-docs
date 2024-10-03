@@ -6,10 +6,10 @@
 
  :root {
   --ifm-font-size-base: 15px; /* Adjust this to your desired font size */
+  --ifm-font-family-monospace: 'Courier New', Menlo, Monaco, Consolas, 'Fira Code', monospace;
 }
 
 body {
-  font-family: var(--ifm-font-family-base);
   font-size: var(--ifm-font-size-base);
 }
 
