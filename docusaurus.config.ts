@@ -8,6 +8,12 @@ const config: Config = {
   markdown: {
     mermaid: true,
   },
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap',
+      rel: 'stylesheet',
+    },
+  ],
   themes: ['@docusaurus/theme-mermaid'],
   favicon: 'img/favicon/favicon-32x32.png',
   url: 'https://fiskl-help.netlify.app',

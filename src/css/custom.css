@@ -5,14 +5,25 @@
  */
 
  :root {
-  --ifm-font-size-base: 15px; /* Adjust this to your desired font size */
-  --ifm-font-family-monospace: 'Courier New', Menlo, Monaco, Consolas, 'Fira Code', monospace;
+  --ifm-font-size-base: 16px; 
+  --ifm-font-family-base: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  --ifm-font-family-monospace: 'Fira Code', Menlo, Monaco, Consolas, monospace;
+
 }
 
 body {
   font-size: var(--ifm-font-size-base);
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500; 
+}
+
+code, pre {
+  font-family: 'Fira Code', monospace;
+}
 
 
 /* You can override the default Infima variables here. */
