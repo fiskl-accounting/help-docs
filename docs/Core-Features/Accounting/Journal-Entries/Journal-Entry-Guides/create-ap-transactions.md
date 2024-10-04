@@ -1,8 +1,8 @@
 ---
 title: Working with Accounts Payable
 sidebar_position: 10
-description: "Streamline your Accounts Payable process with Fiskl: Track liabilities, manage cash flow, and optimize payment schedules effortlessly."
-keywords: ["Create AP transactions Fiskl", "Accounts Payable", "liability tracking", "financial management"]
+description: "Learn how to create and manage Accounts Payable entries and bills in Fiskl, including split transactions and multi-currency entries."
+keywords: ["Accounts Payable", "Fiskl", "bills", "expenses", "financial management", "accrual accounting"]
 slug: /core-features/accounting/journal-entries/guides/accounts-payable-transactions
 toc_min_heading_level: 2
 toc_max_heading_level: 4
@@ -12,9 +12,38 @@ tags:
  - Accounts Payable
 ---
 
-Accounts Payable (AP) is a Key Component in Accrual Accounting.
+## Understanding Accounts Payable
 
-AP is a record of what your business owes to suppliers or vendors. It includes goods or services you've bought on credit but haven't paid for yet. In Fiskl, the AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This way, you can easily see how much you need to pay without any surprises.
+Accounts Payable (AP) is a key component in accrual accounting. It's a record of what your business owes to suppliers or vendors, including goods or services you've bought on credit but haven't paid for yet. In Fiskl, Accounts Payable is used to record future payments that you owe to vendors and suppliers.
+
+While there isn't a specific "Bills" entry screen in Fiskl, you can use the Accounts Payable feature to record and manage your bills. This approach aligns with accrual accounting principles and provides a comprehensive view of your future payment obligations.
+
+Fiskl's AP account helps you track these amounts in multiple currencies, displaying the total in your base currency. This feature allows you to easily see how much you need to pay without any surprises, making financial planning and cash flow management more efficient.
+
+:::note
+For payments that have already occurred, use Operating Expenses or other relevant Expenses accounts instead of Accounts Payable.
+:::
+
+Let's explore how to create and manage Accounts Payable entries, including bills, in Fiskl.
+
+## Creating a Basic Accounts Payable Entry
+
+Follow these steps to create a basic Accounts Payable entry or bill in Fiskl:
+
+1. From the left menu, click on "Purchasing" and select "Accounts Payable".
+1. Click on the "+In" button to create a new entry.
+1. Complete the following fields:
+   - Date
+   - Name or number for your entry (e.g., "Broadband bill" or "Office Supplies Invoice #1234")
+   - Category (select from the dropdown or create a new one)
+   - Tax (if applicable)
+   - Amount (in your default currency)
+   - Vendor (select or create a new one)
+   - Bill number (if applicable)
+   - Client (if relevant to a specific client)
+1. To attach supporting documents, such as a scanned copy of the bill, click on the attach button.
+1. Click "Create" to save your Accounts Payable entry.
+
 
 <details>
 <summary>Why is managing Accounts Payable important?</summary>
@@ -27,7 +56,6 @@ Proper AP anagement helps you:
 :::tip
 If the balance in your Accounts Payable account is zero, it means you currently have no future payments or liabilities recorded.
 :::
-
 
 ## Creating an AP Transaction
 
