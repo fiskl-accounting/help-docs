@@ -1,7 +1,7 @@
 ---
-title: Creating Accounts Payable Entries in Fiskl
+title: Bills & Accounts Payable (AP)  
 sidebar_position: 44
-description: "Learn how to create and manage Accounts Payable entries in Fiskl, including split transactions and multi-currency entries."
+description: "Learn how to create and manage Accounts Payable entries in Fiskl and use it for Bills. Includes split transactions and multi-currency entries. "
 keywords: ["Accounts Payable", "Fiskl", "bills", "expenses", "financial management"]
 toc_min_heading_level: 2
 toc_max_heading_level: 4
