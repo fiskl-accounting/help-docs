@@ -1,6 +1,6 @@
 ---
 title: Financial Ratios for Small Businesses
-sidebar_position: 3
+sidebar_position: 43
 description: "Learn about essential financial ratios for small businesses: understand liquidity, leverage, profitability, and asset management metrics."
 keywords: ["financial ratios", "small business finance", "business performance metrics", "financial analysis", "Fiskl financial tools"]
 toc_min_heading_level: 2
