@@ -27,11 +27,13 @@ For details on creating invoices, refer to the [Create invoices](./creating-invo
 
 There are multiple methods to sending invoices.
 
-### Send by Email
+### Email
+
+#### Email Types
 
 Fiskl offers two types of email formats for sending invoices:
 
-#### Standard Emails
+##### Standard Emails
 
 Standard emails are HTML-formatted and provided by Fiskl. They offer the following features:
 
@@ -39,7 +41,7 @@ Standard emails are HTML-formatted and provided by Fiskl. They offer the followi
 - Can be customized with a specific email logo set in Templates and brands
 - Use the primary header color from your invoice template for branding consistency
 
-#### Custom Emails
+##### Custom Emails
 
 Custom emails allow you to create unique, company-specific messages. You can set these up in [Templates and Brands](/docs/settings/template-brand-settings#custom-emails) for various scenarios, such as:
 
@@ -61,12 +63,19 @@ Custom emails provide you with special templates to give you control over the to
 
 </details>
 
+#### Email Options
+
+##### Email CC & BCC
+
+You add CC and or BCC addresses. 
+To add a CC or BCC type the email into the respective input fields.
+
 :::info[tip]
 To send emails from your own domain, you can whitelist it in [Invoice & quote settings](/docs/settings/invoice-quote-settings).
 :::
 
 :::info[tip]
-To receive a copy of all your invoice emails, set your default bcc email in Invoice and quote settings.
+You can add a default BCC to every email in (Invoice & Quote Settings)[/docs/settings/invoice-quote-settings#bcc-for-all-emails]
 :::
 
 ### Share Link

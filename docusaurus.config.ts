@@ -41,6 +41,7 @@ const config: Config = {
           postsPerPage: 10,
           blogTitle: 'What\'s New',
           blogDescription: 'What\'s new and noteworthy update news',
+          blogSidebarCount: 15
         },
         theme: {
           customCss: 'src/css/custom.css',
