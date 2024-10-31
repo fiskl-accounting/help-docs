@@ -117,10 +117,10 @@ Currently we have live chat in our web dashboard and mobile apps. This is access
 
 You can also email support@fiskl.com
 
-## Can I integrate with Shopify? 
+## Does Fiskl integrate with Shopify?
 
-We currently do not have a direct integration with Shopify.
-If you require this integration please send support@fiskl.com an email giving enough details for us to consider and add the integration to our roadmap.
+No, Fiskl does not currently do not have a direct integration with Shopify.
+If you require this integration please send `support@fiskl.com` an email giving enough details for us to consider and add the integration to our roadmap.
 
 
 ## Need More Help?
