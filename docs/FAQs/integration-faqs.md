@@ -64,6 +64,12 @@ For more information, see [GoCardless Payments in Fiskl](../Integrations/Payment
 
 Yes, we have advanced [Recurring Invoices in Fiskl](../Core-Features/Invoicing/Recurring%20Invoices/creating-recurring-invoices.md)
 
+## Can I change the currency of my bank feeds
+
+No, when you connect a bank via any of the integrators this currency is received from the integrator. If this is incorrect you need to contact support so that we can raise a support request with the integrator to rectify the problem.
+
+Once the ledger account is created with a currency it can not be changed. There are technical reasons for this related to the currency conversion rates used for each transaction. 
+
 ## Need More Help?
 
 If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

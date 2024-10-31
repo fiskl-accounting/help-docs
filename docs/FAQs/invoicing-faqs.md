@@ -96,6 +96,17 @@ allowtransparency="true"
 
 While there's no dedicated receipt feature, you can resend a paid invoice with a custom message. The customer will see the invoice marked as paid, the payment date, and can download the PDF. This is typically sufficient as a receipt of payment.
 
+### Can I partially pay an invoice?
+
+Yes, you can do this in a number of ways:
+
+1. You can create a payment schedule and when your customer pays the invoice they will be asked to pay only the due amount. This is ideal for having a single invoice with multiple payments. A deposit can also be considered a partial payment.
+2. When your customer in in the payment page they can also change the amount they are going to pay. If they plan to only partially pay they can set the amount to pay. This is not possible with integrated payments like `GoCardless`.
+
+### Do you support Spanish, Portuguese, Italian, German & French e-invoices?
+
+Our invoices are translated into 52 languages including the emails and payment pages. We support most e-invoicing and are currently working to implement German and French embedded xml in PDF to meet their requirements. 
+
 ## Need More Help?
 
 If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!

@@ -29,6 +29,10 @@ For tax reasons you have to use a card local to your region.
 
 The easiest way to apply an offer is at the time of registration via the provided URL but there are other methods detailed in [Offer Codes](../Plans-Billing/apply-offer-or-partner-code.md)
 
+### How do I change my base currency?
+
+You can not change your base or default currency once the account has been created. There are technical reasons for this related to the exchange rates stored against each transaction.
+
 ### Can I migrate my data into Fiskl?
 
 We currently do not have dedicated migration imports from other major platforms although we are planning these. We do have imports for Clients, Expenses, Banking Transactions
@@ -106,6 +110,18 @@ You are in full control. You can upgrade, downgrade, cancel your subscription, o
 
 - [How can I cancel my subscription but keep all my data?](../Plans-Billing/cancel-subscription.md)
 - [How can I delete my account and all my data?](../Plans-Billing/delete-account.md)
+
+## How do I raise a support ticket
+
+Currently we have live chat in our web dashboard and mobile apps. This is accessible through the right menu.
+
+You can also email support@fiskl.com
+
+## Can I integrate with Shopify? 
+
+We currently do not have a direct integration with Shopify.
+If you require this integration please send support@fiskl.com an email giving enough details for us to consider and add the integration to our roadmap.
+
 
 ## Need More Help?
 

@@ -80,4 +80,8 @@ To include standalone expenses in your accounting:
 
 This process ensures all your expenses are accurately reflected in your financial reports.
 
+## Custom tags
+
+We currently do not provide custom tagging of expenses but plan to add this functionality
+
 Remember, effective expense management in Fiskl contributes to accurate financial reporting, smoother client billing, and better overall financial health for your business.
