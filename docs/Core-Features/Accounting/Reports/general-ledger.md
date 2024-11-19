@@ -17,10 +17,12 @@ The General Ledger report in Fiskl provides a comprehensive view of all financia
 <summary>Why is the General Ledger report important?</summary>
 
 The General Ledger report is essential because it:
+
 - Offers a detailed view of all transactions with flexible grouping options
 - Provides multi-currency support at an unprecedented level of detail
 - Helps track and analyze transactions across different dimensions (accounts, types, dates)
 - Allows for in-depth financial analysis and reconciliation
+
 </details>
 
 ## Key Features of the General Ledger Report
