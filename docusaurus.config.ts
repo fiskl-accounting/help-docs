@@ -80,6 +80,8 @@ const config: Config = {
       logo: {
         alt: 'Fiskl',
         src: 'img/fiskl-main-logo.webp',
+        href: 'https://fiskl.com', // External link to your website
+        target: '_blank', // Opens the link in a new tab
       },
       items: [
         {
