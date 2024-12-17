@@ -63,9 +63,9 @@ The format of the dates and numbers are decided by using the Region and Language
 
 ### How do I manage multiple companies in Fiskl?
 
-Fiskl operates on a single company per account basis, with each company requiring its own subscription. While our [Multiple Brands](/docs/Settings-Configurations/templates-and-brands) feature allows you to create different branding for a single accounting entity, this is different from managing separate companies with their own accounting.
+Fiskl operates on a single company per account basis, with each company requiring its own subscription. While our [Multiple Brands](/docs/Settings-Configurations/templates-and-brands.md) feature allows you to create different branding for a single accounting entity, this is different from managing separate companies with their own accounting.
 
-To manage multiple distinct companies, you can use our [Accountant Portal](/docs/Core-Features/Accounting-Portal/getting-started-accounting-portal):
+To manage multiple distinct companies, you can use our [Accountant Portal](/docs/Core-Features/Accounting-Portal/getting-started-accounting-portal.md):
 
 1. Sign in to the Accountant Portal at https://my.fiskl.com/portal
 2. Navigate to the invite section within the portal

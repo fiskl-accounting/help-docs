@@ -22,3 +22,6 @@ node_modules/
 
 .vscode/
 fiskl-docs.code-workspace
+
+# Local Netlify folder
+.netlify

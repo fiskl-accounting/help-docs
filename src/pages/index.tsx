@@ -25,37 +25,5 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
-  const isBrowser = useIsBrowser();
-
-  useEffect(() => {
-    if (isBrowser) {
-      // Force sidebar to show on homepage
-      const sidebarElement = document.querySelector('.theme-doc-sidebar-container') as HTMLElement;
-      if (sidebarElement) {
-        sidebarElement.style.display = 'block';
-      }
-
-      // Adjust main content width
-      const mainContentElement = document.querySelector('.main-wrapper > .container') as HTMLElement;
-      if (mainContentElement) {
-        mainContentElement.style.maxWidth = 'var(--ifm-container-width-xl)';
-      }
-    }
-  }, [isBrowser]);
-
-  return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-      wrapperClassName="homepage"
-    >
-      <div className={styles.homepageContent}>
-        <HomepageHeader />
-        <main>
-          <HomepageFeatures />
-        </main>
-      </div>
-    </Layout>
-  );
+  return <></>; // Renders nothing
 }
