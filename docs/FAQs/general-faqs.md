@@ -61,6 +61,23 @@ The format of the dates and numbers are decided by using the Region and Language
 1. Select `Preferences`
 1. Here you can change the `Region` and `Language`
 
+### How do I manage multiple companies in Fiskl?
+
+Fiskl operates on a single company per account basis, with each company requiring its own subscription. While our [Multiple Brands](/docs/Settings-Configurations/templates-and-brands) feature allows you to create different branding for a single accounting entity, this is different from managing separate companies with their own accounting.
+
+To manage multiple distinct companies, you can use our [Accountant Portal](/docs/Core-Features/Accounting-Portal/getting-started-accounting-portal):
+
+1. Sign in to the Accountant Portal at https://my.fiskl.com/portal
+2. Navigate to the invite section within the portal
+3. Send an invitation to your Fiskl company account
+4. Accept the invitation in your company's account
+5. Repeat this process for additional companies you wish to manage
+
+The Accountant Portal provides a centralized dashboard where you can oversee and manage multiple company accounts efficiently, making it an ideal solution for users who need to handle multiple businesses or client accounts.
+
+Note: Remember that each company requires its own Fiskl subscription, as they are separate accounting entities. Multiple Brands within a single subscription are suitable for businesses that operate under different brand names but share the same financial entity.
+
+
 ### How do I change the email for my Fiskl account?
 
 To change your account email:
