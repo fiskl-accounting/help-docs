@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "/docs/introduction"
-  status = 301
-  force = true
