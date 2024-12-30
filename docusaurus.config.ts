@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'How can we',
-  tagline: 'help you',
+  title: 'Fiskl',
+  tagline: 'Help guide for Fiskl, the AI-powered multi-currency accounting plus invoicing, payments, automated sync with 21k banks worldwide, tax tracking and more.',
   markdown: {
     mermaid: true,
   },
@@ -16,7 +16,7 @@ const config: Config = {
   ],
   themes: ['@docusaurus/theme-mermaid'],
   favicon: 'img/favicon/favicon-32x32.png',
-  url: 'https://fiskl-help.netlify.app',
+  url: 'https://help.fiskl.com',
   baseUrl: '/',
   organizationName: 'fiskl', // Usually your GitHub org/user name.
   projectName: 'fiskl-docs', // Usually your repo name.
