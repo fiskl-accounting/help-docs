@@ -14,7 +14,7 @@ tags:
 Manage your subscription from the [Subscriptions & billing](https://my.fiskl.com/subscription-billing) page, which contains four tabs: Plans, History, User Changes, and Billing.
 
 :::info[note]
-Only users with the Admin or Owner role can see all four tabs.
+Only the user with the Business Owner role can see all four tabs.
 :::
 
 ## Plans
