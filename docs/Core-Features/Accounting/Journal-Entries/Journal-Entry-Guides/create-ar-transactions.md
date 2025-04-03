@@ -103,5 +103,45 @@ allowtransparency="true"
 </div>
 </details>
 
+## Partial Payments in Accounts Receivable
+
+<details>
+<summary>Take an interactive walkthrough of processing partial payments</summary>
+<div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, width: '100%' }}>
+<iframe
+style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+src="https://demo.fiskl.com/share/cm8h7sngf000lic0cy2e0yjax/tour"
+allowFullScreen
+webkitallowfullscreen="true"
+mozallowfullscreen="true"
+allowtransparency="true"
+></iframe>
+</div>
+</details>
+
+When making partial payments against an invoice, you'll need to properly record and match these transactions to maintain accurate accounting records:
+
+### Recording a Partial Payment in Accounts Receivable
+
+You can partially match an AR transaction with a partial payment in your bank or cash accounts, which can be in home currency, foreign currency, or multiple currencies:
+1. Find the relevant transaction in your Cash & Cash Equivalents account, i.e., your bank account
+2. Select "Show matches"
+3. Choose the corresponding AP transaction from the list for the full amount
+4. Fiskl will automatically adjust the matched amount to the partial payment, along with applying relevant exchange rates
+5. Select "Update" to confirm the match
+
+Your partial payment will automatically be linked to Accounts Receivable.
+
+Repeat the process for all related partial payments until the AR transaction has been fully paid.
+
+### Reporting Considerations
+
+Partial payments affect your financial reports in specific ways:
+
+- **Balance Sheet**: Shows the remaining liability for partially paid AR Transactions
+- **Transactions by Account**: Displays each partial payment as a separate entry linked to the original invoice
+- **Aging Reports**: Includes the unpaid portion of partially paid invoices
+- **Trial Balance**: Reflects the current outstanding balance for all AR transactions
+
 
 Remember, effective AR management is crucial for maintaining healthy cash flow and strong customer relationships. Fiskl's automatic AR handling simplifies this process, allowing you to focus on growing your business.

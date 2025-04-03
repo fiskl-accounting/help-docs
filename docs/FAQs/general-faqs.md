@@ -139,6 +139,12 @@ You can also email support@fiskl.com
 No, Fiskl does not currently do not have a direct integration with Shopify.
 If you require this integration please send `support@fiskl.com` an email giving enough details for us to consider and add the integration to our roadmap.
 
+## How can I refer Fiskl to another company?  
+
+Fiskl has two referral programs:
+[Global Partner Program](https://fiskl.com/partners/business/)
+[Global Ambassador Program](https://fiskl.com/partners/ambassador)  
+
 
 ## Need More Help?
 
