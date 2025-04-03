@@ -105,7 +105,11 @@ Yes, you can do this in a number of ways:
 
 ### Do you support Spanish, Portuguese, Italian, German & French e-invoices?
 
-Our invoices are translated into 52 languages including the emails and payment pages. We support most e-invoicing and are currently working to implement German and French embedded xml in PDF to meet their requirements. 
+Our invoices are translated into 52 languages including the emails and payment pages. We support most e-invoicing and are currently working to implement German and French embedded xml in PDF to meet their requirements.
+
+### How do I bulk import my invoices?
+
+Whilst importing invoices is on our roadmap, we recommend that, in the meantime, you go to Accounts Receivable and create an opening balance for each customer.
 
 ## Need More Help?
 

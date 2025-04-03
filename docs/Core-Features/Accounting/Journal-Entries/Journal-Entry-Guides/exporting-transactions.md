@@ -33,9 +33,10 @@ Filtering helps you narrow down your transaction list to find exactly what you'r
 
 To apply filters:
 
-1. Click on the "Filter" button at the top of the transaction list
-2. Select your desired filters from the available options
-3. Click "Apply" to see your filtered results
+1. From your Chart of Accounts, select the account
+2. Click on the "Filter" button at the top of the transaction list
+3. Select your desired filters from the available options
+4. Click "Apply" to see your filtered results
 
 :::tip
 Use text filters to search for specific vendors, invoice numbers, or transaction descriptions.
@@ -51,16 +52,18 @@ Exporting your transactions allows you to analyze your data in other application
 
 ### Exporting to Google Sheets
 
-1. Click the "Export" button at the top of the transaction list
-2. Select "Google Sheets"
-3. Follow the authorization flow to allow Fiskl to export directly to your Google Sheets
-4. Your data will be exported in CSV format to a new Google Sheet
+1. From your Chart of Accounts, select the account
+2. Click the "Export" button at the top of the transaction list
+3. Select "Google Sheets"
+4. Follow the authorization flow to allow Fiskl to export directly to your Google Sheets
+5. Your data will be exported in CSV format to a new Google Sheet
 
 ### Exporting to Excel or CSV
 
-1. Click the "Export" button at the top of the transaction list
-2. Choose either "Excel" or "CSV" format
-3. The file will be downloaded to your device
+1. From your Chart of Accounts, select the account
+2. Click the "Export" button at the top of the transaction list
+3. Choose either "Excel" or "CSV" format
+4. The file will be downloaded to your device
 
 :::note
 Exported files will reflect any filters you've applied to your transaction list.

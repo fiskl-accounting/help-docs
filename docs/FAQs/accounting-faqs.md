@@ -42,6 +42,7 @@ To remove an account:
 - Accounts with transactions will be moved to the Archived folder
 - Archived accounts remain active in accounting, and their transactions still count towards your company accounts
 - Archived accounts are not available in the account selector
+- You cannot delete a default system account (eg. all accounts displayed under Operating Income), however, you can rename it.
 
 :::
 
@@ -55,13 +56,13 @@ To manage an invoice overpayment:
    - Go to Chart of Accounts
    - Under "Other current assets", create a new account called "Overpayment received"
 
-1. Record the overpayment:
+2. Record the overpayment:
    - In the bank account where you received the payment, click on the transaction
    - Select "Match"
    - Choose the invoice and add a line for the difference (overpayment)
    - Assign the category "Overpayment received"
 
-1. Refund the client:
+3. Refund the client:
    - Pay your client back from the bank account
    - Select the refund transaction in the bank account
    - Assign the "Overpayment received" category
@@ -73,7 +74,7 @@ This process ensures the overpayment received account reflects a net zero balanc
 To record bad debts:
 
 1. Mark the invoice as paid using the Cash on Hand account
-1. In the Cash on Hand account:
+2. In the Cash on Hand account:
    - Create an OUT entry
    - Select the Bad Debts expenses account
 
@@ -93,13 +94,17 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 
 We're continually improving Fiskl, so stay tuned for future updates!
 
+### Can bank rules be auto reconciled without having to approve the set rules?
+
+Fiskl’s AI streamlines bank reconciliation by automatically suggesting relevant categories. You can quickly review and confirm transactions in batches, making the process faster and more efficient.
+
 ### Why aren't all my expenses reflected in my accounting reports?
 
 Expenses in Fiskl can be in two states:
 
 1. **Standalone Expenses**: These are expenses you've recorded but haven't yet reconciled with your accounting. They don't appear in your dashboard or reports.
 
-1. **Reconciled Expenses**: These are expenses that have been matched with transactions in your accounting and will appear in your dashboard and reports.
+2. **Reconciled Expenses**: These are expenses that have been matched with transactions in your accounting and will appear in your dashboard and reports.
 
 To ensure your expenses are included in your accounting:
 
@@ -122,7 +127,7 @@ In Fiskl, you can only add expense transactions through [Money Accounts](/docs/T
    - For bank payments: `Assets > Cash & Cash Equivalence > [Your Bank Name]`
    - For credit card payments: `Liabilities > Credit Card > [Your Credit Card Name]`
 
-1. Categorize the transaction within the Money Account:
+2. Categorize the transaction within the Money Account:
    - Assign the correct expense category (e.g., "Travel Expense")
 
 Example:
@@ -130,7 +135,7 @@ Example:
 If you paid for an airline ticket using your Chase bank account:
 
 1. Find the transaction in `Assets > Cash & Cash Equivalence > Chase Bank`
-1. Categorize it as "Travel Expense" within the Chase Bank ledger
+2. Categorize it as "Travel Expense" within the Chase Bank ledger
 
 This method ensures accurate tracking of both your expenses and the accounts they're paid from.
 
@@ -140,11 +145,25 @@ Currently, we've temporarily disabled the bulk categorization feature. We're enh
 While we work on improvements, you can use this alternative method:
 
 1. Categorize a single transaction
-1. Set required vendors and clients for that category
-1. The system will suggest similar matches for current and future transactions. The more you scroll through your current transactions, the more suggestions you will get
-1. You can then review and accept these suggestions in bulk
+2. Set required vendors and clients for that category
+3. The system will suggest similar matches for current and future transactions. The more you scroll through your current transactions, the more suggestions you will get
+4. You can then review and accept these suggestions in bulk
 
 We're prioritizing accuracy and plan to reintroduce bulk categorization gradually, starting with easier matches. We appreciate your patience as we work to provide you with a more reliable and efficient categorization process.
+
+### How do I make my expenses recurring?
+
+Recurring expenses aren’t available yet, but they’re on our roadmap. For now, you need to enter them as and when they occur. [Accounts Payable](docs/core-features/accounting/journal-entries/guides/accounts-payable-transactions#understanding-accounts-payable).
+
+###How do I un-reconcile a transactions
+
+To un-reconcile a transaction, go to the account (e.g., bank account), open the transaction, click ‘Delete’ on the matched line near the bottom, and save. The transaction will remain in the account but will be unreconciled.
+
+### How do I record a purchase (eg. computer) as a fixed asset in Fiskl.
+
+You have two available options:
+- Record the transaction under Assets > Property, Plant & Equipment > Computer Equipment as generally this type of asset is subject to depreciation.
+- You can create a custom Fixed Asset account under Other Current Assets, called Fixed Assets, but option 1 is the best given this type of asset.
 
 ## Reporting
 
@@ -159,9 +178,9 @@ Yes, you can generate a [Statement of Accounts](/docs/core-features/accounting/r
 To generate this report:
 
 1. Go to Reports
-1. Select "Statement of Accounts"
-1. Choose the client and date range
-1. Generate and send the report
+2. Select "Statement of Accounts"
+3. Choose the client and date range
+4. Generate and send the report
 
 ## Still Have Questions?
 
