@@ -52,20 +52,12 @@ To remove an account:
 
 To manage an invoice overpayment:
 
-1. Create a new account:
-   - Go to Chart of Accounts
-   - Under "Other current assets", create a new account called "Overpayment received"
-
-2. Record the overpayment:
-   - In the bank account where you received the payment, click on the transaction
-   - Select "Match"
-   - Choose the invoice and add a line for the difference (overpayment)
-   - Assign the category "Overpayment received"
-
-3. Refund the client:
-   - Pay your client back from the bank account
-   - Select the refund transaction in the bank account
-   - Assign the "Overpayment received" category
+1. First, create a liability account called "Overpayments" in your Chart of Accounts.
+2. When processing the bank transaction with the overpayment:
+    - Match the appropriate amount to the original invoice
+    - Create a second line for the excess amount and categorize it to the "Overpayments" liability account
+3. When creating a future invoice for this client, you have to do the same, when processing the bank transaction:  Match the appropriate amount to the original invoice
+4. Create a second line with the negative amount(previous overpayment) and categorize it to the "Overpayments" liability account
 
 This process ensures the overpayment received account reflects a net zero balance.
 
@@ -95,7 +87,7 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 We're continually improving Fiskl, so stay tuned for future updates!
 
 ### Where can bank rules be set for transaction feeds?
-Bank transaction rules are automatic and can currently can’t be set or configured. This is on our roadmap
+Bank transaction rules are automatic and currently can’t be set or configured. This is on our roadmap
 
 ### Can bank rules be auto reconciled without having to approve the set rules?
 
@@ -156,7 +148,7 @@ We're prioritizing accuracy and plan to reintroduce bulk categorization graduall
 
 ### How do I make my expenses recurring?
 
-Recurring expenses aren’t available yet, but they’re on our roadmap. For now, you need to enter them as and when they occur. [Accounts Payable](docs/core-features/accounting/journal-entries/guides/accounts-payable-transactions#understanding-accounts-payable).
+Recurring expenses aren’t available yet, but they’re on our roadmap. For now, you need to enter them as and when they occur. For more information, go to [Accounts Payable] https://help.fiskl.com/docs/core-features/accounting/journal-entries/guides/accounts-payable-transactions.
 
 ### How do I un-reconcile a transactions
 
@@ -207,6 +199,12 @@ You can view your expenses and compare two fiscal years, by opening the Profit &
 ### How can I export my Chart of Accounts?
 
 Exporting the Chart of Accounts is on our roadmap, however you can export individual accounts.
+
+### I have a USD bank account in Fiskl, but due to fluctuations in FX rates, the balance in EUR is showing as a credit. How can I amend this?
+
+This is expected in multi-currency accounting. The negative balance in the EUR equivalent column is automatically offset by the "Unrealised Exchange Gain or Loss" account in your financial statements. This approach is standard for handling currency fluctuations between your transaction currency and your reporting currency.
+
+Fiskl automatically manages this, ensuring your accounts stay properly balanced when considered with the unrealised exchange gains or losses. No manual adjustments or journal entries are required. You can review your Profit and Loss statement, where you'll see an "Unrealised Exchange Gain or Loss" line item that balances out these currency differences.
 
 ## Still Have Questions?
 

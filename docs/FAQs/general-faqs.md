@@ -35,7 +35,7 @@ You can not change your base or default currency once the account has been creat
 
 ### Can I migrate my data into Fiskl?
 
-We currently do not have dedicated migration imports from other major platforms although we are planning these. We do have imports for Clients, Expenses, Banking Transactions
+We currently do not have dedicated migration imports from other major platforms although we are planning these. We do have imports for Clients, Expenses, Banking Transactions.
 
 ### Does Fiskl provide an API link?
 
@@ -76,7 +76,6 @@ To manage multiple distinct companies, you can use our [Accountant Portal](/docs
 The Accountant Portal provides a centralized dashboard where you can oversee and manage multiple company accounts efficiently, making it an ideal solution for users who need to handle multiple businesses or client accounts.
 
 Note: Remember that each company requires its own Fiskl subscription, as they are separate accounting entities. Multiple Brands within a single subscription are suitable for businesses that operate under different brand names but share the same financial entity.
-
 
 ### How do I change the email for my Fiskl account?
 
@@ -128,33 +127,32 @@ You are in full control. You can upgrade, downgrade, cancel your subscription, o
 - [How can I cancel my subscription but keep all my data?](../Plans-Billing/cancel-subscription.md)
 - [How can I delete my account and all my data?](../Plans-Billing/delete-account.md)
 
-## How do I raise a support ticket
+### How do I raise a support ticket
 
 Currently we have live chat in our web dashboard and mobile apps. This is accessible through the right menu.
 
 You can also email support@fiskl.com
 
-## Does Fiskl integrate with Shopify?
+### Does Fiskl integrate with Shopify?
 
 No, Fiskl does not currently do not have a direct integration with Shopify.
 If you require this integration please send `support@fiskl.com` an email giving enough details for us to consider and add the integration to our roadmap.
 
-## How can I refer Fiskl to another company?  
+### How can I refer Fiskl to another company?  
 
 Fiskl has two referral programs:
-[Global Partner Program](https://fiskl.com/partners/business/)
-[Global Ambassador Program](https://fiskl.com/partners/ambassador)  
+- [Global Partner Program](https://fiskl.com/partners/business/)
+- [Global Ambassador Program](https://fiskl.com/partners/ambassador)  
 
 ### How do I raise Purchase Orders?
 
 Fiskl currently does not do purchase orders but we do have quotes which can be used as a purchase order.
-
 
 ### How do I import my product list
 
 The ability to import products is on our roadmap. You can import your clients, expenses and bank statements in Fiskl.
 
 
-## Need More Help?
+### Need more help?
 
 If you couldn't find the answer you're looking for, please [contact Fiskl support team](mailto:support@fiskl.com). We're here to help!
