@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /docs/category/style-guides
 Disallow: /assets/files/_category_*
+Sitemap: https://help.fiskl.com/sitemap.xml
