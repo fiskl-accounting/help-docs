@@ -145,6 +145,15 @@ Fiskl has two referral programs:
 [Global Partner Program](https://fiskl.com/partners/business/)
 [Global Ambassador Program](https://fiskl.com/partners/ambassador)  
 
+### How do I raise Purchase Orders?
+
+Fiskl currently does not do purchase orders but we do have quotes which can be used as a purchase order.
+
+
+### How do I import my product list
+
+The ability to import products is on our roadmap. You can import your clients, expenses and bank statements in Fiskl.
+
 
 ## Need More Help?
 

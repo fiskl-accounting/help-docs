@@ -94,6 +94,9 @@ Currently, Fiskl doesn't support assigning categories directly to Clients or Ven
 
 We're continually improving Fiskl, so stay tuned for future updates!
 
+### Where can bank rules be set for transaction feeds?
+Bank transaction rules are automatic and can currently can’t be set or configured. This is on our roadmap
+
 ### Can bank rules be auto reconciled without having to approve the set rules?
 
 Fiskl’s AI streamlines bank reconciliation by automatically suggesting relevant categories. You can quickly review and confirm transactions in batches, making the process faster and more efficient.
@@ -155,15 +158,30 @@ We're prioritizing accuracy and plan to reintroduce bulk categorization graduall
 
 Recurring expenses aren’t available yet, but they’re on our roadmap. For now, you need to enter them as and when they occur. [Accounts Payable](docs/core-features/accounting/journal-entries/guides/accounts-payable-transactions#understanding-accounts-payable).
 
-###How do I un-reconcile a transactions
+### How do I un-reconcile a transactions
 
-To un-reconcile a transaction, go to the account (e.g., bank account), open the transaction, click ‘Delete’ on the matched line near the bottom, and save. The transaction will remain in the account but will be unreconciled.
+To un-reconcile a transaction, go to the account (e.g., bank account), open the transaction, click 'Clear line' on the matched line near the bottom, and save. The transaction will remain in the account but will be unreconciled.
 
 ### How do I record a purchase (eg. computer) as a fixed asset in Fiskl.
 
 You have two available options:
 - Record the transaction under Assets > Property, Plant & Equipment > Computer Equipment as generally this type of asset is subject to depreciation.
 - You can create a custom Fixed Asset account under Other Current Assets, called Fixed Assets, but option 1 is the best given this type of asset.
+
+### How do I create a credit note that I received from my supplier for a refund on an expense?
+
+As Fiskl does not have a dedicated credit note function yet you will need to do:
+
+1. Create a journal entry with:
+Debit: Accounts Payable (reducing what you owe the supplier)
+Credit: The original expense account (reducing the expense)
+2. If using a bill or invoice entry screen:
+Enter a "negative bill" or "negative invoice" with a negative amount
+This creates the same effect as a journal entry, reducing both A/P and the expense
+For example, if you originally recorded a $500 office supplies expense and received a $100 credit note:
+3. Credit note journal entry:
+Debit: Accounts Payable $100
+Credit: Office Supplies Expense $100
 
 ## Reporting
 
@@ -181,6 +199,14 @@ To generate this report:
 2. Select "Statement of Accounts"
 3. Choose the client and date range
 4. Generate and send the report
+
+### How can I create an expense report that compares two fiscal years?
+
+You can view your expenses and compare two fiscal years, by opening the Profit & Loss report, whilst this will show your income it will also display a 2 year comparison of your expenses.
+
+### How can I export my Chart of Accounts?
+
+Exporting the Chart of Accounts is on our roadmap, however you can export individual accounts.
 
 ## Still Have Questions?
 
