@@ -15,7 +15,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Account',
-          items: ['Tutorials/Account/invite-team-members'],
+          items: ['Tutorials/banking/how-to-connect-salt-edge'],
         },
         {
           type: 'category',
@@ -25,12 +25,12 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'Banking',
-          items: ['Tutorials/Banking/how-to-import-bank', 'Tutorials/Banking/how-to-connect-salt-edge'],
+          items: ['Tutorials/banking/how-to-import-bank', 'Tutorials/banking/how-to-connect-salt-edge'],
         },
         {
           type: 'category',
           label: 'Invoicing',
-          items: ['Tutorials/Invoicing/how-to-customize-language'],
+          items: ['Tutorials/invoicing/how-to-customize-language'],
         }
       ],
     },
