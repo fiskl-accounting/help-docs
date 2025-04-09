@@ -103,13 +103,30 @@ Yes, you can do this in a number of ways:
 1. You can create a payment schedule and when your customer pays the invoice they will be asked to pay only the due amount. This is ideal for having a single invoice with multiple payments. A deposit can also be considered a partial payment.
 2. When your customer in in the payment page they can also change the amount they are going to pay. If they plan to only partially pay they can set the amount to pay. This is not possible with integrated payments like `GoCardless`.
 
+### How do I manually enter payments which have been received?
+
+You can record a payment of an invoice in the following ways:
+- In invoice select the payments tap and add payment
+- On invoice list the right row menu three dots > Add payment
+- Mark the invoice as paid and it will add a payment
+- In your bank Ledger account where the payment was received you can match the payment to the invoice and it will create the payment and reconcile it.
+
+
 ### Do you support Spanish, Portuguese, Italian, German & French e-invoices?
 
 Our invoices are translated into 52 languages including the emails and payment pages. We support most e-invoicing and are currently working to implement German and French embedded xml in PDF to meet their requirements.
 
-### How do I bulk import my invoices?
+### How do I import my invoices?
 
-Whilst importing invoices is on our roadmap, we recommend that, in the meantime, you go to Accounts Receivable and create an opening balance for each customer.
+Whilst importing invoices is on our Roadmap, we recommend that, in the meantime, you go to Accounts Receivable and create an opening balance for each customer.
+
+1. Go to Accounts Receivable
+2. Click “In”
+3. Add a name, e.g., Opening Balance
+4. Select the Opening Balance category
+5. Add the amount
+6. Create or add new client
+7. Save and repeat for all your clients.
 
 ## Need More Help?
 
